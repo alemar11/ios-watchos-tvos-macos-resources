@@ -24,7 +24,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ZLPeoplePickerViewController](https://github.com/zhxnlai/ZLPeoplePickerViewController)
 
 ## Alert
-*UIAlertViewControllers, PopUps, PopOvers and ToolTips,
+*UIAlertViewControllers, PopUps, PopOvers and ToolTips*
 
 ####*Obj-C*
 * [AMPopTip](https://github.com/andreamazz/AMPopTip)
