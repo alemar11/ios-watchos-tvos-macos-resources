@@ -3,9 +3,11 @@ iOS, Watch OS and OSX resources
 Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ### Contents
+- [ActivityViewController](#activityviewcontroller)
 - [ActionSheet](#actionsheet)
 - [AddressBook](#addressbook)
 - [Alert](#alert)
+- [Toast Notification](#toast-notification)
         
 ## ActionSheet
 ####*Obj-C*
@@ -17,11 +19,19 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [WCActionSheet](https://github.com/wczekalski/WCActionSheet)
 
 ## AddressBook
+*Address Book implementations*
+
 ####*Obj-C*
 * [APAddressBook](https://github.com/Alterplay/APAddressBook)
 * [AddressBookTest](https://github.com/dev4dev/AddressBookTest)
 * [JLAddressBook](https://github.com/jlaws/JLAddressBook)
 * [ZLPeoplePickerViewController](https://github.com/zhxnlai/ZLPeoplePickerViewController)
+
+## ActivityViewController
+*UIActivityViewControllers*
+
+####*Obj-C*
+* [WLActivityViewController](https://github.com/an0/WLActivityViewController)
 
 ## Alert
 *UIAlertViewControllers, PopUps, PopOvers and ToolTips*
@@ -61,3 +71,30 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
+
+## Toast Notification
+*Toast Notifications and message bars*
+
+####*Obj-C*
+* [APToast](https://github.com/podkovyrin/APToast)
+* [Alert](https://github.com/miscavage/Alert)
+* [CRToast](https://github.com/cruffenach/CRToast)
+* [CSNotificationView](https://github.com/problame/CSNotificationView)
+* [HDNotificationView](https://github.com/nhdang103/HDNotificationView)
+* [IIShortNotificationPresenter](https://github.com/Inferis/IIShortNotificationPresenter)
+* [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications)
+* [KODropdownNotification](https://github.com/kohtenko/KODropdownNotification)
+* [KSToastView](https://github.com/c0ming/KSToastView)
+* [LNNotificationsUI](https://github.com/LeoNatan/LNNotificationsUI)
+* [MPGNotification](https://github.com/MPGNotification/MPGNotification)
+* [NgNotificationProxy](https://github.com/meiwin/NgNotificationProxy)
+* [SlideInView](https://github.com/mrdrozdov/SlideInView)
+* [TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager)
+* [UIUserNotificationSettings-Extension](https://github.com/alexruperez/UIUserNotificationSettings-Extension)
+
+####*Swift*
+* [AZNotification-Swift](https://github.com/azamsharp/AZNotification-Swift)
+* [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)
+* [DPNotify](https://github.com/dphans/DPNotify)
+* [Dodo](https://github.com/exchangegroup/Dodo)
+* [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
