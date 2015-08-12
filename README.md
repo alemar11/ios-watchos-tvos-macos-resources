@@ -7,6 +7,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [ActionSheet](#actionsheet)
 - [AddressBook](#addressbook)
 - [Alert](#alert)
+- [Badge](#badge)
 - [Toast Notification](#toast-notification)
         
 ## ActionSheet
@@ -71,6 +72,20 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
+
+##Badge
+*Notifications icons*
+
+####*Obj-C*
+* [BBBadgeBarButtonItem](https://github.com/TanguyAladenise/BBBadgeBarButtonItem)
+* [CustomBadge](https://github.com/ckteebe/CustomBadge)
+* [MIBadgeButton-Swift](https://github.com/mustafaibrahim989/MIBadgeButton)
+* [PPDragDropBadgeView](https://github.com/smallmuou/PPDragDropBadgeView)
+* [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)
+* [UIBarButtonItem-Badge](https://github.com/mikeMTOL/UIBarButtonItem-Badge)
+
+####*Swift*
+* [DNFlyingBadge](https://github.com/normand1/DNFlyingBadge)
 
 ## Toast Notification
 *Toast Notifications and message bars*
