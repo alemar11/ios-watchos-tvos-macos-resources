@@ -3,8 +3,8 @@ iOS, Watch OS and OSX resources
 Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ### Contents
-- [ActionSheet](#actionSheet)
-- [AddressBook](#addressBook)
+- [ActionSheet](#actionsheet)
+- [AddressBook](#addressbook)
         
 ## ActionSheet
 * [JGActionSheet](https://github.com/JonasGessner/JGActionSheet)
