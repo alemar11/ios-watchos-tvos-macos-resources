@@ -10,7 +10,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####*Obj-C*
 * [JGActionSheet](https://github.com/JonasGessner/JGActionSheet)
 * [LGActionSheet](https://github.com/Friend-LGA/LGActionSheet)
-* [REDActionSheet](https://github.com/https://github.com/reddavis/REDActionSheet)
+* [REDActionSheet](https://github.com/reddavis/REDActionSheet)
 * [RMActionController](https://github.com/CooperRS/RMActionController)
 * [SGActionView](https://github.com/sagiwei/SGActionView)
 * [WCActionSheet](https://github.com/wczekalski/WCActionSheet)
