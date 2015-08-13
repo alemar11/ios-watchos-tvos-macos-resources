@@ -1,4 +1,4 @@
-iOS, Watch OS and OSX resources
+tiOS, Watch OS and OSX resources
 ======
 Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
@@ -8,9 +8,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [AddressBook](#addressbook)
 - [Alert](#alert)
 - [Badge](#badge)
+- [Button](#button)
 - [Charts](#charts)
+- [Image](#image)
 - [Toast Notification](#toast-notification)
-        
+
 ## ActionSheet
 ####*Obj-C*
 * [JGActionSheet](https://github.com/JonasGessner/JGActionSheet)
@@ -51,7 +53,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ExpandAlertView](https://github.com/denty/ExpandAlertView)
 * [GUAAlertView](https://github.com/onlymelon/GUAAlertView)
 * [JDFTooltips](https://github.com/JoeFryer/JDFTooltips)
-* [JTAlertView](https://github.com/kubatru/JTAlertView) 
+* [JTAlertView](https://github.com/kubatru/JTAlertView)
 * [KLCPopup](https://github.com/jmascia/KLCPopup)
 * [Kamagari](https://github.com/tasanobu/Kamagari)
 * [LGAlertView](https://github.com/Friend-LGA/LGAlertView)
@@ -100,6 +102,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JBChartView](https://github.com/Jawbone/JBChartView)
 * [JTChartView](https://github.com/kubatru/JTChartView)
 * [LGFlapJackStackView](https://github.com/lukegeiger/LGFlapJackStackView)
+* [LMGaugeView](https://github.com/lminhtm/LMGaugeView)
 * [MDRotatingPieChart](https://github.com/maxday/MDRotatingPieChart)
 * [MPPlot](https://github.com/MP0w/MPPlot)
 * [MagicPie](https://github.com/AlexandrGraschenkov/MagicPie)
@@ -117,6 +120,19 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SwiftCharts](https://github.com/i-schuetz/SwiftCharts)
 * [swift-linechart](https://github.com/zemirco/swift-linechart)
 
+##Button
+
+####*Swift*
+*[DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
+
+##Image
+
+####*Obj-C*
+*[Masu](https://github.com/midnightSuyama/Masu) - Placeholder
+
+####*Swift*
+*[Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
+
 ## Toast Notification
 *Toast Notifications and message bars*
 
@@ -125,6 +141,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Alert](https://github.com/miscavage/Alert)
 * [CRToast](https://github.com/cruffenach/CRToast)
 * [CSNotificationView](https://github.com/problame/CSNotificationView)
+* [GSMessages](https://github.com/wxxsw/GSMessages)
 * [HDNotificationView](https://github.com/nhdang103/HDNotificationView)
 * [IIShortNotificationPresenter](https://github.com/Inferis/IIShortNotificationPresenter)
 * [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications)
@@ -143,3 +160,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DPNotify](https://github.com/dphans/DPNotify)
 * [Dodo](https://github.com/exchangegroup/Dodo)
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
+
+##Miscellanea
+
+####*Swift*
+*[Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
