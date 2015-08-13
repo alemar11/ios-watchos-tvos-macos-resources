@@ -8,6 +8,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [AddressBook](#addressbook)
 - [Alert](#alert)
 - [Badge](#badge)
+- [Charts](#charts)
 - [Toast Notification](#toast-notification)
         
 ## ActionSheet
@@ -83,9 +84,38 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PPDragDropBadgeView](https://github.com/smallmuou/PPDragDropBadgeView)
 * [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)
 * [UIBarButtonItem-Badge](https://github.com/mikeMTOL/UIBarButtonItem-Badge)
+* [WZLBadge](https://github.com/weng1250/WZLBadge)
 
 ####*Swift*
 * [DNFlyingBadge](https://github.com/normand1/DNFlyingBadge)
+
+##Charts
+
+####*Obj-C*
+* [BBStockChartView](https://github.com/chenxiaoyu3/BBStockChartView)
+* [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph)
+* [BTSpiderPlotterView](https://github.com/BTLibrary/BTSpiderPlotterView)
+* [DGTriangleGraphView](https://github.com/gontovnik/DGTriangleGraphView)
+* [EChart](https://github.com/zhuhuihuihui/EChart)
+* [JBChartView](https://github.com/Jawbone/JBChartView)
+* [JTChartView](https://github.com/kubatru/JTChartView)
+* [LGFlapJackStackView](https://github.com/lukegeiger/LGFlapJackStackView)
+* [MDRotatingPieChart](https://github.com/maxday/MDRotatingPieChart)
+* [MPPlot](https://github.com/MP0w/MPPlot)
+* [MagicPie](https://github.com/AlexandrGraschenkov/MagicPie)
+* [RWBarChartView](https://github.com/eternityz/RWBarChartView)
+* [SHLineGraphView](https://github.com/grevolution/SHLineGraphView)
+* [TEAChart](https://github.com/xhacker/TEAChart)
+* [TWRCharts](https://github.com/chasseurmic/TWRCharts)
+* [VBPieChart](https://github.com/sakrist/VBPieChart)
+* [VKBarChartView](https://github.com/Valentin-Kalchev/VKBarChartView)
+
+####*Swift*
+* [APLineChart](https://github.com/tylyo/APLineChart)
+* [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)
+* [ROStorageBar](https://github.com/prine/ROStorageBar)
+* [SwiftCharts](https://github.com/i-schuetz/SwiftCharts)
+* [swift-linechart](https://github.com/zemirco/swift-linechart)
 
 ## Toast Notification
 *Toast Notifications and message bars*
