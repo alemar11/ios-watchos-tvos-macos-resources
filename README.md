@@ -14,7 +14,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Toast Notification](#toast-notification)
         
 ## ActionSheet
-#####🔹 *Obj-C*
+####🔹 *Obj-C*
 * [JGActionSheet](https://github.com/JonasGessner/JGActionSheet)
 * [LGActionSheet](https://github.com/Friend-LGA/LGActionSheet)
 * [REDActionSheet](https://github.com/reddavis/REDActionSheet)
@@ -25,7 +25,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## AddressBook
 *Address Book implementations*
 
-#####🔹 *Obj-C*
+####🔹 *Obj-C*
 * [APAddressBook](https://github.com/Alterplay/APAddressBook)
 * [AddressBookTest](https://github.com/dev4dev/AddressBookTest)
 * [JLAddressBook](https://github.com/jlaws/JLAddressBook)
@@ -34,13 +34,13 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## ActivityViewController
 *UIActivityViewControllers*
 
-#####🔹 *Obj-C*
+####🔹 *Obj-C*
 * [WLActivityViewController](https://github.com/an0/WLActivityViewController)
 
 ## Alert
 *UIAlertViewControllers, PopUps, PopOvers and ToolTips*
 
-#####🔹 *Obj-C*
+####🔹 *Obj-C*
 * [AMPopTip](https://github.com/andreamazz/AMPopTip)
 * [BTBalloon](https://github.com/brightec/BTBalloon)
 * [btSimplePopUp](https://github.com/balram3429/btSimplePopUp)
@@ -64,7 +64,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SWBufferedToast](https://github.com/sfwalsh/SWBufferedToast)
 * [TAOverlay](https://github.com/TaimurAyaz/TAOverlay)
 
-#####🔸 *Swift*
+####🔸 *Swift*
 * [BMInputBox](https://github.com/blackmirror-media/BMInputBox)
 * [DCAlertController](https://github.com/noppefoxwolf/DCAlertController)
 * [DOAlertController](https://github.com/okmr-d/DOAlertController)
@@ -79,7 +79,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ##Badge
 *Notifications icons*
 
-#####🔹 *Obj-C*
+####🔹 *Obj-C*
 * [BBBadgeBarButtonItem](https://github.com/TanguyAladenise/BBBadgeBarButtonItem)
 * [CustomBadge](https://github.com/ckteebe/CustomBadge)
 * [MIBadgeButton-Swift](https://github.com/mustafaibrahim989/MIBadgeButton)
@@ -88,12 +88,12 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [UIBarButtonItem-Badge](https://github.com/mikeMTOL/UIBarButtonItem-Badge)
 * [WZLBadge](https://github.com/weng1250/WZLBadge)
 
-#####🔸 *Swift*
+####🔸 *Swift*
 * [DNFlyingBadge](https://github.com/normand1/DNFlyingBadge)
 
 ##Charts
 
-#####🔹 *Obj-C*
+####🔹 *Obj-C*
 * [BBStockChartView](https://github.com/chenxiaoyu3/BBStockChartView)
 * [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph)
 * [BTSpiderPlotterView](https://github.com/BTLibrary/BTSpiderPlotterView)
@@ -113,7 +113,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [VBPieChart](https://github.com/sakrist/VBPieChart)
 * [VKBarChartView](https://github.com/Valentin-Kalchev/VKBarChartView)
 
-#####🔸 *Swift*
+####🔸 *Swift*
 * [APLineChart](https://github.com/tylyo/APLineChart)
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)
 * [ROStorageBar](https://github.com/prine/ROStorageBar)
@@ -122,21 +122,21 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ##Button
 
-#####🔸 *Swift*
-*[DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
+###🔸 *Swift*
+* [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
 
 ##Image
 
-#####🔹 *Obj-C*
+####🔹 *Obj-C*
 * [Masu](https://github.com/midnightSuyama/Masu) - Placeholder
 
-#####🔸 *Swift*
+####🔸 *Swift*
 * [Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
 
 ## Toast Notification
 *Toast Notifications and message bars*
 
-#####🔹 *Obj-C*
+####🔹 *Obj-C*
 * [APToast](https://github.com/podkovyrin/APToast)
 * [Alert](https://github.com/miscavage/Alert)
 * [CRToast](https://github.com/cruffenach/CRToast)
@@ -154,7 +154,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager)
 * [UIUserNotificationSettings-Extension](https://github.com/alexruperez/UIUserNotificationSettings-Extension)
 
-#####🔸 *Swift*
+####🔸 *Swift*
 * [AZNotification-Swift](https://github.com/azamsharp/AZNotification-Swift)
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)
 * [DPNotify](https://github.com/dphans/DPNotify)
@@ -163,5 +163,5 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ##Miscellanea
 
-#####🔸 *Swift*
-*[Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
+####🔸 *Swift*
+* [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
