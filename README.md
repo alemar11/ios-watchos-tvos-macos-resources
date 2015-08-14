@@ -7,6 +7,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [ActionSheet](#actionsheet)
 - [AddressBook](#addressbook)
 - [Alert](#alert)
+- [Animation](#animation)
 - [Audio](#audio)
 - [Badge](#badge)
 - [Button](#button)
@@ -79,6 +80,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
+
+##Animation
+
+####🔹 *Obj-C*
+* [MotionBlur](https://github.com/fastred/MotionBlur) - Add motion blur effect to your animations 
 
 ##Audio
 
@@ -283,4 +289,3 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control
-* [MotionBlur](https://github.com/fastred/MotionBlur) - Add motion blur effect to your animations 
