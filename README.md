@@ -79,6 +79,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ##Audio
 
+####🔹 *Obj-C*
 * [ECGWavesPlayer]()
 * [IQAudioRecorderController](https://github.com/hackiftekhar/IQAudioRecorderController)
 * [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
@@ -101,6 +102,40 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [DNFlyingBadge](https://github.com/normand1/DNFlyingBadge)
+
+##Button
+
+####🔹 *Obj-C*
+* [ABFillButton](https://github.com/andresbrun/ABFillButton)
+* [APRoundedButton](https://github.com/elpsk/APRoundedButton)
+* [BFPaperButton](https://github.com/bfeher/BFPaperButton) - A flat button inspired by Google Material Design's Paper theme.
+* [DKCircleButton](https://github.com/kronik/DKCircleButton) -  Circle button tap effect
+* [DownloadButton](https://github.com/PavelKatunin/DownloadButton)
+* [FRDLivelyButton](https://github.com/sebastienwindal/FRDLivelyButton)
+* [GBFlatButton](https://github.com/barbosa/GBFlatButton)
+* [GUIRoundProgressButton]()
+* [Icomations](https://github.com/paoloboschini/Icomations)
+* [JTImageButton](https://github.com/kubatru/JTImageButton)
+* [KBRoundedButton](https://github.com/burczyk/KBRoundedButton)
+* [KSMManyOptionsButton](https://github.com/kierajmumick/KSMManyOptionsButton) - This interface is similar to the interface used when the "Voice recording" and "Camera" buttons are pressed and held in iOS 8's message app.
+* [RMSaveButton](https://github.com/mcduffeyrt/RMSaveButton)
+* [Responsive-Interaction-Control](https://github.com/NghiaTranUIT/Responsive-Interaction-Control)
+* [SwishControl](https://github.com/mikaoj/SwishControl) - SwishControl is a category on UIControl for adding sound effects to UIControlEvents.
+* [TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit)
+* [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - Flat button with 21 different states and 2 types animated using pop.
+* [VLDContextSheet](https://github.com/vangelov/VLDContextSheet) - A clone of the Pinterest iOS app context menu.
+* [YLLongTapShare](https://github.com/liyong03/YLLongTapShare) - Long Tap Sharing control for iOS.
+* [ZCSHoldProgress](https://github.com/zshannon/ZCSHoldProgress) - UILongPressGestureRecognizer subclass with some nice (customizable) visual flair.
+* [btSimpleRippleButton](https://github.com/balram3429/BTSimpleRippleButton)
+* [ios-multi-back-button](https://github.com/palmin/ios-multi-back-button) - Replacement for the built-in UINavigationController back-button that allows going back multiple levels.
+
+####🔸 *Swift*
+* [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
+* [KYShutterButton](https://github.com/ykyouhei/KYShutterButton)
+* [NPFlipButton](https://github.com/neopixl/NPFlipButton)
+* [PlayPauseAnimation](https://github.com/kNeerajPro/PlayPauseAnimation)
+* [RNLoadingButton](https://github.com/souzainf3/RNLoadingButton-Swift)
+* [SFlatButton](https://github.com/alexmeji/SFlatButton)
 
 ##Charts
 
