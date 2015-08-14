@@ -7,6 +7,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [ActionSheet](#actionsheet)
 - [AddressBook](#addressbook)
 - [Alert](#alert)
+- [Audio](#audio)
 - [Badge](#badge)
 - [Button](#button)
 - [Charts](#charts)
@@ -75,6 +76,16 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
+
+##Audio
+
+* [ECGWavesPlayer]()
+* [IQAudioRecorderController](https://github.com/hackiftekhar/IQAudioRecorderController)
+* [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
+* [MVSpeechSynthesizer](https://github.com/vimalmurugan89/MVSpeechSynthesizer)
+* [SYWaveformPlayer](https://github.com/spenciefy/SYWaveformPlayer)
+* [VOXHistogramView](https://github.com/Coppertino/VOXHistogramView)
+* [ZLMusicFlowWaveView](https://github.com/zhxnlai/ZLMusicFlowWaveView)
 
 ##Badge
 *Notifications icons*
@@ -156,6 +167,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [AZNotification-Swift](https://github.com/azamsharp/AZNotification-Swift)
+* [BRYXBanner](https://github.com/bryx-inc/BRYXBanner)
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)
 * [DPNotify](https://github.com/dphans/DPNotify)
 * [Dodo](https://github.com/exchangegroup/Dodo)
