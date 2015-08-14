@@ -11,7 +11,10 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Badge](#badge)
 - [Button](#button)
 - [Charts](#charts)
+- [CollectionView](#collectionview)
 - [Image](#image)
+- [Menu](#menu)
+- [TabBar](#tabbar)
 - [Toast Notification](#toast-notification)
         
 ## ActionSheet
@@ -161,15 +164,17 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [APLineChart](https://github.com/tylyo/APLineChart)
+* [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)
 * [ROStorageBar](https://github.com/prine/ROStorageBar)
 * [SwiftCharts](https://github.com/i-schuetz/SwiftCharts)
 * [swift-linechart](https://github.com/zemirco/swift-linechart)
 
-##Button
+##CollectionView
 
-###🔸 *Swift*
-* [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
+####🔹 *Obj-C*
+* [AWCollectionViewDialLayout](https://github.com/awdigital/AWCollectionViewDialLayout) - UICollectionViewLayout for displaying cells in a semi-circle with a nice fish eye effect.
+
 
 ##Image
 
@@ -178,6 +183,69 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
+
+##Menu
+
+####🔹 *Obj-C*
+* [ADDropDownMenuView](https://github.com/Antondomashnev/ADDropDownMenuView)
+* [AnimatedCircularCollectionMenu](https://github.com/chillok/AnimatedCircularCollectionMenu)
+* [BAHFourCornersController](https://github.com/BHughes3388/BAHFourCornersController)
+* [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu)
+* [BackMenu](https://github.com/GuyKahlon/BackMenu)
+* [BlurMenu](https://github.com/aljhen/BlurMenu) - A simple iOS menu with blur background. Uses Apple's UIImage+ImageEffects.
+* [CDSideBarController](https://github.com/christophedellac/CDSideBarController)
+* [CHAnimation](https://github.com/cyndibaby905/CHAnimation)
+* [CKRadialMenu](https://github.com/cameronklein/CKRadialMenu)
+* [CNPGridMenu](https://github.com/carsonperrotti/CNPGridMenu) - Mailbox style grid menu with a blurred background
+* [Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS)
+* [DLWidgetMenu](https://github.com/regexident/DLWidgetMenu) - Versatile solution for displaying widget menus and can easily be extended with custom layouts and/or animations.
+* [DWBubbleMenuButton](https://github.com/dwalker39/DWBubbleMenuButton)
+* [DropMenu](https://github.com/edwinbosire/DropMenu)
+* [DropdownMenu](https://github.com/nmattisson/DropdownMenu)
+* [DropdownViewDemo](https://github.com/JaCaLla/DropdownViewDemo)
+* [E84PopOutMenu](https://github.com/Element84/E84PopOutMenu)
+* [FancyTabBar](https://github.com/marvelapp/FancyTabBar) - Simple menu button that expands to reveal up to 5 sub-menu options.
+* [IGLDropDownMenu](https://github.com/bestwnh/IGLDropDownMenu) - An iOS drop down menu with pretty animation.
+* [JVMenuPopover](https://github.com/JV17/JVMenuPopover)
+* [LGFilterView](https://github.com/Friend-LGA/LGFilterView)
+* [LGPlusButtonsView](https://github.com/Friend-LGA/LGPlusButtonsView) - iOS implementation of Google 'plus button', that shows more options.
+* [LGSideMenuController](https://github.com/Friend-LGA/LGSideMenuController)
+* [LMDropdownView](https://github.com/lminhtm/LMDropdownView) - Simple dropdown view inspired by Tappy.
+* [M13ContextMenu](https://github.com/Marxon13/M13ContextMenu)
+ for iOS with blurring background and screen-edge activation gestures.
+* [MISDropdownViewController](https://github.com/maicki/MISDropdownViewController)
+* [MLPresentController](https://github.com/molon/MLPresentController)
+* [NOCircleSelector](https://github.com/natalia-osa/NOCircleSelector)
+* [OECentreMenu](https://github.com/oduwa/OECentreMenu) - A simple drag and drop solution for an animated menu in the centre of the screen.
+* [PopMenu](https://github.com/xhzengAIB/PopMenu) - Pop animation menu
+* [RBMenu](https://github.com/RoshanNindrai/RBMenu)
+* [RGPaperLayout](https://github.com/terminatorover/RGPaperLayout)
+* [RNGridMenu](https://github.com/rnystrom/RNGridMenu)
+* [SAExpandableButton](https://github.com/nopshusang/SAExpandableButton) - Expandable menu for choosing options as seen in the iOS camera app
+* [SlideMenu3D](https://github.com/hunk/SlideMenu3D)
+* [SphereMenu](https://github.com/itouch2/SphereMenu) - Fun menu powered by UIDynamicAnimator
+* [UPStackMenu](https://github.com/ink-spot/UPStackMenu)
+* [VCFloatingActionButton](https://github.com/gizmoboy7/VCFloatingActionButton)
+* [btSimpleSideMenu](https://github.com/balram3429/BTSimpleSideMenu)
+
+####🔸 *Swift*
+* [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu)
+* [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
+* [Hokusai](https://github.com/ytakzk/Hokusai) - Swift library that provides a bouncy action sheet.
+* [JGFlipMenu](https://github.com/ziligy/JGFlipMenu) - Flipping menu system written in Swift. Uses @IBDesignable for quick and easy implementation.
+* [MarkingMenu](https://github.com/FlexMonkey/MarkingMenu)
+* [MediumMenu](https://github.com/pixyzehn/MediumMenu)
+* [PageMenu](https://github.com/uacaps/PageMenu) - A fully customizable and flexible paging menu controller built from other view controllers placed inside a scroll view
+* [Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS) - Animated side menu with customizable UI.
+* [SliderPanel](https://github.com/sebk/SliderPanel)
+* [SphereMenuSwift](https://github.com/caamorales/SphereMenuSwift)
+* [Summflower](https://github.com/iSame7/Summflower) - Swift implementation to the sexiest sharing icon based on Summly app.
+
+##TabBar
+
+####🔹 *Obj-C*
+* [RKTabView](https://github.com/RafaelKayumov/RKTabView)
+
 
 ## Toast Notification
 *Toast Notifications and message bars*
@@ -194,6 +262,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [KODropdownNotification](https://github.com/kohtenko/KODropdownNotification)
 * [KSToastView](https://github.com/c0ming/KSToastView)
 * [LNNotificationsUI](https://github.com/LeoNatan/LNNotificationsUI)
+* [MGFashionMenuView](https://github.com/matteogobbi/MGFashionMenuView)
 * [MPGNotification](https://github.com/MPGNotification/MPGNotification)
 * [NgNotificationProxy](https://github.com/meiwin/NgNotificationProxy)
 * [SlideInView](https://github.com/mrdrozdov/SlideInView)
@@ -212,3 +281,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
+
+* [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control
+* [MotionBlur](https://github.com/fastred/MotionBlur) - Add motion blur effect to your animations 
