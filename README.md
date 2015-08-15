@@ -219,12 +219,12 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ##Keyboard
 
 ####🔸 *Swift*
-*[NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
+* [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
 
 ##Label
 
 ####🔹 *Obj-C*
-*[ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)
+* [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)
 
 ##Map
 
@@ -307,7 +307,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ##NavigationBar
 
 ####🔸 *Swift*
-*[BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
+* [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
 
 ##TabBar
 
