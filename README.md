@@ -15,6 +15,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Charts](#charts)
 - [CollectionView](#collectionview)
 - [Image](#image)
+- [Map](#map)
 - [Menu](#menu)
 - [TabBar](#tabbar)
 - [Toast Notification](#toast-notification)
@@ -174,6 +175,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BTSpiderPlotterView](https://github.com/BTLibrary/BTSpiderPlotterView)
 * [DGTriangleGraphView](https://github.com/gontovnik/DGTriangleGraphView)
 * [EChart](https://github.com/zhuhuihuihui/EChart)
+* [FSLineChart](https://github.com/ArthurGuibert/FSLineChart)
 * [JBChartView](https://github.com/Jawbone/JBChartView)
 * [JTChartView](https://github.com/kubatru/JTChartView)
 * [LGFlapJackStackView](https://github.com/lukegeiger/LGFlapJackStackView)
@@ -209,6 +211,27 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
+
+##Map
+
+####🔹 *Obj-C*
+* [APOfflineReverseGeocoding](https://github.com/Alterplay/APOfflineReverseGeocoding) - Offline reverse geocoding library.
+* [CCHMapClusterController](https://github.com/choefele/CCHMapClusterController)
+* [DBMapSelectorViewController](https://github.com/d0ping/DBMapSelectorViewController) - This component allows you to select circular map region from the MKMapView.
+* [DXCustomCallout-ObjC](https://github.com/s3lvin/DXCustomCallout-ObjC)
+* [FSInteractiveMap](https://github.com/ArthurGuibert/FSInteractiveMap) - A charting library to visualize data on a map.
+* [FSRotatingCamera](https://github.com/fernandospr/FSRotatingCamera) - Class helper that uses MKMapCamera to rotate around a coordinate.
+* [HACLocationManager](https://github.com/litoarias/HACLocationManager)
+* [LFHeatMap](https://github.com/gpolak/LFHeatMap)
+* [MRWorldMapView](https://github.com/hectr/MRWorldMapView) - UIView subclass that displays a world map with selectable countries.
+* [MapKitDrawing](https://github.com/tazihosniomar/MapKitDrawing)
+* [SLParallaxController](https://github.com/StefanLage/SLParallaxController) - Create a parallax effect between an UITableView and a MapView, like the view in FourSquare.
+* [TSClusterMapView](https://github.com/ashare80/TSClusterMapView)
+* [UIPlacePicker](https://github.com/AlbertMontserrat/UIPlacePicker) - UIPlacePicker is a UIViewController where the user can pick a location from a map or entering the complete address.
+* [db_compass](https://github.com/alextarrago/db_compass) - It offers you a way to track the user's location and heading given by a coordinate or an address. Really useful for geolocation AR applications.
+
+####🔸 *Swift*
+* [SKMapsCenter](https://github.com/asklausen/SKMapsCenter) -  Maintain center while zooming.
 
 ##Menu
 
