@@ -11,6 +11,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Audio](#audio)
 - [Badge](#badge)
 - [Button](#button)
+- [Camera](#camera)
 - [Charts](#charts)
 - [CollectionView](#collectionview)
 - [Image](#image)
@@ -145,6 +146,25 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PlayPauseAnimation](https://github.com/kNeerajPro/PlayPauseAnimation)
 * [RNLoadingButton](https://github.com/souzainf3/RNLoadingButton-Swift)
 * [SFlatButton](https://github.com/alexmeji/SFlatButton)
+
+##Camera
+*AVFoundation and CIFaceFeature implementations*
+
+####🔹 *Obj-C*
+* [CFMagicEventsDemo](https://github.com/zuckerbreizh/CFMagicEventsDemo)
+* [CLFaceDetectionImagePicker](https://github.com/clisuper/CLFaceDetectionImagePicker) - Live face detection
+* [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera)
+* [DBCamera](https://github.com/danielebogo/DBCamera)
+* [DSFacialGestureDetector](https://github.com/dannyshmueli/DSFacialGestureDetector)
+* [IPDFCameraViewController](https://github.com/mmackh/IPDFCameraViewController)
+* [JMBackgroundCameraView](https://github.com/ulidev/JMBackgroundCameraView)
+* [LLSimpleCamera](https://github.com/omergul123/LLSimpleCamera)
+* [PhotoTweaks](https://github.com/itouch2/PhotoTweaks)
+* [RSCameraSwitchSample](https://github.com/yeahdongcn/RSCameraSwitchSample)
+* [Smile-Detector-CameraViewController](https://github.com/MaximAlien/Smile-Detector-CameraViewController)
+
+####🔸 *Swift*
+* [SwiftMustaches](https://github.com/elpassion/SwiftMustaches)
 
 ##Charts
 
