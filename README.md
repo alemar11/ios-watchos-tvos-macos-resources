@@ -15,8 +15,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Charts](#charts)
 - [CollectionView](#collectionview)
 - [Image](#image)
+- [Keyboard](#keyboard)
+- [Label](#label)
 - [Map](#map)
 - [Menu](#menu)
+- [NavigationBar](#navigationbar)
 - [TabBar](#tabbar)
 - [Toast Notification](#toast-notification)
         
@@ -147,6 +150,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PlayPauseAnimation](https://github.com/kNeerajPro/PlayPauseAnimation)
 * [RNLoadingButton](https://github.com/souzainf3/RNLoadingButton-Swift)
 * [SFlatButton](https://github.com/alexmeji/SFlatButton)
+* [TKAnimatedCheckButton](https://github.com/entotsu/TKAnimatedCheckButton) 
 
 ##Camera
 *AVFoundation and CIFaceFeature implementations*
@@ -211,6 +215,16 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
+
+##Keyboard
+
+####🔸 *Swift*
+*[NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
+
+##Label
+
+####🔹 *Obj-C*
+*[ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)
 
 ##Map
 
@@ -289,6 +303,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SliderPanel](https://github.com/sebk/SliderPanel)
 * [SphereMenuSwift](https://github.com/caamorales/SphereMenuSwift)
 * [Summflower](https://github.com/iSame7/Summflower) - Swift implementation to the sexiest sharing icon based on Summly app.
+
+##NavigationBar
+
+####🔸 *Swift*
+*[BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
 
 ##TabBar
 
