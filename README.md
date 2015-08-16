@@ -216,6 +216,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MDRotatingPieChart](https://github.com/maxday/MDRotatingPieChart)
 * [MPPlot](https://github.com/MP0w/MPPlot)
 * [MagicPie](https://github.com/AlexandrGraschenkov/MagicPie)
+* [PieChar](https://github.com/pavanpodila/PieChart) - The source code in this repository should be read along side the [blog post](http://blog.pixelingene.com/2012/02/animating-pie-slices-using-a-custom-calayer/) on creating an animated Pie Chart.
 * [RWBarChartView](https://github.com/eternityz/RWBarChartView)
 * [SHLineGraphView](https://github.com/grevolution/SHLineGraphView)
 * [TEAChart](https://github.com/xhacker/TEAChart)
