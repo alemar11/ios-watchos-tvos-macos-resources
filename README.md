@@ -14,6 +14,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Camera](#camera)
 - [Charts](#charts)
 - [CollectionView](#collectionview)
+- [Color](#color)
 - [Image](#image)
 - [Keyboard](#keyboard)
 - [Label](#label)
@@ -22,6 +23,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [NavigationBar](#navigationbar)
 - [TabBar](#tabbar)
 - [Toast Notification](#toast-notification)
+- [View](#view)
         
 ## ActionSheet
 ####🔹 *Obj-C*
@@ -208,9 +210,31 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AWCollectionViewDialLayout](https://github.com/awdigital/AWCollectionViewDialLayout) - UICollectionViewLayout for displaying cells in a semi-circle with a nice fish eye effect.
 
 
+##Color
+*Color Pickers and color frameworks*
+
+####🔹 *Obj-C*
+* [BFPaperColors](https://github.com/bfeher/BFPaperColors) - Flat colors taken from Google's Material Design: Paper.
+* [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon is a lightweight, yet powerful, flat color framework for iOS (Objective-C & Swift). 
+* [DBImageColorPicker](https://github.com/d0ping/DBImageColorPicker) - https://github.com/d0ping/DBImageColorPicker
+* [FPBrandColors](https://github.com/pedrovieira7/FPBrandColors)
+* [MSColorPicker](https://github.com/sgl0v/MSColorPicker)
+* [Rainbow](https://github.com/sickill/rainbow) - Rainbow is a ruby gem for colorizing printed text on ANSI terminals.
+* [UIColor-FlatColors](https://github.com/mokagio/UIColor-FlatColors)
+* [UIColor-Pantone](https://github.com/CaptainRedmuff/UIColor-Pantone)
+* [UIColor-uiGradientsAdditions](https://github.com/kaiinui/UIColor-uiGradientsAdditions)
+
+
+####🔸 *Swift*
+* [DPTheme](https://github.com/dphans/DPTheme) - https://github.com/dphans/DPTheme
+* [DynamicColor](https://github.com/yannickl/DynamicColor) - DynamicColor provides powerful methods to manipulate colours in an easy way.
+* [flatuicolor](https://github.com/avdyushin/flatuicolor)
+
+
 ##Image
 
 ####🔹 *Obj-C*
+* [ANBlurredImageView](https://github.com/aaronn/ANBlurredImageView) - Subclass of UIImageView for animating the blurring and unblurring of images with a tint color. 
 * [Masu](https://github.com/midnightSuyama/Masu) - Placeholder
 
 ####🔸 *Swift*
@@ -344,6 +368,12 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DPNotify](https://github.com/dphans/DPNotify)
 * [Dodo](https://github.com/exchangegroup/Dodo)
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
+
+## View
+
+####🔸 *Swift*
+* [Shimmer](https://github.com/facebook/Shimmer)
+* [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
 
 ##Miscellanea
 
