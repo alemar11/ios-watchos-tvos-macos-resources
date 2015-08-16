@@ -92,6 +92,31 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔹 *Obj-C*
 * [MotionBlur](https://github.com/fastred/MotionBlur) - Add motion blur effect to your animations 
+* [AnimationEngine](https://github.com/intuit/AnimationEngine)
+* [BAFluidView](https://github.com/antiguab/BAFluidView) - This view and its layer create a 2D fluid animation that can be used to simulate a filling effect.
+* [BFRadialWaveView](https://github.com/bfeher/BFRadialWaveView) - Radial wave
+* [CPKenBurnsView](https://github.com/muukii0803/CPKenburnsView)
+* [CoreGraphicsDynamicAnimation](https://github.com/larsacus/CoreGraphicsDynamicAnimation)
+* [confetti](https://github.com/life360/confetti/tree/master/iOS)
+* [DrawCircleFrame](https://github.com/natalia-osa/DrawCircleFrame)
+* [GLMoveToTrashAnimation](https://github.com/RATTLESNAKE-VIPER/GLMoveToTrashAnimation)
+* [MCSFishEye](https://github.com/macoscope/MCSFishEye)
+* [NGAParallaxMotion](https://github.com/michaeljbishop/NGAParallaxMotion)
+* [PortalTransition](https://github.com/machackx/PortalTransition) - Inspired by Apple's keynote portal animation, it is an iOS implementation of Portal like UIViewController transition.
+* [PulsingHalo](https://github.com/shu223/PulsingHalo) - iOS Component For Creating A Pulsing Animation. It allows you to create single halo or multiple halos.
+* [RFRotate](https://github.com/ruddfawcett/RFRotate)
+* [UIRotatableView](https://github.com/faviomob/UIRotatableView)
+* [VENSnowOverlayView](https://github.com/chrismaddern/VENSnowOverlayView) - A snowy UIView overlay to make your apps Christmassy!
+
+####🔸 *Swift*
+* [EasyAnimation](https://github.com/icanzilb/EasyAnimation)
+* [InstagramHeartView](https://github.com/wojteklukaszuk/articles/tree/master/InstagramHeartView)
+* [JingRound](https://github.com/isaced/JingRound/tree/swift)
+* [PIRipple](https://github.com/pixel-ink/PIRipple) - Ripple Effect for iOS (swift)
+* [PowerUpYourAnimations](https://github.com/icanzilb/PowerUpYourAnimations) - Sample code from talks on advanced animations: [link]([https://realm.io/news/altconf-marin-todorov-animations/)
+* [RubberBandEffect](https://github.com/Produkt/RubberBandEffect)
+* [SnowFalling](https://github.com/pixyzehn/SnowFalling) - Snow Falling in Swift
+* [springdamping](https://github.com/mortenjust/springdamping) - Realtime experimentation with duration, spring and damping for UIView animations
 
 ##Audio
 
@@ -129,7 +154,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DownloadButton](https://github.com/PavelKatunin/DownloadButton)
 * [FRDLivelyButton](https://github.com/sebastienwindal/FRDLivelyButton)
 * [GBFlatButton](https://github.com/barbosa/GBFlatButton)
-* [GUIRoundProgressButton]()
+* [GUIRoundProgressButton](https://github.com/guilhermearaujo/GUIRoundProgressButton)
+* [HYBubbleButton](https://github.com/nathanwhy/HYBubbleButton)
 * [Icomations](https://github.com/paoloboschini/Icomations)
 * [JTImageButton](https://github.com/kubatru/JTImageButton)
 * [KBRoundedButton](https://github.com/burczyk/KBRoundedButton)
@@ -152,7 +178,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PlayPauseAnimation](https://github.com/kNeerajPro/PlayPauseAnimation)
 * [RNLoadingButton](https://github.com/souzainf3/RNLoadingButton-Swift)
 * [SFlatButton](https://github.com/alexmeji/SFlatButton)
-* [TKAnimatedCheckButton](https://github.com/entotsu/TKAnimatedCheckButton) 
+* [TKAnimatedCheckButton](https://github.com/entotsu/TKAnimatedCheckButton)
+* [MaterialView](https://github.com/karticodes/MaterialView) - Material Floating Button for iOS - Swift 
 
 ##Camera
 *AVFoundation and CIFaceFeature implementations*
@@ -224,21 +251,24 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [UIColor-Pantone](https://github.com/CaptainRedmuff/UIColor-Pantone)
 * [UIColor-uiGradientsAdditions](https://github.com/kaiinui/UIColor-uiGradientsAdditions)
 
-
 ####🔸 *Swift*
 * [DPTheme](https://github.com/dphans/DPTheme) - https://github.com/dphans/DPTheme
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - DynamicColor provides powerful methods to manipulate colours in an easy way.
 * [flatuicolor](https://github.com/avdyushin/flatuicolor)
-
+* [PrettyColors](https://github.com/jdhealy/PrettyColors) - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs ANSI escape codes and conforms to ECMA Standard 48.
 
 ##Image
 
 ####🔹 *Obj-C*
 * [ANBlurredImageView](https://github.com/aaronn/ANBlurredImageView) - Subclass of UIImageView for animating the blurring and unblurring of images with a tint color. 
+* [TwitterCover](https://github.com/cyndibaby905/TwitterCover) - TwitterCover is a parallax top view with real time blur effect to any UIScrollView, inspired by Twitter for iOS.
 * [Masu](https://github.com/midnightSuyama/Masu) - Placeholder
+* [UIView-draggable](https://github.com/andreamazz/UIView-draggable) - UIView category that adds dragging capabilities.
 
 ####🔸 *Swift*
+* [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
 * [Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
+
 
 ##Keyboard
 
