@@ -264,7 +264,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ANBlurredImageView](https://github.com/aaronn/ANBlurredImageView) - Subclass of UIImageView for animating the blurring and unblurring of images with a tint color. 
 * [LiveBlend](https://github.com/kevinzhow/LiveBlend)
 * [Masu](https://github.com/midnightSuyama/Masu) - Placeholder
-* [TwitterCover](https://github.com/cyndibaby905/TwitterCover) - TwitterCover is a parallax top view with real time blur effect to any UIScrollView, inspired by Twitter for iOS.
 * [UIView-draggable](https://github.com/andreamazz/UIView-draggable) - UIView category that adds dragging capabilities.
 * [UIImage-Helpers](https://github.com/NZN/UIImage-Helpers)
 * [UIImageView_FaceAwareFill](https://github.com/Julioacarrettoni/UIImageView_FaceAwareFill) - This category applies Aspect Fill content mode to an image and if faces are detected it centers them instead of centering the image just by its geometrical center.
@@ -272,7 +271,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [DPImageCache](https://github.com/dphans/DPImageCache) - Swift extension for UIImageView. Help loading image asynchronously and store local file cache.
 * [PASImageView](https://github.com/abiaad/PASImageView) - Rounded async imageview downloader lightly cached and written in Swift
-* [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
 * [SwiftUIImageEffects](https://github.com/globchastyy/SwiftUIImageEffects)
 * [Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
 
@@ -408,8 +406,12 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ## View
 
+####🔹 *Obj-C*
+* [TwitterCover](https://github.com/cyndibaby905/TwitterCover) - TwitterCover is a parallax top view with real time blur effect to any UIScrollView, inspired by Twitter for iOS.
+
 ####🔸 *Swift*
 * [Shimmer](https://github.com/facebook/Shimmer)
+* [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
 
 ##Miscellanea
