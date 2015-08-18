@@ -398,7 +398,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [HardCoreData](https://github.com/Krivoblotsky/HardCoreData)
 * [XLData](https://github.com/xmartlabs/XLData)
 
-####🔸 *Swift*
+
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData is a framework to easily access Core Data objects in Swift. 
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift 
 * [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit)
@@ -407,7 +407,32 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ##TabBar
 
 ####🔹 *Obj-C*
+* [AHTabBarController](https://github.com/ArthurDevNL/AHTabBarController) - Using this control is fairly easy. For each tab you want to see in the tab bar you must create an AHTabView instance and set its image and title.
+* [AXSideButtonTabBarController](https://github.com/akiroom/AXSideButtonTabBarController) - Simple tab bar controller with side buttons.
+* [BFPaperTabBarController](https://github.com/bfeher/BFPaperTabBarController)
+* [BKSegmentedViewController](https://github.com/bhavya-kothari/BKSegmented-OR-TabbarViewController)
+* [BROptionsButton](https://github.com/BasheerSience/BROptionsButton)
+* [DMTabBarController](https://github.com/danieljmac/DMTabBarController)
+* [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) - Folding tab bar
+* [GGTabBar](https://github.com/Goles/GGTabBar)
+* [GUITabPagerViewController](https://github.com/guilhermearaujo/GUITabPagerViewController)
+* [HTHorizontalSelectionList](https://github.com/hightower/HTHorizontalSelectionList)
+* [JCSegmentBarController](https://github.com/lijingcheng/JCSegmentBarController)
+* [JFATabBarController](https://github.com/vermont42/JFATabBarController)
+* [NTSlidingViewController](https://github.com/nonstriater/NTSlidingViewController)
+* [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController)
 * [RKTabView](https://github.com/RafaelKayumov/RKTabView)
+* [SWGradientTabBar](https://github.com/satheeshwaran/SWGradientTabBar)
+* [VMTabbarCustomize](https://github.com/VuMai/VMTabbarCustomize)
+* [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)
+* [ZRScrollableTabBar](https://github.com/raihan/ZRScrollableTabBar)
+* [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar/tree/master/RAMAnimatedTabBarDemo)
+* [scrollableTabbar](https://github.com/valitovaza/scrollableTabbar)
+
+####🔸 *Swift*
+* [Animated-Tab-Bar](https://github.com/Ramotion/animated-tab-bar)
+* [ScrollPager](https://github.com/aryaxt/ScrollPager)
+* [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
 
 
 ## Toast Notification
