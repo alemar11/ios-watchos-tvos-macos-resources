@@ -20,6 +20,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Image](#image)
 - [Keyboard](#keyboard)
 - [Label](#label)
+- [Log](#log)
 - [Map](#map)
 - [Menu](#menu)
 - [NavigationBar](#navigationbar)
@@ -27,6 +28,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [TabBar](#tabbar)
 - [Toast Notification](#toast-notification)
 - [View](#view)
+- [WebView](#webview)
         
 ## ActionSheet
 ####🔹 *Obj-C*
@@ -308,6 +310,13 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔹 *Obj-C*
 * [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)
 
+##Log
+
+####🔸 *Swift*
+* [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
+* [SwiftLogger](https://github.com/MugunthKumar/SwiftLogger)
+
+
 ##Map
 
 ####🔹 *Obj-C*
@@ -426,7 +435,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [VMTabbarCustomize](https://github.com/VuMai/VMTabbarCustomize)
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)
 * [ZRScrollableTabBar](https://github.com/raihan/ZRScrollableTabBar)
-* [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar/tree/master/RAMAnimatedTabBarDemo)
+* [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar/tree/]()/RAMAnimatedTabBarDemo)
 * [scrollableTabbar](https://github.com/valitovaza/scrollableTabbar)
 
 ####🔸 *Swift*
@@ -465,7 +474,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Dodo](https://github.com/exchangegroup/Dodo)
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 
-## View
+##View
 
 ####🔹 *Obj-C*
 * [TwitterCover](https://github.com/cyndibaby905/TwitterCover) - TwitterCover is a parallax top view with real time blur effect to any UIScrollView, inspired by Twitter for iOS.
@@ -475,6 +484,15 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
+
+##WebView
+
+####🔹 *Obj-C*
+* [DZNWebViewController](https://github.com/dzenbot/DZNWebViewController)
+
+####🔸 *Swift*
+* [TLMetaResolver](https://github.com/tryolabs/TLMetaResolver) - TLMetaResolver is an extension to UIWebView writen in Swift that adds the ability to parse the meta tags in the loaded web page and extract information about a native app that can be deep linked from that page.
+
 
 ##Miscellanea
 
