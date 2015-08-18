@@ -10,17 +10,20 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Animation](#animation)
 - [Audio](#audio)
 - [Badge](#badge)
+- [Beacon](#beacon)
 - [Button](#button)
 - [Camera](#camera)
 - [Charts](#charts)
 - [CollectionView](#collectionview)
 - [Color](#color)
+- [Font](#font)
 - [Image](#image)
 - [Keyboard](#keyboard)
 - [Label](#label)
 - [Map](#map)
 - [Menu](#menu)
 - [NavigationBar](#navigationbar)
+- [Persistance](#persistance)
 - [TabBar](#tabbar)
 - [Toast Notification](#toast-notification)
 - [View](#view)
@@ -97,7 +100,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BFRadialWaveView](https://github.com/bfeher/BFRadialWaveView) - Radial wave
 * [CPKenBurnsView](https://github.com/muukii0803/CPKenburnsView)
 * [CoreGraphicsDynamicAnimation](https://github.com/larsacus/CoreGraphicsDynamicAnimation)
-* [confetti](https://github.com/life360/confetti/tree/master/iOS)
+* [confetti](https://github.com/life360/confetti/tree/]()/iOS)
 * [DrawCircleFrame](https://github.com/natalia-osa/DrawCircleFrame)
 * [GLMoveToTrashAnimation](https://github.com/RATTLESNAKE-VIPER/GLMoveToTrashAnimation)
 * [MCSFishEye](https://github.com/macoscope/MCSFishEye)
@@ -110,7 +113,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation)
-* [InstagramHeartView](https://github.com/wojteklukaszuk/articles/tree/master/InstagramHeartView)
+* [InstagramHeartView](https://github.com/wojteklukaszuk/articles/tree/]()/InstagramHeartView)
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
 * [PIRipple](https://github.com/pixel-ink/PIRipple) - Ripple Effect for iOS (swift)
 * [PowerUpYourAnimations](https://github.com/icanzilb/PowerUpYourAnimations) - Sample code from talks on advanced animations: [link]([https://realm.io/news/altconf-marin-todorov-animations/)
@@ -143,6 +146,17 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [DNFlyingBadge](https://github.com/normand1/DNFlyingBadge)
+
+##Beacon
+
+####🔹 *Obj-C*
+* [KCSIBeacon](https://github.com/KinveyLabs/KCSIBeacon)
+* [OWUProximityManager](https://github.com/ohwutup/OWUProximityManager)
+* [iBeaconTasks](https://github.com/TomekB/iBeaconTasks)
+* [ibeacon-background-demo](https://github.com/RadiusNetworks/ibeacon-background-demo)
+
+####🔸 *Swift*
+* [HiBeacons](https://github.com/nicktoumpelis/HiBeacons)
 
 ##Button
 
@@ -258,6 +272,15 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [flatuicolor](https://github.com/avdyushin/flatuicolor)
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs ANSI escape codes and conforms to ECMA Standard 48.
 
+##Font
+
+####🔸 *Swift*
+* [Font-Awesome-Swift](https://github.com/thii/FontAwesome.swift)
+* [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Say goodbye to importing custom fonts via property lists as FontBlaster automatically imports and loads all fonts in your app's NSBundles with one line of code.
+* [Fontawesome](https://github.com/hirohisa/Font-Awesome)
+* [MaterialDesignSymbol](https://github.com/tichise/MaterialDesignSymbol)
+* [SwiftFontName](https://github.com/morizotter/SwiftFontName)
+
 ##Image
 
 ####🔹 *Obj-C*
@@ -367,6 +390,19 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
+
+##Persistance
+
+####🔹 *Obj-C*
+* [APCDController](https://github.com/deszip/APCDController)
+* [HardCoreData](https://github.com/Krivoblotsky/HardCoreData)
+* [XLData](https://github.com/xmartlabs/XLData)
+
+####🔸 *Swift*
+* [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData is a framework to easily access Core Data objects in Swift. 
+* [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift 
+* [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit)
+* [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 
 ##TabBar
 
