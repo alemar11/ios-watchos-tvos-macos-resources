@@ -25,6 +25,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Menu](#menu)
 - [NavigationBar](#navigationbar)
 - [Persistance](#persistance)
+- [Pull To Refresh](#pull-to-refresh)
 - [TabBar](#tabbar)
 - [Toast Notification](#toast-notification)
 - [View](#view)
@@ -372,6 +373,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [NOCircleSelector](https://github.com/natalia-osa/NOCircleSelector)
 * [OECentreMenu](https://github.com/oduwa/OECentreMenu) - A simple drag and drop solution for an animated menu in the centre of the screen.
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) - Pop animation menu
+* [NFXPullTab](https://github.com/noppefoxwolf/NFXPullTab) - Easy way to select ViewController.
 * [RBMenu](https://github.com/RoshanNindrai/RBMenu)
 * [RGPaperLayout](https://github.com/terminatorover/RGPaperLayout)
 * [RNGridMenu](https://github.com/rnystrom/RNGridMenu)
@@ -408,10 +410,46 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [XLData](https://github.com/xmartlabs/XLData)
 
 
-* [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData is a framework to easily access Core Data objects in Swift. 
+cAlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData is a framework to easily access Core Data objects in Swift. 
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift 
 * [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit)
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
+
+##Pull To Refresh
+
+####🔹 *Obj-C*
+* [AAPullToRefresh](https://github.com/r-plus/AAPullToRefresh)
+* [AASpringRefresh](https://github.com/r-plus/AASpringRefresh)
+* [CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl)
+* [INBPullToRefresh](https://github.com/intmain/INBPullToRefresh)
+* [INSPullToRefresh](https://github.com/inspace-io/INSPullToRefresh)
+* [JCPullToRefreshView](https://github.com/lijingcheng/JCPullToRefreshView) - Supports pull-to-refresh and pull-to-loadmore
+* [JZRefreshControl](https://github.com/JLZ/JZRefreshControl)
+* [MJRefresh](https://github.com/CoderMJLee/MJRefresh)
+* [mntpulltoreact](https://github.com/mentionapp/mntpulltoreact) - MNTPullToReact is an extended evolution of the famous Pull to Refresh interaction. The main idea comes from a unique question: can the natural pulling gesture do more than just refresh and therefore avoid ugly action buttons that take up precious content space?
+* [PathCover](https://github.com/JackTeam/PathCover)
+* [Pull-to-Refresh.Rentals-iOS](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS)
+* [PullToRefreshCoreText](https://github.com/cemolcay/PullToRefreshCoreText) - PullToRefresh extension for all UIScrollView type classes with animated text drawing style
+* [PullToRefreshWP8](https://github.com/Boris-Em/BEMPullToRefreshWP8) - Simple Pull to Refresh Control for iOS. Inspired by WP8.
+* [RMEIdeasPullToSortControl](https://github.com/zogieosagie/RMEIdeasPullToSortControl)
+* [SSAPullToRefresh](https://github.com/SSA111/SSAPullToRefresh)
+* [StargatePullToRefresh](https://github.com/hiddenmemory/StargatePullToRefresh)
+* [UzysAnimatedGifLoadMore](https://github.com/uzysjung/UzysAnimatedGifLoadMore) - Add LoadMore using animated GIF to any scrollView with just simple code
+* [UzysCircularProgressPullToRefresh](https://github.com/uzysjung/UzysCircularProgressPullToRefresh) - 
+
+####🔸 *Swift*
+* [ADChromePullToRefresh](https://github.com/Antondomashnev/ADChromePullToRefresh)
+* [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl)
+* [GearRefreshControl](https://github.com/andreamazz/GearRefreshControl)
+* [MAGearRefreshControl](https://github.com/micazeve/MAGearRefreshControl)
+* [PZPullToRefresh](https://github.com/pixyzehn/PZPullToRefresh)
+* [PocketRefreshControl](https://github.com/wojteklukaszuk/articles) - tutorial [here](http://wojteklukaszuk.com/blog/2014/07/14/pocket-on-steroids)
+* [PullRefresh](https://github.com/zhaokaiyuan99/PullRefresh)
+* [PullToMakeFlight](https://github.com/Yalantis/PullToMakeFlight) - Custom animated pull-to-refresh that can be easily added to UIScrollView
+* [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - Custom animated pull-to-refresh that can be easily added to UIScrollView
+* [PullToRefresh](https://github.com/Yalantis/PullToRefresh) - This component implements pure pull-to-refresh logic and you can use it for developing your own pull-to-refresh animations
+* [Refresher](https://github.com/jcavar/refresher)
+* [TB_PeriscopePTR](https://github.com/ariok/TB_PeriscopePTR) - tutorial [here](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/)
 
 ##TabBar
 
