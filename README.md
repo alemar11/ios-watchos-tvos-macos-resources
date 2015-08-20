@@ -29,6 +29,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [TabBar](#tabbar)
 - [Toast Notification](#toast-notification)
 - [View](#view)
+- [Window](#window)
 - [WebView](#webview)
         
 ## ActionSheet
@@ -532,6 +533,10 @@ cAlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData 
 ####🔸 *Swift*
 * [TLMetaResolver](https://github.com/tryolabs/TLMetaResolver) - TLMetaResolver is an extension to UIWebView writen in Swift that adds the ability to parse the meta tags in the loaded web page and extract information about a native app that can be deep linked from that page.
 
+##Window
+####🔹 *Obj-C*
+* [ATTutorialController](https://github.com/AfonsoTsukamoto/ATTutorialController) - A tutorial controller ready to use. Uses its own UIWindow.
+* [LNWindowManagerExample](https://github.com/LeoNatan/LNWindowManager) - A window manager that makes working with UIWindow objects easily using an API similar to the UIViewController modal presentation API.
 
 ##Miscellanea
 
