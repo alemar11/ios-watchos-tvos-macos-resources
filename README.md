@@ -445,6 +445,7 @@ cAlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData 
 * [PZPullToRefresh](https://github.com/pixyzehn/PZPullToRefresh)
 * [PocketRefreshControl](https://github.com/wojteklukaszuk/articles) - tutorial [here](http://wojteklukaszuk.com/blog/2014/07/14/pocket-on-steroids)
 * [PullRefresh](https://github.com/zhaokaiyuan99/PullRefresh)
+* [PullToBounce]()https://github.com/entotsu/PullToBounce)
 * [PullToMakeFlight](https://github.com/Yalantis/PullToMakeFlight) - Custom animated pull-to-refresh that can be easily added to UIScrollView
 * [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - Custom animated pull-to-refresh that can be easily added to UIScrollView
 * [PullToRefresh](https://github.com/Yalantis/PullToRefresh) - This component implements pure pull-to-refresh logic and you can use it for developing your own pull-to-refresh animations
