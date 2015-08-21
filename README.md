@@ -517,6 +517,7 @@ cAlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData 
 ##View
 
 ####🔹 *Obj-C*
+* [JTFadingInfoView](https://github.com/JunichiT/JTFadingInfoView) - JTFadingInfoView is google's material design like notification view with smooth fade in/out animation features, based on UIButton subclass.
 * [TwitterCover](https://github.com/cyndibaby905/TwitterCover) - TwitterCover is a parallax top view with real time blur effect to any UIScrollView, inspired by Twitter for iOS.
 
 ####🔸 *Swift*
