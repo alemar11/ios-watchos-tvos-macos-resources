@@ -17,6 +17,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [CollectionView](#collectionview)
 - [Color](#color)
 - [Font](#font)
+- [Gesture](#gesture)
 - [Image](#image)
 - [Keyboard](#keyboard)
 - [Label](#label)
@@ -24,11 +25,13 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Map](#map)
 - [Menu](#menu)
 - [NavigationBar](#navigationbar)
+- [PageControl](#pagecontrol)
 - [Persistance](#persistance)
 - [Pull To Refresh](#pull-to-refresh)
 - [TabBar](#tabbar)
 - [Toast Notification](#toast-notification)
 - [View](#view)
+- [ViewController](#viewcontroller)
 - [Window](#window)
 - [WebView](#webview)
         
@@ -285,12 +288,25 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MaterialDesignSymbol](https://github.com/tichise/MaterialDesignSymbol)
 * [SwiftFontName](https://github.com/morizotter/SwiftFontName)
 
+##Gesture
+
+####🔹 *Obj-C*
+* [Jot](https://github.com/IFTTT/Jot) - Easy way to add touch-controlled drawings and text to images in your iOS app.
+* [JVTouchEventsWindow](https://github.com/JV17/JVTouchEventsWindow) - JVTouchEventsWindow is a simple helper framework to display touch events within your projects/apps demos, with easy customization. It really comes handy when you want to show off your app and create a preview video/gif of your app.
+* [PJRSignatureDemo](https://github.com/paritsohraval100/PJRSignatureDemo) - Signature
+* [SlingshotColorGradient](https://github.com/n6xej/SlingshotColorGradient) - Select a Pen and Color similar to the way SlingShot does
+
+####🔸 *Swift*
+* [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool [Swift / iOS]
+
 ##Image
 
 ####🔹 *Obj-C*
 * [ANBlurredImageView](https://github.com/aaronn/ANBlurredImageView) - Subclass of UIImageView for animating the blurring and unblurring of images with a tint color. 
+* [KVNBoundedImageView](https://github.com/donnellyk/KVNBoundedImageView) - KVNBoundedImageView attempts to keep faces visible and centered in a UIImageView.
 * [LiveBlend](https://github.com/kevinzhow/LiveBlend)
 * [Masu](https://github.com/midnightSuyama/Masu) - Placeholder
+* [MDIncrementalImageView](https://github.com/mohammedDehairy/MDIncrementalImageView) - UIImageView subclass that loads the image progressively
 * [UIView-draggable](https://github.com/andreamazz/UIView-draggable) - UIView category that adds dragging capabilities.
 * [UIImage-Helpers](https://github.com/NZN/UIImage-Helpers)
 * [UIImageView_FaceAwareFill](https://github.com/Julioacarrettoni/UIImageView_FaceAwareFill) - This category applies Aspect Fill content mode to an image and if faces are detected it centers them instead of centering the image just by its geometrical center.
@@ -402,6 +418,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
+
+##PageControl
+
+####🔹 *Obj-C*
+* [KVNMaskedPageControl](https://github.com/donnellyk/KVNMaskedPageControl)
 
 ##Persistance
 
@@ -517,14 +538,46 @@ cAlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData 
 ##View
 
 ####🔹 *Obj-C*
+* [AFBlurView](https://github.com/nicklockwood/FXBlurView)
+* [AMDraggableBlurView](https://github.com/andreamazz/AMDraggableBlurView)
+* [CRMotionView](https://github.com/chroman/CRMotionView) - A custom photo viewer that implements device motion scrolling, inspired by Facebook Paper.
+* [CRPixellatedView](https://github.com/chroman/CRPixellatedView) - UIView subclass with a pixellated animation inspired by Facebook's Slingshot app.
+* [DBImageView](https://github.com/danielebogo/DBImageView)
+* [ETFoursquareImages](https://github.com/EugeneTrapeznikov/ETFoursquareImages)
+* [HATransparentView](https://github.com/hebertialmeida/HATransparentView) - UIView subclass based on Rdio stations menu.
 * [JTFadingInfoView](https://github.com/JunichiT/JTFadingInfoView) - JTFadingInfoView is google's material design like notification view with smooth fade in/out animation features, based on UIButton subclass.
+* [LazyFadeInView](https://github.com/itouch2/LazyFadeInView)
+* [M2DRibbonView](https://github.com/0x0c/M2DRibbonView) - Ribbon shape view
+* [MABCardsView](https://github.com/muhammadbassio/MABCardsView)
+* [MSLiveBlur](https://github.com/mspensieri/MSLiveBlur)
+* [NFXBubblePoolView](https://github.com/noppefoxwolf/NFXBubblePoolView)
+* [PWParallaxScrollView](https://github.com/wpsteak/PWParallaxScrollView)
+* [SSUIViewMiniMe](https://github.com/sSegev/SSUIViewMiniMe) - A miniature replica of your UIView with an indicator of your location.
+* [TGDrawSvgPathView](https://github.com/Tibolte/TGDrawSvgPathView) - IOS helper class to draw animated paths from SVG files
 * [TwitterCover](https://github.com/cyndibaby905/TwitterCover) - TwitterCover is a parallax top view with real time blur effect to any UIScrollView, inspired by Twitter for iOS.
+* [TWRBorderedView](https://github.com/chasseurmic/TWRBorderedView) - A custom UIView subclass to easily turn on drawing of each single border on a view.
+* [UIView-Easing](https://github.com/tapthaker/UIView-Easing)
+* [UIView-Shake](https://github.com/andreamazz/UIView-Shake) - UIView category that adds a shake animation like the password field of the OSX login screen.
+* [XMCircleType](https://github.com/MichMich/XMCircleType) - XMCircleTypeView is a UIView that allows you to display an NSString as a cicular text. Is will take font kerning into account, so no weird spacings.
+* [core-background](https://github.com/justinmfischer/core-background) - set of Objective-C classes inspired by the iOS Yahoo Weather App. It provides iOS location-based Flickr backgrounds with Gaussian blur light effects for iPhone.
 
 ####🔸 *Swift*
+* [AHKBendableView](https://github.com/fastred/AHKBendableView) - UIView subclass that bends its edges when its position change is animated
+* [AvatarView](https://github.com/chrene/AvatarView/)
+* [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) - Waves of the radar
 * [ColorDebugView](https://github.com/jonhull/ColorDebugView) - Simple NS/UIView which can be used to quickly get a view on the screen when roughing out layouts/animations.
+* [Kingfisher](https://github.com/onevcat/Kingfisher) - Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
+* [MaterialCardView](https://github.com/cemolcay/MaterialCardView)
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
+* [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full []tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
+
+##ViewController
+
+####🔹 *Obj-C*
+* [VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation) - A simple way to present a view controller with keeping the blurred previous one.
+* [ZoomTransition](https://github.com/tristanhimmelman/ZoomTransition) - An easy to use interactive zoom transition for presenting view controllers onto a navigation stack.
 
 ##WebView
 
