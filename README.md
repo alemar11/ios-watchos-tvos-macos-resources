@@ -19,6 +19,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Font](#font)
 - [Gesture](#gesture)
 - [Image](#image)
+- [Intro](#intro)
 - [Keyboard](#keyboard)
 - [Label](#label)
 - [Log](#log)
@@ -28,6 +29,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [PageControl](#pagecontrol)
 - [Persistance](#persistance)
 - [Pull To Refresh](#pull-to-refresh)
+- [ScrollView](#scrollview)
 - [TabBar](#tabbar)
 - [Toast Notification](#toast-notification)
 - [View](#view)
@@ -110,6 +112,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [confetti](https://github.com/life360/confetti/tree/]()/iOS)
 * [DrawCircleFrame](https://github.com/natalia-osa/DrawCircleFrame)
 * [GLMoveToTrashAnimation](https://github.com/RATTLESNAKE-VIPER/GLMoveToTrashAnimation)
+* [JazzHands](https://github.com/IFTTT/JazzHands)
 * [MCSFishEye](https://github.com/macoscope/MCSFishEye)
 * [NGAParallaxMotion](https://github.com/michaeljbishop/NGAParallaxMotion)
 * [PortalTransition](https://github.com/machackx/PortalTransition) - Inspired by Apple's keynote portal animation, it is an iOS implementation of Portal like UIViewController transition.
@@ -124,6 +127,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
 * [PIRipple](https://github.com/pixel-ink/PIRipple) - Ripple Effect for iOS (swift)
 * [PowerUpYourAnimations](https://github.com/icanzilb/PowerUpYourAnimations) - Sample code from talks on advanced animations: [link]([https://realm.io/news/altconf-marin-todorov-animations/)
+* [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect)
 * [SnowFalling](https://github.com/pixyzehn/SnowFalling) - Snow Falling in Swift
 * [springdamping](https://github.com/mortenjust/springdamping) - Realtime experimentation with duration, spring and damping for UIView animations
@@ -317,6 +321,34 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SwiftUIImageEffects](https://github.com/globchastyy/SwiftUIImageEffects)
 * [Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
 
+##Intro
+*LaunchScreen, OnBoarding, Splashscreen, WalkThrough*
+
+####🔹 *Obj-C*
+* [ABCIntroView](https://github.com/AdamBCo/ABCIntroView) - Easy to use onboarding which allows you to introduce your users to the applicaiton before reaching the Main Screen.
+* [AnimatedLogin](https://github.com/arturfelipet/AnimatedLogin) - Just a Login view with video in the background alike Vine.
+* [CBZSplashView](https://github.com/callumboddy/CBZSplashView) - Inspired by twitter bird animation.
+* [ESConveyorBelt](https://github.com/escoz/ESConveyorBelt) - Create nice tutorial pages with parallax and animations with ease 
+* [FeedbackMe](https://github.com/leonardoobaptistaa/FeedbackMe) - Simply the request for feedback/reviews to your users.
+* [GHWalkThrough](https://github.com/GnosisHub/GHWalkThrough
+* [JMHoledView](https://github.com/leverdeterre/JMHoledView)
+* [LaunchScreenViewController](https://github.com/k06a/LaunchScreenViewController) - iOS View Controller for loading default launch screen in app and maybe to add some animations to it.
+* [MPCoachMarks](https://github.com/bubudrc/MPCoachMarks)
+* [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView)
+* [Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
+* [PICoachmark](https://github.com/phamquy/PICoachmark) 
+* [Popsicle](https://github.com/DavdRoman/Popsicle) - Simple, extensible value interpolation framework
+* [ProductTour](https://github.com/Cclleemm/ProductTour) -  iOS bubble tutorial to help the user understand your interface. 
+* [SKSplashView](https://github.com/sachinkesiraju/SKSplashView) - Twitter bird animation
+* [Surfboard](https://github.com/MosheBerman/Surfboard) - Surfboard is a delightful onboarding framework for iOS.
+* [VXWalkthroughViewController](https://github.com/swiftmanagementag/VXWalkthroughViewController) - Simple way to add an intro to your app.
+
+####🔸 *Swift*
+* [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - BWWalkthrough is a class to build custom walkthroughs for your iOS App.
+* [JTSplashView](https://github.com/kubatru/JTSplashView) - Create the beautiful splash view with JTSplashView.
+* [RMParallax](https://github.com/michaelbabiy/RMParallax)
+* [SoundCloudTransition](https://github.com/xxxAIRINxxx/SoundCloudTransition) - Custom interactive transition like SoundCloud iOS App.
+* [TwitterBirdAnimation](https://github.com/rounak/TwitterBirdAnimation/) - Twitter bird animation
 
 ##Keyboard
 
@@ -474,6 +506,16 @@ cAlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData 
 * [Refresher](https://github.com/jcavar/refresher)
 * [TB_PeriscopePTR](https://github.com/ariok/TB_PeriscopePTR) - tutorial [here](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/)
 
+##ScrollView
+
+####🔹 *Obj-C*
+* [BTGlassScrollView](https://github.com/BTLibrary/BTGlassScrollView) - Inspired by Yahoo Weather App, this easy to use view replicates the look and feel.
+* [DRPageScrollView](https://github.com/DavdRoman/DRPageScrollView) - Block-driven paginated scroll view.
+
+####🔸 *Swift*
+* [CrossNavigation](https://github.com/artemstepanenko/CrossNavigation) - Any side navigation.
+
+
 ##TabBar
 
 ####🔹 *Obj-C*
@@ -552,6 +594,7 @@ cAlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData 
 * [MSLiveBlur](https://github.com/mspensieri/MSLiveBlur)
 * [NFXBubblePoolView](https://github.com/noppefoxwolf/NFXBubblePoolView)
 * [PWParallaxScrollView](https://github.com/wpsteak/PWParallaxScrollView)
+* [SKPanoramaView](https://github.com/sachinkesiraju/SKPanoramaView) - Create beautiful animated panorama views. Inspired by the intro view on the LinkedIn iOS app.
 * [SSUIViewMiniMe](https://github.com/sSegev/SSUIViewMiniMe) - A miniature replica of your UIView with an indicator of your location.
 * [TGDrawSvgPathView](https://github.com/Tibolte/TGDrawSvgPathView) - IOS helper class to draw animated paths from SVG files
 * [TwitterCover](https://github.com/cyndibaby905/TwitterCover) - TwitterCover is a parallax top view with real time blur effect to any UIScrollView, inspired by Twitter for iOS.
@@ -598,3 +641,9 @@ cAlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData 
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control
+
+
+
+
+
+
