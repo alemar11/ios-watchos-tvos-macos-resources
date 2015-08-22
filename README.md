@@ -96,6 +96,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [EasyTipView](https://github.com/teodorpatras/EasyTipView)
 * [PathDynamicModal](https://github.com/ra1028/PathDynamicModal)
 * [PermissionScope](https://github.com/nickoneill/PermissionScope)
+* [Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
