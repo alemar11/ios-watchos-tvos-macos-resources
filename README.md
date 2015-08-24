@@ -22,6 +22,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Intro](#intro)
 - [Keyboard](#keyboard)
 - [Label](#label)
+- [Loader](#loader)
 - [Log](#log)
 - [Map](#map)
 - [Menu](#menu)
@@ -361,6 +362,47 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔹 *Obj-C*
 * [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)
+
+##Loader
+*Loaders and Activity Indicators*
+####🔹 *Obj-C*
+* [AMTumblrHud](https://github.com/Asich/AMTumblrHud)
+* [DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView)
+* [ESSSquareProgressIndicator](https://github.com/eternalstorms/ESSSquareProgressIndicator)
+* [FeSpinner](https://github.com/NghiaTranUIT/FeSpinner)
+* [GMDCircleLoader](https://github.com/gabemdev/GMDCircleLoader)
+* [GiFHUD](https://github.com/cemolcay/GiFHUD)
+* [IMGActivityIndicator](https://github.com/DrJid/IMGActivityIndicator)
+* [JTProgressHUD](https://github.com/kubatru/JTProgressHUD)
+* [KIProgressView](https://github.com/kaiinui/KIProgressView)
+* [LGPlaceholderView](https://github.com/Friend-LGA/LGPlaceholderView)
+* [LHLoadingView](https://github.com/leostc/LHLoadingView)
+* [LLARingSpinnerView](https://github.com/lipka/LLARingSpinnerView)
+* [MFLFoldingClock](https://github.com/MattFoley/MFLTransformingDigits) - This is a highly complex animation library for showing numbers changing, be it a countdown, a clock, or a scoreboard. It now allows for any size frame with special affine transforms.
+* [MGFinderView](https://github.com/matteogobbi/MGFinderView)
+* [MMMaterialDesignSpinner](https://github.com/misterwell/MMMaterialDesignSpinner)
+* [MZLoading](https://github.com/SergheiMazur/MZLoading)
+* [PQFCustomLoaders](https://github.com/poolqf/PQFCustomLoaders)
+* [RFLoader](https://github.com/rfunk82/RFLoader)
+* [RZSquaresLoading](https://github.com/robinzhangx/RZSquaresLoading)
+* [SCSkypeActivityIndicatorView](https://github.com/stefanceriu/SCSkypeActivityIndicatorView)
+* [SpinKit-ObjC](https://github.com/raymondjavaxx/SpinKit-ObjC)
+* [SplittingTriangle](https://github.com/iaomw/SplittingTriangle)
+* [TSActivityIndicatorView](https://github.com/tomkowz/TSActivityIndicatorView)
+* [VMGearsLoading](https://github.com/VuMai/VMGearsLoading)
+* [WovenStar](https://github.com/iaomw/WovenStar)
+* [YRActivityIndicator](https://github.com/solomidSF/YRActivityIndicator)
+* [gmail-like-loading](https://github.com/raweng/gmail-like-loading)
+
+####🔸 *Swift*
+* [DTIActivityIndicatorView-Swift](https://github.com/dtissera/DTIActivityIndicatorView-Swift)
+* [FliudLoadingIndicator](https://github.com/vinit5320/FliudLoadingIndicator)
+* [KOActivityIndicator](https://github.com/kohtenko/KOActivityIndicator)
+* [MAActivityIndicator](https://github.com/micazeve/MAActivityIndicator)
+* [MediumProgressView](https://github.com/pixyzehn/MediumProgressView)
+* [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
+* [RSDotsView](https://github.com/Kemcake/RSDotsView)
+* [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)
 
 ##Log
 
