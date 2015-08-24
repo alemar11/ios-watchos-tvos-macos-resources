@@ -8,6 +8,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [AddressBook](#addressbook)
 - [Alert](#alert)
 - [Animation](#animation)
+- [Asset Picker](asset-picker)
 - [Audio](#audio)
 - [Badge](#badge)
 - [Beacon](#beacon)
@@ -134,6 +135,38 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SnowFalling](https://github.com/pixyzehn/SnowFalling) - Snow Falling in Swift
 * [springdamping](https://github.com/mortenjust/springdamping) - Realtime experimentation with duration, spring and damping for UIView animations
 
+##Asset Picker
+*Image, Video, Color, Audio Editors or Pickers*
+
+####🔹 *Obj-C*
+* [AUMediaPlayer](https://github.com/appunite/AUMediaPlayer) - AUMediaPlayer is a nice high level API for audio and video playback, both from network stream and local files.
+* [AVAssetResourceLoader](https://github.com/leshkoapps/AVAssetResourceLoader) - A sample iOS application that demonstrates AVAssetResourceLoader fro AVPlayer.
+* [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera)
+* [CustomImagePicker](https://github.com/cspnanda/CustomImagePicker)
+* [DLFPhotosPicker](https://github.com/nicnocquee/DLFPhotosPicker)
+* [DRColorPicker](https://github.com/jjxtra/DRColorPicker)
+* [DraggableYoutubeFloatingVideo](https://github.com/vizllx/DraggableYoutubeFloatingVideo)
+* [GMImagePicker](https://github.com/guillermomuntaner/GMImagePicker)
+* [ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer)
+* [IQMediaPickerController](https://github.com/hackiftekhar/IQMediaPickerController)
+* [InstagramPhotoPicker](https://github.com/wenzhaot/InstagramPhotoPicker)
+* [JMBackgroundCameraView](https://github.com/ulidev/JMBackgroundCameraView)
+* [JSImagePickerController](https://github.com/jacobsieradzki/JSImagePickerController)
+* [KSHMosaicCamera](https://github.com/kimsungwhee/KSHMosaicCamera)
+* [PKImagePickerDemo](https://github.com/pavankris/PKImagePickerDemo)
+* [RAScrollablePickerView]()https://github.com/naturaln0va/RAScrollablePickerView
+* [RPMultipleImagePicker](https://github.com/renatopeterman/RPMultipleImagePicker)
+* [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper)
+* [Reader]() - pdf
+* [SWImageRotation](https://github.com/SurpriseWave/SWImageRotation)
+* [TOCropViewController](https://github.com/TimOliver/TOCropViewController)
+* [ZCSAvatarCapture](https://github.com/zshannon/ZCSAvatarCapture) - User avatar editing made nice.
+
+####🔸 *Swift*
+* [BRNImagePickerSheet](https://github.com/jacklevin74/BRNImagePickerSheet/tree/master)
+* [DSFacebookImagePicker](https://github.com/sanche21/DSFacebookImagePicker)
+* [videoshader](https://github.com/snakajima/videoshader) - Script-based real-time video processing technology for OpenGL/iOS
+
 ##Audio
 
 ####🔹 *Obj-C*
@@ -187,6 +220,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JTImageButton](https://github.com/kubatru/JTImageButton)
 * [KBRoundedButton](https://github.com/burczyk/KBRoundedButton)
 * [KSMManyOptionsButton](https://github.com/kierajmumick/KSMManyOptionsButton) - This interface is similar to the interface used when the "Voice recording" and "Camera" buttons are pressed and held in iOS 8's message app.
+* [PicsLikeControl](https://github.com/itouch2/PicsLikeControl)
 * [RMSaveButton](https://github.com/mcduffeyrt/RMSaveButton)
 * [Responsive-Interaction-Control](https://github.com/NghiaTranUIT/Responsive-Interaction-Control)
 * [SwishControl](https://github.com/mikaoj/SwishControl) - SwishControl is a category on UIControl for adding sound effects to UIControlEvents.
