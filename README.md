@@ -8,7 +8,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [AddressBook](#addressbook)
 - [Alert](#alert)
 - [Animation](#animation)
-- [Asset Picker](asset-picker)
+- [Asset Picker](#asset-picker)
 - [Audio](#audio)
 - [Badge](#badge)
 - [Beacon](#beacon)
