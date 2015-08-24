@@ -141,7 +141,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔹 *Obj-C*
 * [AUMediaPlayer](https://github.com/appunite/AUMediaPlayer) - AUMediaPlayer is a nice high level API for audio and video playback, both from network stream and local files.
 * [AVAssetResourceLoader](https://github.com/leshkoapps/AVAssetResourceLoader) - A sample iOS application that demonstrates AVAssetResourceLoader fro AVPlayer.
-* [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera)
 * [CustomImagePicker](https://github.com/cspnanda/CustomImagePicker)
 * [DLFPhotosPicker](https://github.com/nicnocquee/DLFPhotosPicker)
 * [DRColorPicker](https://github.com/jjxtra/DRColorPicker)
@@ -267,6 +266,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BBStockChartView](https://github.com/chenxiaoyu3/BBStockChartView)
 * [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph)
 * [BTSpiderPlotterView](https://github.com/BTLibrary/BTSpiderPlotterView)
+* [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera)
 * [DGTriangleGraphView](https://github.com/gontovnik/DGTriangleGraphView)
 * [EChart](https://github.com/zhuhuihuihui/EChart)
 * [FSLineChart](https://github.com/ArthurGuibert/FSLineChart)
