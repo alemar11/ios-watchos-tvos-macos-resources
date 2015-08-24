@@ -425,14 +425,16 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [KVNMaskedPageControl](https://github.com/donnellyk/KVNMaskedPageControl)
 
 ##Persistance
+*CoreData, SQLite, NSUserDefaults*
 
 ####🔹 *Obj-C*
 * [APCDController](https://github.com/deszip/APCDController)
+* [ApolloDB](https://github.com/jchomali/ApolloDB) - Encrypted JSON
 * [HardCoreData](https://github.com/Krivoblotsky/HardCoreData)
 * [XLData](https://github.com/xmartlabs/XLData)
 
-
-cAlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData is a framework to easily access Core Data objects in Swift. 
+####🔸 *Swift*
+* [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData is a framework to easily access Core Data objects in Swift. 
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift 
 * [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit)
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
