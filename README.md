@@ -106,7 +106,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ##Animation
 
 ####🔹 *Obj-C*
-* [MotionBlur](https://github.com/fastred/MotionBlur) - Add motion blur effect to your animations 
+* [AZSoundManager](https://github.com/willingheart/AZSoundManager)
 * [AnimationEngine](https://github.com/intuit/AnimationEngine)
 * [BAFluidView](https://github.com/antiguab/BAFluidView) - This view and its layer create a 2D fluid animation that can be used to simulate a filling effect.
 * [BFRadialWaveView](https://github.com/bfeher/BFRadialWaveView) - Radial wave
@@ -118,6 +118,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JazzHands](https://github.com/IFTTT/JazzHands)
 * [MCSFishEye](https://github.com/macoscope/MCSFishEye)
 * [NGAParallaxMotion](https://github.com/michaeljbishop/NGAParallaxMotion)
+* [MotionBlur](https://github.com/fastred/MotionBlur) - Add motion blur effect to your animations
 * [PortalTransition](https://github.com/machackx/PortalTransition) - Inspired by Apple's keynote portal animation, it is an iOS implementation of Portal like UIViewController transition.
 * [PulsingHalo](https://github.com/shu223/PulsingHalo) - iOS Component For Creating A Pulsing Animation. It allows you to create single halo or multiple halos.
 * [RFRotate](https://github.com/ruddfawcett/RFRotate)
@@ -234,12 +235,13 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton)
+* [MaterialView](https://github.com/karticodes/MaterialView) - Material Floating Button for iOS - Swift 
 * [NPFlipButton](https://github.com/neopixl/NPFlipButton)
 * [PlayPauseAnimation](https://github.com/kNeerajPro/PlayPauseAnimation)
 * [RNLoadingButton](https://github.com/souzainf3/RNLoadingButton-Swift)
 * [SFlatButton](https://github.com/alexmeji/SFlatButton)
 * [TKAnimatedCheckButton](https://github.com/entotsu/TKAnimatedCheckButton)
-* [MaterialView](https://github.com/karticodes/MaterialView) - Material Floating Button for iOS - Swift 
+* [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition)
 
 ##Camera
 *AVFoundation and CIFaceFeature implementations*
@@ -353,6 +355,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [UIImageView_FaceAwareFill](https://github.com/Julioacarrettoni/UIImageView_FaceAwareFill) - This category applies Aspect Fill content mode to an image and if faces are detected it centers them instead of centering the image just by its geometrical center.
 
 ####🔸 *Swift*
+* [ARNZoomImageTransition](https://github.com/xxxAIRINxxx/ARNZoomImageTransition)
 * [DPImageCache](https://github.com/dphans/DPImageCache) - Swift extension for UIImageView. Help loading image asynchronously and store local file cache.
 * [PASImageView](https://github.com/abiaad/PASImageView) - Rounded async imageview downloader lightly cached and written in Swift
 * [SwiftUIImageEffects](https://github.com/globchastyy/SwiftUIImageEffects)
@@ -407,6 +410,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [GMDCircleLoader](https://github.com/gabemdev/GMDCircleLoader)
 * [GiFHUD](https://github.com/cemolcay/GiFHUD)
 * [IMGActivityIndicator](https://github.com/DrJid/IMGActivityIndicator)
+* [JTMaterialSpinner](https://github.com/jonathantribouharet/JTMaterialSpinner)
 * [JTProgressHUD](https://github.com/kubatru/JTProgressHUD)
 * [KIProgressView](https://github.com/kaiinui/KIProgressView)
 * [LGPlaceholderView](https://github.com/Friend-LGA/LGPlaceholderView)
@@ -716,6 +720,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [LNWindowManagerExample](https://github.com/LeoNatan/LNWindowManager) - A window manager that makes working with UIWindow objects easily using an API similar to the UIViewController modal presentation API.
 
 ##Miscellanea
+
+####🔹 *Obj-C*
+* [BugReportKit](https://github.com/rahuljiresal/BugReportKit/tree/master/Example/BugReportKit)
 
 ####🔸 *Swift*
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
