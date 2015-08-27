@@ -458,6 +458,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DXCustomCallout-ObjC](https://github.com/s3lvin/DXCustomCallout-ObjC)
 * [FSInteractiveMap](https://github.com/ArthurGuibert/FSInteractiveMap) - A charting library to visualize data on a map.
 * [FSRotatingCamera](https://github.com/fernandospr/FSRotatingCamera) - Class helper that uses MKMapCamera to rotate around a coordinate.
+* [HACClusterMapViewController](HACClusterMapViewController)
 * [HACLocationManager](https://github.com/litoarias/HACLocationManager)
 * [LFHeatMap](https://github.com/gpolak/LFHeatMap)
 * [MRWorldMapView](https://github.com/hectr/MRWorldMapView) - UIView subclass that displays a world map with selectable countries.
@@ -672,11 +673,13 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ETFoursquareImages](https://github.com/EugeneTrapeznikov/ETFoursquareImages)
 * [HATransparentView](https://github.com/hebertialmeida/HATransparentView) - UIView subclass based on Rdio stations menu.
 * [JTFadingInfoView](https://github.com/JunichiT/JTFadingInfoView) - JTFadingInfoView is google's material design like notification view with smooth fade in/out animation features, based on UIButton subclass.
+* [JZStackedView](https://github.com/zammitjames/JZStackedView)
 * [LazyFadeInView](https://github.com/itouch2/LazyFadeInView)
 * [M2DRibbonView](https://github.com/0x0c/M2DRibbonView) - Ribbon shape view
 * [MABCardsView](https://github.com/muhammadbassio/MABCardsView)
 * [MSLiveBlur](https://github.com/mspensieri/MSLiveBlur)
 * [NFXBubblePoolView](https://github.com/noppefoxwolf/NFXBubblePoolView)
+* [NORosettaView](https://github.com/natalia-osa/NORosettaView)
 * [PWParallaxScrollView](https://github.com/wpsteak/PWParallaxScrollView)
 * [SKPanoramaView](https://github.com/sachinkesiraju/SKPanoramaView) - Create beautiful animated panorama views. Inspired by the intro view on the LinkedIn iOS app.
 * [SSUIViewMiniMe](https://github.com/sSegev/SSUIViewMiniMe) - A miniature replica of your UIView with an indicator of your location.
@@ -729,7 +732,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control
 
-
+* [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
 
 
 
