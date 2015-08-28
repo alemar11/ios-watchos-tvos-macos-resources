@@ -30,6 +30,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [NavigationBar](#navigationbar)
 - [PageControl](#pagecontrol)
 - [Persistance](#persistance)
+- [Progress Bar](#progress-bar)
 - [Pull To Refresh](#pull-to-refresh)
 - [ScrollView](#scrollview)
 - [TabBar](#tabbar)
@@ -272,6 +273,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DGTriangleGraphView](https://github.com/gontovnik/DGTriangleGraphView)
 * [EChart](https://github.com/zhuhuihuihui/EChart)
 * [FSLineChart](https://github.com/ArthurGuibert/FSLineChart)
+* [HACBarChart](https://github.com/litoarias/HACBarChart)
 * [JBChartView](https://github.com/Jawbone/JBChartView)
 * [JTChartView](https://github.com/kubatru/JTChartView)
 * [LGFlapJackStackView](https://github.com/lukegeiger/LGFlapJackStackView)
@@ -554,6 +556,46 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit)
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 
+##Progress Bar
+
+####🔹 *Obj-C*
+* [ACPDownload](https://github.com/antoniocasero/ACPDownload)
+* [ASProgressPopupView](https://github.com/alskipp/ASProgressPopUpView)
+* [BSProgressButton]()https://github.com/BenjaminSarkisyan/BSProgressButton)
+* [CADVoteCountView](https://github.com/TopicSo/CADVoteCountView)
+* [CXCountDownLabel](https://github.com/ChrisXu1221/CXCountDownLabel)
+* [CircleProgressBar](https://github.com/Eclair/CircleProgressBar)
+* [CircularProgressControl](https://github.com/carantes/CircularProgressControl)
+* [DAProgressOverlayView](DAProgressOverlayView)
+* [EAColourfulProgressView](https://github.com/Eddpt/EAColourfulProgressView)
+* [ITProgressBar-iOS](https://github.com/iluuu1994/ITProgressBar-iOS)
+* [JBCountdownLabel](https://github.com/jberlana/JBCountdownLabel)
+* [KVNProgress](https://github.com/kevin-hirsch/KVNProgress)
+* [LASIImageView](https://github.com/lukagabric/LASIImageView)
+* [LDProgressView](https://github.com/lightdesign/LDProgressView)
+* [LLACircularProgressView](https://github.com/lipka/LLACircularProgressView)
+* [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)
+* [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
+* [MBSimpleLoadingIndicator](https://github.com/mbrenman/MBSimpleLoadingIndicator)
+* [MRCircularProgressView](https://github.com/martinezdelariva/MRCircularProgressView)
+* [MWKProgressIndicator](https://github.com/mwkoelb/MWKProgressIndicator)
+* [RJImageLoader](https://github.com/rounak/RJImageLoader)
+* [SGNavigationProgress](https://github.com/sgryschuk/SGNavigationProgress) - A category for showing a Messages like progress view on a UINavigationBar.
+* [SuProgress](https://github.com/MobileMakersAcademy/SuProgress) - iOS-7-Safari-style progress bar under the UINavigationBar for your app.
+* [TWRProgressView](https://github.com/chasseurmic/TWRProgressView)
+* [TYMActivityIndicatorView](https://github.com/yimingtang/TYMActivityIndicatorView)
+* [TYMProgressBarView](https://github.com/yimingtang/TYMProgressBarView)
+* [UAProgressView](https://github.com/UrbanApps/UAProgressView)
+* [UCZProgressView](https://github.com/kishikawakatsumi/UCZProgressView)
+* [VAProgressCircle](https://github.com/MitchellMalleo/VAProgressCircle)
+
+####🔸 *Swift*
+* [Download-Indicator](https://github.com/MaheshRS/Download-Indicator)
+* [FillableLoaders](https://github.com/poolqf/FillableLoaders)
+* [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)
+* [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress)
+* [KYCircularProgress](https://github.com/kentya6/KYCircularProgress)
+
 ##Pull To Refresh
 
 ####🔹 *Obj-C*
@@ -584,7 +626,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PZPullToRefresh](https://github.com/pixyzehn/PZPullToRefresh)
 * [PocketRefreshControl](https://github.com/wojteklukaszuk/articles) - tutorial [here](http://wojteklukaszuk.com/blog/2014/07/14/pocket-on-steroids)
 * [PullRefresh](https://github.com/zhaokaiyuan99/PullRefresh)
-* [PullToBounce]()https://github.com/entotsu/PullToBounce)
+* [PullToBounce](https://github.com/entotsu/PullToBounce)
 * [PullToMakeFlight](https://github.com/Yalantis/PullToMakeFlight) - Custom animated pull-to-refresh that can be easily added to UIScrollView
 * [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - Custom animated pull-to-refresh that can be easily added to UIScrollView
 * [PullToRefresh](https://github.com/Yalantis/PullToRefresh) - This component implements pure pull-to-refresh logic and you can use it for developing your own pull-to-refresh animations
