@@ -399,6 +399,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
+* [RFCalculatorKeyboard](https://github.com/sprint84/RFCalculatorKeyboard)
 
 ##Label
 
