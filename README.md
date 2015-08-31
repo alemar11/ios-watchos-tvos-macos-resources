@@ -127,6 +127,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [VENSnowOverlayView](https://github.com/chrismaddern/VENSnowOverlayView) - A snowy UIView overlay to make your apps Christmassy!
 
 ####🔸 *Swift*
+* [DoneHud](https://github.com/beryu/DoneHUD) - Done animation on HUD.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation)
 * [InstagramHeartView](https://github.com/wojteklukaszuk/articles/tree/]()/InstagramHeartView)
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
@@ -370,6 +371,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ABCIntroView](https://github.com/AdamBCo/ABCIntroView) - Easy to use onboarding which allows you to introduce your users to the applicaiton before reaching the Main Screen.
 * [AnimatedLogin](https://github.com/arturfelipet/AnimatedLogin) - Just a Login view with video in the background alike Vine.
 * [CBZSplashView](https://github.com/callumboddy/CBZSplashView) - Inspired by twitter bird animation.
+* [CSWXIBWalkThrough](https://github.com/n6xej/CSWXIBWalkThrough) - An Objective-C clone of github/ariok/BWWalkthrough using only XIB files, no storyboards
 * [ESConveyorBelt](https://github.com/escoz/ESConveyorBelt) - Create nice tutorial pages with parallax and animations with ease 
 * [FeedbackMe](https://github.com/leonardoobaptistaa/FeedbackMe) - Simply the request for feedback/reviews to your users.
 * [GHWalkThrough](https://github.com/GnosisHub/GHWalkThrough
@@ -504,7 +506,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
  for iOS with blurring background and screen-edge activation gestures.
 * [MISDropdownViewController](https://github.com/maicki/MISDropdownViewController)
 * [MLPresentController](https://github.com/molon/MLPresentController)
-* [NOCircleSelector](https://github.com/natalia-osa/NOCircleSelector)
+* [NGSplitMenuController](https://github.com/nitingeorge227/NGSplitMenuController) - Menu Driven Split view controller
+* [NOCircleSelector](https://github.com/natalia-osa/NOCircleSelector)* 
 * [OECentreMenu](https://github.com/oduwa/OECentreMenu) - A simple drag and drop solution for an animated menu in the centre of the screen.
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) - Pop animation menu
 * [NFXPullTab](https://github.com/noppefoxwolf/NFXPullTab) - Easy way to select ViewController.
@@ -739,6 +742,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) - Waves of the radar
 * [ColorDebugView](https://github.com/jonhull/ColorDebugView) - Simple NS/UIView which can be used to quickly get a view on the screen when roughing out layouts/animations.
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
+* [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
 * [MaterialCardView](https://github.com/cemolcay/MaterialCardView)
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
