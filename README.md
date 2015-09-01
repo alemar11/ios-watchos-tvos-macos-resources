@@ -408,7 +408,20 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ##Label
 
 ####🔹 *Obj-C*
+* [ClearTextLabel](https://github.com/taruntyagi697/ClearTextLabel) - ClearTextLabel is a UILabel subclass that creates a label with see-through text.
+* [DGDrawingLabel](https://github.com/gontovnik/DGDrawingLabel) - Label which allows to pre-calculate text layout with a great performance.
+* [FSDAirportFlipLabel](https://github.com/felix-dumit/FSDAirportFlipLabel)
+* [JTImageLabel](https://github.com/jonathantribouharet/JTImageLabel) - Simple view which contain a UILabel and a UIImageView which stay side by side, even if you change the alignment of the UILabel.
+* [Preloader.Ophiuchus](https://github.com/Yalantis/Preloader.Ophiuchus) - Custom Label to apply animations on whole text or letters.
+* [ShadeLabel](https://github.com/jxtmo/ShadeLabel) - A UILabel library that automatically drops shadow if it's backgroundColor or superview's background (if your label backgroundColor is clearColor) get's brighter.
+* [TOMSMorphingLabel](https://github.com/tomknig/TOMSMorphingLabel) - Configurable morphing transitions between text values of a label.
 * [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)
+
+####🔸 *Swift*
+* [ASAttributedLabelNode](https://github.com/alex-alex/ASAttributedLabelNode)
+* [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - UILabel subclass that saves you from refreshing it when using 'time ago' format.
+* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)
+* [ODMultiColumnLabel](https://github.com/Sephiroth87/ODMultiColumnLabel) - A UILabel replacement that renders text on multiple columns.
 
 ##Loader
 *Loaders and Activity Indicators*
