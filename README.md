@@ -103,6 +103,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
+* [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert)
 
 ##Animation
 
@@ -779,7 +780,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control
 
 * [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
-
 
 
 
