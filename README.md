@@ -103,6 +103,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
+* [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert)
 
 ##Animation
 
@@ -162,6 +163,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Reader]() - pdf
 * [SWImageRotation](https://github.com/SurpriseWave/SWImageRotation)
 * [TOCropViewController](https://github.com/TimOliver/TOCropViewController)
+* [TouchGradientPicker](https://github.com/mmertsock/TouchGradientPicker)
 * [ZCSAvatarCapture](https://github.com/zshannon/ZCSAvatarCapture) - User avatar editing made nice.
 
 ####🔸 *Swift*
@@ -225,6 +227,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PicsLikeControl](https://github.com/itouch2/PicsLikeControl)
 * [RMSaveButton](https://github.com/mcduffeyrt/RMSaveButton)
 * [Responsive-Interaction-Control](https://github.com/NghiaTranUIT/Responsive-Interaction-Control)
+* [SDRecordButton](https://github.com/sebyddd/SDRecordButton) - An animated UIButton subclass, meant to be used as a recording button.
 * [SwishControl](https://github.com/mikaoj/SwishControl) - SwishControl is a category on UIControl for adding sound effects to UIControlEvents.
 * [TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit)
 * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - Flat button with 21 different states and 2 types animated using pop.
@@ -236,6 +239,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
+* [GNTickerButton](https://github.com/gonzalonunez/GNTickerButton)
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton)
 * [MaterialView](https://github.com/karticodes/MaterialView) - Material Floating Button for iOS - Swift 
 * [NPFlipButton](https://github.com/neopixl/NPFlipButton)
@@ -289,6 +293,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [TWRCharts](https://github.com/chasseurmic/TWRCharts)
 * [VBPieChart](https://github.com/sakrist/VBPieChart)
 * [VKBarChartView](https://github.com/Valentin-Kalchev/VKBarChartView)
+* [ZFPlotChart](https://github.com/zerbfra/ZFPlotChart/tree/master/ZFPlotChart)
 
 ####🔸 *Swift*
 * [APLineChart](https://github.com/tylyo/APLineChart)
@@ -398,6 +403,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
+* [RFCalculatorKeyboard](https://github.com/sprint84/RFCalculatorKeyboard)
 
 ##Label
 
@@ -779,7 +785,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control
 
 * [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
-
 
 
 
