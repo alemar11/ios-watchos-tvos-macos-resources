@@ -162,6 +162,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Reader]() - pdf
 * [SWImageRotation](https://github.com/SurpriseWave/SWImageRotation)
 * [TOCropViewController](https://github.com/TimOliver/TOCropViewController)
+* [TouchGradientPicker](https://github.com/mmertsock/TouchGradientPicker)
 * [ZCSAvatarCapture](https://github.com/zshannon/ZCSAvatarCapture) - User avatar editing made nice.
 
 ####🔸 *Swift*
