@@ -398,6 +398,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RMParallax](https://github.com/michaelbabiy/RMParallax)
 * [SoundCloudTransition](https://github.com/xxxAIRINxxx/SoundCloudTransition) - Custom interactive transition like SoundCloud iOS App.
 * [TwitterBirdAnimation](https://github.com/rounak/TwitterBirdAnimation/) - Twitter bird animation
+* [VideoSplash](https://github.com/toygard/VideoSplash) 
 
 ##Keyboard
 
@@ -552,6 +553,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SliderPanel](https://github.com/sebk/SliderPanel)
 * [SphereMenuSwift](https://github.com/caamorales/SphereMenuSwift)
 * [Summflower](https://github.com/iSame7/Summflower) - Swift implementation to the sexiest sharing icon based on Summly app.
+* [SwiftySideMenu](https://github.com/hossamghareeb/SwiftySideMenu)
 
 ##NavigationBar
 
@@ -724,6 +726,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)
 * [DPNotify](https://github.com/dphans/DPNotify)
 * [Dodo](https://github.com/exchangegroup/Dodo)
+* [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 
 ##View
