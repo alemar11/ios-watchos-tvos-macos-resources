@@ -241,6 +241,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 * [GNTickerButton](https://github.com/gonzalonunez/GNTickerButton)
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton)
+* [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)
 * [MaterialView](https://github.com/karticodes/MaterialView) - Material Floating Button for iOS - Swift 
 * [NPFlipButton](https://github.com/neopixl/NPFlipButton)
 * [PlayPauseAnimation](https://github.com/kNeerajPro/PlayPauseAnimation)
