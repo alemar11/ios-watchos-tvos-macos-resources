@@ -716,6 +716,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MGFashionMenuView](https://github.com/matteogobbi/MGFashionMenuView)
 * [MPGNotification](https://github.com/MPGNotification/MPGNotification)
 * [NgNotificationProxy](https://github.com/meiwin/NgNotificationProxy)
+* [SAWaveToast](https://github.com/szk-atmosphere/SAWaveToast) - Show text with wave animated background and floating animation.
 * [SlideInView](https://github.com/mrdrozdov/SlideInView)
 * [TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager)
 * [UIUserNotificationSettings-Extension](https://github.com/alexruperez/UIUserNotificationSettings-Extension)
