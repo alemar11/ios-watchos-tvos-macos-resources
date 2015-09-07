@@ -728,6 +728,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)
 * [DPNotify](https://github.com/dphans/DPNotify)
 * [Dodo](https://github.com/exchangegroup/Dodo)
+* [Hermes](https://github.com/Imgur/Hermes)
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 
