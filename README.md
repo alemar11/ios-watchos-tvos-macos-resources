@@ -421,6 +421,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)
 
 ####🔸 *Swift*
+* [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
 * [ASAttributedLabelNode](https://github.com/alex-alex/ASAttributedLabelNode)
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - UILabel subclass that saves you from refreshing it when using 'time ago' format.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)
@@ -731,6 +732,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)
 * [DPNotify](https://github.com/dphans/DPNotify)
 * [Dodo](https://github.com/exchangegroup/Dodo)
+* [Hermes](https://github.com/Imgur/Hermes)
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
 * [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
