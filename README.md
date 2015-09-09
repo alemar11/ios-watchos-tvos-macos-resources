@@ -297,6 +297,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ZFPlotChart](https://github.com/zerbfra/ZFPlotChart/tree/master/ZFPlotChart)
 
 ####🔸 *Swift*
+* [3DGraph](https://github.com/greglecki/3DGraph) - An interactive Swift 3D Graph.
 * [APLineChart](https://github.com/tylyo/APLineChart)
 * [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)
@@ -647,7 +648,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ADChromePullToRefresh](https://github.com/Antondomashnev/ADChromePullToRefresh)
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl)
 * [GearRefreshControl](https://github.com/andreamazz/GearRefreshControl)
+* [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [MAGearRefreshControl](https://github.com/micazeve/MAGearRefreshControl)
+* [PeriscopyPullToRefresh](https://github.com/anaglik/PeriscopyPullToRefresh)
 * [PZPullToRefresh](https://github.com/pixyzehn/PZPullToRefresh)
 * [PocketRefreshControl](https://github.com/wojteklukaszuk/articles) - tutorial [here](http://wojteklukaszuk.com/blog/2014/07/14/pocket-on-steroids)
 * [PullRefresh](https://github.com/zhaokaiyuan99/PullRefresh)
@@ -729,6 +732,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DPNotify](https://github.com/dphans/DPNotify)
 * [Dodo](https://github.com/exchangegroup/Dodo)
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
+* [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 
 ##View
