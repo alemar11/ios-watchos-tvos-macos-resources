@@ -34,7 +34,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Pull To Refresh](#pull-to-refresh)
 - [ScrollView](#scrollview)
 - [TabBar](#tabbar)
-- [Toast Notification](#toast-notification)
+- [Textfield](#textfield)
+- [Toast Notification](#toast-notification)- 
 - [View](#view)
 - [ViewController](#viewcontroller)
 - [Window](#window)
@@ -404,6 +405,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ##Keyboard
 
+####🔹 *Obj-C*
+* [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
+
 ####🔸 *Swift*
 * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
 * [RFCalculatorKeyboard](https://github.com/sprint84/RFCalculatorKeyboard)
@@ -702,6 +706,35 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ScrollPager](https://github.com/aryaxt/ScrollPager)
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
 
+## Textfield
+*Textfields and Forms*
+
+####🔹 *Obj-C*
+* [BZGFormField](https://github.com/benzguo/BZGFormField) - Text field with a validity indicator.
+* [Bohr](https://github.com/DavdRoman/Bohr) - Settings screen composing framework.
+* [CBTextFieldView](https://github.com/braker1nine/CBTextFieldView)
+* [CKTextField](https://github.com/JaNd3r/CKTextField) - Enhanced UITextField, with improved visuals for a sweet UX.
+* [JDFCurrencyTextField](https://github.com/JoeFryer/JDFCurrencyTextField)
+* [JMFormDescription](https://github.com/leverdeterre/JMFormDescription)
+* [JOTextField](https://github.com/lojals/JOTextField)
+* [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) - UITextField subclass with floating labels.
+* [MAFormViewController](https://github.com/mamaral/MAFormViewController)
+* [MHTextField](https://github.com/mehfuzh/MHTextField) - UITextField extension with built-in toolbar, validation and scrolling support.
+* [MMTextFieldEffects](https://github.com/mukyasa/MMTextFieldEffects) - Extension of TextFieldEffects with Custom UITextFields effects inspired by Codrops, built using Objective-C.
+* [PAYFormBuilder](https://github.com/Eldorado234/PAYFormBuilder)
+* [SingleLineInput](https://github.com/diogomaximo/SingleLineInput) - A single line textfield implementation with Float Label Animation.
+* [TSCurrencyTextField](https://github.com/TomSwift/TSCurrencyTextField) - UITextField subclass for ATM-style currency input.
+* [TextFieldValidator](https://github.com/dhawaldawar/TextFieldValidator)
+* [validateIt](https://github.com/arpi6/validateIt) - Validation Library for IOS apps.
+
+####🔸 *Swift*
+* [EGFloatingTextField](https://github.com/enisgayretli/EGFloatingTextField) - Implementation of Google's "Floating labels" of Material design.
+* [FloatLabelFields](https://github.com/FahimF/FloatLabelFields)
+* [LTBouncyPlaceholder](https://github.com/lexrus/LTBouncyPlaceholder)
+* [ParkedTextField](https://github.com/gmertk/ParkedTextField) - A text field with a constant text/placeholder.
+* [SwiftForms](https://github.com/ortuman/SwiftForms) - A small and lightweight library written in Swift that allows you to easily create forms.
+* [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift.
+* [VMFloatLabel](https://github.com/varshylmobile/VMFloatLabel) - Swift based UITextField subclass with floating labels.
 
 ## Toast Notification
 *Toast Notifications and message bars*
