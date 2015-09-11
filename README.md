@@ -406,7 +406,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ##Keyboard
 
 ####🔹 *Obj-C*
+* [APNumberPad](https://github.com/podkovyrin/APNumberPad)
+* [IHKeyboardAvoiding](https://github.com/IdleHandsApps/IHKeyboardAvoiding) - IHKeyboardAvoiding is an elegant solution for keeping any UIView visible when the keyboard is being shown - no UIScrollView required!.
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
+* [LCNumberInputView](https://github.com/sinss/LCNumberInputView)
+* [UIViewController-KeyboardAnimation](https://github.com/Just-/UIViewController-KeyboardAnimation) - Working with iOS keyboard demands a lot of duplicated code. This category allows you to declare your animations with smooth keyboard animation timing and write very little code.
 
 ####🔸 *Swift*
 * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
