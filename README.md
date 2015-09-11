@@ -35,6 +35,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [ScrollView](#scrollview)
 - [TabBar](#tabbar)
 - [Textfield](#textfield)
+- [Timer](#timer)
 - [Toast Notification](#toast-notification)- 
 - [View](#view)
 - [ViewController](#viewcontroller)
@@ -740,6 +741,17 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - A small and lightweight library written in Swift that allows you to easily create forms.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift.
 * [VMFloatLabel](https://github.com/varshylmobile/VMFloatLabel) - Swift based UITextField subclass with floating labels.
+
+## Timer
+
+####🔹 *Obj-C*
+* [DDHTimerControl](https://github.com/dasdom/DDHTimerControl)
+* [JSKTimerView](https://github.com/jeffkibuule/JSKTimerView)
+* [KPTimePicker](https://github.com/kasperpihl/KPTimePicker)
+* [MZTimerLabel](https://github.com/mineschan/MZTimerLabel)
+* [PeekInspiredTimePicker]()
+* [TimeScrubber](https://github.com/pffan91/TimeScrubber)
+* [WMGaugeView](https://github.com/Will-tm/WMGaugeView)
 
 ## Toast Notification
 *Toast Notifications and message bars*
