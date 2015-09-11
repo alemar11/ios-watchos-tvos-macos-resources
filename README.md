@@ -141,7 +141,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SnowFalling](https://github.com/pixyzehn/SnowFalling) - Snow Falling in Swift
 * [springdamping](https://github.com/mortenjust/springdamping) - Realtime experimentation with duration, spring and damping for UIView animations
 
-##Asset Picker
+## Asset Picker
 *Image, Video, Color, Audio Editors or Pickers*
 
 ####🔹 *Obj-C*
@@ -173,7 +173,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DSFacebookImagePicker](https://github.com/sanche21/DSFacebookImagePicker)
 * [videoshader](https://github.com/snakajima/videoshader) - Script-based real-time video processing technology for OpenGL/iOS
 
-##Audio
+## Audio
 
 ####🔹 *Obj-C*
 * [ECGWavesPlayer]()
@@ -184,7 +184,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [VOXHistogramView](https://github.com/Coppertino/VOXHistogramView)
 * [ZLMusicFlowWaveView](https://github.com/zhxnlai/ZLMusicFlowWaveView)
 
-##Badge
+## Badge
 *Notifications icons*
 
 ####🔹 *Obj-C*
@@ -199,7 +199,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [DNFlyingBadge](https://github.com/normand1/DNFlyingBadge)
 
-##Beacon
+## Beacon
 
 ####🔹 *Obj-C*
 * [KCSIBeacon](https://github.com/KinveyLabs/KCSIBeacon)
@@ -210,7 +210,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons)
 
-##Button
+## Button
 
 ####🔹 *Obj-C*
 * [ABFillButton](https://github.com/andresbrun/ABFillButton)
@@ -252,7 +252,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [TKAnimatedCheckButton](https://github.com/entotsu/TKAnimatedCheckButton)
 * [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition)
 
-##Camera
+## Camera
 *AVFoundation and CIFaceFeature implementations*
 
 ####🔹 *Obj-C*
@@ -271,7 +271,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [SwiftMustaches](https://github.com/elpassion/SwiftMustaches)
 
-##Charts
+## Charts
 
 ####🔹 *Obj-C*
 * [BBStockChartView](https://github.com/chenxiaoyu3/BBStockChartView)
@@ -307,7 +307,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SwiftCharts](https://github.com/i-schuetz/SwiftCharts)
 * [swift-linechart](https://github.com/zemirco/swift-linechart)
 
-##CollectionView
+## CollectionView
 
 ####🔹 *Obj-C*
 * [AWCollectionViewDialLayout](https://github.com/awdigital/AWCollectionViewDialLayout) - UICollectionViewLayout for displaying cells in a semi-circle with a nice fish eye effect.
@@ -333,7 +333,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [flatuicolor](https://github.com/avdyushin/flatuicolor)
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs ANSI escape codes and conforms to ECMA Standard 48.
 
-##Font
+## Font
 
 ####🔸 *Swift*
 * [Font-Awesome-Swift](https://github.com/thii/FontAwesome.swift)
@@ -342,7 +342,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MaterialDesignSymbol](https://github.com/tichise/MaterialDesignSymbol)
 * [SwiftFontName](https://github.com/morizotter/SwiftFontName)
 
-##Gesture
+## Gesture
 
 ####🔹 *Obj-C*
 * [Jot](https://github.com/IFTTT/Jot) - Easy way to add touch-controlled drawings and text to images in your iOS app.
@@ -354,7 +354,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool [Swift / iOS]
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
 
-##Image
+## Image
 
 ####🔹 *Obj-C*
 * [ANBlurredImageView](https://github.com/aaronn/ANBlurredImageView) - Subclass of UIImageView for animating the blurring and unblurring of images with a tint color. 
@@ -373,7 +373,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SwiftUIImageEffects](https://github.com/globchastyy/SwiftUIImageEffects)
 * [Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
 
-##Intro
+## Intro
 *LaunchScreen, OnBoarding, Splashscreen, WalkThrough*
 
 ####🔹 *Obj-C*
@@ -404,7 +404,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [TwitterBirdAnimation](https://github.com/rounak/TwitterBirdAnimation/) - Twitter bird animation
 * [VideoSplash](https://github.com/toygard/VideoSplash) 
 
-##Keyboard
+## Keyboard
 
 ####🔹 *Obj-C*
 * [APNumberPad](https://github.com/podkovyrin/APNumberPad)
@@ -417,7 +417,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
 * [RFCalculatorKeyboard](https://github.com/sprint84/RFCalculatorKeyboard)
 
-##Label
+## Label
 
 ####🔹 *Obj-C*
 * [ClearTextLabel](https://github.com/taruntyagi697/ClearTextLabel) - ClearTextLabel is a UILabel subclass that creates a label with see-through text.
@@ -436,7 +436,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)
 * [ODMultiColumnLabel](https://github.com/Sephiroth87/ODMultiColumnLabel) - A UILabel replacement that renders text on multiple columns.
 
-##Loader
+## Loader
 *Loaders and Activity Indicators*
 ####🔹 *Obj-C*
 * [AMTumblrHud](https://github.com/Asich/AMTumblrHud)
@@ -478,7 +478,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RSDotsView](https://github.com/Kemcake/RSDotsView)
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)
 
-##Log
+## Log
 
 ####🔸 *Swift*
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
@@ -507,7 +507,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [SKMapsCenter](https://github.com/asklausen/SKMapsCenter) -  Maintain center while zooming.
 
-##Menu
+## Menu
 
 ####🔹 *Obj-C*
 * [ADDropDownMenuView](https://github.com/Antondomashnev/ADDropDownMenuView)
@@ -567,17 +567,17 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Summflower](https://github.com/iSame7/Summflower) - Swift implementation to the sexiest sharing icon based on Summly app.
 * [SwiftySideMenu](https://github.com/hossamghareeb/SwiftySideMenu)
 
-##NavigationBar
+## NavigationBar
 
 ####🔸 *Swift*
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
 
-##PageControl
+## PageControl
 
 ####🔹 *Obj-C*
 * [KVNMaskedPageControl](https://github.com/donnellyk/KVNMaskedPageControl)
 
-##Persistance
+## Persistance
 *CoreData, SQLite, NSUserDefaults*
 
 ####🔹 *Obj-C*
@@ -592,7 +592,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit)
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 
-##Progress Bar
+## Progress Bar
 
 ####🔹 *Obj-C*
 * [ACPDownload](https://github.com/antoniocasero/ACPDownload)
@@ -632,7 +632,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress)
 * [KYCircularProgress](https://github.com/kentya6/KYCircularProgress)
 
-##Pull To Refresh
+## Pull To Refresh
 
 ####🔹 *Obj-C*
 * [AAPullToRefresh](https://github.com/r-plus/AAPullToRefresh)
@@ -671,7 +671,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Refresher](https://github.com/jcavar/refresher)
 * [TB_PeriscopePTR](https://github.com/ariok/TB_PeriscopePTR) - tutorial [here](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/)
 
-##ScrollView
+## ScrollView
 
 ####🔹 *Obj-C*
 * [BTGlassScrollView](https://github.com/BTLibrary/BTGlassScrollView) - Inspired by Yahoo Weather App, this easy to use view replicates the look and feel.
@@ -681,7 +681,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CrossNavigation](https://github.com/artemstepanenko/CrossNavigation) - Any side navigation.
 
 
-##TabBar
+## TabBar
 
 ####🔹 *Obj-C*
 * [AHTabBarController](https://github.com/ArthurDevNL/AHTabBarController) - Using this control is fairly easy. For each tab you want to see in the tab bar you must create an AHTabView instance and set its image and title.
@@ -787,7 +787,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 
-##View
+## View
 
 ####🔹 *Obj-C*
 * [AFBlurView](https://github.com/nicklockwood/FXBlurView)
@@ -829,13 +829,13 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full []tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
 
-##ViewController
+## ViewController
 
 ####🔹 *Obj-C*
 * [VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation) - A simple way to present a view controller with keeping the blurred previous one.
 * [ZoomTransition](https://github.com/tristanhimmelman/ZoomTransition) - An easy to use interactive zoom transition for presenting view controllers onto a navigation stack.
 
-##WebView
+## WebView
 
 ####🔹 *Obj-C*
 * [DZNWebViewController](https://github.com/dzenbot/DZNWebViewController)
@@ -843,12 +843,12 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [TLMetaResolver](https://github.com/tryolabs/TLMetaResolver) - TLMetaResolver is an extension to UIWebView writen in Swift that adds the ability to parse the meta tags in the loaded web page and extract information about a native app that can be deep linked from that page.
 
-##Window
+## Window
 ####🔹 *Obj-C*
 * [ATTutorialController](https://github.com/AfonsoTsukamoto/ATTutorialController) - A tutorial controller ready to use. Uses its own UIWindow.
 * [LNWindowManagerExample](https://github.com/LeoNatan/LNWindowManager) - A window manager that makes working with UIWindow objects easily using an API similar to the UIViewController modal presentation API.
 
-##Miscellanea
+## Miscellanea
 
 ####🔹 *Obj-C*
 * [BugReportKit](https://github.com/rahuljiresal/BugReportKit/tree/master/Example/BugReportKit)
