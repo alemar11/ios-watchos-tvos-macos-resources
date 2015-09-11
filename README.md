@@ -38,7 +38,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [TabBar](#tabbar)
 - [Textfield](#textfield)
 - [Timer](#timer)
-- [Toast Notification](#toast-notification)- 
+- [Toast Notification](#toast-notification)
 - [View](#view)
 - [ViewController](#viewcontroller)
 - [Window](#window)
