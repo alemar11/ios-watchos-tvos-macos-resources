@@ -714,6 +714,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 *Textfields and Forms*
 
 ####🔹 *Obj-C*
+* [AFViewShaker](https://github.com/ArtFeel/AFViewShaker)
 * [BZGFormField](https://github.com/benzguo/BZGFormField) - Text field with a validity indicator.
 * [Bohr](https://github.com/DavdRoman/Bohr) - Settings screen composing framework.
 * [CBTextFieldView](https://github.com/braker1nine/CBTextFieldView)
