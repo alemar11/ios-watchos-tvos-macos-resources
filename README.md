@@ -33,6 +33,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Progress Bar](#progress-bar)
 - [Pull To Refresh](#pull-to-refresh)
 - [ScrollView](#scrollview)
+- [Segmented Control](#segmented-control)
+- [Switch Control](#switch-control)
 - [TabBar](#tabbar)
 - [Textfield](#textfield)
 - [Timer](#timer)
@@ -681,6 +683,31 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CrossNavigation](https://github.com/artemstepanenko/CrossNavigation) - Any side navigation.
 
 
+## Segmented Control
+
+####🔹 *Obj-C*
+* [DZNSegmentedControl](https://github.com/dzenbot/DZNSegmentedControl) - A drop-in replacement for UISegmentedControl for showing counts.
+* [ETSegmentedView](https://github.com/ersentekin/ETSegmentedView)
+* [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl)
+
+####🔸 *Swift*
+
+* [NPSegmentedControl](https://github.com/neopixl/NPSegmentedControl)
+
+
+## Switch Control
+
+####🔹 *Obj-C*
+* [CMSwitchView](https://github.com/Mycose/CMSwitchView)
+* [DVSwitch](https://github.com/Voley/DVSwitch)
+* [ViralSwitch](https://github.com/andreamazz/ViralSwitch) - UISwitch subclass that 'infects' the parent view with the onTintColor when the switch is turned on.
+
+####🔸 *Swift*
+
+* [Custom-Switch](https://github.com/ChadTimmerman/Custom-Switch) - A custom Switch created with UIViews and UIButtons in Swift.
+* [DGRunkeeperSwitch](DGRunkeeperSwitch) - Runkeeper design switch control (two part segment control) developed in Swift 2.0.
+
+
 ## TabBar
 
 ####🔹 *Obj-C*
@@ -854,11 +881,16 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BugReportKit](https://github.com/rahuljiresal/BugReportKit/tree/master/Example/BugReportKit)
 
 ####🔸 *Swift*
+* [AWPagedArray](https://github.com/MrAlek/AWPagedArray) - A data structure for easier pagination. NSProxy subclass which acts as an NSArray for easier paging mechanisms in UITableViews and UICollectionViews.
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control
 
+* [RFShortURL](https://github.com/rfunk82/RFShortURL) - RFShortURL provides free URL redirection service. 
+
 * [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
+
+
 
 
 
