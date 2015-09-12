@@ -2,6 +2,11 @@ iOS, Watch OS and OSX resources
 ======
 Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
+### Other Lists
+- [awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects.
+- [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
+- [awesome-swift](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software..
+
 ### Contents
 - [ActivityViewController](#activityviewcontroller)
 - [ActionSheet](#actionsheet)
@@ -737,6 +742,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [Animated-Tab-Bar](https://github.com/Ramotion/animated-tab-bar)
+* [MHImageTabBar](https://github.com/mho000/MHImageTabBar)
 * [ScrollPager](https://github.com/aryaxt/ScrollPager)
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
 
