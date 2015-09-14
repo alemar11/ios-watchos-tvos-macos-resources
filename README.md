@@ -89,6 +89,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Kamagari](https://github.com/tasanobu/Kamagari)
 * [LGAlertView](https://github.com/Friend-LGA/LGAlertView)
 * [MJAlertView](https://github.com/mayuur/MJAlertView)
+* [MMPopupView](https://github.com/adad184/MMPopupView)
 * [MODropAlert](https://github.com/minsOne/MODropAlert)
 * [MSAlertController](https://github.com/szk-atmosphere/MSAlertController)
 * [NYAlertViewController](https://github.com/nealyoung/NYAlertViewController)
@@ -891,7 +892,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RFShortURL](https://github.com/rfunk82/RFShortURL) - RFShortURL provides free URL redirection service. 
 
 * [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
-
 
 
 
