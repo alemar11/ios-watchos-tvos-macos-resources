@@ -33,6 +33,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Map](#map)
 - [Menu](#menu)
 - [NavigationBar](#navigationbar)
+- [Network](#network)
 - [PageControl](#pagecontrol)
 - [Persistance](#persistance)
 - [Progress Bar](#progress-bar)
@@ -94,9 +95,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Kamagari](https://github.com/tasanobu/Kamagari)
 * [LGAlertView](https://github.com/Friend-LGA/LGAlertView)
 * [MJAlertView](https://github.com/mayuur/MJAlertView)
+* [MMPopupView](https://github.com/adad184/MMPopupView)
 * [MODropAlert](https://github.com/minsOne/MODropAlert)
 * [MSAlertController](https://github.com/szk-atmosphere/MSAlertController)
 * [NYAlertViewController](https://github.com/nealyoung/NYAlertViewController)
+* [STPopup](https://github.com/kevin0571/STPopup)
 * [SWBufferedToast](https://github.com/sfwalsh/SWBufferedToast)
 * [TAOverlay](https://github.com/TaimurAyaz/TAOverlay)
 
@@ -114,7 +117,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
 * [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert)
 
-##Animation
+## Animation
 
 ####🔹 *Obj-C*
 * [AZSoundManager](https://github.com/willingheart/AZSoundManager)
@@ -359,6 +362,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool [Swift / iOS]
+* [InceptionTouch](https://github.com/richzertuche/InceptionTouch) - Who needs 3DTouch when you can have InceptionTouch.
 * [LimSignatureView](https://github.com/limhowe/LimSignatureView) - Signature View in Swift.
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
 
@@ -448,6 +452,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 *Loaders and Activity Indicators*
 ####🔹 *Obj-C*
 * [AMTumblrHud](https://github.com/Asich/AMTumblrHud)
+* [BLMultiColorLoader](https://github.com/BLPoonia/BLMultiColorLoader) - Multi coloured and customisable loading indicator (loader) for iOS applications.
 * [DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView)
 * [ESSSquareProgressIndicator](https://github.com/eternalstorms/ESSSquareProgressIndicator)
 * [FeSpinner](https://github.com/NghiaTranUIT/FeSpinner)
@@ -493,7 +498,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SwiftLogger](https://github.com/MugunthKumar/SwiftLogger)
 
 
-##Map
+## Map
 
 ####🔹 *Obj-C*
 * [APOfflineReverseGeocoding](https://github.com/Alterplay/APOfflineReverseGeocoding) - Offline reverse geocoding library.
@@ -579,6 +584,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
+
+## Network
+
+####🔸 *Swift*
+* [SSASwiftReachability](https://github.com/SSA111/SSASwiftReachability) - A Swift Library To Track Network Reachability Changes.
 
 ## PageControl
 
@@ -897,7 +907,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RFShortURL](https://github.com/rfunk82/RFShortURL) - RFShortURL provides free URL redirection service. 
 
 * [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
-
 
 
 
