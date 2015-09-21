@@ -115,6 +115,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope)
 * [Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
+* [SLPopupViewController](https://github.com/sunlight3d/SLPopupViewController)
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
 * [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert)
@@ -386,6 +387,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [ARNZoomImageTransition](https://github.com/xxxAIRINxxx/ARNZoomImageTransition)
 * [DPImageCache](https://github.com/dphans/DPImageCache) - Swift extension for UIImageView. Help loading image asynchronously and store local file cache.
+* [Nuke](https://github.com/kean/Nuke) - Advanced pure Swift framework for loading, caching, processing, displaying and preheating images. 
 * [PASImageView](https://github.com/abiaad/PASImageView) - Rounded async imageview downloader lightly cached and written in Swift
 * [SwiftUIImageEffects](https://github.com/globchastyy/SwiftUIImageEffects)
 * [Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
@@ -464,6 +466,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [GMDCircleLoader](https://github.com/gabemdev/GMDCircleLoader)
 * [GiFHUD](https://github.com/cemolcay/GiFHUD)
 * [IMGActivityIndicator](https://github.com/DrJid/IMGActivityIndicator)
+* [IoGMarquee](https://github.com/ecrichlow/IoGMarquee) - A scrolling, repeating text display.
 * [JTMaterialSpinner](https://github.com/jonathantribouharet/JTMaterialSpinner)
 * [JTProgressHUD](https://github.com/kubatru/JTProgressHUD)
 * [KIProgressView](https://github.com/kaiinui/KIProgressView)
@@ -501,7 +504,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
 * [SwiftLogger](https://github.com/MugunthKumar/SwiftLogger)
-
+* [Watchdog](https://github.com/wojteklukaszuk/Watchdog) - Class for logging excessive blocking on the main thread.
 
 ## Map
 
@@ -958,6 +961,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AvatarView](https://github.com/chrene/AvatarView/)
 * [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) - Waves of the radar
 * [ColorDebugView](https://github.com/jonhull/ColorDebugView) - Simple NS/UIView which can be used to quickly get a view on the screen when roughing out layouts/animations.
+* [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
 * [MaterialCardView](https://github.com/cemolcay/MaterialCardView)
