@@ -760,6 +760,51 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ## TableView
 
+* [AFSwipeToHide](https://github.com/appfigures/AFSwipeToHide) - Hide your toolbars with a swipe. Just like Safari for iOS.
+* [ALCollapsableTableView](https://github.com/ArpitLokwani/ALCollapsableTableView) - Expanding/Collapsing TableView Sections.
+* [AMHEditableTableView](https://github.com/alfiehanssen/AMHEditableTableView) - Reorderable UITableView.
+* [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
+* [AMWaveTransition](https://github.com/andreamazz/AMWaveTransition) - Custom transition between viewcontrollers holding tableviews.
+* [ANBlurredTableView](https://github.com/aaronn/ANBlurredTableView) - It is implementation of view allowing navigation between views like in iOS 7 Weather App.
+* [APPaginalTableView](https://github.com/Antol/APPaginalTableView)
+* [BRFlabbyTable](https://github.com/brocoo/BRFlabbyTable) - Bouncy and distorded table view cells.
+* [CFSSpringTableView](https://github.com/chrisfsampaio/CFSSpringTableView) - This UITableView Subclass makes your table view looks like its cells are connected to each other by springs.
+* [CRPaddyTableView](https://github.com/croath/CRPaddyTableView) - A TableView with animations like the Message App.
+* [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display.
+* [Doppelganger](https://github.com/Wondermall/Doppelganger) Array diffs as collection view wants it.
+* [ENFooterActivityIndicatorView](https://github.com/evnaz/ENFooterActivityIndicatorView) UITableView's `footer activity indicator`.
+* [FSParallaxTableView](https://github.com/fernandospr/FSParallaxTableView) - Parallax effect for images in table view cells.
+* [HFStretchableTableHeaderView](https://github.com/hfrahmann/HFStretchableTableHeaderView) - Stretchable TableHeaderView for iOS.
+* [HPReorderTableView](https://github.com/hpique/HPReorderTableView) - Drop-in UITableView replacement to reorder cells with long press on any part of the cell.
+* [HVTableView](https://github.com/xerxes235/HVTableView) - UITableView with expand/collapse feature (fully animatable).
+* [JGCustomSelection](https://github.com/JayGajjar/JGCustomSelection) A selection controller made with combinitation of UITableView and UICollectionview.
+* [KNPathTableViewController](https://github.com/kentnguyen/KNPathTableViewController) - UITableViewController with customizable overlay panel while scrolling.
+* [MGSpotyViewController](https://github.com/matteogobbi/MGSpotyViewController) - Beautiful viewController with a tableView and amazing effects like a viewController in the Spotify app.
+* [MMTransitionEffect](https://github.com/mukyasa/MMTransitionEffect) - Transition Effect
+* [OCBorghettiView](https://github.com/otaviocc/OCBorghettiView) - OCBorghettiView is an easy to use accordion view component for iOS.
+* [PADTiltViewController](https://github.com/dusi/PADTiltViewController) - PADTiltViewController adds device tilt capability to one directional scroll views on iOS.
+* [ParallaxTableViewHeader](https://github.com/Vinodh-G/ParallaxTableViewHeader) - Parallax scrolling effect on UITableView header view when a tableView is scrolled.
+* [RATreeView](https://github.com/Augustyniak/RATreeView)
+* [RNRippleTableView](https://github.com/rnystrom/RNRippleTableView) - A custom table view with highly detailed ripple animations.
+* [RRNCollapsableSectionTableView](https://github.com/rob-nash/RRNCollapsableSectionTableView)
+* [SJDataTableView](https://github.com/leesungju/SJDataTableView) - It moves vertically and horizontally Table.
+* [SKStatefulTableViewController](https://github.com/shiki/SKStatefulTableViewController) - UITableviewController subclass that supports pull-to-refresh, load-more, initial-load, and empty states.
+* [StackTableView](https://github.com/noppefoxwolf/StackTableView) - UITableView with stack animation.
+* [StickyHeaderView](https://github.com/freshking/StickyHeaderView) - TableView HeaderView which sticks to the top and stretches when you pull down.
+* [StretchTableHeaderViewDemo](https://github.com/yonglam/StretchTableHeaderViewDemo) - Provide a stretch table header view on which you can put a grid of buttons. Perform subtle animations when scrolling.
+* [TFStackingSectionsTableView](https://github.com/thefind/TFStackingSectionsTableView)
+* [TMOTableView](https://github.com/duowan/TMOTableView) - TMOTableView includes RefreshControl LoadMoreControl FirstLoadControl, and you can customize it.
+* [TQTableViewCellRemoveController](https://github.com/TinyQ/TQTableViewCellRemoveController)
+* [TwitterPaggingViewer](https://github.com/xhzengAIB/TwitterPaggingViewer) - A twitter like navigation bar, page viewer.
+* [YUTableView](https://github.com/ujell/YUTableView) -  UITableView which adds expandable sub-menu support to it.
+
+####🔸 *Swift*
+* [AccordionTableViewController](https://github.com/klevison/KMAccordionTableViewController) - Accordion UITableViewController component based on Apples's example.
+* [COBezierTableView](https://github.com/knutigro/COBezierTableView) - UITableView modification written in Swift where cells are scrolling in an arc defined by a BezierPath.
+* [MBTwitterScroll](https://github.com/starchand/MBTwitterScroll) - Recreate Twitter's profile page scrolling animation for UITableView and UIScrollViews.
+* [QuickRearrangeTableView](https://github.com/okla/QuickRearrangeTableView)
+* [Static](https://github.com/venmo/Static) - Simple static table views for iOS in Swift.
+
 ## TableViewCell
 
 ####🔹 *Obj-C*
