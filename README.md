@@ -42,6 +42,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Segmented Control](#segmented-control)
 - [Switch Control](#switch-control)
 - [TabBar](#tabbar)
+- [TableView](#tableview)
+- [TableViewCell](#tableviewcell)
 - [Textfield](#textfield)
 - [Timer](#timer)
 - [Toast Notification](#toast-notification)
@@ -755,6 +757,38 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MHImageTabBar](https://github.com/mho000/MHImageTabBar)
 * [ScrollPager](https://github.com/aryaxt/ScrollPager)
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
+
+## TableView
+
+## TableViewCell
+
+####🔹 *Obj-C*
+
+* [ABMenuTableViewCell](https://github.com/alexbumbu/ABMenuTableViewCell) - UITableViewCell right menu, shown by ''swipe to delete' gesture.
+* [AMBTableViewController](https://github.com/CyberAgent/AMBTableViewController) - Storyboard and Prototype Cells-centric block-based UITableView controller to manage complex layouts.s
+* [ASOXScrollTableViewCell](https://github.com/agusso/ASOXScrollTableViewCell) - Horizontal Scroll Table View Cell
+* [BFPaperTableViewCell](https://github.com/bfeher/BFPaperTableViewCell) - UITableViewCell for iOS inspired by Google's Paper Material Design.
+* [BKZoomView](https://github.com/freshking/BKZoomView) - A UIView that will zoom into its parent view. 
+* [DRCellSlideGestureRecognizer](https://github.com/DavdRoman/DRCellSlideGestureRecognizer) - Make your cells actionable through swipes.
+* [DiceTableViewCell](https://github.com/damienlaughton/DiceTableViewCell) - A Parallax TableViewCell like the Dice app.
+* [HTKDynamicResizingCell](https://github.com/henrytkirk/HTKDynamicResizingCell) - Subclassed UITableView/UICollectionView cells that will auto calculate their size so long as AutoLayout constraints are applied correctly. For iOS 7+. Works similar to how iOS 8's auto sizing of cells work.
+* [JASwipeCell](https://github.com/joseria/JASwipeCell) - iOS 8 Mail Inspired.
+* [JBParallaxCell](https://github.com/jberlana/JBParallaxCell)
+* [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
+* [MMTableCellAnimation](https://github.com/mukyasa/MMTableCellAnimation)
+* [SWRevealTableViewCell](https://github.com/John-Lluch/SWRevealTableViewCell) - Swipe.
+* [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) - Swipe
+* [WCFastCell](https://github.com/wczekalski/WCFastCell) - A drop-in replacement for UITableViewCell and UICollectionViewCell which draws contents using CoreGraphics. Seamless integration with nibs provided.
+* [iOS8SelfSizingCells](https://github.com/xhzengAIB/iOS8SelfSizingCells) - This is instagram app feed tableView demo use iOS8 Self Sizing Cells.
+* [tableviewslide](https://github.com/tuchangwei/tableviewslide) - Table view slides effect.
+
+####🔸 *Swift*
+  
+* [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - Expanding table view cells using `UIStackView in iOS 9.
+* [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - Animation between list and detail views.
+* [SBGestureTableView](https://github.com/Stickbuilt/SBGestureTableView) - Swift UITableView subclass that supports swiping rows ala Mailbox and long press to move rows.
+* [WobbleView](https://github.com/inFullMobile/WobbleView) -  Wobble effect.
+
 
 ## Textfield
 *Textfields and Forms*
