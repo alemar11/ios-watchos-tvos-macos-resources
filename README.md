@@ -323,7 +323,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔹 *Obj-C*
 * [AWCollectionViewDialLayout](https://github.com/awdigital/AWCollectionViewDialLayout) - UICollectionViewLayout for displaying cells in a semi-circle with a nice fish eye effect.
-
+* [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) - Parallax, Sticky Headers, Growing image heading, done right in one UICollectionViewLayout.
+* [RPSlidingMenu](https://github.com/RobotsAndPencils/RPSlidingMenu)
+* [VPRubberMenu](https://github.com/vitalykw/VPRubberMenu) - UICollectionView - Menu component with 'rubbery' effect inspired by Nike 'Making' application.
 
 ##Color
 *Color Pickers and color frameworks*
@@ -372,6 +374,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔹 *Obj-C*
 * [ANBlurredImageView](https://github.com/aaronn/ANBlurredImageView) - Subclass of UIImageView for animating the blurring and unblurring of images with a tint color. 
+* [CoverPhotoTwitterExample](https://github.com/vani2/CoverPhotoTwitterExample) - Example of blurred expanding cover photo like twitter app.
 * [KVNBoundedImageView](https://github.com/donnellyk/KVNBoundedImageView) - KVNBoundedImageView attempts to keep faces visible and centered in a UIImageView.
 * [LiveBlend](https://github.com/kevinzhow/LiveBlend)
 * [Masu](https://github.com/midnightSuyama/Masu) - Placeholder
@@ -525,6 +528,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## Menu
 
 ####🔹 *Obj-C*
+
 * [ADDropDownMenuView](https://github.com/Antondomashnev/ADDropDownMenuView)
 * [AnimatedCircularCollectionMenu](https://github.com/chillok/AnimatedCircularCollectionMenu)
 * [BAHFourCornersController](https://github.com/BHughes3388/BAHFourCornersController)
@@ -551,6 +555,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [LMDropdownView](https://github.com/lminhtm/LMDropdownView) - Simple dropdown view inspired by Tappy.
 * [M13ContextMenu](https://github.com/Marxon13/M13ContextMenu)
  for iOS with blurring background and screen-edge activation gestures.
+* [MCSFishEye](https://github.com/macoscope/MCSFishEye) - The dock-like control for iOS.
 * [MISDropdownViewController](https://github.com/maicki/MISDropdownViewController)
 * [MLPresentController](https://github.com/molon/MLPresentController)
 * [NGSplitMenuController](https://github.com/nitingeorge227/NGSplitMenuController) - Menu Driven Split view controller
@@ -580,9 +585,16 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SliderPanel](https://github.com/sebk/SliderPanel)
 * [SphereMenuSwift](https://github.com/caamorales/SphereMenuSwift)
 * [Summflower](https://github.com/iSame7/Summflower) - Swift implementation to the sexiest sharing icon based on Summly app.
+* [SvpplyTable](https://github.com/liuminqian/SvpplyTable) - Expandable and collapsable Menu, like Svpply.
 * [SwiftySideMenu](https://github.com/hossamghareeb/SwiftySideMenu)
 
 ## NavigationBar
+
+####🔹 *Obj-C*
+
+* [BMYScrollableNavigationBar](https://github.com/beamly/BMYScrollableNavigationBar) - Facebook-style scrollable navigation bar.
+* [JDFPeekaboo](https://github.com/JoeFryer/JDFPeekaboo) - JDFPeekaboo is a simple class that hides the navigation bar when you scroll down, and shows it again when you scroll back up.
+* [SQTShyNavigationBar](https://github.com/cbpowell/SQTShyNavigationBar) - A shrinking (shy) navigation bar that automatically adjusts as a user scrolls, with customizable full and shy heights.
 
 ####🔸 *Swift*
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
@@ -919,6 +931,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CRMotionView](https://github.com/chroman/CRMotionView) - A custom photo viewer that implements device motion scrolling, inspired by Facebook Paper.
 * [CRPixellatedView](https://github.com/chroman/CRPixellatedView) - UIView subclass with a pixellated animation inspired by Facebook's Slingshot app.
 * [DBImageView](https://github.com/danielebogo/DBImageView)
+* [ExpandableHeaderView](https://github.com/microeditionbiz/ExpandableHeaderView) It tries to reproduce the behaviour that you can find on Twitter app, profile section, when the user scrolls down that section, the header is expanded and blurred.
 * [ETFoursquareImages](https://github.com/EugeneTrapeznikov/ETFoursquareImages)
 * [HATransparentView](https://github.com/hebertialmeida/HATransparentView) - UIView subclass based on Rdio stations menu.
 * [JTFadingInfoView](https://github.com/JunichiT/JTFadingInfoView) - JTFadingInfoView is google's material design like notification view with smooth fade in/out animation features, based on UIButton subclass.
