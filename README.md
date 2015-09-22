@@ -21,6 +21,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Camera](#camera)
 - [Charts](#charts)
 - [CollectionView](#collectionview)
+- [CollectionViewCell](#collectionviewcell)
 - [Color](#color)
 - [Font](#font)
 - [Gesture](#gesture)
@@ -51,7 +52,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [ViewController](#viewcontroller)
 - [Window](#window)
 - [WebView](#webview)
-        
+
 ## ActionSheet
 ####🔹 *Obj-C*
 * [JGActionSheet](https://github.com/JonasGessner/JGActionSheet)
@@ -92,7 +93,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ExpandAlertView](https://github.com/denty/ExpandAlertView)
 * [GUAAlertView](https://github.com/onlymelon/GUAAlertView)
 * [JDFTooltips](https://github.com/JoeFryer/JDFTooltips)
-* [JTAlertView](https://github.com/kubatru/JTAlertView) 
+* [JTAlertView](https://github.com/kubatru/JTAlertView)
 * [KLCPopup](https://github.com/jmascia/KLCPopup)
 * [Kamagari](https://github.com/tasanobu/Kamagari)
 * [LGAlertView](https://github.com/Friend-LGA/LGAlertView)
@@ -257,7 +258,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [GNTickerButton](https://github.com/gonzalonunez/GNTickerButton)
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton)
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)
-* [MaterialView](https://github.com/karticodes/MaterialView) - Material Floating Button for iOS - Swift 
+* [MaterialView](https://github.com/karticodes/MaterialView) - Material Floating Button for iOS - Swift
 * [NPFlipButton](https://github.com/neopixl/NPFlipButton)
 * [PlayPauseAnimation](https://github.com/kNeerajPro/PlayPauseAnimation)
 * [RNLoadingButton](https://github.com/souzainf3/RNLoadingButton-Swift)
@@ -323,17 +324,64 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## CollectionView
 
 ####🔹 *Obj-C*
+
+* [ADLivelyCollectionView](https://github.com/applidium/ADLivelyCollectionView) -  Add custom animations to any UICollectionView.
+* [AdvancedUserInterfacesUsingCollectionView](https://github.com/kemenaran/AdvancedUserInterfacesUsingCollectionView) - Swipe to edit, batch editing including drag reordering, and a sophisticated custom UICollectionViewLayout that features pinning headers, global headers, and loading placeholders.
 * [AWCollectionViewDialLayout](https://github.com/awdigital/AWCollectionViewDialLayout) - UICollectionViewLayout for displaying cells in a semi-circle with a nice fish eye effect.
+* [CollectionViewParallaxScrolling](https://github.com/ole/CollectionViewParallaxScrolling) - An implementation of a custom UICollectionViewLayout that demonstrates WhatsApp-style parallax scrolling in a collection view.
 * [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) - Parallax, Sticky Headers, Growing image heading, done right in one UICollectionViewLayout.
+* [DMDynamicWaterfall](https://github.com/malcommac/DMDynamicWaterfall) -  UICollectionView Waterfall Layout with UIKit Dynamics.
+* [EBCardCollectionViewLayout](https://github.com/betzerra/EBCardCollectionViewLayout) - Horizzontal UICollectionView.
+* [FBLikeLayout](https://github.com/gringoireDM/FBLikeLayout) - This is an UICollectionView layout inspired by the photo section of facebook. This layout loads squared items with randomic full size items.
+* [HTKDragAndDropCollectionViewLayout](https://github.com/henrytkirk/HTKDragAndDropCollectionViewLayout) UICollectionViewLayout subclass that works together with a custom UICollectionViewCell to provide drag and drop for a UICollectionView.
+* [HorizontalScrollCell](https://github.com/mcelayir/HorizontalScrollCell)
+* [JCCollectionViewWaterfallLayout](https://github.com/lijingcheng/JCCollectionViewWaterfallLayout) - Support multiple section, and can add headerView and footerView.
+* [JGTransitionCollectionView](https://github.com/JayGajjar/JGTransitionCollectionView)
+* [MJParallaxCollectionView](https://github.com/mayuur/MJParallaxCollectionView)
+* [MONUniformFlowLayout](https://github.com/mownier/MONUniformFlowLayout) - A simple flow layout the handles the arrangement of the items in a collection view.
+* [MYNStickyFlowLayout](https://github.com/myntra/MYNStickyFlowLayout) - Drop-in sticky headers and footers for UICollectionView.
+* [NHBalancedFlowLayout](https://github.com/njdehoog/NHBalancedFlowLayout) - UICollectionViewLayout subclass for displaying items of different sizes in a grid without wasting any visual space.
+* [NVBnbCollectionView](https://github.com/ninjaprox/NVBnbCollectionView) - A Airbnb-inspired collection view (parallax).
+* [PDKTStickySectionHeadersCollectionViewLayout](https://github.com/Produkt/PDKTStickySectionHeadersCollectionViewLayout)
+* [PinterestAnimator](https://github.com/Produkt/PDKTStickySectionHeadersCollectionViewLayout) - UICollectionView Layout that makes section headers behave like UITableView section headers. Section header views stick to the top of the collection view, over it's section cells.
+* [RBCollectionViewBalancedColumnLayout](https://github.com/eoghain/RBCollectionViewBalancedColumnLayout) - A UICollectionViewLayout that displays your cells in balanced columns.
+* [RCCPeakableImageView](https://github.com/robertoseidenberg/RCCPeakableImageView) - Implementation of a "peekable" thumbnail image.
 * [RPSlidingMenu](https://github.com/RobotsAndPencils/RPSlidingMenu)
+* [Stretchy-Collection-View](https://github.com/cnoon/Stretchy-Collection-View) - A demo app of how to use a custom UICollectionViewFlowLayout to create a stretchy collection view just like Evernote does in iOS 7.
+* [THSpringyCollectionView](https://github.com/tristanhimmelman/THSpringyCollectionView) - A memory and CPU efficient implementation of a collection view with cells that bounce around like they do in the iOS 7 messages app.
+* [uicollectionview-reordering](https://github.com/nshintio/uicollectionview-reordering) - UICollectionView with iOS 9 supports easy reordering.
+* [UICollectionViewWithSearchBar](https://github.com/sambudda/UICollectionViewWithSearchBar) - UICollectionView With SearchBar.
+* [UIXPackedLayout](https://github.com/gumbright/UIXPackedLayout) - UICollectionViewLayout that fits as many cells a possible in either horizontal or vertical slices.
+* [Voltron](https://github.com/zats/Voltron) - When UICollectionViewCell needs to be a UIViewController.
 * [VPRubberMenu](https://github.com/vitalykw/VPRubberMenu) - UICollectionView - Menu component with 'rubbery' effect inspired by Nike 'Making' application.
+* [ZOZolaZoomTransition](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition) - Zoom transition that animates the entire view heirarchy. Used extensively in the Zola iOS application.
+
+####🔸 *Swift*
+
+* [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
+* [GooglePlayTransition](https://github.com/xxxAIRINxxx/GooglePlayTransition) - Custom transition like Google Play Store Android App. written in Swift.
+* [KRLCollectionViewGridLayout](https://github.com/JayGajjar/JGTransitionCollectionView/tree/master/JGTransitionCollectionView) - A iOS swift base collectionview with unique animation feature inspired from behance made using UICollectionView.
+* [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout) - A UICollectionView layout whitch can move item with drag and drop.
+* [ReorderableGridView-Swift](https://github.com/cemolcay/ReorderableGridView-Swift) - Reorderable grid view solution implemented with swift.
+* [SACollectionViewVerticalScalingFlowLayout](https://github.com/szk-atmosphere/SACollectionViewVerticalScalingFlowLayout) - UICollectionViewLayout that performs scaling up and down automatically on disappearing cells, and applies UIDynamics.
+* [Sapporo](https://github.com/nghialv/Sapporo) - Cellmodel-driven collectionview manager.
+* [ScaledVisibleCellsCollectionView](https://github.com/ikemai/ScaledVisibleCellsCollectionView) - ScaledVisibleCellsCollectionView is UICollectionView extension. ScaledVisibleCellsCollectionView is Check visible cells position. And setting cell's scale and alpha.
+* [SwiftyCollectionView](https://github.com/vinit5320/SwiftyCollectionView) - [Tutorial](https://swiftyos.wordpress.com/2015/08/01/animated-wave-transition-collectionview-ckwavecollectionviewtransition/)
+* [ZLBalancedFlowLayout](https://github.com/zhxnlai/ZLBalancedFlowLayout) - A UICollectionViewFlowLayout subclass that scales items to take up space, optimized for large item set.
+
+## CollectionViewCell
+
+####🔹 *Obj-C*
+* [BeanTransitionManager](https://github.com/sfwalsh/BeanTransitionManager) - A Pinterest style segue for expanding UIImageViews into detail views.
+* [UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell) - Automatically UICollectionViewCell size calculating.
+
 
 ##Color
 *Color Pickers and color frameworks*
 
 ####🔹 *Obj-C*
 * [BFPaperColors](https://github.com/bfeher/BFPaperColors) - Flat colors taken from Google's Material Design: Paper.
-* [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon is a lightweight, yet powerful, flat color framework for iOS (Objective-C & Swift). 
+* [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon is a lightweight, yet powerful, flat color framework for iOS (Objective-C & Swift).
 * [DBImageColorPicker](https://github.com/d0ping/DBImageColorPicker) - https://github.com/d0ping/DBImageColorPicker
 * [FPBrandColors](https://github.com/pedrovieira7/FPBrandColors)
 * [MSColorPicker](https://github.com/sgl0v/MSColorPicker)
@@ -362,8 +410,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔹 *Obj-C*
 * [Jot](https://github.com/IFTTT/Jot) - Easy way to add touch-controlled drawings and text to images in your iOS app.
 * [JVTouchEventsWindow](https://github.com/JV17/JVTouchEventsWindow) - JVTouchEventsWindow is a simple helper framework to display touch events within your projects/apps demos, with easy customization. It really comes handy when you want to show off your app and create a preview video/gif of your app.
+* [PatternLock](https://github.com/jubinjacob19/PatternLock)
 * [PJRSignatureDemo](https://github.com/paritsohraval100/PJRSignatureDemo) - Signature
-* [SlingshotColorGradient](https://github.com/n6xej/SlingshotColorGradient) - Select a Pen and Color similar to the way SlingShot does
+* [SlingshotColorGradient](https://github.com/n6xej/SlingshotColorGradient) - Select a Pen and Color similar to the way SlingShot does.
 
 ####🔸 *Swift*
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool [Swift / iOS]
@@ -374,7 +423,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## Image
 
 ####🔹 *Obj-C*
-* [ANBlurredImageView](https://github.com/aaronn/ANBlurredImageView) - Subclass of UIImageView for animating the blurring and unblurring of images with a tint color. 
+* [ANBlurredImageView](https://github.com/aaronn/ANBlurredImageView) - Subclass of UIImageView for animating the blurring and unblurring of images with a tint color.
 * [CoverPhotoTwitterExample](https://github.com/vani2/CoverPhotoTwitterExample) - Example of blurred expanding cover photo like twitter app.
 * [KVNBoundedImageView](https://github.com/donnellyk/KVNBoundedImageView) - KVNBoundedImageView attempts to keep faces visible and centered in a UIImageView.
 * [LiveBlend](https://github.com/kevinzhow/LiveBlend)
@@ -387,7 +436,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [ARNZoomImageTransition](https://github.com/xxxAIRINxxx/ARNZoomImageTransition)
 * [DPImageCache](https://github.com/dphans/DPImageCache) - Swift extension for UIImageView. Help loading image asynchronously and store local file cache.
-* [Nuke](https://github.com/kean/Nuke) - Advanced pure Swift framework for loading, caching, processing, displaying and preheating images. 
+* [Nuke](https://github.com/kean/Nuke) - Advanced pure Swift framework for loading, caching, processing, displaying and preheating images.
 * [PASImageView](https://github.com/abiaad/PASImageView) - Rounded async imageview downloader lightly cached and written in Swift
 * [SwiftUIImageEffects](https://github.com/globchastyy/SwiftUIImageEffects)
 * [Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
@@ -400,7 +449,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AnimatedLogin](https://github.com/arturfelipet/AnimatedLogin) - Just a Login view with video in the background alike Vine.
 * [CBZSplashView](https://github.com/callumboddy/CBZSplashView) - Inspired by twitter bird animation.
 * [CSWXIBWalkThrough](https://github.com/n6xej/CSWXIBWalkThrough) - An Objective-C clone of github/ariok/BWWalkthrough using only XIB files, no storyboards
-* [ESConveyorBelt](https://github.com/escoz/ESConveyorBelt) - Create nice tutorial pages with parallax and animations with ease 
+* [ESConveyorBelt](https://github.com/escoz/ESConveyorBelt) - Create nice tutorial pages with parallax and animations with ease
 * [FeedbackMe](https://github.com/leonardoobaptistaa/FeedbackMe) - Simply the request for feedback/reviews to your users.
 * [GHWalkThrough](https://github.com/GnosisHub/GHWalkThrough
 * [JMHoledView](https://github.com/leverdeterre/JMHoledView)
@@ -408,9 +457,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MPCoachMarks](https://github.com/bubudrc/MPCoachMarks)
 * [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView)
 * [Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
-* [PICoachmark](https://github.com/phamquy/PICoachmark) 
+* [PICoachmark](https://github.com/phamquy/PICoachmark)
 * [Popsicle](https://github.com/DavdRoman/Popsicle) - Simple, extensible value interpolation framework
-* [ProductTour](https://github.com/Cclleemm/ProductTour) -  iOS bubble tutorial to help the user understand your interface. 
+* [ProductTour](https://github.com/Cclleemm/ProductTour) -  iOS bubble tutorial to help the user understand your interface.
 * [SKSplashView](https://github.com/sachinkesiraju/SKSplashView) - Twitter bird animation
 * [Surfboard](https://github.com/MosheBerman/Surfboard) - Surfboard is a delightful onboarding framework for iOS.
 * [VXWalkthroughViewController](https://github.com/swiftmanagementag/VXWalkthroughViewController) - Simple way to add an intro to your app.
@@ -421,7 +470,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RMParallax](https://github.com/michaelbabiy/RMParallax)
 * [SoundCloudTransition](https://github.com/xxxAIRINxxx/SoundCloudTransition) - Custom interactive transition like SoundCloud iOS App.
 * [TwitterBirdAnimation](https://github.com/rounak/TwitterBirdAnimation/) - Twitter bird animation
-* [VideoSplash](https://github.com/toygard/VideoSplash) 
+* [VideoSplash](https://github.com/toygard/VideoSplash)
 
 ## Keyboard
 
@@ -562,7 +611,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MISDropdownViewController](https://github.com/maicki/MISDropdownViewController)
 * [MLPresentController](https://github.com/molon/MLPresentController)
 * [NGSplitMenuController](https://github.com/nitingeorge227/NGSplitMenuController) - Menu Driven Split view controller
-* [NOCircleSelector](https://github.com/natalia-osa/NOCircleSelector)* 
+* [NOCircleSelector](https://github.com/natalia-osa/NOCircleSelector)*
 * [OECentreMenu](https://github.com/oduwa/OECentreMenu) - A simple drag and drop solution for an animated menu in the centre of the screen.
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) - Pop animation menu
 * [NFXPullTab](https://github.com/noppefoxwolf/NFXPullTab) - Easy way to select ViewController.
@@ -622,8 +671,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [XLData](https://github.com/xmartlabs/XLData)
 
 ####🔸 *Swift*
-* [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData is a framework to easily access Core Data objects in Swift. 
-* [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift 
+* [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData is a framework to easily access Core Data objects in Swift.
+* [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift
 * [GRDB](https://github.com/groue/GRDB.swift) - SQLite toolkit.
 * [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit)
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
@@ -688,7 +737,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SSAPullToRefresh](https://github.com/SSA111/SSAPullToRefresh)
 * [StargatePullToRefresh](https://github.com/hiddenmemory/StargatePullToRefresh)
 * [UzysAnimatedGifLoadMore](https://github.com/uzysjung/UzysAnimatedGifLoadMore) - Add LoadMore using animated GIF to any scrollView with just simple code
-* [UzysCircularProgressPullToRefresh](https://github.com/uzysjung/UzysCircularProgressPullToRefresh) - 
+* [UzysCircularProgressPullToRefresh](https://github.com/uzysjung/UzysCircularProgressPullToRefresh) -
 
 ####🔸 *Swift*
 * [ADChromePullToRefresh](https://github.com/Antondomashnev/ADChromePullToRefresh)
@@ -817,6 +866,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AccordionTableViewController](https://github.com/klevison/KMAccordionTableViewController) - Accordion UITableViewController component based on Apples's example.
 * [COBezierTableView](https://github.com/knutigro/COBezierTableView) - UITableView modification written in Swift where cells are scrolling in an arc defined by a BezierPath.
 * [MBTwitterScroll](https://github.com/starchand/MBTwitterScroll) - Recreate Twitter's profile page scrolling animation for UITableView and UIScrollViews.
+* [OptionalEmptyTableViews](https://github.com/stuartbreckenridge/OptionalEmptyTableViews)
 * [QuickRearrangeTableView](https://github.com/okla/QuickRearrangeTableView)
 * [Static](https://github.com/venmo/Static) - Simple static table views for iOS in Swift.
 
@@ -828,7 +878,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AMBTableViewController](https://github.com/CyberAgent/AMBTableViewController) - Storyboard and Prototype Cells-centric block-based UITableView controller to manage complex layouts.s
 * [ASOXScrollTableViewCell](https://github.com/agusso/ASOXScrollTableViewCell) - Horizontal Scroll Table View Cell
 * [BFPaperTableViewCell](https://github.com/bfeher/BFPaperTableViewCell) - UITableViewCell for iOS inspired by Google's Paper Material Design.
-* [BKZoomView](https://github.com/freshking/BKZoomView) - A UIView that will zoom into its parent view. 
+* [BKZoomView](https://github.com/freshking/BKZoomView) - A UIView that will zoom into its parent view.
 * [DRCellSlideGestureRecognizer](https://github.com/DavdRoman/DRCellSlideGestureRecognizer) - Make your cells actionable through swipes.
 * [DiceTableViewCell](https://github.com/damienlaughton/DiceTableViewCell) - A Parallax TableViewCell like the Dice app.
 * [HTKDynamicResizingCell](https://github.com/henrytkirk/HTKDynamicResizingCell) - Subclassed UITableView/UICollectionView cells that will auto calculate their size so long as AutoLayout constraints are applied correctly. For iOS 7+. Works similar to how iOS 8's auto sizing of cells work.
@@ -843,8 +893,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [tableviewslide](https://github.com/tuchangwei/tableviewslide) - Table view slides effect.
 
 ####🔸 *Swift*
-  
-* [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - Expanding table view cells using `UIStackView in iOS 9.
+
+* [ExpandableTableView](https://github.com/rondinellimorais/ExpandableTableView)  * [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - Expanding table view cells using `UIStackView in iOS 9.
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - Animation between list and detail views.
 * [SBGestureTableView](https://github.com/Stickbuilt/SBGestureTableView) - Swift UITableView subclass that supports swiping rows ala Mailbox and long press to move rows.
 * [WobbleView](https://github.com/inFullMobile/WobbleView) -  Wobble effect.
@@ -1000,10 +1050,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control
 
-* [RFShortURL](https://github.com/rfunk82/RFShortURL) - RFShortURL provides free URL redirection service. 
+* [RFShortURL](https://github.com/rfunk82/RFShortURL) - RFShortURL provides free URL redirection service.
 
 * [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
-
-
-
-
