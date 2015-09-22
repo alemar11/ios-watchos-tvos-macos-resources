@@ -48,6 +48,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Textfield](#textfield)
 - [Timer](#timer)
 - [Toast Notification](#toast-notification)
+- [Utils](#utils)
 - [View](#view)
 - [ViewController](#viewcontroller)
 - [Window](#window)
@@ -324,7 +325,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## CollectionView
 
 ####🔹 *Obj-C*
-
 * [ADLivelyCollectionView](https://github.com/applidium/ADLivelyCollectionView) -  Add custom animations to any UICollectionView.
 * [AdvancedUserInterfacesUsingCollectionView](https://github.com/kemenaran/AdvancedUserInterfacesUsingCollectionView) - Swipe to edit, batch editing including drag reordering, and a sophisticated custom UICollectionViewLayout that features pinning headers, global headers, and loading placeholders.
 * [AWCollectionViewDialLayout](https://github.com/awdigital/AWCollectionViewDialLayout) - UICollectionViewLayout for displaying cells in a semi-circle with a nice fish eye effect.
@@ -357,7 +357,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ZOZolaZoomTransition](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition) - Zoom transition that animates the entire view heirarchy. Used extensively in the Zola iOS application.
 
 ####🔸 *Swift*
-
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
 * [GooglePlayTransition](https://github.com/xxxAIRINxxx/GooglePlayTransition) - Custom transition like Google Play Store Android App. written in Swift.
 * [KRLCollectionViewGridLayout](https://github.com/JayGajjar/JGTransitionCollectionView/tree/master/JGTransitionCollectionView) - A iOS swift base collectionview with unique animation feature inspired from behance made using UICollectionView.
@@ -436,6 +435,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [ARNZoomImageTransition](https://github.com/xxxAIRINxxx/ARNZoomImageTransition)
 * [DPImageCache](https://github.com/dphans/DPImageCache) - Swift extension for UIImageView. Help loading image asynchronously and store local file cache.
+* [Haneke](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 * [Nuke](https://github.com/kean/Nuke) - Advanced pure Swift framework for loading, caching, processing, displaying and preheating images.
 * [PASImageView](https://github.com/abiaad/PASImageView) - Rounded async imageview downloader lightly cached and written in Swift
 * [SwiftUIImageEffects](https://github.com/globchastyy/SwiftUIImageEffects)
@@ -580,7 +580,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## Menu
 
 ####🔹 *Obj-C*
-
 * [ADDropDownMenuView](https://github.com/Antondomashnev/ADDropDownMenuView)
 * [AnimatedCircularCollectionMenu](https://github.com/chillok/AnimatedCircularCollectionMenu)
 * [BAHFourCornersController](https://github.com/BHughes3388/BAHFourCornersController)
@@ -976,6 +975,17 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 
+## Utils
+
+####🔸 *Swift*
+* [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
+* [Miser](https://github.com/tasanobu/Misen) - Script to support easily using Xcode Asset Catalog in Swift.
+* [R](https://github.com/mac-cain13/R.swift) - Get strong typed, autocompleted resources like images, fonts and segues in Swift projects.
+* [RateLimit](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
+* [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
+* [SwiftFilePath](https://github.com/nori0620/SwiftFilePath) - Simple and powerful wrapper for NSFileManager.
+* [SwiftShell-Swift2.0](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
+
 ## View
 
 ####🔹 *Obj-C*
@@ -1039,6 +1049,10 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ATTutorialController](https://github.com/AfonsoTsukamoto/ATTutorialController) - A tutorial controller ready to use. Uses its own UIWindow.
 * [LNWindowManagerExample](https://github.com/LeoNatan/LNWindowManager) - A window manager that makes working with UIWindow objects easily using an API similar to the UIViewController modal presentation API.
 
+
+
+
+---
 ## Miscellanea
 
 ####🔹 *Obj-C*
@@ -1046,7 +1060,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [AWPagedArray](https://github.com/MrAlek/AWPagedArray) - A data structure for easier pagination. NSProxy subclass which acts as an NSArray for easier paging mechanisms in UITableViews and UICollectionViews.
-* [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control
 
