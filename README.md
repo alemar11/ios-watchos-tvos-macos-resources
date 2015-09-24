@@ -437,6 +437,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ARNZoomImageTransition](https://github.com/xxxAIRINxxx/ARNZoomImageTransition)
 * [DPImageCache](https://github.com/dphans/DPImageCache) - Swift extension for UIImageView. Help loading image asynchronously and store local file cache.
 * [Haneke](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
+* [ImageLoaderSwift](https://github.com/hirohisa/ImageLoaderSwift)
 * [Nuke](https://github.com/kean/Nuke) - Advanced pure Swift framework for loading, caching, processing, displaying and preheating images.
 * [PASImageView](https://github.com/abiaad/PASImageView) - Rounded async imageview downloader lightly cached and written in Swift
 * [SwiftUIImageEffects](https://github.com/globchastyy/SwiftUIImageEffects)
@@ -555,6 +556,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
 * [SwiftLogger](https://github.com/MugunthKumar/SwiftLogger)
 * [Watchdog](https://github.com/wojteklukaszuk/Watchdog) - Class for logging excessive blocking on the main thread.
+* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number.
 
 ## Map
 
@@ -687,6 +689,7 @@ loading effects above navigation bar's background.
 
 ####🔸 *Swift*
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData is a framework to easily access Core Data objects in Swift.
+* [BNR CoreDataStack](https://github.com/bignerdranch/CoreDataStack) - The Big Nerd Ranch Core Data stack.
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift
 * [GRDB](https://github.com/groue/GRDB.swift) - SQLite toolkit.
 * [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit)
