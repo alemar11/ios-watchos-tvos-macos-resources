@@ -82,6 +82,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 *UIAlertViewControllers, PopUps, PopOvers and ToolTips*
 
 ####🔹 *Obj-C*
+* [AFMInfoBanner](https://github.com/ask-fm/AFMInfoBanner) - Easy to use auto-hiding notice bar below Navigation Bar.
 * [AMPopTip](https://github.com/andreamazz/AMPopTip)
 * [BTBalloon](https://github.com/brightec/BTBalloon)
 * [btSimplePopUp](https://github.com/balram3429/btSimplePopUp)
@@ -642,13 +643,28 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## NavigationBar
 
 ####🔹 *Obj-C*
-
+* [BFNavigationBarDrawer]() - A UIToolbar subclass that can easily be displayed below a UINavigationBar, similarly to the playlist view in the Music app.
+* [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) - Create condensing header bars like those seen in the Facebook, Square Cash, and Safari iOS apps.
 * [BMYScrollableNavigationBar](https://github.com/beamly/BMYScrollableNavigationBar) - Facebook-style scrollable navigation bar.
+* [CRGradientNavigationBar](https://github.com/chroman/CRGradientNavigationBar)
+* [CRNavigationController](https://github.com/croberts22/CRNavigationController)
+* [DSTransparentNavigationBar](https://github.com/diegoserranoa/DSTransparentNavigationBar/tree/master/DSNavigationBar) - UINavigationBar that allows to set a transparency colors.
+* [GKFadeNavigationController](https://github.com/gklka/GKFadeNavigationController) - A Navigation Controller which supports animated hiding of the Navigation Bar.
+* [IPSqueezableViewController](https://github.com/zetachang/IPSqueezableViewController) - Condensing effect of navigation bar as the one in Safari App.
 * [JDFPeekaboo](https://github.com/JoeFryer/JDFPeekaboo) - JDFPeekaboo is a simple class that hides the navigation bar when you scroll down, and shows it again when you scroll back up.
+* [JXGradientNavigationBar](https://github.com/swordray/JXGradientNavigationBar) - Custom UINavigationBar subclass with gradient colors on iOS.
+* [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - UINavigationBar Category which allows you to change its appearance dynamically.
+* [NKJPagerViewController](https://github.com/nakajijapan/NKJPagerViewController)
 * [SQTShyNavigationBar](https://github.com/cbpowell/SQTShyNavigationBar) - A shrinking (shy) navigation bar that automatically adjusts as a user scrolls, with customizable full and shy heights.
+* [UINavigationController-gamefade]()
+* [XHLoadingNavigationItemTitleView](https://github.com/JackTeam/XHLoadingNavigationItemTitleView)
+* [ZGNavigationBarTitle](https://github.com/zhigang1992/ZGNavigationBarTitle)
 
 ####🔸 *Swift*
-* [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
+* [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar)
+* [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show 
+loading effects above navigation bar's background.
+* [TB_TwitterUI](https://github.com/ariok/TB_TwitterUI)
 
 ## Network
 
