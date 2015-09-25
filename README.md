@@ -688,6 +688,7 @@ loading effects above navigation bar's background.
 * [XLData](https://github.com/xmartlabs/XLData)
 
 ####🔸 *Swift*
+* [ALBNoSQLDB](https://github.com/AaronBratcher/ALBNoSQLDB) - A SQLite database wrapper written in Swift.
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData is a framework to easily access Core Data objects in Swift.
 * [BNR CoreDataStack](https://github.com/bignerdranch/CoreDataStack) - The Big Nerd Ranch Core Data stack.
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift
