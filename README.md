@@ -452,6 +452,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CBZSplashView](https://github.com/callumboddy/CBZSplashView) - Inspired by twitter bird animation.
 * [CSWXIBWalkThrough](https://github.com/n6xej/CSWXIBWalkThrough) - An Objective-C clone of github/ariok/BWWalkthrough using only XIB files, no storyboards
 * [ESConveyorBelt](https://github.com/escoz/ESConveyorBelt) - Create nice tutorial pages with parallax and animations with ease
+* [FFBackgroundParallax](https://github.com/rockbarato/FFBackgroundParallax)
 * [FeedbackMe](https://github.com/leonardoobaptistaa/FeedbackMe) - Simply the request for feedback/reviews to your users.
 * [GHWalkThrough](https://github.com/GnosisHub/GHWalkThrough
 * [JMHoledView](https://github.com/leverdeterre/JMHoledView)
