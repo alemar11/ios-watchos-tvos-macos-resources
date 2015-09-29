@@ -343,6 +343,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MYNStickyFlowLayout](https://github.com/myntra/MYNStickyFlowLayout) - Drop-in sticky headers and footers for UICollectionView.
 * [NHBalancedFlowLayout](https://github.com/njdehoog/NHBalancedFlowLayout) - UICollectionViewLayout subclass for displaying items of different sizes in a grid without wasting any visual space.
 * [NVBnbCollectionView](https://github.com/ninjaprox/NVBnbCollectionView) - A Airbnb-inspired collection view (parallax).
+* [PICollectionPageView](https://github.com/phamquy/PICollectionPageView)
 * [PDKTStickySectionHeadersCollectionViewLayout](https://github.com/Produkt/PDKTStickySectionHeadersCollectionViewLayout)
 * [PinterestAnimator](https://github.com/Produkt/PDKTStickySectionHeadersCollectionViewLayout) - UICollectionView Layout that makes section headers behave like UITableView section headers. Section header views stick to the top of the collection view, over it's section cells.
 * [RBCollectionViewBalancedColumnLayout](https://github.com/eoghain/RBCollectionViewBalancedColumnLayout) - A UICollectionViewLayout that displays your cells in balanced columns.
@@ -373,6 +374,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔹 *Obj-C*
 * [BeanTransitionManager](https://github.com/sfwalsh/BeanTransitionManager) - A Pinterest style segue for expanding UIImageViews into detail views.
+* [JCBannerView](https://github.com/lijingcheng/JCBannerView)
 * [UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell) - Automatically UICollectionViewCell size calculating.
 
 
@@ -408,6 +410,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## Gesture
 
 ####🔹 *Obj-C*
+* [BFDragGestureRecognizer](https://github.com/DrummerB/BFDragGestureRecognizer)
 * [Jot](https://github.com/IFTTT/Jot) - Easy way to add touch-controlled drawings and text to images in your iOS app.
 * [JVTouchEventsWindow](https://github.com/JV17/JVTouchEventsWindow) - JVTouchEventsWindow is a simple helper framework to display touch events within your projects/apps demos, with easy customization. It really comes handy when you want to show off your app and create a preview video/gif of your app.
 * [PatternLock](https://github.com/jubinjacob19/PatternLock)
@@ -779,10 +782,32 @@ loading effects above navigation bar's background.
 * [TB_PeriscopePTR](https://github.com/ariok/TB_PeriscopePTR) - tutorial [here](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/)
 
 ## ScrollView
+*Scrollviews and PageControllers*
 
 ####🔹 *Obj-C*
 * [BTGlassScrollView](https://github.com/BTLibrary/BTGlassScrollView) - Inspired by Yahoo Weather App, this easy to use view replicates the look and feel.
+* [BTInfiniteScrollView](https://github.com/bteapot/BTInfiniteScrollView)* 
+* [CustomScrollIndicator](https://github.com/leverdeterre/CustomScrollIndicator) - iOS custom ScrollIView indicator.
+* [DroppyScrollView](https://github.com/cemolcay/DroppyScrollView) - Vertical scroll view with abilty to inserting and removing subviews top or any index with stylish dropping animations.
 * [DRPageScrollView](https://github.com/DavdRoman/DRPageScrollView) - Block-driven paginated scroll view.
+* [EMCarousel](https://github.com/emadrazo/EMCarousel)
+* [FeSlideFilter](https://github.com/NghiaTranUIT/FeSlideFilter)
+* [JT3DScrollView](https://github.com/jonathantribouharet/JT3DScrollView) - ScrollView with custom effects during the scroll for iOS.
+* [KVNMaskedPageControl](https://github.com/donnellyk/KVNMaskedPageControl) - A drop-in replacement for UIPageControl that allows seamless transition between different dot styles, one for each page, using a masking effect.
+* [LGSublimationView](https://github.com/lukegeiger/LGSublimationView)
+* [LTInfiniteScrollView](https://github.com/ltebean/LTInfiniteScrollView) - An infinite scrollview allowing easily applying animation.
+* [MMParallaxPresenter](https://github.com/MitchellMalleo/MMParallaxPresenter) - iOS Custom UIScrollView Class to display static text / views with a vertical parallax effect.
+* [MMScrollPresenter](https://github.com/MitchellMalleo/MMScrollPresenter)
+* [MPParallaxCollection](https://github.com/MP0w/MPParallaxCollection)
+* [OLEContainerScrollView](https://github.com/ole/OLEContainerScrollView) - A UIScrollView subclass that intelligently handles multiple child scroll views and does not interfere with UIKitʼs cell reuse functionality.
+* [PACScrollView](https://github.com/claudot/PACScrollView) - UIScrollView with blurry effect on scroll.
+* [PFTemplates](https://github.com/goreste/PFTemplates) - A scrollview similar to Instagram and 20lines app.
+* [PHPageScrollView](https://github.com/TaPhuocHai/PHPageScrollView)
+* [SMScrollView](https://github.com/smnh/SMScrollView)
+* [StrechyParallaxScrollView](https://github.com/cemolcay/StrechyParallaxScrollView)
+* [TAPageControl](https://github.com/TanguyAladenise/TAPageControl)
+* [ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableView) - A simple view for building card like interface like Tinder and Potluck.
+* [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view.
 
 ####🔸 *Swift*
 * [CrossNavigation](https://github.com/artemstepanenko/CrossNavigation) - Any side navigation.
@@ -794,6 +819,8 @@ loading effects above navigation bar's background.
 * [DZNSegmentedControl](https://github.com/dzenbot/DZNSegmentedControl) - A drop-in replacement for UISegmentedControl for showing counts.
 * [ETSegmentedView](https://github.com/ersentekin/ETSegmentedView)
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl)
+iw.
+
 
 ####🔸 *Swift*
 
