@@ -468,6 +468,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [VXWalkthroughViewController](https://github.com/swiftmanagementag/VXWalkthroughViewController) - Simple way to add an intro to your app.
 
 ####🔸 *Swift*
+
 * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - BWWalkthrough is a class to build custom walkthroughs for your iOS App.
 * [JTSplashView](https://github.com/kubatru/JTSplashView) - Create the beautiful splash view with JTSplashView.
 * [RMParallax](https://github.com/michaelbabiy/RMParallax)
@@ -508,6 +509,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ODMultiColumnLabel](https://github.com/Sephiroth87/ODMultiColumnLabel) - A UILabel replacement that renders text on multiple columns.
 
 ## Loader
+
 *Loaders and Activity Indicators*
 ####🔹 *Obj-C*
 * [AMTumblrHud](https://github.com/Asich/AMTumblrHud)
@@ -1040,6 +1042,7 @@ loading effects above navigation bar's background.
 ####🔸 *Swift*
 * [AHKBendableView](https://github.com/fastred/AHKBendableView) - UIView subclass that bends its edges when its position change is animated
 * [AvatarView](https://github.com/chrene/AvatarView/)
+* [Blurable](https://github.com/FlexMonkey/Blurable)
 * [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) - Waves of the radar
 * [ColorDebugView](https://github.com/jonhull/ColorDebugView) - Simple NS/UIView which can be used to quickly get a view on the screen when roughing out layouts/animations.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
