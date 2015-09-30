@@ -51,6 +51,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Utils](#utils)
 - [View](#view)
 - [ViewController](#viewcontroller)
+- [ViewController Transition](#viewcontroller-transition)
 - [Window](#window)
 - [WebView](#webview)
 
@@ -658,6 +659,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CRNavigationController](https://github.com/croberts22/CRNavigationController)
 * [DSTransparentNavigationBar](https://github.com/diegoserranoa/DSTransparentNavigationBar/tree/master/DSNavigationBar) - UINavigationBar that allows to set a transparency colors.
 * [GKFadeNavigationController](https://github.com/gklka/GKFadeNavigationController) - A Navigation Controller which supports animated hiding of the Navigation Bar.
+* [HTKScrollingNavigationController](https://github.com/henrytkirk/HTKScrollingNavigationController) - Scrolling navigation controller for iOS 7.x with slide-up transitions. It uses UICollectionView under the hood and currently supports vertical sliding.
 * [IPSqueezableViewController](https://github.com/zetachang/IPSqueezableViewController) - Condensing effect of navigation bar as the one in Safari App.
 * [JDFPeekaboo](https://github.com/JoeFryer/JDFPeekaboo) - JDFPeekaboo is a simple class that hides the navigation bar when you scroll down, and shows it again when you scroll back up.
 * [JXGradientNavigationBar](https://github.com/swordray/JXGradientNavigationBar) - Custom UINavigationBar subclass with gradient colors on iOS.
@@ -792,6 +794,7 @@ loading effects above navigation bar's background.
 * [DRPageScrollView](https://github.com/DavdRoman/DRPageScrollView) - Block-driven paginated scroll view.
 * [EMCarousel](https://github.com/emadrazo/EMCarousel)
 * [FeSlideFilter](https://github.com/NghiaTranUIT/FeSlideFilter)
+* [MBXPageViewController](https://github.com/Moblox/MBXPageViewController) - A library that allows to have a UIPageController with control buttons.
 * [JT3DScrollView](https://github.com/jonathantribouharet/JT3DScrollView) - ScrollView with custom effects during the scroll for iOS.
 * [KVNMaskedPageControl](https://github.com/donnellyk/KVNMaskedPageControl) - A drop-in replacement for UIPageControl that allows seamless transition between different dot styles, one for each page, using a masking effect.
 * [LGSublimationView](https://github.com/lukegeiger/LGSublimationView)
@@ -912,6 +915,7 @@ iw.
 * [YUTableView](https://github.com/ujell/YUTableView) -  UITableView which adds expandable sub-menu support to it.
 
 ####🔸 *Swift*
+
 * [AccordionTableViewController](https://github.com/klevison/KMAccordionTableViewController) - Accordion UITableViewController component based on Apples's example.
 * [COBezierTableView](https://github.com/knutigro/COBezierTableView) - UITableView modification written in Swift where cells are scrolling in an arc defined by a BezierPath.
 * [MBTwitterScroll](https://github.com/starchand/MBTwitterScroll) - Recreate Twitter's profile page scrolling animation for UITableView and UIScrollViews.
@@ -1047,6 +1051,7 @@ iw.
 * [ExpandableHeaderView](https://github.com/microeditionbiz/ExpandableHeaderView) It tries to reproduce the behaviour that you can find on Twitter app, profile section, when the user scrolls down that section, the header is expanded and blurred.
 * [ETFoursquareImages](https://github.com/EugeneTrapeznikov/ETFoursquareImages)
 * [HATransparentView](https://github.com/hebertialmeida/HATransparentView) - UIView subclass based on Rdio stations menu.
+* [HATransparentView](https://github.com/hebertialmeida/HATransparentView)
 * [JTFadingInfoView](https://github.com/JunichiT/JTFadingInfoView) - JTFadingInfoView is google's material design like notification view with smooth fade in/out animation features, based on UIButton subclass.
 * [JZStackedView](https://github.com/zammitjames/JZStackedView)
 * [LazyFadeInView](https://github.com/itouch2/LazyFadeInView)
@@ -1084,19 +1089,70 @@ iw.
 ## ViewController
 
 ####🔹 *Obj-C*
+
 * [VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation) - A simple way to present a view controller with keeping the blurred previous one.
 * [ZoomTransition](https://github.com/tristanhimmelman/ZoomTransition) - An easy to use interactive zoom transition for presenting view controllers onto a navigation stack.
+
+## ViewController Transition
+*UIStoryboardSegue, View Controller Transitions*
+
+####🔹 *Obj-C*
+
+* [AFBlurSegue](https://github.com/AlvaroFranco/AFBlurSegue)
+* [AFPopupView](https://github.com/AlvaroFranco/AFPopupView)
+* [AMSlideMenu](https://github.com/SocialObjects-Software/AMSlideMenu)
+* [ARTransitionAnimator](https://github.com/AugustRush/ARTransitionAnimator)
+* [BWTitlePagerView](https://github.com/brunow/BWTitlePagerView) - Recreate the Twitter navigation controller pager.
+* [CBHazeTransitionViewController](https://github.com/coolbeet/CBHazeTransitionViewController) - A small clone of Haze's beautiful transition view.
+* [CircleTransition](https://github.com/kukat/CircleTransition)
+* [FGDynamicsTransition](https://github.com/finngaida/FGDynamicsTransition) 
+* [HYAwesomeTransition](https://github.com/nathanwhy/HYAwesomeTransition)
+* [ICSDrawerController](https://github.com/icecreamstudios/ICSDrawerController)
+* [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition)
+* [JVTransitionAnimator](https://github.com/JV17/JVTransitionAnimator)
+* [LHMaterialDesign](https://github.com/leostc/LHMaterialDesign)
+* [LTSlidingViewController](https://github.com/ltebean/LTSlidingViewController) - Sliding ViewController allowing custom transition
+* [MRFlipTransition](https://github.com/mrcrow/MRFlipTransition)
+* [MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController)
+* [PanToBack](https://github.com/soleaf/PanToBack)
+* [RASlideInViewController](https://github.com/ra1028/RASlideInViewController)
+* [REFrostedViewController](https://github.com/romaonthego/REFrostedViewController)
+* [RGCardViewLayout](https://github.com/terminatorover/RGCardViewLayout)
+* [RMStepsController](https://github.com/CooperRS/RMStepsController)
+* [RNBlurredSideViewController](https://github.com/cwenboshi/RNBlurredSideViewController)
+* [SCPageViewController](https://github.com/stefanceriu/SCPageViewController)
+* [SJStackNavigation](https://github.com/leesungju/SJStackNavigation)
+* [SLPagingView](https://github.com/StefanLage/SLPagingView) - A navigation bar system allowing to do a Tinder like or Twitter like.
+* [Sidebar-Reveal-Taasky](https://github.com/IgorFedorchuk/Sidebar-Reveal-Taasky)
+* [TWTSideMenuViewController](https://github.com/twotoasters/TWTSideMenuViewController)
+* [YFCardTransitions](https://github.com/yuriferretti/YFCardTransitions)
+* [YSLContainerViewController](https://github.com/y-hryk/YSLContainerViewController)
+* [YSLTransitionAnimator](https://github.com/y-hryk/YSLTransitionAnimator)
+* [ZOZolaZoomTransition](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition)
+
+####🔸 *Swift*
+
+* [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
+* [ISScrollViewPageSwift](https://github.com/Ilhasoft/ISScrollViewPageSwift) ScollView with UIViewController
+* [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition)
+* [QZCircleSegue](https://github.com/alextarrago/QZCircleSegue) -  Beatiful transition between circular-shapped buttons and your View Controller.
+* [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)
+* [SwiftPagingNav](https://github.com/aubrey/SwiftPagingNav) - A Twitter-like navigation bar and page viewer written in Swift.
 
 ## WebView
 
 ####🔹 *Obj-C*
+
 * [DZNWebViewController](https://github.com/dzenbot/DZNWebViewController)
 
 ####🔸 *Swift*
+
 * [TLMetaResolver](https://github.com/tryolabs/TLMetaResolver) - TLMetaResolver is an extension to UIWebView writen in Swift that adds the ability to parse the meta tags in the loaded web page and extract information about a native app that can be deep linked from that page.
 
 ## Window
+
 ####🔹 *Obj-C*
+
 * [ATTutorialController](https://github.com/AfonsoTsukamoto/ATTutorialController) - A tutorial controller ready to use. Uses its own UIWindow.
 * [LNWindowManagerExample](https://github.com/LeoNatan/LNWindowManager) - A window manager that makes working with UIWindow objects easily using an API similar to the UIViewController modal presentation API.
 
@@ -1110,6 +1166,7 @@ iw.
 * [BugReportKit](https://github.com/rahuljiresal/BugReportKit/tree/master/Example/BugReportKit)
 
 ####🔸 *Swift*
+
 * [AWPagedArray](https://github.com/MrAlek/AWPagedArray) - A data structure for easier pagination. NSProxy subclass which acts as an NSArray for easier paging mechanisms in UITableViews and UICollectionViews.
 
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control
