@@ -1148,6 +1148,7 @@ iw.
 * [ARTransitionAnimator](https://github.com/AugustRush/ARTransitionAnimator)
 * [BWTitlePagerView](https://github.com/brunow/BWTitlePagerView) - Recreate the Twitter navigation controller pager.
 * [CBHazeTransitionViewController](https://github.com/coolbeet/CBHazeTransitionViewController) - A small clone of Haze's beautiful transition view.
+* [CBStoreHouseTransition](https://github.com/coolbeet/CBStoreHouseTransition) - A custom transition inspired by Storehouse iOS app, also support pop gesture.
 * [CircleTransition](https://github.com/kukat/CircleTransition)
 * [FGDynamicsTransition](https://github.com/finngaida/FGDynamicsTransition) 
 * [HYAwesomeTransition](https://github.com/nathanwhy/HYAwesomeTransition)
@@ -1168,10 +1169,14 @@ iw.
 * [SJStackNavigation](https://github.com/leesungju/SJStackNavigation)
 * [SLPagingView](https://github.com/StefanLage/SLPagingView) - A navigation bar system allowing to do a Tinder like or Twitter like.
 * [Sidebar-Reveal-Taasky](https://github.com/IgorFedorchuk/Sidebar-Reveal-Taasky)
+* [STPTransitions](https://github.com/stepanhruda/STPTransitions) - Unified, easy API for custom iOS view controller transitioning.
+* [TB_InteractiveTransitions](https://github.com/ariok/TB_InteractiveTransitions)
 * [TWTSideMenuViewController](https://github.com/twotoasters/TWTSideMenuViewController)
+* [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) - A collection of iOS7 animation controllers and interaction controllers, providing flip, fold and all kinds of other transitions.
 * [YFCardTransitions](https://github.com/yuriferretti/YFCardTransitions)
 * [YSLContainerViewController](https://github.com/y-hryk/YSLContainerViewController)
 * [YSLTransitionAnimator](https://github.com/y-hryk/YSLTransitionAnimator)
+* [ZFDragableModalTransition](https://github.com/zoonooz/ZFDragableModalTransition) - Custom animation transition for present modal view controller.
 * [ZOZolaZoomTransition](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition)
 
 ####🔸 *Swift*
@@ -1180,6 +1185,7 @@ iw.
 * [ISScrollViewPageSwift](https://github.com/Ilhasoft/ISScrollViewPageSwift) ScollView with UIViewController
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition)
 * [QZCircleSegue](https://github.com/alextarrago/QZCircleSegue) -  Beatiful transition between circular-shapped buttons and your View Controller.
+* [RadialTransition_swift](https://github.com/apadalko/RadialTransition_swift) - Great iOS radial (circle) animation transition for navigation controller, with custom back swipe. (swift).
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)
 * [SwiftPagingNav](https://github.com/aubrey/SwiftPagingNav) - A Twitter-like navigation bar and page viewer written in Swift.
 
