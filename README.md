@@ -51,7 +51,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Toast Notification](#toast-notification)
 - [Utils](#utils)
 - [View](#view)
-- [ViewController](#viewcontroller)
+- [ViewController Container](#viewcontroller-container)
 - [ViewController Transition](#viewcontroller-transition)
 - [Window](#window)
 - [WebView](#webview)
@@ -62,6 +62,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [LGActionSheet](https://github.com/Friend-LGA/LGActionSheet)
 * [REDActionSheet](https://github.com/reddavis/REDActionSheet)
 * [RMActionController](https://github.com/CooperRS/RMActionController)
+* [RMPickerViewController](https://github.com/CooperRS/RMPickerViewController)
 * [SGActionView](https://github.com/sagiwei/SGActionView)
 * [WCActionSheet](https://github.com/wczekalski/WCActionSheet)
 
@@ -342,6 +343,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JGTransitionCollectionView](https://github.com/JayGajjar/JGTransitionCollectionView)
 * [MJParallaxCollectionView](https://github.com/mayuur/MJParallaxCollectionView)
 * [MONUniformFlowLayout](https://github.com/mownier/MONUniformFlowLayout) - A simple flow layout the handles the arrangement of the items in a collection view.
+* [MTCardLayout](https://github.com/minhntran/MTCardLayout) - Mimicking the behavior of the Passbooks apps in iOS using a custom UICollectionViewLayout.
 * [MYNStickyFlowLayout](https://github.com/myntra/MYNStickyFlowLayout) - Drop-in sticky headers and footers for UICollectionView.
 * [NHBalancedFlowLayout](https://github.com/njdehoog/NHBalancedFlowLayout) - UICollectionViewLayout subclass for displaying items of different sizes in a grid without wasting any visual space.
 * [NVBnbCollectionView](https://github.com/ninjaprox/NVBnbCollectionView) - A Airbnb-inspired collection view (parallax).
@@ -352,6 +354,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RCCPeakableImageView](https://github.com/robertoseidenberg/RCCPeakableImageView) - Implementation of a "peekable" thumbnail image.
 * [RPSlidingMenu](https://github.com/RobotsAndPencils/RPSlidingMenu)
 * [Stretchy-Collection-View](https://github.com/cnoon/Stretchy-Collection-View) - A demo app of how to use a custom UICollectionViewFlowLayout to create a stretchy collection view just like Evernote does in iOS 7.
+* [TGLStackedViewController](https://github.com/gleue/TGLStackedViewController) - A stack layout with gesture-based reordering using UICollectionView -- inspired by Passbook and Reminders apps.
 * [THSpringyCollectionView](https://github.com/tristanhimmelman/THSpringyCollectionView) - A memory and CPU efficient implementation of a collection view with cells that bounce around like they do in the iOS 7 messages app.
 * [uicollectionview-reordering](https://github.com/nshintio/uicollectionview-reordering) - UICollectionView with iOS 9 supports easy reordering.
 * [UICollectionViewWithSearchBar](https://github.com/sambudda/UICollectionViewWithSearchBar) - UICollectionView With SearchBar.
@@ -381,12 +384,13 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 
 ## Color
-*Color Pickers and color frameworks*
+*Color Pickers, color and style frameworks*
 
 ####🔹 *Obj-C*
 * [BFPaperColors](https://github.com/bfeher/BFPaperColors) - Flat colors taken from Google's Material Design: Paper.
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon is a lightweight, yet powerful, flat color framework for iOS (Objective-C & Swift).
 * [DBImageColorPicker](https://github.com/d0ping/DBImageColorPicker) - https://github.com/d0ping/DBImageColorPicker
+* [DKNightVersion](https://github.com/Draveness/DKNightVersion) - DKNightVersion is a lightweight iOS framework adding night mode/theme to your iOS app.
 * [FPBrandColors](https://github.com/pedrovieira7/FPBrandColors)
 * [MSColorPicker](https://github.com/sgl0v/MSColorPicker)
 * [Rainbow](https://github.com/sickill/rainbow) - Rainbow is a ruby gem for colorizing printed text on ANSI terminals.
@@ -615,6 +619,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔹 *Obj-C*
 * [ADDropDownMenuView](https://github.com/Antondomashnev/ADDropDownMenuView)
+* [AirbnbViewController](https://github.com/pixyzehn/AirbnbViewController)
 * [AnimatedCircularCollectionMenu](https://github.com/chillok/AnimatedCircularCollectionMenu)
 * [BAHFourCornersController](https://github.com/BHughes3388/BAHFourCornersController)
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu)
@@ -652,6 +657,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RGPaperLayout](https://github.com/terminatorover/RGPaperLayout)
 * [RNGridMenu](https://github.com/rnystrom/RNGridMenu)
 * [SAExpandableButton](https://github.com/nopshusang/SAExpandableButton) - Expandable menu for choosing options as seen in the iOS camera app
+* [SSASideMenu](https://github.com/SSA111/SSASideMenu)
 * [SlideMenu3D](https://github.com/hunk/SlideMenu3D)
 * [SphereMenu](https://github.com/itouch2/SphereMenu) - Fun menu powered by UIDynamicAnimator
 * [UPStackMenu](https://github.com/ink-spot/UPStackMenu)
@@ -684,6 +690,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DSTransparentNavigationBar](https://github.com/diegoserranoa/DSTransparentNavigationBar/tree/master/DSNavigationBar) - UINavigationBar that allows to set a transparency colors.
 * [GKFadeNavigationController](https://github.com/gklka/GKFadeNavigationController) - A Navigation Controller which supports animated hiding of the Navigation Bar.
 * [HTKScrollingNavigationController](https://github.com/henrytkirk/HTKScrollingNavigationController) - Scrolling navigation controller for iOS 7.x with slide-up transitions. It uses UICollectionView under the hood and currently supports vertical sliding.
+* [IHParallaxNavigationController](https://github.com/IdleHandsApps/IHParallaxNavigationController)
 * [IPSqueezableViewController](https://github.com/zetachang/IPSqueezableViewController) - Condensing effect of navigation bar as the one in Safari App.
 * [JDFPeekaboo](https://github.com/JoeFryer/JDFPeekaboo) - JDFPeekaboo is a simple class that hides the navigation bar when you scroll down, and shows it again when you scroll back up.
 * [JXGradientNavigationBar](https://github.com/swordray/JXGradientNavigationBar) - Custom UINavigationBar subclass with gradient colors on iOS.
@@ -838,7 +845,8 @@ loading effects above navigation bar's background.
 
 ####🔸 *Swift*
 * [CrossNavigation](https://github.com/artemstepanenko/CrossNavigation) - Any side navigation.
-
+* [PBPagerViewController](https://github.com/paoloboschini/PBPagerViewController)
+* [PagingMenuController](https://github.com/kitasuke/PagingMenuController)
 
 ## Segmented Control
 
@@ -1115,8 +1123,19 @@ iw.
 
 ####🔹 *Obj-C*
 
+* [ALAccordion](https://github.com/Alliants/ALAccordion)
+* [ARSlidingPanel](https://github.com/andriirogulin/ARSlidingPanel)
+* [CBHazeTransitionViewController](https://github.com/coolbeet/CBHazeTransitionViewController)
+* [FlexSlidingView](https://github.com/hwiesmann/FlexSlidingView)
+* [LGSemiModalNavController](https://github.com/lukegeiger/LGSemiModalNavController) - Show a view controller a dynamically set height over another view controller.
+* [MCCardPickerCollectionViewController](https://github.com/yuhua-chen/MCCardPickerCollectionViewController) - A card collection view controller inspired by Facebook People you may know.
+* [SSStackedPageView](https://github.com/PlenipotentSS/SSStackedPageView) - Stacked Views paged on top of each other, inspired by iOS 7 Reminders and iOS 7 Passport.
+* [SemiModalNavigationController](https://github.com/hughbe/semi-modal-controller)
+* [tispr-card-stack](https://github.com/tispr/tispr-card-stack) - Card Stack in Swift for iOS8+.
 * [VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation) - A simple way to present a view controller with keeping the blurred previous one.
+* [XLSlidingContainer](https://github.com/xmartlabs/XLSlidingContainer) 
 * [ZoomTransition](https://github.com/tristanhimmelman/ZoomTransition) - An easy to use interactive zoom transition for presenting view controllers onto a navigation stack.
+
 
 ## ViewController Transition
 *UIStoryboardSegue, View Controller Transitions*
