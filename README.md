@@ -85,6 +85,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 *UIAlertViewControllers, PopUps, PopOvers and ToolTips*
 
 ####🔹 *Obj-C*
+* [ATAppUpdater](https://github.com/apptality/ATAppUpdater) - Checks if there is a newer version of your app in the AppStore and alerts the user to update.
 * [AFMInfoBanner](https://github.com/ask-fm/AFMInfoBanner) - Easy to use auto-hiding notice bar below Navigation Bar.
 * [AMPopTip](https://github.com/andreamazz/AMPopTip)
 * [BTBalloon](https://github.com/brightec/BTBalloon)
@@ -107,6 +108,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MODropAlert](https://github.com/minsOne/MODropAlert)
 * [MSAlertController](https://github.com/szk-atmosphere/MSAlertController)
 * [NYAlertViewController](https://github.com/nealyoung/NYAlertViewController)
+* [RFRateMe](https://github.com/rfunk82/RFRateMe) - RFRateMe will help you promote your iPhone/iPad app without irritating your users.
 * [STPopup](https://github.com/kevin0571/STPopup)
 * [SWBufferedToast](https://github.com/sfwalsh/SWBufferedToast)
 * [TAOverlay](https://github.com/TaimurAyaz/TAOverlay)
@@ -164,6 +166,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 *Image, Video, Color, Audio Editors or Pickers*
 
 ####🔹 *Obj-C*
+* [AssetPicker](https://github.com/taruntyagi697/AssetPicker)
 * [AUMediaPlayer](https://github.com/appunite/AUMediaPlayer) - AUMediaPlayer is a nice high level API for audio and video playback, both from network stream and local files.
 * [AVAssetResourceLoader](https://github.com/leshkoapps/AVAssetResourceLoader) - A sample iOS application that demonstrates AVAssetResourceLoader fro AVPlayer.
 * [CustomImagePicker](https://github.com/cspnanda/CustomImagePicker)
@@ -457,6 +460,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔹 *Obj-C*
 * [ANBlurredImageView](https://github.com/aaronn/ANBlurredImageView) - Subclass of UIImageView for animating the blurring and unblurring of images with a tint color.
+* [CLImageEditor](https://github.com/yackle/CLImageEditor) - CLImageEditor provides basic image editing features to iPhone
 * [CoverPhotoTwitterExample](https://github.com/vani2/CoverPhotoTwitterExample) - Example of blurred expanding cover photo like twitter app.
 * [KVNBoundedImageView](https://github.com/donnellyk/KVNBoundedImageView) - KVNBoundedImageView attempts to keep faces visible and centered in a UIImageView.
 * [LiveBlend](https://github.com/kevinzhow/LiveBlend)
@@ -516,6 +520,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [IHKeyboardAvoiding](https://github.com/IdleHandsApps/IHKeyboardAvoiding) - IHKeyboardAvoiding is an elegant solution for keeping any UIView visible when the keyboard is being shown - no UIScrollView required!.
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
 * [LCNumberInputView](https://github.com/sinss/LCNumberInputView)
+* [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
 * [UIViewController-KeyboardAnimation](https://github.com/Just-/UIViewController-KeyboardAnimation) - Working with iOS keyboard demands a lot of duplicated code. This category allows you to declare your animations with smooth keyboard animation timing and write very little code.
 
 ####🔸 *Swift*
@@ -1065,14 +1070,21 @@ iw.
 
 ## Utils
 
+####🔹 *Obj-C*
+* [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper) - Quick tool to explain the right place to enable your privacy settings.
+
 ####🔸 *Swift*
+* [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 * [Miser](https://github.com/tasanobu/Misen) - Script to support easily using Xcode Asset Catalog in Swift.
+* [OCR-Demo-with-IDOL-OnDemand](https://github.com/bpolat/Swift-OCR-Demo-with-IDOL-OnDemand) - Converting Images into text by using HP's IDOL OnDemand service - iOS app which is written with Swift.
+* [Proposer](https://github.com/nixzhu/Proposer) - Proposer provides a simple API to request permission for access Camera, Photos, Microphone, Contacts, Location.
 * [R](https://github.com/mac-cain13/R.swift) - Get strong typed, autocompleted resources like images, fonts and segues in Swift projects.
 * [RateLimit](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
 * [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
 * [SwiftFilePath](https://github.com/nori0620/SwiftFilePath) - Simple and powerful wrapper for NSFileManager.
 * [SwiftShell-Swift2.0](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
+* [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
 
 ## View
 
@@ -1157,6 +1169,7 @@ iw.
 * [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition)
 * [JVTransitionAnimator](https://github.com/JV17/JVTransitionAnimator)
 * [LHMaterialDesign](https://github.com/leostc/LHMaterialDesign)
+* [LicensingViewController](https://github.com/tiagomnh/LicensingViewController) - UIViewController subclass with a simple API for displaying licensing information.
 * [LTSlidingViewController](https://github.com/ltebean/LTSlidingViewController) - Sliding ViewController allowing custom transition
 * [MRFlipTransition](https://github.com/mrcrow/MRFlipTransition)
 * [MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController)
