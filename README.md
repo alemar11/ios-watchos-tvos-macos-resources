@@ -631,6 +631,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔹 *Obj-C*
 * [ADDropDownMenuView](https://github.com/Antondomashnev/ADDropDownMenuView)
 * [AirbnbViewController](https://github.com/pixyzehn/AirbnbViewController)
+* [AKLookups](https://github.com/purrrminator/AKLookups) - AKLookups class implements a drop-down list for selecting particular value of set.
 * [AnimatedCircularCollectionMenu](https://github.com/chillok/AnimatedCircularCollectionMenu)
 * [BAHFourCornersController](https://github.com/BHughes3388/BAHFourCornersController)
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu)
@@ -642,10 +643,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CNPGridMenu](https://github.com/carsonperrotti/CNPGridMenu) - Mailbox style grid menu with a blurred background
 * [Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS)
 * [DLWidgetMenu](https://github.com/regexident/DLWidgetMenu) - Versatile solution for displaying widget menus and can easily be extended with custom layouts and/or animations.
-* [DWBubbleMenuButton](https://github.com/dwalker39/DWBubbleMenuButton)
+* [DOPDropDownMenu](https://github.com/dopcn/DOPDropDownMenu) - Drop down menu like we see on website for iPhone.
 * [DropMenu](https://github.com/edwinbosire/DropMenu)
 * [DropdownMenu](https://github.com/nmattisson/DropdownMenu)
 * [DropdownViewDemo](https://github.com/JaCaLla/DropdownViewDemo)
+* [DWBubbleMenuButton](https://github.com/dwalker39/DWBubbleMenuButton)
 * [E84PopOutMenu](https://github.com/Element84/E84PopOutMenu)
 * [FancyTabBar](https://github.com/marvelapp/FancyTabBar) - Simple menu button that expands to reveal up to 5 sub-menu options.
 * [IGLDropDownMenu](https://github.com/bestwnh/IGLDropDownMenu) - An iOS drop down menu with pretty animation.
@@ -719,6 +721,9 @@ loading effects above navigation bar's background.
 * [TB_TwitterUI](https://github.com/ariok/TB_TwitterUI)
 
 ## Network
+
+####🔹 *Obj-C*
+* [Polymer](https://github.com/LoganWright/Polymer) - Endpoint focused networking.
 
 ####🔸 *Swift*
 * [SSASwiftReachability](https://github.com/SSA111/SSASwiftReachability) - A Swift Library To Track Network Reachability Changes.
@@ -1102,6 +1107,8 @@ iw.
 ####🔸 *Swift*
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
+* [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift that makes your life easier.
+* [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 * [Miser](https://github.com/tasanobu/Misen) - Script to support easily using Xcode Asset Catalog in Swift.
 * [OCR-Demo-with-IDOL-OnDemand](https://github.com/bpolat/Swift-OCR-Demo-with-IDOL-OnDemand) - Converting Images into text by using HP's IDOL OnDemand service - iOS app which is written with Swift.
