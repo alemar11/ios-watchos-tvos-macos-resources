@@ -45,6 +45,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Routing](#routing)
 - [ScrollView](#scrollview)
 - [Segmented Control](#segmented-control)
+- [Statusbar](#statusbar)
 - [Switch Control](#switch-control)
 - [TabBar](#tabbar)
 - [TableView](#tableview)
@@ -882,10 +883,14 @@ loading effects above navigation bar's background.
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl)
 iw.
 
-
 ####🔸 *Swift*
-
 * [NPSegmentedControl](https://github.com/neopixl/NPSegmentedControl)
+
+## Statusbar
+
+####🔹 *Obj-C*
+* [SmoothStatusBar](https://github.com/vani2/SmoothStatusBar)
+* [UIViewController-ScrollingStatusBar](https://github.com/Antondomashnev/UIViewController-ScrollingStatusBar) - Category for UIViewController with UIScrollView to scroll statusBar along any UIScrollView subclass.
 
 
 ## Switch Control
