@@ -7,9 +7,10 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [A collaborative list of awesome swift resources](https://github.com/matteocrippa/awesome-swift)
 - [A curated list of awesome Swift frameworks](https://github.com/Wolg/awesome-swift)
 - [Awesome Open Source Mac Apps](https://github.com/jeffreyjackson/mac-apps)
+- [Collaborative List of Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [List of awesome snippets, plugins, and extras for Xcode](https://github.com/jeffreyjackson/awesome-xcode) 
 - [The best FRP in iOS links.](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
-
+- [Swift Community Best Practices](https://github.com/schwa/Swift-Community-Best-Practices)
 
 ### Contents
 - [ActivityViewController](#activityviewcontroller)
@@ -1109,6 +1110,7 @@ iw.
 ####🔸 *Swift*
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
+* [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes..
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift that makes your life easier.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
@@ -1122,6 +1124,7 @@ iw.
 * [SwiftFilePath](https://github.com/nori0620/SwiftFilePath) - Simple and powerful wrapper for NSFileManager.
 * [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings, …).
 * [SwiftShell-Swift2.0](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
+* [Swiftz](https://github.com/typelift/swiftz) - Functional programming in Swift.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
 
