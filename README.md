@@ -3,11 +3,13 @@ iOS, Watch OS and OSX resources
 Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ### Other Lists
-- [awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects.
-- [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
-- [awesome-swift](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software..
-- [awesome-xcode](https://github.com/jeffreyjackson/awesome-xcode) - List of awesome snippets, plugins, and extras for Xcode. 
-- [mac-apps](https://github.com/jeffreyjackson/mac-apps) - Awesome Open Source Mac Apps.
+- [ A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects.](https://github.com/vsouza/awesome-ios)
+- [A collaborative list of awesome swift resources](https://github.com/matteocrippa/awesome-swift)
+- [A curated list of awesome Swift frameworks](https://github.com/Wolg/awesome-swift)
+- [Awesome Open Source Mac Apps](https://github.com/jeffreyjackson/mac-apps)
+- [List of awesome snippets, plugins, and extras for Xcode](https://github.com/jeffreyjackson/awesome-xcode) 
+- [The best FRP in iOS links.](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
+
 
 ### Contents
 - [ActivityViewController](#activityviewcontroller)
