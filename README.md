@@ -6,6 +6,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects.
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
 - [awesome-swift](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software..
+- [awesome-xcode](https://github.com/jeffreyjackson/awesome-xcode) - List of awesome snippets, plugins, and extras for Xcode. 
+- [mac-apps](https://github.com/jeffreyjackson/mac-apps) - Awesome Open Source Mac Apps.
 
 ### Contents
 - [ActivityViewController](#activityviewcontroller)
@@ -40,6 +42,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Persistance](#persistance)
 - [Progress Bar](#progress-bar)
 - [Pull To Refresh](#pull-to-refresh)
+- [Routing](#routing)
 - [ScrollView](#scrollview)
 - [Segmented Control](#segmented-control)
 - [Switch Control](#switch-control)
@@ -230,6 +233,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ibeacon-background-demo](https://github.com/RadiusNetworks/ibeacon-background-demo)
 
 ####🔸 *Swift*
+* [BeaconMonitor](https://github.com/sebk/BeaconMonitor)
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons)
 
 ## Button
@@ -740,6 +744,7 @@ loading effects above navigation bar's background.
 * [GRDB](https://github.com/groue/GRDB.swift) - SQLite toolkit.
 * [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit)
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
+* [WACoreDataSpotlight](https://github.com/Wasappli/WACoreDataSpotlight) - Automatically index your CoreData objects to CoreSpotlight on iOS 9.
 
 ## Progress Bar
 
@@ -819,6 +824,21 @@ loading effects above navigation bar's background.
 * [PullToRefresh](https://github.com/Yalantis/PullToRefresh) - This component implements pure pull-to-refresh logic and you can use it for developing your own pull-to-refresh animations
 * [Refresher](https://github.com/jcavar/refresher)
 * [TB_PeriscopePTR](https://github.com/ariok/TB_PeriscopePTR) - tutorial [here](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/)
+
+##Routing
+
+####🔹 *Obj-C*
+* [ABRouter](https://github.com/aaronbrethorst/ABRouter)
+* [DeepLinkKit](https://github.com/usebutton/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
+* [JLRoutes](https://github.com/joeldev/JLRoutes)
+* [mobiledeeplinking-ios](https://github.com/mobiledeeplinking/mobiledeeplinking-ios)
+* [routable-ios](https://github.com/clayallsopp/routable-ios)
+* [WAAppRouting](https://github.com/Wasappli/WAAppRouting)
+
+####🔸 *Swift*
+* [Wayfaring](https://github.com/terut/Wayfaring) - Routing library for Swift.
+* [Yukina](https://github.com/charlesmwang/Yukina) - In App URL Router (Deep-Linking Framework for Swift).
+
 
 ## ScrollView
 *Scrollviews and PageControllers*
@@ -1072,8 +1092,10 @@ iw.
 
 ####🔹 *Obj-C*
 * [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper) - Quick tool to explain the right place to enable your privacy settings.
-
+* [MBObjectPoolManager](https://github.com/MBKwon/MBObjectPoolManager) - MBObjectPoolManager is best way to reuse your objects in your project. You can save a memory reusing objects.
+* 
 ####🔸 *Swift*
+* [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 * [Miser](https://github.com/tasanobu/Misen) - Script to support easily using Xcode Asset Catalog in Swift.
@@ -1082,9 +1104,13 @@ iw.
 * [R](https://github.com/mac-cain13/R.swift) - Get strong typed, autocompleted resources like images, fonts and segues in Swift projects.
 * [RateLimit](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
 * [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
+* [SwiftCGRectExtensions](https://github.com/nschum/SwiftCGRectExtensions) - A collection of CGRect, CGPoint and CGSize convenience functions for Swift.
 * [SwiftFilePath](https://github.com/nori0620/SwiftFilePath) - Simple and powerful wrapper for NSFileManager.
+* [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings, …).
 * [SwiftShell-Swift2.0](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
+* [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
+
 
 ## View
 
@@ -1179,11 +1205,13 @@ iw.
 * [RGCardViewLayout](https://github.com/terminatorover/RGCardViewLayout)
 * [RMStepsController](https://github.com/CooperRS/RMStepsController)
 * [RNBlurredSideViewController](https://github.com/cwenboshi/RNBlurredSideViewController)
+* [SAInboxViewController]https://github.com/szk-atmosphere/SAInboxViewController() - UIViewController subclass inspired by "Inbox by google" animated transitioning.
 * [SCPageViewController](https://github.com/stefanceriu/SCPageViewController)
 * [SJStackNavigation](https://github.com/leesungju/SJStackNavigation)
 * [SLPagingView](https://github.com/StefanLage/SLPagingView) - A navigation bar system allowing to do a Tinder like or Twitter like.
 * [Sidebar-Reveal-Taasky](https://github.com/IgorFedorchuk/Sidebar-Reveal-Taasky)
 * [STPTransitions](https://github.com/stepanhruda/STPTransitions) - Unified, easy API for custom iOS view controller transitioning.
+* [TransitionsPlayground](https://github.com/cpatterson/TransitionsPlayground)
 * [TB_InteractiveTransitions](https://github.com/ariok/TB_InteractiveTransitions)
 * [TWTSideMenuViewController](https://github.com/twotoasters/TWTSideMenuViewController)
 * [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) - A collection of iOS7 animation controllers and interaction controllers, providing flip, fold and all kinds of other transitions.
