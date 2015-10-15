@@ -73,6 +73,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SGActionView](https://github.com/sagiwei/SGActionView)
 * [WCActionSheet](https://github.com/wczekalski/WCActionSheet)
 
+####🔸 *Swift*
+* [PCRapidSelectionView](https://github.com/mmackh/PCRapidSelectionView) - Interactive, beautiful & fast UIActionSheet replacement, supports continuous hold & select.
+
 ## AddressBook
 *Address Book implementations*
 
@@ -130,6 +133,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope)
 * [Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
+* [SlideControl](https://github.com/dasdom/SlideControl) - Vertical slide control build with Swift 2.0.
 * [SLPopupViewController](https://github.com/sunlight3d/SLPopupViewController)
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
@@ -445,6 +449,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Font-Awesome-Swift](https://github.com/thii/FontAwesome.swift)
 * [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Say goodbye to importing custom fonts via property lists as FontBlaster automatically imports and loads all fonts in your app's NSBundles with one line of code.
 * [Fontawesome](https://github.com/hirohisa/Font-Awesome)
+* [GoogleMaterialIconFont](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Design Icons for Swift and ObjC project.
 * [MaterialDesignSymbol](https://github.com/tichise/MaterialDesignSymbol)
 * [SwiftFontName](https://github.com/morizotter/SwiftFontName)
 
@@ -1179,7 +1184,6 @@ iw.
 ## ViewController
 
 ####🔹 *Obj-C*
-
 * [ALAccordion](https://github.com/Alliants/ALAccordion)
 * [ARSlidingPanel](https://github.com/andriirogulin/ARSlidingPanel)
 * [CBHazeTransitionViewController](https://github.com/coolbeet/CBHazeTransitionViewController)
@@ -1193,12 +1197,13 @@ iw.
 * [XLSlidingContainer](https://github.com/xmartlabs/XLSlidingContainer) 
 * [ZoomTransition](https://github.com/tristanhimmelman/ZoomTransition) - An easy to use interactive zoom transition for presenting view controllers onto a navigation stack.
 
+####🔸 *Swift*
+* [interactiveplayerview](https://github.com/AhmettKeskin/InteractivePlayerView) - Custom iOS music player view.
 
 ## ViewController Transition
 *UIStoryboardSegue, View Controller Transitions*
 
 ####🔹 *Obj-C*
-
 * [AFBlurSegue](https://github.com/AlvaroFranco/AFBlurSegue)
 * [AFPopupView](https://github.com/AlvaroFranco/AFPopupView)
 * [AMSlideMenu](https://github.com/SocialObjects-Software/AMSlideMenu)
@@ -1240,7 +1245,6 @@ iw.
 * [ZOZolaZoomTransition](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition)
 
 ####🔸 *Swift*
-
 * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
 * [ISScrollViewPageSwift](https://github.com/Ilhasoft/ISScrollViewPageSwift) ScollView with UIViewController
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition)
@@ -1252,17 +1256,14 @@ iw.
 ## WebView
 
 ####🔹 *Obj-C*
-
 * [DZNWebViewController](https://github.com/dzenbot/DZNWebViewController)
 
 ####🔸 *Swift*
-
 * [TLMetaResolver](https://github.com/tryolabs/TLMetaResolver) - TLMetaResolver is an extension to UIWebView writen in Swift that adds the ability to parse the meta tags in the loaded web page and extract information about a native app that can be deep linked from that page.
 
 ## Window
 
 ####🔹 *Obj-C*
-
 * [ATTutorialController](https://github.com/AfonsoTsukamoto/ATTutorialController) - A tutorial controller ready to use. Uses its own UIWindow.
 * [LNWindowManagerExample](https://github.com/LeoNatan/LNWindowManager) - A window manager that makes working with UIWindow objects easily using an API similar to the UIViewController modal presentation API.
 
