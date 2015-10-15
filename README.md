@@ -48,6 +48,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Routing](#routing)
 - [ScrollView](#scrollview)
 - [Segmented Control](#segmented-control)
+- [Slider](#slider)
 - [Statusbar](#statusbar)
 - [Switch Control](#switch-control)
 - [TabBar](#tabbar)
@@ -899,6 +900,23 @@ iw.
 ####🔸 *Swift*
 * [NPSegmentedControl](https://github.com/neopixl/NPSegmentedControl)
 
+## Slider
+
+####🔹 *Obj-C*
+* [ASValueTrackingSlider](https://github.com/alskipp/ASValueTrackingSlider) - A UISlider subclass that displays the slider value in a popup view.
+* [BubbleWindowSlider](https://github.com/ParkGwangBeom/BubbleWindowSlider)
+* [JAMAccurateSlider](https://github.com/jmenter/JAMAccurateSlider) - A more accurate replacement for UISlider.
+* [JMMarkSlider](https://github.com/brightec/JMMarkSlider)
+* [MARKCircularSlider](https://github.com/vadymmarkov/MARKCircularSlider) - An easy-to-use circular slider.
+* [MercuryMeter](https://github.com/corvino/MercuryMeter) - A simple UIView that displays a horizontal "thermometer", representing a value using two different colors on a rounded line.
+* [ODMSwipeSelector](https://github.com/oscart/ODMSwipeSelector) - A value selector for iOS with a swipe gesture.
+* [TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) - A slider, similar in style to UISlider, but which allows you to pick a minimum and maximum range.
+
+####🔸 *Swift*
+* [GradientSlider](https://github.com/jonhull/GradientSlider)
+* [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
+* [SpringySlider](https://github.com/josephlord/SpringySlider)
+
 ## Statusbar
 
 ####🔹 *Obj-C*
@@ -1039,6 +1057,7 @@ iw.
 * [Bohr](https://github.com/DavdRoman/Bohr) - Settings screen composing framework.
 * [CBTextFieldView](https://github.com/braker1nine/CBTextFieldView)
 * [CKTextField](https://github.com/JaNd3r/CKTextField) - Enhanced UITextField, with improved visuals for a sweet UX.
+* [IQDropDownTextField](https://github.com/hackiftekhar/IQDropDownTextField) - TextField with DropDown support using UIPickerView.
 * [JDFCurrencyTextField](https://github.com/JoeFryer/JDFCurrencyTextField)
 * [JMFormDescription](https://github.com/leverdeterre/JMFormDescription)
 * [JOTextField](https://github.com/lojals/JOTextField)
