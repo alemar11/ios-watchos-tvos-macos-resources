@@ -1,4 +1,4 @@
-iOS, OSX, Tv OS and Watch OS resources
+iOS, OSX, tvOS and watchOS resources
 ======
 Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
