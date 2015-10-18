@@ -1,4 +1,4 @@
-iOS, OSX, Tv OS and Watch OS resources
+iOS, OSX, tvOS and watchOS resources
 ======
 Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
@@ -49,6 +49,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Routing](#routing)
 - [ScrollView](#scrollview)
 - [Segmented Control](#segmented-control)
+- [Slider](#slider)
 - [Statusbar](#statusbar)
 - [Switch Control](#switch-control)
 - [TabBar](#tabbar)
@@ -73,6 +74,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RMPickerViewController](https://github.com/CooperRS/RMPickerViewController)
 * [SGActionView](https://github.com/sagiwei/SGActionView)
 * [WCActionSheet](https://github.com/wczekalski/WCActionSheet)
+
+####🔸 *Swift*
+* [PCRapidSelectionView](https://github.com/mmackh/PCRapidSelectionView) - Interactive, beautiful & fast UIActionSheet replacement, supports continuous hold & select.
 
 ## AddressBook
 *Address Book implementations*
@@ -131,6 +135,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope)
 * [Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
+* [SlideControl](https://github.com/dasdom/SlideControl) - Vertical slide control build with Swift 2.0.
 * [SLPopupViewController](https://github.com/sunlight3d/SLPopupViewController)
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
@@ -447,6 +452,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Font-Awesome-Swift](https://github.com/thii/FontAwesome.swift)
 * [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Say goodbye to importing custom fonts via property lists as FontBlaster automatically imports and loads all fonts in your app's NSBundles with one line of code.
 * [Fontawesome](https://github.com/hirohisa/Font-Awesome)
+* [GoogleMaterialIconFont](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Design Icons for Swift and ObjC project.
 * [MaterialDesignSymbol](https://github.com/tichise/MaterialDesignSymbol)
 * [SwiftFontName](https://github.com/morizotter/SwiftFontName)
 
@@ -896,6 +902,23 @@ iw.
 ####🔸 *Swift*
 * [NPSegmentedControl](https://github.com/neopixl/NPSegmentedControl)
 
+## Slider
+
+####🔹 *Obj-C*
+* [ASValueTrackingSlider](https://github.com/alskipp/ASValueTrackingSlider) - A UISlider subclass that displays the slider value in a popup view.
+* [BubbleWindowSlider](https://github.com/ParkGwangBeom/BubbleWindowSlider)
+* [JAMAccurateSlider](https://github.com/jmenter/JAMAccurateSlider) - A more accurate replacement for UISlider.
+* [JMMarkSlider](https://github.com/brightec/JMMarkSlider)
+* [MARKCircularSlider](https://github.com/vadymmarkov/MARKCircularSlider) - An easy-to-use circular slider.
+* [MercuryMeter](https://github.com/corvino/MercuryMeter) - A simple UIView that displays a horizontal "thermometer", representing a value using two different colors on a rounded line.
+* [ODMSwipeSelector](https://github.com/oscart/ODMSwipeSelector) - A value selector for iOS with a swipe gesture.
+* [TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) - A slider, similar in style to UISlider, but which allows you to pick a minimum and maximum range.
+
+####🔸 *Swift*
+* [GradientSlider](https://github.com/jonhull/GradientSlider)
+* [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
+* [SpringySlider](https://github.com/josephlord/SpringySlider)
+
 ## Statusbar
 
 ####🔹 *Obj-C*
@@ -1036,6 +1059,7 @@ iw.
 * [Bohr](https://github.com/DavdRoman/Bohr) - Settings screen composing framework.
 * [CBTextFieldView](https://github.com/braker1nine/CBTextFieldView)
 * [CKTextField](https://github.com/JaNd3r/CKTextField) - Enhanced UITextField, with improved visuals for a sweet UX.
+* [IQDropDownTextField](https://github.com/hackiftekhar/IQDropDownTextField) - TextField with DropDown support using UIPickerView.
 * [JDFCurrencyTextField](https://github.com/JoeFryer/JDFCurrencyTextField)
 * [JMFormDescription](https://github.com/leverdeterre/JMFormDescription)
 * [JOTextField](https://github.com/lojals/JOTextField)
@@ -1182,7 +1206,6 @@ iw.
 ## ViewController
 
 ####🔹 *Obj-C*
-
 * [ALAccordion](https://github.com/Alliants/ALAccordion)
 * [ARSlidingPanel](https://github.com/andriirogulin/ARSlidingPanel)
 * [CBHazeTransitionViewController](https://github.com/coolbeet/CBHazeTransitionViewController)
@@ -1196,12 +1219,13 @@ iw.
 * [XLSlidingContainer](https://github.com/xmartlabs/XLSlidingContainer) 
 * [ZoomTransition](https://github.com/tristanhimmelman/ZoomTransition) - An easy to use interactive zoom transition for presenting view controllers onto a navigation stack.
 
+####🔸 *Swift*
+* [interactiveplayerview](https://github.com/AhmettKeskin/InteractivePlayerView) - Custom iOS music player view.
 
 ## ViewController Transition
 *UIStoryboardSegue, View Controller Transitions*
 
 ####🔹 *Obj-C*
-
 * [AFBlurSegue](https://github.com/AlvaroFranco/AFBlurSegue)
 * [AFPopupView](https://github.com/AlvaroFranco/AFPopupView)
 * [AMSlideMenu](https://github.com/SocialObjects-Software/AMSlideMenu)
@@ -1243,7 +1267,6 @@ iw.
 * [ZOZolaZoomTransition](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition)
 
 ####🔸 *Swift*
-
 * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
 * [ISScrollViewPageSwift](https://github.com/Ilhasoft/ISScrollViewPageSwift) ScollView with UIViewController
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition)
@@ -1255,17 +1278,14 @@ iw.
 ## WebView
 
 ####🔹 *Obj-C*
-
 * [DZNWebViewController](https://github.com/dzenbot/DZNWebViewController)
 
 ####🔸 *Swift*
-
 * [TLMetaResolver](https://github.com/tryolabs/TLMetaResolver) - TLMetaResolver is an extension to UIWebView writen in Swift that adds the ability to parse the meta tags in the loaded web page and extract information about a native app that can be deep linked from that page.
 
 ## Window
 
 ####🔹 *Obj-C*
-
 * [ATTutorialController](https://github.com/AfonsoTsukamoto/ATTutorialController) - A tutorial controller ready to use. Uses its own UIWindow.
 * [LNWindowManagerExample](https://github.com/LeoNatan/LNWindowManager) - A window manager that makes working with UIWindow objects easily using an API similar to the UIViewController modal presentation API.
 
