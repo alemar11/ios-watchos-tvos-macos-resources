@@ -8,6 +8,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [A curated list of awesome Swift frameworks](https://github.com/Wolg/awesome-swift)
 - [Awesome Open Source Mac Apps](https://github.com/jeffreyjackson/mac-apps)
 - [Collaborative List of Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [iOS Cookies: A hand curated collection of iOS libraries written in Swift](http://www.ioscookies.com)
 - [List of awesome snippets, plugins, and extras for Xcode](https://github.com/jeffreyjackson/awesome-xcode) 
 - [The best FRP in iOS links.](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 - [Swift Community Best Practices](https://github.com/schwa/Swift-Community-Best-Practices)
@@ -167,7 +168,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect)
 * [SnowFalling](https://github.com/pixyzehn/SnowFalling) - Snow Falling in Swift
-* [springdamping](https://github.com/mortenjust/springdamping) - Realtime experimentation with duration, spring and damping for UIView animations
+* [springdamping](https://github.com/mortenjust/springdamping) - Realtime experimentation with duration, spring and damping for UIView animations.
+* [UIViewXXYBoom](https://github.com/xxycode/UIViewXXYBoom)
 
 ## Asset Picker
 *Image, Video, Color, Audio Editors or Pickers*
@@ -1110,6 +1112,7 @@ iw.
 ####🔸 *Swift*
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
+* [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
 * [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes..
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift that makes your life easier.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
