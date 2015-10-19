@@ -6,6 +6,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects.](https://github.com/vsouza/awesome-ios)
 - [A collaborative list of awesome swift resources](https://github.com/matteocrippa/awesome-swift)
 - [A curated list of awesome Swift frameworks](https://github.com/Wolg/awesome-swift)
+- [Awesome OSX](https://github.com/iCHAIT/awesome-osx) - A curated list of awesome applications, softwares, tools and shiny things for OS X.
 - [Awesome Open Source Mac Apps](https://github.com/jeffreyjackson/mac-apps)
 - [Collaborative List of Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [iOS Cookies: A hand curated collection of iOS libraries written in Swift](http://www.ioscookies.com)
@@ -422,6 +423,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [flatuicolor](https://github.com/avdyushin/flatuicolor)
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs ANSI escape codes and conforms to ECMA Standard 48.
 * [ProtocolUI](https://github.com/VojtaStavik/ProtocolUI) - ProtocolUI is a simple helper file providing very basic infrastructure for customizing UI elements via protocol extensions.
+* [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift)
 
 ## Date
 *Date Pickers and Calendars*
@@ -1143,6 +1145,7 @@ iw.
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 * [Miser](https://github.com/tasanobu/Misen) - Script to support easily using Xcode Asset Catalog in Swift.
 * [OCR-Demo-with-IDOL-OnDemand](https://github.com/bpolat/Swift-OCR-Demo-with-IDOL-OnDemand) - Converting Images into text by using HP's IDOL OnDemand service - iOS app which is written with Swift.
+* [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API.
 * [Proposer](https://github.com/nixzhu/Proposer) - Proposer provides a simple API to request permission for access Camera, Photos, Microphone, Contacts, Location.
 * [R](https://github.com/mac-cain13/R.swift) - Get strong typed, autocompleted resources like images, fonts and segues in Swift projects.
 * [RateLimit](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
