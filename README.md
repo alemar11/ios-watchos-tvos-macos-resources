@@ -56,6 +56,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [TabBar](#tabbar)
 - [TableView](#tableview)
 - [TableViewCell](#tableviewcell)
+- [Text](#text)
 - [Textfield](#textfield)
 - [Timer](#timer)
 - [Toast Notification](#toast-notification)
@@ -555,6 +556,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Preloader.Ophiuchus](https://github.com/Yalantis/Preloader.Ophiuchus) - Custom Label to apply animations on whole text or letters.
 * [ShadeLabel](https://github.com/jxtmo/ShadeLabel) - A UILabel library that automatically drops shadow if it's backgroundColor or superview's background (if your label backgroundColor is clearColor) get's brighter.
 * [TOMSMorphingLabel](https://github.com/tomknig/TOMSMorphingLabel) - Configurable morphing transitions between text values of a label.
+* [YetiCharacterLabelExample](https://github.com/android1989/YetiCharacterLabelExample) - UILabel subclass to perform text effects.
 * [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)
 
 ####🔸 *Swift*
@@ -606,6 +608,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MAActivityIndicator](https://github.com/micazeve/MAActivityIndicator)
 * [MediumProgressView](https://github.com/pixyzehn/MediumProgressView)
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
+* [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX.
 * [RSDotsView](https://github.com/Kemcake/RSDotsView)
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)
 
@@ -1051,6 +1054,23 @@ iw.
 * [SBGestureTableView](https://github.com/Stickbuilt/SBGestureTableView) - Swift UITableView subclass that supports swiping rows ala Mailbox and long press to move rows.
 * [WobbleView](https://github.com/inFullMobile/WobbleView) -  Wobble effect.
 
+
+## Text
+*NSAttributedStrings, TextKit and UITextView*
+
+####🔹 *Obj-C*
+* [EMString](https://github.com/TanguyAladenise/EMString) -  A simple category on top of NSString using HTML's markup system to abstract the NSAttributedString API.
+* [HBVLinkedTextView](https://github.com/evilBird/HBVLinkedTextView) - UITextView subclass that executes a block when a user taps a specified word or phrase..
+* [ImgGlyph](https://github.com/dzog/ImgGlyph) - ImgGlyph for iOS is a collection of drop-in replacements for UILabel and UITextView that allow for font-sized in-line images (image glyphs) by auto-replacing specified strings with specified images.
+* [LTTextView](https://github.com/EugeneZZI/LTTextView)
+* [SWCrawlView](https://github.com/MattFoley/SWCrawlView) - Open source repo for interactive Star Wars Crawl View, as close to theatrically accurate as possible.
+* [VerticallyScrollingStatusView](https://github.com/rahuljiresal/VerticallyScrollingStatusView) - A subclass of UIView that shows vertically scrolling status messages.
+* [WPAttributedMarkup](https://github.com/nigelgrange/WPAttributedMarkup) - Simple utility category that can be used to easily create an attributed string from text with markup tags and a style dictionary.
+* [issue-5-textkit](https://github.com/objcio/issue-5-textkit) - A little demo application showing off some features of the new TextKit classes in iOS 7.
+
+####🔸 *Swift*
+* [BezierString](https://github.com/lvnyk/BezierString) - Rendering NSAttributedStrings along arbitrary UIBezierPaths.
+* [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Gradient Text in Real.
 
 ## Textfield
 *Textfields and Forms*
