@@ -1056,7 +1056,7 @@ iw.
 
 
 ## Text
-* NSAttributedStrings, UITextView*
+*NSAttributedStrings, TextKit and UITextView*
 
 ####🔹 *Obj-C*
 * [EMString](https://github.com/TanguyAladenise/EMString) -  A simple category on top of NSString using HTML's markup system to abstract the NSAttributedString API.
