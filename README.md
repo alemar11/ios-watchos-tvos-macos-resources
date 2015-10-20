@@ -606,6 +606,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MAActivityIndicator](https://github.com/micazeve/MAActivityIndicator)
 * [MediumProgressView](https://github.com/pixyzehn/MediumProgressView)
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
+* [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX.
 * [RSDotsView](https://github.com/Kemcake/RSDotsView)
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)
 
