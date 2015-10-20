@@ -1144,6 +1144,7 @@ iw.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 * [Miser](https://github.com/tasanobu/Misen) - Script to support easily using Xcode Asset Catalog in Swift.
+* [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - Simple JSON Object mapping written in Swift
 * [OCR-Demo-with-IDOL-OnDemand](https://github.com/bpolat/Swift-OCR-Demo-with-IDOL-OnDemand) - Converting Images into text by using HP's IDOL OnDemand service - iOS app which is written with Swift.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API.
 * [Proposer](https://github.com/nixzhu/Proposer) - Proposer provides a simple API to request permission for access Camera, Photos, Microphone, Contacts, Location.
