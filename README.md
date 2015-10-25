@@ -224,7 +224,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [BRNImagePickerSheet](https://github.com/jacklevin74/BRNImagePickerSheet/tree/master)
 * [DSFacebookImagePicker](https://github.com/sanche21/DSFacebookImagePicker)
-* [videoshader](https://github.com/snakajima/videoshader) - Script-based real-time video processing technology for OpenGL/iOS
+* [Videoshader](https://github.com/snakajima/videoshader) - Script-based real-time video processing technology for OpenGL/iOS
 
 ## Audio
 
@@ -233,9 +233,13 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [IQAudioRecorderController](https://github.com/hackiftekhar/IQAudioRecorderController)
 * [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
 * [MVSpeechSynthesizer](https://github.com/vimalmurugan89/MVSpeechSynthesizer)
+* [Mume](https://github.com/coderyi/Mume) - MumeFM is a music player,Mume is a douban FM 3rd client for iOS.
 * [SYWaveformPlayer](https://github.com/spenciefy/SYWaveformPlayer)
 * [VOXHistogramView](https://github.com/Coppertino/VOXHistogramView)
 * [ZLMusicFlowWaveView](https://github.com/zhxnlai/ZLMusicFlowWaveView)
+
+####🔸 *Swift*
+* [TuningFork](https://github.com/comyarzaheri/TuningFork) - A Simple Tuner for iOS.
 
 ## Badge
 *Notifications icons*
@@ -437,6 +441,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DPTheme](https://github.com/dphans/DPTheme) - https://github.com/dphans/DPTheme
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - DynamicColor provides powerful methods to manipulate colours in an easy way.
 * [flatuicolor](https://github.com/avdyushin/flatuicolor)
+* [himbo](https://github.com/kimar/himbo) - A simple iOS App to create mono colored backgrounds. Written in Swift and supporting 3D Touch on iPhone 6s.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs ANSI escape codes and conforms to ECMA Standard 48.
 * [ProtocolUI](https://github.com/VojtaStavik/ProtocolUI) - ProtocolUI is a simple helper file providing very basic infrastructure for customizing UI elements via protocol extensions.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift)
@@ -1193,6 +1198,7 @@ iw.
 * [R](https://github.com/mac-cain13/R.swift) - Get strong typed, autocompleted resources like images, fonts and segues in Swift projects.
 * [RateLimit](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
 * [ResourceInstantiatable](https://github.com/rizumita/ResourceInstantiatable) - iOS resources management framework in Swift2.
+* [Run](https://github.com/khoiln/Run) - A Swift Wrapper for Grand Central Dispatch (GCD) Framework that supports method chaining.
 * [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
 * [SwiftCGRectExtensions](https://github.com/nschum/SwiftCGRectExtensions) - A collection of CGRect, CGPoint and CGSize convenience functions for Swift.
 * [SwiftDate](https://github.com/malcommac/SwiftDate)
