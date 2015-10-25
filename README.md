@@ -74,6 +74,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Timer](#timer)
 - [Toast Notification](#toast-notification)
 - [Utils](#utils)
+- [Video](#video)
 - [View](#view)
 - [ViewController Container](#viewcontroller-container)
 - [ViewController Transition](#viewcontroller-transition)
@@ -204,6 +205,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DraggableYoutubeFloatingVideo](https://github.com/vizllx/DraggableYoutubeFloatingVideo)
 * [GMImagePicker](https://github.com/guillermomuntaner/GMImagePicker)
 * [ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer)
+* [iImagePickerController](https://github.com/rajesht1989/iImagePickerController)
 * [IQMediaPickerController](https://github.com/hackiftekhar/IQMediaPickerController)
 * [InstagramPhotoPicker](https://github.com/wenzhaot/InstagramPhotoPicker)
 * [JMBackgroundCameraView](https://github.com/ulidev/JMBackgroundCameraView)
@@ -490,6 +492,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool [Swift / iOS]
 * [InceptionTouch](https://github.com/richzertuche/InceptionTouch) - Who needs 3DTouch when you can have InceptionTouch.
+* [Knock](https://github.com/Headtalk/Knock) - A simple detector for physical knocks on the back or front of an iPhone.
 * [LimSignatureView](https://github.com/limhowe/LimSignatureView) - Signature View in Swift.
 * [RPModalGestureTransition](https://github.com/naoyashiga/RPModalGestureTransition)
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
@@ -1200,6 +1203,12 @@ iw.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
 
+## Video
+
+####🔹 *Obj-C*
+* [Eleven](https://github.com/coderyi/Eleven) - Eleven Player is a simple powerful video. player.use ffmpeg.
+* [VideoCover](https://github.com/bichenkk/VideoCover-iOS-Demo) - A video background example for iOS.
+
 
 ## View
 
@@ -1239,6 +1248,7 @@ iw.
 * [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) - Waves of the radar
 * [ColorDebugView](https://github.com/jonhull/ColorDebugView) - Simple NS/UIView which can be used to quickly get a view on the screen when roughing out layouts/animations.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
+* [jmcrainbow](https://www.cocoacontrols.com/controls/jmcrainbow)
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
 * [MaterialCardView](https://github.com/cemolcay/MaterialCardView)
@@ -1247,6 +1257,8 @@ iw.
 * [SVGSpriteView](https://github.com/rondinellimorais/SVGSpriteView) - Subclass of UIView where is possible render SVG Sprites.
 * [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full []tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
+* [VideoThumbView](https://github.com/toygar/VideoThumbView) - Video Thumb ScrollView.
+
 
 ## ViewController
 
