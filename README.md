@@ -14,6 +14,18 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [The best FRP in iOS links.](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 - [Swift Community Best Practices](https://github.com/schwa/Swift-Community-Best-Practices)
 
+### Code Exmaples
+
+#### iOS 9
+* [iOS9 day by day](https://github.com/shinobicontrols/iOS9-day-by-day) - Selection of projects accompanying the iOS9-Day-by-Day blog series.
+* [iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler) - Code examples for the new features of iOS 9.
+
+#### iOS 8
+* [iOS8 day by day](https://github.com/shinobicontrols/iOS8-day-by-day) - Selection of projects accompanying the iOS8-Day-by-Day blog series.
+* [iOS8 LevellingUp](https://github.com/shinobicontrols/iOS8-LevellingUp) - A collection of the lesser-known cool things in iOS 8.
+* [iOS8-Sampler](https://github.com/shu223/iOS8-Sampler) - Code examples for the new features of iOS 8.
+
+
 ### Contents
 - [ActivityViewController](#activityviewcontroller)
 - [ActionSheet](#actionsheet)
@@ -1279,6 +1291,7 @@ iw.
 * [SJStackNavigation](https://github.com/leesungju/SJStackNavigation)
 * [SLPagingView](https://github.com/StefanLage/SLPagingView) - A navigation bar system allowing to do a Tinder like or Twitter like.
 * [Sidebar-Reveal-Taasky](https://github.com/IgorFedorchuk/Sidebar-Reveal-Taasky)
+* [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS)
 * [STPTransitions](https://github.com/stepanhruda/STPTransitions) - Unified, easy API for custom iOS view controller transitioning.
 * [TransitionsPlayground](https://github.com/cpatterson/TransitionsPlayground)
 * [TB_InteractiveTransitions](https://github.com/ariok/TB_InteractiveTransitions)
