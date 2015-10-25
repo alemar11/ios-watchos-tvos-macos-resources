@@ -44,6 +44,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Color](#color)
 - [Date](#date)
 - [Font](#font)
+- [GameplayKit](#gameplaykit)
 - [Gesture](#gesture)
 - [Image](#image)
 - [Intro](#intro)
@@ -471,6 +472,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MaterialDesignSymbol](https://github.com/tichise/MaterialDesignSymbol)
 * [SwiftFontName](https://github.com/morizotter/SwiftFontName)
 
+## GameplayKit
+
+####🔸 *Swift*
+* [GameplayKit: beyond games](https://github.com/zats/Presentations/tree/master/GameplayKit)
+
 ## Gesture
 
 ####🔹 *Obj-C*
@@ -485,6 +491,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool [Swift / iOS]
 * [InceptionTouch](https://github.com/richzertuche/InceptionTouch) - Who needs 3DTouch when you can have InceptionTouch.
 * [LimSignatureView](https://github.com/limhowe/LimSignatureView) - Signature View in Swift.
+* [RPModalGestureTransition](https://github.com/naoyashiga/RPModalGestureTransition)
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
 
 ## Image
@@ -538,6 +545,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 
 * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - BWWalkthrough is a class to build custom walkthroughs for your iOS App.
+* [Instructions](https://github.com/ephread/Instructions)
 * [JTSplashView](https://github.com/kubatru/JTSplashView) - Create the beautiful splash view with JTSplashView.
 * [RMParallax](https://github.com/michaelbabiy/RMParallax)
 * [SoundCloudTransition](https://github.com/xxxAIRINxxx/SoundCloudTransition) - Custom interactive transition like SoundCloud iOS App.
@@ -744,8 +752,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar)
-* [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show 
-loading effects above navigation bar's background.
+* [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
 * [TB_TwitterUI](https://github.com/ariok/TB_TwitterUI)
 
 ## Network
@@ -1182,6 +1189,7 @@ iw.
 * [Proposer](https://github.com/nixzhu/Proposer) - Proposer provides a simple API to request permission for access Camera, Photos, Microphone, Contacts, Location.
 * [R](https://github.com/mac-cain13/R.swift) - Get strong typed, autocompleted resources like images, fonts and segues in Swift projects.
 * [RateLimit](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
+* [ResourceInstantiatable](https://github.com/rizumita/ResourceInstantiatable) - iOS resources management framework in Swift2.
 * [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
 * [SwiftCGRectExtensions](https://github.com/nschum/SwiftCGRectExtensions) - A collection of CGRect, CGPoint and CGSize convenience functions for Swift.
 * [SwiftDate](https://github.com/malcommac/SwiftDate)
@@ -1236,6 +1244,7 @@ iw.
 * [MaterialCardView](https://github.com/cemolcay/MaterialCardView)
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
+* [SVGSpriteView](https://github.com/rondinellimorais/SVGSpriteView) - Subclass of UIView where is possible render SVG Sprites.
 * [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full []tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
 
