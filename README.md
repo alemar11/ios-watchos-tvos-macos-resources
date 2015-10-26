@@ -14,6 +14,24 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [The best FRP in iOS links.](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 - [Swift Community Best Practices](https://github.com/schwa/Swift-Community-Best-Practices)
 
+---
+
+### Code Examples
+
+* [Reusable apps code written in Swift](https://github.com/carlbutron/Swift)
+
+#### iOS 9
+* [iOS9 day by day](https://github.com/shinobicontrols/iOS9-day-by-day) - Selection of projects accompanying the iOS9-Day-by-Day blog series.
+* [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler) - Code examples for the new features of iOS 9.
+* [Programming iOS Book Example](https://github.com/alemar11/Programming-iOS-Book-Examples) - Downloadable code examples for my books, "iOS 9 Programming Fundamentals With Swift" (bk1) and "Programming iOS 9" (bk2). 
+
+#### iOS 8
+* [iOS8 day by day](https://github.com/shinobicontrols/iOS8-day-by-day) - Selection of projects accompanying the iOS8-Day-by-Day blog series.
+* [iOS8 LevellingUp](https://github.com/shinobicontrols/iOS8-LevellingUp) - A collection of the lesser-known cool things in iOS 8.
+* [iOS8 Sampler](https://github.com/shu223/iOS8-Sampler) - Code examples for the new features of iOS 8.
+
+---
+
 ### Contents
 - [ActivityViewController](#activityviewcontroller)
 - [ActionSheet](#actionsheet)
@@ -32,6 +50,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Color](#color)
 - [Date](#date)
 - [Font](#font)
+- [GameplayKit](#gameplaykit)
 - [Gesture](#gesture)
 - [Image](#image)
 - [Intro](#intro)
@@ -61,6 +80,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Timer](#timer)
 - [Toast Notification](#toast-notification)
 - [Utils](#utils)
+- [Video](#video)
 - [View](#view)
 - [ViewController Container](#viewcontroller-container)
 - [ViewController Transition](#viewcontroller-transition)
@@ -192,6 +212,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DraggableYoutubeFloatingVideo](https://github.com/vizllx/DraggableYoutubeFloatingVideo)
 * [GMImagePicker](https://github.com/guillermomuntaner/GMImagePicker)
 * [ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer)
+* [iImagePickerController](https://github.com/rajesht1989/iImagePickerController)
 * [IQMediaPickerController](https://github.com/hackiftekhar/IQMediaPickerController)
 * [InstagramPhotoPicker](https://github.com/wenzhaot/InstagramPhotoPicker)
 * [JMBackgroundCameraView](https://github.com/ulidev/JMBackgroundCameraView)
@@ -210,7 +231,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [BRNImagePickerSheet](https://github.com/jacklevin74/BRNImagePickerSheet/tree/master)
 * [DSFacebookImagePicker](https://github.com/sanche21/DSFacebookImagePicker)
-* [videoshader](https://github.com/snakajima/videoshader) - Script-based real-time video processing technology for OpenGL/iOS
+* [Videoshader](https://github.com/snakajima/videoshader) - Script-based real-time video processing technology for OpenGL/iOS
 
 ## Audio
 
@@ -219,9 +240,13 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [IQAudioRecorderController](https://github.com/hackiftekhar/IQAudioRecorderController)
 * [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
 * [MVSpeechSynthesizer](https://github.com/vimalmurugan89/MVSpeechSynthesizer)
+* [Mume](https://github.com/coderyi/Mume) - MumeFM is a music player,Mume is a douban FM 3rd client for iOS.
 * [SYWaveformPlayer](https://github.com/spenciefy/SYWaveformPlayer)
 * [VOXHistogramView](https://github.com/Coppertino/VOXHistogramView)
 * [ZLMusicFlowWaveView](https://github.com/zhxnlai/ZLMusicFlowWaveView)
+
+####🔸 *Swift*
+* [TuningFork](https://github.com/comyarzaheri/TuningFork) - A Simple Tuner for iOS.
 
 ## Badge
 *Notifications icons*
@@ -423,6 +448,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DPTheme](https://github.com/dphans/DPTheme) - https://github.com/dphans/DPTheme
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - DynamicColor provides powerful methods to manipulate colours in an easy way.
 * [flatuicolor](https://github.com/avdyushin/flatuicolor)
+* [himbo](https://github.com/kimar/himbo) - A simple iOS App to create mono colored backgrounds. Written in Swift and supporting 3D Touch on iPhone 6s.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs ANSI escape codes and conforms to ECMA Standard 48.
 * [ProtocolUI](https://github.com/VojtaStavik/ProtocolUI) - ProtocolUI is a simple helper file providing very basic infrastructure for customizing UI elements via protocol extensions.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift)
@@ -460,6 +486,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MaterialDesignSymbol](https://github.com/tichise/MaterialDesignSymbol)
 * [SwiftFontName](https://github.com/morizotter/SwiftFontName)
 
+## GameplayKit
+
+####🔸 *Swift*
+* [GameplayKit: beyond games](https://github.com/zats/Presentations/tree/master/GameplayKit)
+
 ## Gesture
 
 ####🔹 *Obj-C*
@@ -473,7 +504,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool [Swift / iOS]
 * [InceptionTouch](https://github.com/richzertuche/InceptionTouch) - Who needs 3DTouch when you can have InceptionTouch.
+* [Knock](https://github.com/Headtalk/Knock) - A simple detector for physical knocks on the back or front of an iPhone.
 * [LimSignatureView](https://github.com/limhowe/LimSignatureView) - Signature View in Swift.
+* [RPModalGestureTransition](https://github.com/naoyashiga/RPModalGestureTransition)
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
 
 ## Image
@@ -527,6 +560,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 
 * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - BWWalkthrough is a class to build custom walkthroughs for your iOS App.
+* [Instructions](https://github.com/ephread/Instructions)
 * [JTSplashView](https://github.com/kubatru/JTSplashView) - Create the beautiful splash view with JTSplashView.
 * [RMParallax](https://github.com/michaelbabiy/RMParallax)
 * [SoundCloudTransition](https://github.com/xxxAIRINxxx/SoundCloudTransition) - Custom interactive transition like SoundCloud iOS App.
@@ -733,8 +767,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar)
-* [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show 
-loading effects above navigation bar's background.
+* [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
 * [TB_TwitterUI](https://github.com/ariok/TB_TwitterUI)
 
 ## Network
@@ -1173,6 +1206,8 @@ iw.
 * [Proposer](https://github.com/nixzhu/Proposer) - Proposer provides a simple API to request permission for access Camera, Photos, Microphone, Contacts, Location.
 * [R](https://github.com/mac-cain13/R.swift) - Get strong typed, autocompleted resources like images, fonts and segues in Swift projects.
 * [RateLimit](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
+* [ResourceInstantiatable](https://github.com/rizumita/ResourceInstantiatable) - iOS resources management framework in Swift2.
+* [Run](https://github.com/khoiln/Run) - A Swift Wrapper for Grand Central Dispatch (GCD) Framework that supports method chaining.
 * [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
 * [SwiftCGRectExtensions](https://github.com/nschum/SwiftCGRectExtensions) - A collection of CGRect, CGPoint and CGSize convenience functions for Swift.
 * [SwiftDate](https://github.com/malcommac/SwiftDate)
@@ -1182,6 +1217,12 @@ iw.
 * [Swiftz](https://github.com/typelift/swiftz) - Functional programming in Swift.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
+
+## Video
+
+####🔹 *Obj-C*
+* [Eleven](https://github.com/coderyi/Eleven) - Eleven Player is a simple powerful video. player.use ffmpeg.
+* [VideoCover](https://github.com/bichenkk/VideoCover-iOS-Demo) - A video background example for iOS.
 
 
 ## View
@@ -1222,13 +1263,17 @@ iw.
 * [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) - Waves of the radar
 * [ColorDebugView](https://github.com/jonhull/ColorDebugView) - Simple NS/UIView which can be used to quickly get a view on the screen when roughing out layouts/animations.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
+* [jmcrainbow](https://www.cocoacontrols.com/controls/jmcrainbow)
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
 * [MaterialCardView](https://github.com/cemolcay/MaterialCardView)
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
+* [SVGSpriteView](https://github.com/rondinellimorais/SVGSpriteView) - Subclass of UIView where is possible render SVG Sprites.
 * [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full []tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
+* [VideoThumbView](https://github.com/toygar/VideoThumbView) - Video Thumb ScrollView.
+
 
 ## ViewController
 
@@ -1271,6 +1316,7 @@ iw.
 * [LTSlidingViewController](https://github.com/ltebean/LTSlidingViewController) - Sliding ViewController allowing custom transition
 * [MRFlipTransition](https://github.com/mrcrow/MRFlipTransition)
 * [MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController)
+* [octagonTransitioning](https://github.com/Oleksandren/octagonTransitioning)
 * [PanToBack](https://github.com/soleaf/PanToBack)
 * [RASlideInViewController](https://github.com/ra1028/RASlideInViewController)
 * [REFrostedViewController](https://github.com/romaonthego/REFrostedViewController)
@@ -1282,6 +1328,7 @@ iw.
 * [SJStackNavigation](https://github.com/leesungju/SJStackNavigation)
 * [SLPagingView](https://github.com/StefanLage/SLPagingView) - A navigation bar system allowing to do a Tinder like or Twitter like.
 * [Sidebar-Reveal-Taasky](https://github.com/IgorFedorchuk/Sidebar-Reveal-Taasky)
+* [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS)
 * [STPTransitions](https://github.com/stepanhruda/STPTransitions) - Unified, easy API for custom iOS view controller transitioning.
 * [TransitionsPlayground](https://github.com/cpatterson/TransitionsPlayground)
 * [TB_InteractiveTransitions](https://github.com/ariok/TB_InteractiveTransitions)
