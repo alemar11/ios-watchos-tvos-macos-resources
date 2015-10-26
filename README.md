@@ -1313,6 +1313,7 @@ iw.
 * [LTSlidingViewController](https://github.com/ltebean/LTSlidingViewController) - Sliding ViewController allowing custom transition
 * [MRFlipTransition](https://github.com/mrcrow/MRFlipTransition)
 * [MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController)
+* [octagonTransitioning](https://github.com/Oleksandren/octagonTransitioning)
 * [PanToBack](https://github.com/soleaf/PanToBack)
 * [RASlideInViewController](https://github.com/ra1028/RASlideInViewController)
 * [REFrostedViewController](https://github.com/romaonthego/REFrostedViewController)
