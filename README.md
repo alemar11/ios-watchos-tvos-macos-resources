@@ -122,6 +122,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MODropAlert](https://github.com/minsOne/MODropAlert)
 * [MSAlertController](https://github.com/szk-atmosphere/MSAlertController)
 * [NYAlertViewController](https://github.com/nealyoung/NYAlertViewController)
+* [OpinionzAlertView](https://github.com/Opinionz/OpinionzAlertView)
 * [RFRateMe](https://github.com/rfunk82/RFRateMe) - RFRateMe will help you promote your iPhone/iPad app without irritating your users.
 * [STPopup](https://github.com/kevin0571/STPopup)
 * [SWBufferedToast](https://github.com/sfwalsh/SWBufferedToast)
@@ -832,6 +833,7 @@ loading effects above navigation bar's background.
 
 ####🔸 *Swift*
 * [ADChromePullToRefresh](https://github.com/Antondomashnev/ADChromePullToRefresh)
+* [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh compontent developed in Swift.
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl)
 * [GearRefreshControl](https://github.com/andreamazz/GearRefreshControl)
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
@@ -1063,6 +1065,7 @@ iw.
 * [HBVLinkedTextView](https://github.com/evilBird/HBVLinkedTextView) - UITextView subclass that executes a block when a user taps a specified word or phrase..
 * [ImgGlyph](https://github.com/dzog/ImgGlyph) - ImgGlyph for iOS is a collection of drop-in replacements for UILabel and UITextView that allow for font-sized in-line images (image glyphs) by auto-replacing specified strings with specified images.
 * [LTTextView](https://github.com/EugeneZZI/LTTextView)
+* [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - A drop-in UIViewController subclass with a growing text input view and other useful messaging features.
 * [SWCrawlView](https://github.com/MattFoley/SWCrawlView) - Open source repo for interactive Star Wars Crawl View, as close to theatrically accurate as possible.
 * [VerticallyScrollingStatusView](https://github.com/rahuljiresal/VerticallyScrollingStatusView) - A subclass of UIView that shows vertically scrolling status messages.
 * [WPAttributedMarkup](https://github.com/nigelgrange/WPAttributedMarkup) - Simple utility category that can be used to easily create an attributed string from text with markup tags and a style dictionary.
