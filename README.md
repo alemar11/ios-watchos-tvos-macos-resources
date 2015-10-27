@@ -66,12 +66,15 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Persistance](#persistance)
 - [Progress Bar](#progress-bar)
 - [Pull To Refresh](#pull-to-refresh)
+- [Rating](#rating)
 - [Routing](#routing)
 - [ScrollView](#scrollview)
 - [Segmented Control](#segmented-control)
 - [Slider](#slider)
 - [Statusbar](#statusbar)
+- [Stepper](#stepper)
 - [Switch Control](#switch-control)
+- [Tag](#tag)
 - [TabBar](#tabbar)
 - [TableView](#tableview)
 - [TableViewCell](#tableviewcell)
@@ -276,10 +279,12 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons)
 
 ## Button
+*buttons, radio buttons and checkboxes*
 
 ####🔹 *Obj-C*
 * [ABFillButton](https://github.com/andresbrun/ABFillButton)
 * [APRoundedButton](https://github.com/elpsk/APRoundedButton)
+* [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - Tasteful Checkbox for iOS. (Check box).
 * [BFPaperButton](https://github.com/bfeher/BFPaperButton) - A flat button inspired by Google Material Design's Paper theme.
 * [DKCircleButton](https://github.com/kronik/DKCircleButton) -  Circle button tap effect
 * [DownloadButton](https://github.com/PavelKatunin/DownloadButton)
@@ -291,6 +296,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JTImageButton](https://github.com/kubatru/JTImageButton)
 * [KBRoundedButton](https://github.com/burczyk/KBRoundedButton)
 * [KSMManyOptionsButton](https://github.com/kierajmumick/KSMManyOptionsButton) - This interface is similar to the interface used when the "Voice recording" and "Camera" buttons are pressed and held in iOS 8's message app.
+* [LGRadioButtonsView](https://github.com/Friend-LGA/LGRadioButtonsView) - iOS implementation of radio buttons
 * [PicsLikeControl](https://github.com/itouch2/PicsLikeControl)
 * [RMSaveButton](https://github.com/mcduffeyrt/RMSaveButton)
 * [Responsive-Interaction-Control](https://github.com/NghiaTranUIT/Responsive-Interaction-Control)
@@ -382,6 +388,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) - Parallax, Sticky Headers, Growing image heading, done right in one UICollectionViewLayout.
 * [DMDynamicWaterfall](https://github.com/malcommac/DMDynamicWaterfall) -  UICollectionView Waterfall Layout with UIKit Dynamics.
 * [EBCardCollectionViewLayout](https://github.com/betzerra/EBCardCollectionViewLayout) - Horizzontal UICollectionView.
+* [ERJustifiedFlowLayout](https://github.com/eroth/ERJustifiedFlowLayout) - A subclass of UICollectionViewFlowLayout for iOS that supports different types of cell justification and inter-cell spacing.
 * [FBLikeLayout](https://github.com/gringoireDM/FBLikeLayout) - This is an UICollectionView layout inspired by the photo section of facebook. This layout loads squared items with randomic full size items.
 * [HTKDragAndDropCollectionViewLayout](https://github.com/henrytkirk/HTKDragAndDropCollectionViewLayout) UICollectionViewLayout subclass that works together with a custom UICollectionViewCell to provide drag and drop for a UICollectionView.
 * [HorizontalScrollCell](https://github.com/mcelayir/HorizontalScrollCell)
@@ -438,6 +445,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DBImageColorPicker](https://github.com/d0ping/DBImageColorPicker) - https://github.com/d0ping/DBImageColorPicker
 * [DKNightVersion](https://github.com/Draveness/DKNightVersion) - DKNightVersion is a lightweight iOS framework adding night mode/theme to your iOS app.
 * [FPBrandColors](https://github.com/pedrovieira7/FPBrandColors)
+* [ios-material-design](https://github.com/moqod/ios-material-design)
 * [MSColorPicker](https://github.com/sgl0v/MSColorPicker)
 * [Rainbow](https://github.com/sickill/rainbow) - Rainbow is a ruby gem for colorizing printed text on ANSI terminals.
 * [UIColor-FlatColors](https://github.com/mokagio/UIColor-FlatColors)
@@ -449,6 +457,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - DynamicColor provides powerful methods to manipulate colours in an easy way.
 * [flatuicolor](https://github.com/avdyushin/flatuicolor)
 * [himbo](https://github.com/kimar/himbo) - A simple iOS App to create mono colored backgrounds. Written in Swift and supporting 3D Touch on iPhone 6s.
+* [MaterialKit](https://github.com/nghialv/MaterialKi.t) - Material design components for iOS written in Swift.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs ANSI escape codes and conforms to ECMA Standard 48.
 * [ProtocolUI](https://github.com/VojtaStavik/ProtocolUI) - ProtocolUI is a simple helper file providing very basic infrastructure for customizing UI elements via protocol extensions.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift)
@@ -768,6 +777,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar)
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
+* [SMTNavigationBar](https://github.com/teffi/SMTNavigationBar) - Customize iOS Navigation Bar items conveniently.
 * [TB_TwitterUI](https://github.com/ariok/TB_TwitterUI)
 
 ## Network
@@ -882,6 +892,14 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Refresher](https://github.com/jcavar/refresher)
 * [TB_PeriscopePTR](https://github.com/ariok/TB_PeriscopePTR) - tutorial [here](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/)
 
+##Rating
+
+####🔹 *Obj-C*
+* [HCSStarRatingView](https://github.com/hsousa/HCSStarRatingView) - Simple star rating view for iOS written in Objective-C.
+
+####🔸 *Swift*
+* [FloatRatingView](https://github.com/strekfus/FloatRatingView) - Whole, half or floating point ratings control written in Swift.
+
 ##Routing
 
 ####🔹 *Obj-C*
@@ -901,6 +919,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 *Scrollviews and PageControllers*
 
 ####🔹 *Obj-C*
+* [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view.
 * [BTGlassScrollView](https://github.com/BTLibrary/BTGlassScrollView) - Inspired by Yahoo Weather App, this easy to use view replicates the look and feel.
 * [BTInfiniteScrollView](https://github.com/bteapot/BTInfiniteScrollView)* 
 * [CustomScrollIndicator](https://github.com/leverdeterre/CustomScrollIndicator) - iOS custom ScrollIView indicator.
@@ -910,6 +929,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [FeSlideFilter](https://github.com/NghiaTranUIT/FeSlideFilter)
 * [MBXPageViewController](https://github.com/Moblox/MBXPageViewController) - A library that allows to have a UIPageController with control buttons.
 * [JT3DScrollView](https://github.com/jonathantribouharet/JT3DScrollView) - ScrollView with custom effects during the scroll for iOS.
+* [JTNumberScrollAnimatedView](https://github.com/jonathantribouharet/JTNumberScrollAnimatedView) - Use JTNumberScrollAnimatedView for have a nice animation for display number.
 * [KVNMaskedPageControl](https://github.com/donnellyk/KVNMaskedPageControl) - A drop-in replacement for UIPageControl that allows seamless transition between different dot styles, one for each page, using a masking effect.
 * [LGSublimationView](https://github.com/lukegeiger/LGSublimationView)
 * [LTInfiniteScrollView](https://github.com/ltebean/LTInfiniteScrollView) - An infinite scrollview allowing easily applying animation.
@@ -924,7 +944,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [StrechyParallaxScrollView](https://github.com/cemolcay/StrechyParallaxScrollView)
 * [TAPageControl](https://github.com/TanguyAladenise/TAPageControl)
 * [ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableView) - A simple view for building card like interface like Tinder and Potluck.
-* [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view.
+* [ZSeatSelector](https://github.com/richzertuche/ZSeatSelector) - Create a cinema seat map Layout.
 
 ####🔸 *Swift*
 * [CrossNavigation](https://github.com/artemstepanenko/CrossNavigation) - Any side navigation.
@@ -966,6 +986,16 @@ iw.
 * [UIViewController-ScrollingStatusBar](https://github.com/Antondomashnev/UIViewController-ScrollingStatusBar) - Category for UIViewController with UIScrollView to scroll statusBar along any UIScrollView subclass.
 
 
+## Stepper
+
+####🔹 *Obj-C*
+* [CMSteppedProgressBar](https://github.com/Mycose/CMSteppedProgressBar) - Custom view as a progress bar with steps.
+* [Flat-SlideControl](https://github.com/alexey-kubas-appus/Flat-SlideControl)
+
+####🔸 *Swift*
+* [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
+* [KWStepper](https://github.com/kyleweiner/KWStepper) - A stepper control with flexible UI and tailored UX.
+
 ## Switch Control
 
 ####🔹 *Obj-C*
@@ -974,7 +1004,6 @@ iw.
 * [ViralSwitch](https://github.com/andreamazz/ViralSwitch) - UISwitch subclass that 'infects' the parent view with the onTintColor when the switch is turned on.
 
 ####🔸 *Swift*
-
 * [Custom-Switch](https://github.com/ChadTimmerman/Custom-Switch) - A custom Switch created with UIViews and UIButtons in Swift.
 * [DGRunkeeperSwitch](DGRunkeeperSwitch) - Runkeeper design switch control (two part segment control) developed in Swift 2.0.
 
@@ -1083,11 +1112,26 @@ iw.
 * [tableviewslide](https://github.com/tuchangwei/tableviewslide) - Table view slides effect.
 
 ####🔸 *Swift*
-
 * [ExpandableTableView](https://github.com/rondinellimorais/ExpandableTableView)  * [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - Expanding table view cells using `UIStackView in iOS 9.
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - Animation between list and detail views.
 * [SBGestureTableView](https://github.com/Stickbuilt/SBGestureTableView) - Swift UITableView subclass that supports swiping rows ala Mailbox and long press to move rows.
 * [WobbleView](https://github.com/inFullMobile/WobbleView) -  Wobble effect.
+
+## Tag
+*tags and tokens*
+
+####🔹 *Obj-C*
+* [ANTagsView](https://github.com/adnan-careaxiom/ANTagsView) - This is the dynamic view to add and display hash tags in iOS Applicaitons.
+* [CLTokenInputView](https://github.com/clusterinc/CLTokenInputView) - A replica of iOS's native contact bubbles UI.
+* [HKKTagWriteView](https://github.com/fullc0de/HKKTagWriteView) - The smart input custom view for Evernote app style tagging.
+* [iOS-Stepper-UI](https://github.com/soumalya/iOS-Stepper-UI) - This is a custom stepper control for iOS apps. This has been written with Objective-C.
+* [JCTagListView](https://github.com/lijingcheng/JCTagListView) - Support delete tags and settings tags color.
+* [PARTagPicker](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
+* [ZFTokenField](https://github.com/zoonooz/ZFTokenField) - iOS custom view that let you add token view inside like NSTokenField.
+
+####🔸 *Swift*
+* [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view, in Swift.
+* [RRTagController](https://github.com/remirobert/RRTagController) - RRTagController allows user to select tag and create new one.
 
 
 ## Text
@@ -1237,6 +1281,8 @@ iw.
 * [ETFoursquareImages](https://github.com/EugeneTrapeznikov/ETFoursquareImages)
 * [HATransparentView](https://github.com/hebertialmeida/HATransparentView) - UIView subclass based on Rdio stations menu.
 * [HATransparentView](https://github.com/hebertialmeida/HATransparentView)
+* [IQFeedbackView](https://github.com/hackiftekhar/IQFeedbackView) - Feedback/BugReport iOS control.
+* [JSWheelView](https://github.com/l2eshock/JSWheelView) - Wheel Control View.
 * [JTFadingInfoView](https://github.com/JunichiT/JTFadingInfoView) - JTFadingInfoView is google's material design like notification view with smooth fade in/out animation features, based on UIButton subclass.
 * [JZStackedView](https://github.com/zammitjames/JZStackedView)
 * [LazyFadeInView](https://github.com/itouch2/LazyFadeInView)
@@ -1287,12 +1333,14 @@ iw.
 * [SSStackedPageView](https://github.com/PlenipotentSS/SSStackedPageView) - Stacked Views paged on top of each other, inspired by iOS 7 Reminders and iOS 7 Passport.
 * [SemiModalNavigationController](https://github.com/hughbe/semi-modal-controller)
 * [tispr-card-stack](https://github.com/tispr/tispr-card-stack) - Card Stack in Swift for iOS8+.
+* [VisibleFormViewController](https://github.com/damienromito/VisibleFormViewController) - An extended UIViewController allowing to not hide the content behind the keyboard opened.
 * [VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation) - A simple way to present a view controller with keeping the blurred previous one.
 * [XLSlidingContainer](https://github.com/xmartlabs/XLSlidingContainer) 
 * [ZoomTransition](https://github.com/tristanhimmelman/ZoomTransition) - An easy to use interactive zoom transition for presenting view controllers onto a navigation stack.
 
 ####🔸 *Swift*
 * [interactiveplayerview](https://github.com/AhmettKeskin/InteractivePlayerView) - Custom iOS music player view.
+* [Timeline](https://github.com/edekhayser/Timeline) - Timeline like the Path iOS app.
 
 ## ViewController Transition
 *UIStoryboardSegue, View Controller Transitions*
