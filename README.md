@@ -191,6 +191,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [DoneHud](https://github.com/beryu/DoneHUD) - Done animation on HUD.
+* [DGDrawRectAnimationTutorial](https://github.com/gontovnik/DGDrawRectAnimationTutorial)
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation)
 * [InstagramHeartView](https://github.com/wojteklukaszuk/articles/tree/]()/InstagramHeartView)
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
@@ -265,6 +266,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [DNFlyingBadge](https://github.com/normand1/DNFlyingBadge)
+* [GTToast](https://github.com/gregttn/GTToast)
 
 ## Beacon
 
@@ -442,6 +444,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔹 *Obj-C*
 * [BFPaperColors](https://github.com/bfeher/BFPaperColors) - Flat colors taken from Google's Material Design: Paper.
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon is a lightweight, yet powerful, flat color framework for iOS (Objective-C & Swift).
+* [ColorAdjuster](https://github.com/ikemai/ColorAdjuster)
 * [DBImageColorPicker](https://github.com/d0ping/DBImageColorPicker) - https://github.com/d0ping/DBImageColorPicker
 * [DKNightVersion](https://github.com/Draveness/DKNightVersion) - DKNightVersion is a lightweight iOS framework adding night mode/theme to your iOS app.
 * [FPBrandColors](https://github.com/pedrovieira7/FPBrandColors)
@@ -484,6 +487,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
+* [DDCalendarView](https://github.com/Daij-Djan/DDCalendarView)
 
 ## Font
 
@@ -623,6 +627,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [GiFHUD](https://github.com/cemolcay/GiFHUD)
 * [IMGActivityIndicator](https://github.com/DrJid/IMGActivityIndicator)
 * [IoGMarquee](https://github.com/ecrichlow/IoGMarquee) - A scrolling, repeating text display.
+* [JDAvatarProgress](https://github.com/JellyDevelopment/JDAvatarProgress) - Easy customizable avatar image asynchronously with progress bar animated.
 * [JTMaterialSpinner](https://github.com/jonathantribouharet/JTMaterialSpinner)
 * [JTProgressHUD](https://github.com/kubatru/JTProgressHUD)
 * [KIProgressView](https://github.com/kaiinui/KIProgressView)
@@ -646,6 +651,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [gmail-like-loading](https://github.com/raweng/gmail-like-loading)
 
 ####🔸 *Swift*
+* [CircleTimer](https://github.com/alexey-kubas-appus/CircleTimer)
 * [DTIActivityIndicatorView-Swift](https://github.com/dtissera/DTIActivityIndicatorView-Swift)
 * [FliudLoadingIndicator](https://github.com/vinit5320/FliudLoadingIndicator)
 * [KOActivityIndicator](https://github.com/kohtenko/KOActivityIndicator)
@@ -654,6 +660,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 * [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX.
 * [RSDotsView](https://github.com/Kemcake/RSDotsView)
+* [SWActivityIndicatorView](https://github.com/sarunw/SWActivityIndicatorView) - A simple flat activity indicator view.
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)
 
 ## Log
@@ -738,6 +745,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [btSimpleSideMenu](https://github.com/balram3429/BTSimpleSideMenu)
 
 ####🔸 *Swift*
+* [Cariocamenu](https://github.com/arn00s/cariocamenu) - The fastest zero-tap iOS menu.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu)
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
 * [Hokusai](https://github.com/ytakzk/Hokusai) - Swift library that provides a bouncy action sheet.
@@ -1324,7 +1332,7 @@ iw.
 * [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full []tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
 * [VideoThumbView](https://github.com/toygar/VideoThumbView) - Video Thumb ScrollView.
-
+* [XXPlaceHolder](https://github.com/adad184/XXPlaceHolder) - A drop in solution to set a placeholder or show UIView's size.
 
 ## ViewController
 
