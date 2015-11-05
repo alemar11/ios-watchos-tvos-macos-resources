@@ -933,15 +933,18 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view.
 * [BTGlassScrollView](https://github.com/BTLibrary/BTGlassScrollView) - Inspired by Yahoo Weather App, this easy to use view replicates the look and feel.
 * [BTInfiniteScrollView](https://github.com/bteapot/BTInfiniteScrollView)* 
+* [CFCoverFlowView](https://github.com/c0ming/CFCoverFlowView) - iOS CoverFlow view with PagingEnabled similar to App Store for iPad.
 * [CustomScrollIndicator](https://github.com/leverdeterre/CustomScrollIndicator) - iOS custom ScrollIView indicator.
 * [DroppyScrollView](https://github.com/cemolcay/DroppyScrollView) - Vertical scroll view with abilty to inserting and removing subviews top or any index with stylish dropping animations.
 * [DRPageScrollView](https://github.com/DavdRoman/DRPageScrollView) - Block-driven paginated scroll view.
 * [EMCarousel](https://github.com/emadrazo/EMCarousel)
+* [EXPhotoViewer](https://github.com/Julioacarrettoni/EXPhotoViewer) - A drop-in full screen photo viewer for iOS.
 * [FeSlideFilter](https://github.com/NghiaTranUIT/FeSlideFilter)
 * [MBXPageViewController](https://github.com/Moblox/MBXPageViewController) - A library that allows to have a UIPageController with control buttons.
 * [JT3DScrollView](https://github.com/jonathantribouharet/JT3DScrollView) - ScrollView with custom effects during the scroll for iOS.
 * [JTNumberScrollAnimatedView](https://github.com/jonathantribouharet/JTNumberScrollAnimatedView) - Use JTNumberScrollAnimatedView for have a nice animation for display number.
 * [KVNMaskedPageControl](https://github.com/donnellyk/KVNMaskedPageControl) - A drop-in replacement for UIPageControl that allows seamless transition between different dot styles, one for each page, using a masking effect.
+* [IFAmazingSlideShow](https://github.com/congncif/IFAmazingSlideShow) - Cool control for Gallery photos.
 * [LGSublimationView](https://github.com/lukegeiger/LGSublimationView)
 * [LTInfiniteScrollView](https://github.com/ltebean/LTInfiniteScrollView) - An infinite scrollview allowing easily applying animation.
 * [MMParallaxPresenter](https://github.com/MitchellMalleo/MMParallaxPresenter) - iOS Custom UIScrollView Class to display static text / views with a vertical parallax effect.
@@ -951,6 +954,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PACScrollView](https://github.com/claudot/PACScrollView) - UIScrollView with blurry effect on scroll.
 * [PFTemplates](https://github.com/goreste/PFTemplates) - A scrollview similar to Instagram and 20lines app.
 * [PHPageScrollView](https://github.com/TaPhuocHai/PHPageScrollView)
+* [PJR-ScrollView-Slider](https://github.com/paritsohraval100/PJR-ScrollView-Slider) - It is a Scrollview Component which contains nice animation feature of UIScrollview and UIPageController.
 * [SMScrollView](https://github.com/smnh/SMScrollView)
 * [StrechyParallaxScrollView](https://github.com/cemolcay/StrechyParallaxScrollView)
 * [TAPageControl](https://github.com/TanguyAladenise/TAPageControl)
@@ -989,6 +993,7 @@ iw.
 * [GradientSlider](https://github.com/jonhull/GradientSlider)
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
 * [SpringySlider](https://github.com/josephlord/SpringySlider)
+* [TNImageSliderViewController](https://github.com/frederik-jacques/TNImageSliderViewController) - A Swift image slider component based on UICollectionView.
 
 ## Statusbar
 
