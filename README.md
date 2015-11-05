@@ -190,6 +190,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [VENSnowOverlayView](https://github.com/chrismaddern/VENSnowOverlayView) - A snowy UIView overlay to make your apps Christmassy!
 
 ####🔸 *Swift*
+* [BMCustomTableView](https://github.com/bmbrina/BMCustomTableView) - BMCustomTableView is a UITableView subclass, written in Swift, that lets you customize and animate your table view cells.
 * [DoneHud](https://github.com/beryu/DoneHUD) - Done animation on HUD.
 * [DGDrawRectAnimationTutorial](https://github.com/gontovnik/DGDrawRectAnimationTutorial)
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation)
@@ -636,6 +637,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [LLARingSpinnerView](https://github.com/lipka/LLARingSpinnerView)
 * [MFLFoldingClock](https://github.com/MattFoley/MFLTransformingDigits) - This is a highly complex animation library for showing numbers changing, be it a countdown, a clock, or a scoreboard. It now allows for any size frame with special affine transforms.
 * [MGFinderView](https://github.com/matteogobbi/MGFinderView)
+* [MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - Ring progress view similar to Activity app on Apple Watch.
 * [MMMaterialDesignSpinner](https://github.com/misterwell/MMMaterialDesignSpinner)
 * [MZLoading](https://github.com/SergheiMazur/MZLoading)
 * [PQFCustomLoaders](https://github.com/poolqf/PQFCustomLoaders)
@@ -1224,6 +1226,7 @@ iw.
 * [NgNotificationProxy](https://github.com/meiwin/NgNotificationProxy)
 * [SAWaveToast](https://github.com/szk-atmosphere/SAWaveToast) - Show text with wave animated background and floating animation.
 * [SlideInView](https://github.com/mrdrozdov/SlideInView)
+* [SSSnackbar](https://github.com/stonesam92/SSSnackbar) - An iOS implementation of the Snackbar concept, as used extensively in Android as well as some Google iOS apps such as Gmail.
 * [TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager)
 * [UIUserNotificationSettings-Extension](https://github.com/alexruperez/UIUserNotificationSettings-Extension)
 
@@ -1243,12 +1246,14 @@ iw.
 ####🔹 *Obj-C*
 * [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper) - Quick tool to explain the right place to enable your privacy settings.
 * [MBObjectPoolManager](https://github.com/MBKwon/MBObjectPoolManager) - MBObjectPoolManager is best way to reuse your objects in your project. You can save a memory reusing objects.
-* 
+* [ThumbnailPDF](https://github.com/cavalcante13/ThumbnailPDF)
+
 ####🔸 *Swift*
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
 * [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities
+* [CryptoSwift](Crypto related functions and helpers for Swift implemented in Swift.)
 * [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes..
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift that makes your life easier.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
@@ -1272,6 +1277,7 @@ iw.
 * [SwiftShell-Swift2.0](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
 * [SwiftySwift](https://github.com/adeca/SwiftySwift) - Collection of useful extensions for Swift types and Cocoa objects.
 * [Swiftz](https://github.com/typelift/swiftz) - Functional programming in Swift.
+* [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
 
@@ -1326,6 +1332,7 @@ iw.
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
 * [MaterialCardView](https://github.com/cemolcay/MaterialCardView)
+* [MKGradientView](https://github.com/maxkonovalov/MKGradientView) - Highly customizable Core Graphics based gradient view.
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
 * [SVGSpriteView](https://github.com/rondinellimorais/SVGSpriteView) - Subclass of UIView where is possible render SVG Sprites.
