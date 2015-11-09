@@ -425,6 +425,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SACollectionViewVerticalScalingFlowLayout](https://github.com/szk-atmosphere/SACollectionViewVerticalScalingFlowLayout) - UICollectionViewLayout that performs scaling up and down automatically on disappearing cells, and applies UIDynamics.
 * [Sapporo](https://github.com/nghialv/Sapporo) - Cellmodel-driven collectionview manager.
 * [ScaledVisibleCellsCollectionView](https://github.com/ikemai/ScaledVisibleCellsCollectionView) - ScaledVisibleCellsCollectionView is UICollectionView extension. ScaledVisibleCellsCollectionView is Check visible cells position. And setting cell's scale and alpha.
+* [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)
 * [SwiftyCollectionView](https://github.com/vinit5320/SwiftyCollectionView) - [Tutorial](https://swiftyos.wordpress.com/2015/08/01/animated-wave-transition-collectionview-ckwavecollectionviewtransition/)
 * [ZLBalancedFlowLayout](https://github.com/zhxnlai/ZLBalancedFlowLayout) - A UICollectionViewFlowLayout subclass that scales items to take up space, optimized for large item set.
 
@@ -1003,7 +1004,8 @@ iw.
 * [CMSwitchView](https://github.com/Mycose/CMSwitchView)
 * [DVSwitch](https://github.com/Voley/DVSwitch)
 * [ViralSwitch](https://github.com/andreamazz/ViralSwitch) - UISwitch subclass that 'infects' the parent view with the onTintColor when the switch is turned on.
-
+* [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch/tree/master/Example/JTMaterialSwitch)
+* 
 ####🔸 *Swift*
 * [Custom-Switch](https://github.com/ChadTimmerman/Custom-Switch) - A custom Switch created with UIViews and UIButtons in Swift.
 * [DGRunkeeperSwitch](DGRunkeeperSwitch) - Runkeeper design switch control (two part segment control) developed in Swift 2.0.
@@ -1087,8 +1089,9 @@ iw.
 * [MBTwitterScroll](https://github.com/starchand/MBTwitterScroll) - Recreate Twitter's profile page scrolling animation for UITableView and UIScrollViews.
 * [OptionalEmptyTableViews](https://github.com/stuartbreckenridge/OptionalEmptyTableViews)
 * [QuickRearrangeTableView](https://github.com/okla/QuickRearrangeTableView)
+* [SAStickyHeader](https://github.com/shams-ahmed/SAStickyHeader) - A very simple sticky header with multiple image support via swipe gestures.
 * [Static](https://github.com/venmo/Static) - Simple static table views for iOS in Swift.
-* [TableView-PullToRefresh]()https://github.com/vinit5320/TableView---PullToRefresh)
+* [TableView-PullToRefresh](https://github.com/vinit5320/TableView---PullToRefresh)
 
 ## TableViewCell
 
@@ -1111,6 +1114,7 @@ iw.
 * [WCFastCell](https://github.com/wczekalski/WCFastCell) - A drop-in replacement for UITableViewCell and UICollectionViewCell which draws contents using CoreGraphics. Seamless integration with nibs provided.
 * [iOS8SelfSizingCells](https://github.com/xhzengAIB/iOS8SelfSizingCells) - This is instagram app feed tableView demo use iOS8 Self Sizing Cells.
 * [tableviewslide](https://github.com/tuchangwei/tableviewslide) - Table view slides effect.
+* [YMSwipeTableViewCell](https://github.com/yammer/YMSwipeTableViewCell)
 
 ####🔸 *Swift*
 * [ExpandableTableView](https://github.com/rondinellimorais/ExpandableTableView)  * [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - Expanding table view cells using `UIStackView in iOS 9.
@@ -1318,6 +1322,7 @@ iw.
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
 * [MaterialCardView](https://github.com/cemolcay/MaterialCardView)
+* [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift.
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
 * [SVGSpriteView](https://github.com/rondinellimorais/SVGSpriteView) - Subclass of UIView where is possible render SVG Sprites.
