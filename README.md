@@ -192,6 +192,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [DoneHud](https://github.com/beryu/DoneHUD) - Done animation on HUD.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation)
+* [Fluent](https://github.com/matthewcheok/Fluent)
 * [InstagramHeartView](https://github.com/wojteklukaszuk/articles/tree/]()/InstagramHeartView)
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
 * [PIRipple](https://github.com/pixel-ink/PIRipple) - Ripple Effect for iOS (swift)
@@ -1009,6 +1010,7 @@ iw.
 ####🔸 *Swift*
 * [Custom-Switch](https://github.com/ChadTimmerman/Custom-Switch) - A custom Switch created with UIViews and UIButtons in Swift.
 * [DGRunkeeperSwitch](DGRunkeeperSwitch) - Runkeeper design switch control (two part segment control) developed in Swift 2.0.
+* [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection.
 
 
 ## TabBar
@@ -1239,7 +1241,7 @@ iw.
 ####🔹 *Obj-C*
 * [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper) - Quick tool to explain the right place to enable your privacy settings.
 * [MBObjectPoolManager](https://github.com/MBKwon/MBObjectPoolManager) - MBObjectPoolManager is best way to reuse your objects in your project. You can save a memory reusing objects.
-* 
+
 ####🔸 *Swift*
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
