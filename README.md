@@ -49,6 +49,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [CollectionViewCell](#collectionviewcell)
 - [Color](#color)
 - [Date](#date)
+- [Dynamic Behavior](#dynamic-behavior)
 - [Font](#font)
 - [GameplayKit](#gameplaykit)
 - [Gesture](#gesture)
@@ -101,6 +102,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [WCActionSheet](https://github.com/wczekalski/WCActionSheet)
 
 ####🔸 *Swift*
+* [FloatingActionSheetController](https://github.com/ra1028/FloatingActionSheetController) - Cool design ActionSheetController library written in Swift2.
 * [PCRapidSelectionView](https://github.com/mmackh/PCRapidSelectionView) - Interactive, beautiful & fast UIActionSheet replacement, supports continuous hold & select.
 
 ## AddressBook
@@ -111,6 +113,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AddressBookTest](https://github.com/dev4dev/AddressBookTest)
 * [JLAddressBook](https://github.com/jlaws/JLAddressBook)
 * [ZLPeoplePickerViewController](https://github.com/zhxnlai/ZLPeoplePickerViewController)
+
+####🔸 *Swift*
+* [EPContactsPicker](https://github.com/ipraba/EPContactsPicker) - A contacts picker component for iOS.
 
 ## ActivityViewController
 *UIActivityViewControllers*
@@ -157,6 +162,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DOAlertController](https://github.com/okmr-d/DOAlertController)
 * [DTIToastCenter-Swift](https://github.com/dtissera/DTIToastCenter-Swift)
 * [EasyTipView](https://github.com/teodorpatras/EasyTipView)
+* [Notification-AlertView](https://github.com/alexey-kubas-appus/Notification-AlertView)
 * [PathDynamicModal](https://github.com/ra1028/PathDynamicModal)
 * [PermissionScope](https://github.com/nickoneill/PermissionScope)
 * [Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift.
@@ -226,7 +232,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RAScrollablePickerView]()https://github.com/naturaln0va/RAScrollablePickerView
 * [RPMultipleImagePicker](https://github.com/renatopeterman/RPMultipleImagePicker)
 * [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper)
-* [Reader]() - pdf
+* [Reader](https://github.com/vfr/Reader) - pdf
 * [SWImageRotation](https://github.com/SurpriseWave/SWImageRotation)
 * [TOCropViewController](https://github.com/TimOliver/TOCropViewController)
 * [TouchGradientPicker](https://github.com/mmertsock/TouchGradientPicker)
@@ -314,6 +320,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ####🔸 *Swift*
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 * [GNTickerButton](https://github.com/gonzalonunez/GNTickerButton)
+* [Hamburger Menu Button](https://github.com/toannt/Hamburger-Menu-Button)
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton)
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)
 * [MaterialView](https://github.com/karticodes/MaterialView) - Material Floating Button for iOS - Swift
@@ -323,6 +330,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SFlatButton](https://github.com/alexmeji/SFlatButton)
 * [TKAnimatedCheckButton](https://github.com/entotsu/TKAnimatedCheckButton)
 * [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition)
+* [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons (in Swift).
 
 ## Camera
 *AVFoundation and CIFaceFeature implementations*
@@ -374,6 +382,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [3DGraph](https://github.com/greglecki/3DGraph) - An interactive Swift 3D Graph.
 * [APLineChart](https://github.com/tylyo/APLineChart)
 * [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
+* [ios-charts](https://github.com/danielgindi/ios-charts)
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)
 * [ROStorageBar](https://github.com/prine/ROStorageBar)
 * [SwiftCharts](https://github.com/i-schuetz/SwiftCharts)
@@ -486,6 +495,12 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ####🔸 *Swift*
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
+
+## Dynamic Behavior
+
+####🔸 *Swift*
+* [Newtons-Cradle](https://github.com/bishalg/Newtons-Cradle)- Newtons Cradle - Bearing in Swift using UIDynamicBehavior.
+
 
 ## Font
 
@@ -637,6 +652,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MZLoading](https://github.com/SergheiMazur/MZLoading)
 * [PQFCustomLoaders](https://github.com/poolqf/PQFCustomLoaders)
 * [RFLoader](https://github.com/rfunk82/RFLoader)
+* [RPLoadingAnimation](https://github.com/naoyashiga/RPLoadingAnimation)
 * [RZSquaresLoading](https://github.com/robinzhangx/RZSquaresLoading)
 * [SCSkypeActivityIndicatorView](https://github.com/stefanceriu/SCSkypeActivityIndicatorView)
 * [SpinKit-ObjC](https://github.com/raymondjavaxx/SpinKit-ObjC)
@@ -785,6 +801,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## Network
 
 ####🔹 *Obj-C*
+* [NetworkEye](https://github.com/coderyi/NetworkEye) - NetworkEye,a iOS network debug library,It can monitor HTTP requests within the App and displays information related to the request.
 * [Polymer](https://github.com/LoganWright/Polymer) - Endpoint focused networking.
 
 ####🔸 *Swift*
@@ -998,6 +1015,7 @@ iw.
 ####🔸 *Swift*
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 * [KWStepper](https://github.com/kyleweiner/KWStepper) - A stepper control with flexible UI and tailored UX.
+* [StepSlider](https://github.com/spromicky/StepSlider)
 
 ## Switch Control
 
@@ -1246,10 +1264,12 @@ iw.
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
-* [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities
+* [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities.
+* [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes..
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift that makes your life easier.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
+* [KGNAutoLayout](https://github.com/kgn/KGNAutoLayout) - Making AutoLayout Easy.
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 * [Miser](https://github.com/tasanobu/Misen) - Script to support easily using Xcode Asset Catalog in Swift.
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - Simple JSON Object mapping written in Swift
@@ -1288,6 +1308,7 @@ iw.
 * [AMDraggableBlurView](https://github.com/andreamazz/AMDraggableBlurView)
 * [CRMotionView](https://github.com/chroman/CRMotionView) - A custom photo viewer that implements device motion scrolling, inspired by Facebook Paper.
 * [CRPixellatedView](https://github.com/chroman/CRPixellatedView) - UIView subclass with a pixellated animation inspired by Facebook's Slingshot app.
+* [Circular-PickerView](https://github.com/alexey-kubas-appus/Circular-PickerView)
 * [DBImageView](https://github.com/danielebogo/DBImageView)
 * [ExpandableHeaderView](https://github.com/microeditionbiz/ExpandableHeaderView) It tries to reproduce the behaviour that you can find on Twitter app, profile section, when the user scrolls down that section, the header is expanded and blurred.
 * [ETFoursquareImages](https://github.com/EugeneTrapeznikov/ETFoursquareImages)
@@ -1409,6 +1430,7 @@ iw.
 * [RadialTransition_swift](https://github.com/apadalko/RadialTransition_swift) - Great iOS radial (circle) animation transition for navigation controller, with custom back swipe. (swift).
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)
 * [SwiftPagingNav](https://github.com/aubrey/SwiftPagingNav) - A Twitter-like navigation bar and page viewer written in Swift.
+* [TransitionManager](https://github.com/cemolcay/TransitionManager) - Painless custom transitioning. Easy extend, easy setup, just focus on animations.
 
 ## WebView
 
