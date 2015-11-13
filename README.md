@@ -498,9 +498,16 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ## Dynamic Behavior
 
+####🔹 *Obj-C*
+* [AGGeometryKit-POP](https://github.com/hfossli/aggeometrykit-pop)
+* [AIMBalloon](https://github.com/AllinMobile/AIMBalloon)
+* [DDHDynamicViewControllerTransitions](https://github.com/dasdom/DDHDynamicViewControllerTransitions) - Custom view controller transitions using UIDynamic behaviors.
+* [DynamicXray](https://github.com/chrismiles/DynamicXray)
+* [VBFJellyView](https://github.com/victorBaro/VBFJellyView) - VBFJellyView is a custom view made out using UIKit Dynamics and with a very funny effect when adding behaviours to it.
+
 ####🔸 *Swift*
 * [Newtons-Cradle](https://github.com/bishalg/Newtons-Cradle)- Newtons Cradle - Bearing in Swift using UIDynamicBehavior.
-
+* [PhysicsCup](https://github.com/jnfisher/PhysicsCup)
 
 ## Font
 
