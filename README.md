@@ -738,6 +738,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [FancyTabBar](https://github.com/marvelapp/FancyTabBar) - Simple menu button that expands to reveal up to 5 sub-menu options.
 * [IGLDropDownMenu](https://github.com/bestwnh/IGLDropDownMenu) - An iOS drop down menu with pretty animation.
 * [JVMenuPopover](https://github.com/JV17/JVMenuPopover)
+* [JZMultiChoicesCircleButton](https://github.com/JustinFincher/JZMultiChoicesCircleButton) - Multi choice circle button with cool 3d parallax effect.
 * [LGFilterView](https://github.com/Friend-LGA/LGFilterView)
 * [LGPlusButtonsView](https://github.com/Friend-LGA/LGPlusButtonsView) - iOS implementation of Google 'plus button', that shows more options.
 * [LGSideMenuController](https://github.com/Friend-LGA/LGSideMenuController)
