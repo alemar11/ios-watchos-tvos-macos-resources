@@ -1176,12 +1176,13 @@ iw.
 * [EMString](https://github.com/TanguyAladenise/EMString) -  A simple category on top of NSString using HTML's markup system to abstract the NSAttributedString API.
 * [HBVLinkedTextView](https://github.com/evilBird/HBVLinkedTextView) - UITextView subclass that executes a block when a user taps a specified word or phrase..
 * [ImgGlyph](https://github.com/dzog/ImgGlyph) - ImgGlyph for iOS is a collection of drop-in replacements for UILabel and UITextView that allow for font-sized in-line images (image glyphs) by auto-replacing specified strings with specified images.
+* [issue-5-textkit](https://github.com/objcio/issue-5-textkit) - A little demo application showing off some features of the new TextKit classes in iOS 7.
 * [LTTextView](https://github.com/EugeneZZI/LTTextView)
 * [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - A drop-in UIViewController subclass with a growing text input view and other useful messaging features.
 * [SWCrawlView](https://github.com/MattFoley/SWCrawlView) - Open source repo for interactive Star Wars Crawl View, as close to theatrically accurate as possible.
 * [VerticallyScrollingStatusView](https://github.com/rahuljiresal/VerticallyScrollingStatusView) - A subclass of UIView that shows vertically scrolling status messages.
 * [WPAttributedMarkup](https://github.com/nigelgrange/WPAttributedMarkup) - Simple utility category that can be used to easily create an attributed string from text with markup tags and a style dictionary.
-* [issue-5-textkit](https://github.com/objcio/issue-5-textkit) - A little demo application showing off some features of the new TextKit classes in iOS 7.
+* [YALField](https://github.com/Yalantis/YALField) - Custom Field component with validation for creating easier form-like UI from interface builder.
 
 ####🔸 *Swift*
 * [BezierString](https://github.com/lvnyk/BezierString) - Rendering NSAttributedStrings along arbitrary UIBezierPaths.
