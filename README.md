@@ -319,6 +319,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ios-multi-back-button](https://github.com/palmin/ios-multi-back-button) - Replacement for the built-in UINavigationController back-button that allows going back multiple levels.
 
 #### 🔸*Swift*
+* [ANLongTapButton](https://github.com/antrix1989/ANLongTapButton) - Long tap button with animated progress bar.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 * [GNTickerButton](https://github.com/gonzalonunez/GNTickerButton)
 * [Hamburger Menu Button](https://github.com/toannt/Hamburger-Menu-Button)
