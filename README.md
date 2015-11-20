@@ -1285,6 +1285,7 @@ iw.
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift that makes your life easier.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
 * [KGNAutoLayout](https://github.com/kgn/KGNAutoLayout) - Making AutoLayout Easy.
+* [Laconic](https://github.com/igormatyushkin014/Laconic) - Short and clear expressions in Swift.
 * [Luminescence](https://github.com/Zewo/Luminescence) - HTTP parser for Swift 2 (Linux ready).
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 * [Miser](https://github.com/tasanobu/Misen) - Script to support easily using Xcode Asset Catalog in Swift.
@@ -1301,6 +1302,7 @@ iw.
 * [Regex](https://github.com/sharplet/Regex) - A Swift µframework providing an NSRegularExpression-backed Regex type.
 * [Run](https://github.com/khoiln/Run) - A Swift Wrapper for Grand Central Dispatch (GCD) Framework that supports method chaining.
 * [Transporter](https://github.com/DenHeadless/Transporter) - Transporter is a modern finite-state machine implemented in pure Swift.* [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
+* [Solid](https://github.com/igormatyushkin014/Solid) - New way to work with arrays in Swift.
 * [SwiftCGRectExtensions](https://github.com/nschum/SwiftCGRectExtensions) - A collection of CGRect, CGPoint and CGSize convenience functions for Swift.
 * [SwiftCop](https://github.com/andresinaka/SwiftCop) - SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.
 * [SwiftDate](https://github.com/malcommac/SwiftDate)
@@ -1311,6 +1313,7 @@ iw.
 * [SwiftySwift](https://github.com/adeca/SwiftySwift) - Collection of useful extensions for Swift types and Cocoa objects.
 * [Swiftz](https://github.com/typelift/swiftz) - Functional programming in Swift.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
+* [Verbose](https://github.com/igormatyushkin014/Verbose) - Text generator written in Swift.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
 
 ## Video
