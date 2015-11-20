@@ -289,12 +289,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons)
 
 ## Button
-*buttons, radio buttons and checkboxes*
+*buttons*
 
 #### 🔹*Obj-C*
 * [ABFillButton](https://github.com/andresbrun/ABFillButton)
 * [APRoundedButton](https://github.com/elpsk/APRoundedButton)
-* [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - Tasteful Checkbox for iOS. (Check box).
 * [BFPaperButton](https://github.com/bfeher/BFPaperButton) - A flat button inspired by Google Material Design's Paper theme.
 * [DKCircleButton](https://github.com/kronik/DKCircleButton) -  Circle button tap effect
 * [DownloadButton](https://github.com/PavelKatunin/DownloadButton)
@@ -306,7 +305,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JTImageButton](https://github.com/kubatru/JTImageButton)
 * [KBRoundedButton](https://github.com/burczyk/KBRoundedButton)
 * [KSMManyOptionsButton](https://github.com/kierajmumick/KSMManyOptionsButton) - This interface is similar to the interface used when the "Voice recording" and "Camera" buttons are pressed and held in iOS 8's message app.
-* [LGRadioButtonsView](https://github.com/Friend-LGA/LGRadioButtonsView) - iOS implementation of radio buttons
 * [PicsLikeControl](https://github.com/itouch2/PicsLikeControl)
 * [RMSaveButton](https://github.com/mcduffeyrt/RMSaveButton)
 * [Responsive-Interaction-Control](https://github.com/NghiaTranUIT/Responsive-Interaction-Control)
@@ -396,8 +394,10 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 *Radio buttons and Checkboxes*
 
 #### 🔹*Obj-C*
+* [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - Tasteful Checkbox for iOS. (Check box).
 * [CTCheckbox](https://github.com/rizumita/CTCheckbox) - Checkbox UI component library for iOS.
 * [DLRadioButton](https://github.com/DavydLiu/DLRadioButton) - A highly customizable Radio Button for iOS.
+* [LGRadioButtonsView](https://github.com/Friend-LGA/LGRadioButtonsView) - iOS implementation of radio buttons
 * [M13Checkbox](https://github.com/Marxon13/M13Checkbox) - A customizeable checkbox for iOS.
 * [TNRadioButtonGroup](https://github.com/frederik-jacques/TNRadioButtonGroup) - Create easy radio button groups in Objective-C.
 
