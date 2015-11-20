@@ -14,6 +14,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [List of awesome snippets, plugins, and extras for Xcode](https://github.com/jeffreyjackson/awesome-xcode) 
 - [The best FRP in iOS links.](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 - [Swift Community Best Practices](https://github.com/schwa/Swift-Community-Best-Practices)
+- [WWDC Students](https://github.com/wwdc) - This repository features the lists of WWDC scholarship entrants from each year, beginning in 2014.
 
 ---
 
@@ -211,6 +212,21 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SnowFalling](https://github.com/pixyzehn/SnowFalling) - Snow Falling in Swift
 * [springdamping](https://github.com/mortenjust/springdamping) - Realtime experimentation with duration, spring and damping for UIView animations.
 * [UIViewXXYBoom](https://github.com/xxycode/UIViewXXYBoom)
+
+## App
+
+#### 🔹*Obj-C*
+* [Armchair](https://github.com/UrbanApps/Armchair) - A simple yet powerful App Review Manager for iOS and OSX in Swift
+* [Movies](https://github.com/KMindeguia/movies)
+* [Subjective-C Tutorials](https://github.com/subjc)
+
+#### 🔸*Swift* 
+* [Dunk](https://github.com/naoyashiga/Dunk) - Dunk is Dribbble client.
+* [EventBlankApp](https://github.com/icanzilb/EventBlankApp) - A free open source iOS app for events or conferences.
+* [gulps](https://github.com/FancyPixel/gulps) - Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
+* [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan) - Open Source Weather App created with Swift.
+* [ReviewTime](https://github.com/nthegedus/ReviewTime) - Review Time is an open source app for iOS written in Swift that show the average review times for iOS and the Mac Apps using data crowdsourced from AppReviewTime.
+* [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
 
 ## Asset Picker
 *Image, Video, Color, Audio Editors or Pickers*
