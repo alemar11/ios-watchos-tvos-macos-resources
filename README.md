@@ -674,6 +674,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [DTIActivityIndicatorView-Swift](https://github.com/dtissera/DTIActivityIndicatorView-Swift)
+* [MFLFillableTextLoader](https://github.com/MattFoley/MFLFillableTextLoader) - Loading slash progress indicator based on filling stroked text.
 * [FliudLoadingIndicator](https://github.com/vinit5320/FliudLoadingIndicator)
 * [KOActivityIndicator](https://github.com/kohtenko/KOActivityIndicator)
 * [MAActivityIndicator](https://github.com/micazeve/MAActivityIndicator)
@@ -1215,6 +1216,7 @@ iw.
 * [validateIt](https://github.com/arpi6/validateIt) - Validation Library for IOS apps.
 
 #### 🔸*Swift*
+* [AutocompleteField](https://github.com/filipstefansson/AutocompleteField) - Add word completion to your UITextFields.
 * [EGFloatingTextField](https://github.com/enisgayretli/EGFloatingTextField) - Implementation of Google's "Floating labels" of Material design.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields)
 * [LTBouncyPlaceholder](https://github.com/lexrus/LTBouncyPlaceholder)
@@ -1385,6 +1387,7 @@ iw.
 * [ARSlidingPanel](https://github.com/andriirogulin/ARSlidingPanel)
 * [CBHazeTransitionViewController](https://github.com/coolbeet/CBHazeTransitionViewController)
 * [FlexSlidingView](https://github.com/hwiesmann/FlexSlidingView)
+* [JRSplitVC](https://github.com/tommypeps/JRSplitVC) - UISplitViewController with adaptative layouts.
 * [LGSemiModalNavController](https://github.com/lukegeiger/LGSemiModalNavController) - Show a view controller a dynamically set height over another view controller.
 * [MCCardPickerCollectionViewController](https://github.com/yuhua-chen/MCCardPickerCollectionViewController) - A card collection view controller inspired by Facebook People you may know.
 * [SSStackedPageView](https://github.com/PlenipotentSS/SSStackedPageView) - Stacked Views paged on top of each other, inspired by iOS 7 Reminders and iOS 7 Passport.
