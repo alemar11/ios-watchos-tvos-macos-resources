@@ -76,6 +76,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [ScrollView](#scrollview)
 - [Segmented Control](#segmented-control)
 - [Slider](#slider)
+- [Sprite](#sprite)
 - [Statusbar](#statusbar)
 - [Stepper](#stepper)
 - [Switch Control](#switch-control)
@@ -572,6 +573,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
 
 ## Image
+*Images and Galleries*
 
 #### 🔹*Obj-C*
 * [ANBlurredImageView](https://github.com/aaronn/ANBlurredImageView) - Subclass of UIImageView for animating the blurring and unblurring of images with a tint color.
@@ -591,6 +593,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Haneke](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 * [ImageLoaderSwift](https://github.com/hirohisa/ImageLoaderSwift)
 * [Nuke](https://github.com/kean/Nuke) - Advanced pure Swift framework for loading, caching, processing, displaying and preheating images.
+* [Panorama](https://github.com/robbykraft/Panorama) - 360° panorama view, iOS-
+* [Panoramic](https://github.com/iSame7/Panoramic) - Swift implementation of the photo tilt gesture/UX found in Facebook's Paper app.
+* [Panorific](https://github.com/ndmeiri/Panorific) - An immersive, intuitive, motion-based way to explore high quality panoramas and photos on an iOS device. Panorific is implemented in Swift.
 * [PASImageView](https://github.com/abiaad/PASImageView) - Rounded async imageview downloader lightly cached and written in Swift
 * [SwiftUIImageEffects](https://github.com/globchastyy/SwiftUIImageEffects)
 * [Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
@@ -1047,6 +1052,12 @@ iw.
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
 * [SpringySlider](https://github.com/josephlord/SpringySlider)
 
+## Sprite
+
+#### 🔸*Swift*
+* [Orbit7](https://github.com/Mav3r1ck/Orbit7) - Open Source iOS Game created in SpriteKit with Swift.
+* [SKTiledMap](https://github.com/wbcyclist/SKTiledMap) - A TMX TileMap framework for SpriteKit.
+
 ## Statusbar
 
 #### 🔹*Obj-C*
@@ -1428,6 +1439,7 @@ iw.
 * [MCCardPickerCollectionViewController](https://github.com/yuhua-chen/MCCardPickerCollectionViewController) - A card collection view controller inspired by Facebook People you may know.
 * [SSStackedPageView](https://github.com/PlenipotentSS/SSStackedPageView) - Stacked Views paged on top of each other, inspired by iOS 7 Reminders and iOS 7 Passport.
 * [SemiModalNavigationController](https://github.com/hughbe/semi-modal-controller)
+* [SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation) - An iOS native implementation of a Trello Animated Navagation.
 * [tispr-card-stack](https://github.com/tispr/tispr-card-stack) - Card Stack in Swift for iOS8+.
 * [VisibleFormViewController](https://github.com/damienromito/VisibleFormViewController) - An extended UIViewController allowing to not hide the content behind the keyboard opened.
 * [VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation) - A simple way to present a view controller with keeping the blurred previous one.
