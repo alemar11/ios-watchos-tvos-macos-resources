@@ -66,6 +66,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Network](#network)
 - [PageControl](#pagecontrol)
 - [Persistance](#persistance)
+- [PickerView](#pickerview)
 - [Progress Bar](#progress-bar)
 - [Pull To Refresh](#pull-to-refresh)
 - [Rating](#rating)
@@ -822,6 +823,15 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔹*Obj-C*
 * [KVNMaskedPageControl](https://github.com/donnellyk/KVNMaskedPageControl)
+
+## PickerView
+
+#### 🔹*Obj-C*
+* [AKPickerView](https://github.com/Akkyie/AKPickerView) - A simple yet customizable horizontal picker view.
+* [ASDayPicker](https://github.com/appscape/ASDayPicker) - Day picker for iOS (iPhone) that resembles the Calendar.app's week view.
+* [EasyPickersCollection](https://github.com/TimurBK/EasyPickersCollection) - Collection of simple, extensible, easy to use pickers. Inspired by ActionSheetPicker.
+* [KDropDownMultipleSelection](https://github.com/kiran5232/KDropDownMultipleSelection) - Single or multiple selection in dropdownlist.
+* [KPFontPicker](https://github.com/pahnev/KPFontPicker) - https://github.com/pahnev/KPFontPicker.
 
 ## Persistance
 *CoreData, SQLite, NSUserDefaults*
