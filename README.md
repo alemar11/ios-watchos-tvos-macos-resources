@@ -219,6 +219,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔹*Obj-C*
 * [Armchair](https://github.com/UrbanApps/Armchair) - A simple yet powerful App Review Manager for iOS and OSX in Swift
 * [Movies](https://github.com/KMindeguia/movies)
+* [Partita](https://github.com/comyarzaheri/Partita) - A simple instrument tuner app for iOS.
 * [Subjective-C Tutorials](https://github.com/subjc)
 
 #### 🔸*Swift* 
@@ -259,6 +260,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ZCSAvatarCapture](https://github.com/zshannon/ZCSAvatarCapture) - User avatar editing made nice.
 
 #### 🔸*Swift*
+* [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)
 * [BRNImagePickerSheet](https://github.com/jacklevin74/BRNImagePickerSheet/tree/master)
 * [DSFacebookImagePicker](https://github.com/sanche21/DSFacebookImagePicker)
 * [Videoshader](https://github.com/snakajima/videoshader) - Script-based real-time video processing technology for OpenGL/iOS
@@ -874,6 +876,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [XLData](https://github.com/xmartlabs/XLData)
 
 #### 🔸*Swift*
+* [Aggregate](https://github.com/perlmunger/Aggregate) - How to build aggregate data fetch requests using Core Data.
 * [ALBNoSQLDB](https://github.com/AaronBratcher/ALBNoSQLDB) - A SQLite database wrapper written in Swift.
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData is a framework to easily access Core Data objects in Swift.
 * [BNR CoreDataStack](https://github.com/bignerdranch/CoreDataStack) - The Big Nerd Ranch Core Data stack.
@@ -1044,6 +1047,7 @@ iw.
 * [JMMarkSlider](https://github.com/brightec/JMMarkSlider)
 * [MARKCircularSlider](https://github.com/vadymmarkov/MARKCircularSlider) - An easy-to-use circular slider.
 * [MercuryMeter](https://github.com/corvino/MercuryMeter) - A simple UIView that displays a horizontal "thermometer", representing a value using two different colors on a rounded line.
+* [CKSlideView](https://github.com/sunnysideprodcorp/Objective-C_CKSlideView)
 * [ODMSwipeSelector](https://github.com/oscart/ODMSwipeSelector) - A value selector for iOS with a swipe gesture.
 * [TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) - A slider, similar in style to UISlider, but which allows you to pick a minimum and maximum range.
 
@@ -1248,15 +1252,19 @@ iw.
 * [Bohr](https://github.com/DavdRoman/Bohr) - Settings screen composing framework.
 * [CBTextFieldView](https://github.com/braker1nine/CBTextFieldView)
 * [CKTextField](https://github.com/JaNd3r/CKTextField) - Enhanced UITextField, with improved visuals for a sweet UX.
+* [GDSMSSplitter](https://github.com/coffellas-cto/GDSMSSplitter) - Objective-C classes designed to split a string into a sequence of short messages close to the international standard of SMS messaging.
+* [GrowingTextViewHandler-objc](https://github.com/hsusmita/GrowingTextViewHandler-objc) - An NSObject subclass to handle resizing of UITextView as the user types in.
 * [IQDropDownTextField](https://github.com/hackiftekhar/IQDropDownTextField) - TextField with DropDown support using UIPickerView.
 * [JDFCurrencyTextField](https://github.com/JoeFryer/JDFCurrencyTextField)
 * [JMFormDescription](https://github.com/leverdeterre/JMFormDescription)
 * [JOTextField](https://github.com/lojals/JOTextField)
 * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) - UITextField subclass with floating labels.
+* [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder written in Swift.
 * [MAFormViewController](https://github.com/mamaral/MAFormViewController)
 * [MHTextField](https://github.com/mehfuzh/MHTextField) - UITextField extension with built-in toolbar, validation and scrolling support.
 * [MMTextFieldEffects](https://github.com/mukyasa/MMTextFieldEffects) - Extension of TextFieldEffects with Custom UITextFields effects inspired by Codrops, built using Objective-C.
 * [PAYFormBuilder](https://github.com/Eldorado234/PAYFormBuilder)
+* [RDRGrowingTextView](https://github.com/datwelk/RDRGrowingTextView) - Auto Layout backed growing UITextView.
 * [SingleLineInput](https://github.com/diogomaximo/SingleLineInput) - A single line textfield implementation with Float Label Animation.
 * [TSCurrencyTextField](https://github.com/TomSwift/TSCurrencyTextField) - UITextField subclass for ATM-style currency input.
 * [TextFieldValidator](https://github.com/dhawaldawar/TextFieldValidator)
@@ -1266,8 +1274,10 @@ iw.
 * [AutocompleteField](https://github.com/filipstefansson/AutocompleteField) - Add word completion to your UITextFields.
 * [EGFloatingTextField](https://github.com/enisgayretli/EGFloatingTextField) - Implementation of Google's "Floating labels" of Material design.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields)
+* [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating UITableView based form.
 * [LTBouncyPlaceholder](https://github.com/lexrus/LTBouncyPlaceholder)
 * [ParkedTextField](https://github.com/gmertk/ParkedTextField) - A text field with a constant text/placeholder.
+* [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - Form framework for iOS written in Swift.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - A small and lightweight library written in Swift that allows you to easily create forms.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift.
 * [VMFloatLabel](https://github.com/varshylmobile/VMFloatLabel) - Swift based UITextField subclass with floating labels.
