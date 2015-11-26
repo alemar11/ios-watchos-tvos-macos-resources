@@ -976,7 +976,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Refresher](https://github.com/jcavar/refresher)
 * [TB_PeriscopePTR](https://github.com/ariok/TB_PeriscopePTR) - tutorial [here](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/)
 
-##Rating
+## Rating
 
 #### 🔹*Obj-C*
 * [HCSStarRatingView](https://github.com/hsousa/HCSStarRatingView) - Simple star rating view for iOS written in Objective-C.
@@ -984,7 +984,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [FloatRatingView](https://github.com/strekfus/FloatRatingView) - Whole, half or floating point ratings control written in Swift.
 
-##Routing
+## Routing
 
 #### 🔹*Obj-C*
 * [ABRouter](https://github.com/aaronbrethorst/ABRouter)
@@ -995,6 +995,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [WAAppRouting](https://github.com/Wasappli/WAAppRouting)
 
 #### 🔸*Swift*
+* [Compass](https://github.com/hyperoslo/Compass) - Compass helps you setup a central navigation system for your application.
 * [Wayfaring](https://github.com/terut/Wayfaring) - Routing library for Swift.
 * [Yukina](https://github.com/charlesmwang/Yukina) - In App URL Router (Deep-Linking Framework for Swift).
 * [RFShortURL](https://github.com/rfunk82/RFShortURL) - RFShortURL provides free URL redirection service.
@@ -1130,6 +1131,7 @@ iw.
 
 #### 🔸*Swift*
 * [Animated-Tab-Bar](https://github.com/Ramotion/animated-tab-bar)
+* [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) 
 * [MHImageTabBar](https://github.com/mho000/MHImageTabBar)
 * [ScrollPager](https://github.com/aryaxt/ScrollPager)
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
@@ -1375,6 +1377,7 @@ iw.
 * [Run](https://github.com/khoiln/Run) - A Swift Wrapper for Grand Central Dispatch (GCD) Framework that supports method chaining.
 * [Transporter](https://github.com/DenHeadless/Transporter) - Transporter is a modern finite-state machine implemented in pure Swift.* [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
 * [Solid](https://github.com/igormatyushkin014/Solid) - New way to work with arrays in Swift.
+* [SwiftAlgorithmsClassroom](https://github.com/gmertk/SwiftAlgorithmsClassroom) - A classroom where you can learn/teach common algorithms and data structures with Swift.
 * [SwiftCGRectExtensions](https://github.com/nschum/SwiftCGRectExtensions) - A collection of CGRect, CGPoint and CGSize convenience functions for Swift.
 * [SwiftCop](https://github.com/andresinaka/SwiftCop) - SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.
 * [SwiftDate](https://github.com/malcommac/SwiftDate)
