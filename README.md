@@ -63,6 +63,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Loader](#loader)
 - [Log](#log)
 - [Map](#map)
+- [Metal](#metal)
 - [Menu](#menu)
 - [NavigationBar](#navigationbar)
 - [Network](#network)
@@ -227,6 +228,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Dunk](https://github.com/naoyashiga/Dunk) - Dunk is Dribbble client.
 * [EventBlankApp](https://github.com/icanzilb/EventBlankApp) - A free open source iOS app for events or conferences.
 * [gulps](https://github.com/FancyPixel/gulps) - Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
+* [OpenSim](https://github.com/luosheng/OpenSim) - OpenSim is an open source alternative for SimPholders, written in Swift.
 * [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan) - Open Source Weather App created with Swift.
 * [ReviewTime](https://github.com/nthegedus/ReviewTime) - Review Time is an open source app for iOS written in Swift that show the average review times for iOS and the Mac Apps using data crowdsourced from AppReviewTime.
 * [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
@@ -817,6 +819,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SvpplyTable](https://github.com/liuminqian/SvpplyTable) - Expandable and collapsable Menu, like Svpply.
 * [SwiftySideMenu](https://github.com/hossamghareeb/SwiftySideMenu)
 
+## Metal
+
+#### 🔸*Swift*
+* [fireworks](https://github.com/kjpgit/fireworks) - Fireworks Graphics Demo (OSX/Metal/Swift).
+
 ## NavigationBar
 
 #### 🔹*Obj-C*
@@ -1345,6 +1352,7 @@ iw.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
 * [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
+* [Diamond](https://github.com/johnno1962/Diamond) - Swift scripting made easy.
 * [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes..
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift that makes your life easier.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
