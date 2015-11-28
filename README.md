@@ -350,6 +350,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MaterialView](https://github.com/karticodes/MaterialView) - Material Floating Button for iOS - Swift
 * [NPFlipButton](https://github.com/neopixl/NPFlipButton)
 * [PlayPauseAnimation](https://github.com/kNeerajPro/PlayPauseAnimation)
+* [recordbutton](https://github.com/samuelbeek/recordbutton)
 * [RNLoadingButton](https://github.com/souzainf3/RNLoadingButton-Swift)
 * [SFlatButton](https://github.com/alexmeji/SFlatButton)
 * [TKAnimatedCheckButton](https://github.com/entotsu/TKAnimatedCheckButton)
@@ -576,6 +577,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [LimSignatureView](https://github.com/limhowe/LimSignatureView) - Signature View in Swift.
 * [RPModalGestureTransition](https://github.com/naoyashiga/RPModalGestureTransition)
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
+* [Standard-Template-Protocols](https://github.com/cconeil/Standard-Template-Protocols) - Protocols for your every day iOS needs.
 
 ## Image
 *Images and Galleries*
@@ -644,6 +646,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔹*Obj-C*
 * [APNumberPad](https://github.com/podkovyrin/APNumberPad)
+* [DesireKeyboard](https://github.com/noppefoxwolf/DesireKeyboard) - Awesome keyboard for tvOS.
 * [IHKeyboardAvoiding](https://github.com/IdleHandsApps/IHKeyboardAvoiding) - IHKeyboardAvoiding is an elegant solution for keeping any UIView visible when the keyboard is being shown - no UIScrollView required!.
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
 * [LCNumberInputView](https://github.com/sinss/LCNumberInputView)
@@ -996,6 +999,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [Compass](https://github.com/hyperoslo/Compass) - Compass helps you setup a central navigation system for your application.
+* [IKRouter](https://github.com/IanKeen/IKRouter) - URLScheme router than supports auto creation of UIViewControllers for associated url parameters to allow creation of navigation stacks.
 * [Wayfaring](https://github.com/terut/Wayfaring) - Routing library for Swift.
 * [Yukina](https://github.com/charlesmwang/Yukina) - In App URL Router (Deep-Linking Framework for Swift).
 * [RFShortURL](https://github.com/rfunk82/RFShortURL) - RFShortURL provides free URL redirection service.
@@ -1355,7 +1359,8 @@ iw.
 * [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Diamond](https://github.com/johnno1962/Diamond) - Swift scripting made easy.
-* [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes..
+* [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes.
+* [Format](https://github.com/marmelroy/format) - A Swift 2 formatter kit. Simple formatting syntax for decimal numbers, currency, addresses, ordinal numbers and hexadecimal colors.
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift that makes your life easier.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
 * [KGNAutoLayout](https://github.com/kgn/KGNAutoLayout) - Making AutoLayout Easy.
@@ -1396,6 +1401,8 @@ iw.
 * [Eleven](https://github.com/coderyi/Eleven) - Eleven Player is a simple powerful video. player.use ffmpeg.
 * [VideoCover](https://github.com/bichenkk/VideoCover-iOS-Demo) - A video background example for iOS.
 
+#### 🔸*Swift*
+* [HTY360Player](https://github.com/hanton/HTY360Player) - A 360° video player for iOS.
 
 ## View
 
