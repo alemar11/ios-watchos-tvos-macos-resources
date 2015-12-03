@@ -94,8 +94,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [View](#view)
 - [ViewController Container](#viewcontroller-container)
 - [ViewController Transition](#viewcontroller-transition)
-- [Window](#window)
 - [WebView](#webview)
+- [Window](#window)
 
 ## ActionSheet
 #### 🔹*Obj-C*
@@ -168,6 +168,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DOAlertController](https://github.com/okmr-d/DOAlertController)
 * [DTIToastCenter-Swift](https://github.com/dtissera/DTIToastCenter-Swift)
 * [EasyTipView](https://github.com/teodorpatras/EasyTipView)
+* [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController.
 * [Notification-AlertView](https://github.com/alexey-kubas-appus/Notification-AlertView)
 * [PathDynamicModal](https://github.com/ra1028/PathDynamicModal)
 * [PermissionScope](https://github.com/nickoneill/PermissionScope)
@@ -487,6 +488,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 *Color Pickers, color and style frameworks*
 
 #### 🔹*Obj-C*
+* [AYSlidingPickerView](https://github.com/yenbekbay/AYSlidingPickerView) - Implementation of a picker view that can be shown by either tapping on or panning the navigation bar.
 * [BFPaperColors](https://github.com/bfeher/BFPaperColors) - Flat colors taken from Google's Material Design: Paper.
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon is a lightweight, yet powerful, flat color framework for iOS (Objective-C & Swift).
 * [DBImageColorPicker](https://github.com/d0ping/DBImageColorPicker) - https://github.com/d0ping/DBImageColorPicker
@@ -754,6 +756,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [SKMapsCenter](https://github.com/asklausen/SKMapsCenter) -  Maintain center while zooming.
+* [SnapLocation](https://github.com/ziligy/SnapLocation) - Swift micro-app that snaps your current location and writes it to pasteboard, it also optionally saves a map image in photos.
 
 ## Menu
 
@@ -1090,6 +1093,7 @@ iw.
 * [Flat-SlideControl](https://github.com/alexey-kubas-appus/Flat-SlideControl)
 
 #### 🔸*Swift*
+* [AHStepperControl](https://github.com/ashh640/AHStepperControl) - A simple stepper control for iOS.
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 * [KWStepper](https://github.com/kyleweiner/KWStepper) - A stepper control with flexible UI and tailored UX.
 * [StepSlider](https://github.com/spromicky/StepSlider)
@@ -1105,6 +1109,7 @@ iw.
 #### 🔸*Swift*
 * [Custom-Switch](https://github.com/ChadTimmerman/Custom-Switch) - A custom Switch created with UIViews and UIButtons in Swift.
 * [DGRunkeeperSwitch](DGRunkeeperSwitch) - Runkeeper design switch control (two part segment control) developed in Swift 2.0.
+* [Switcher](https://github.com/knn90/Switcher) - Custom UISwitcher with animation.
 * [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection.
 
 
@@ -1360,6 +1365,7 @@ iw.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Diamond](https://github.com/johnno1962/Diamond) - Swift scripting made easy.
 * [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes.
+* [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions)
 * [Format](https://github.com/marmelroy/format) - A Swift 2 formatter kit. Simple formatting syntax for decimal numbers, currency, addresses, ordinal numbers and hexadecimal colors.
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift that makes your life easier.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
@@ -1553,6 +1559,9 @@ iw.
 #### 🔹*Obj-C*
 * [ATTutorialController](https://github.com/AfonsoTsukamoto/ATTutorialController) - A tutorial controller ready to use. Uses its own UIWindow.
 * [LNWindowManagerExample](https://github.com/LeoNatan/LNWindowManager) - A window manager that makes working with UIWindow objects easily using an API similar to the UIViewController modal presentation API.
+
+#### 🔸*Swift*
+* [appresizer](https://www.cocoacontrols.com/controls/appresizer) - AppResizer allows you to change the width of the main window, thereby checking if your app renders correctly on all devices.
 
 
 
