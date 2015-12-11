@@ -466,7 +466,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
 * [GooglePlayTransition](https://github.com/xxxAIRINxxx/GooglePlayTransition) - Custom transition like Google Play Store Android App. written in Swift.
+* [Hanabi](https://github.com/kshin/Hanabi) - UICollectionViewLayout subclass with a focus on UICollectionViewCell content.
 * [KRLCollectionViewGridLayout](https://github.com/JayGajjar/JGTransitionCollectionView/tree/master/JGTransitionCollectionView) - A iOS swift base collectionview with unique animation feature inspired from behance made using UICollectionView.
+* [IOStickyHeader](https://github.com/BenjaminPrieur/IOStickyHeader) - Parallax and Sticky header done right using UICollectionViewLayout.
 * [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout) - A UICollectionView layout whitch can move item with drag and drop.
 * [ReorderableGridView-Swift](https://github.com/cemolcay/ReorderableGridView-Swift) - Reorderable grid view solution implemented with swift.
 * [SACollectionViewVerticalScalingFlowLayout](https://github.com/szk-atmosphere/SACollectionViewVerticalScalingFlowLayout) - UICollectionViewLayout that performs scaling up and down automatically on disappearing cells, and applies UIDynamics.
@@ -716,6 +718,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [gmail-like-loading](https://github.com/raweng/gmail-like-loading)
 
 #### 🔸*Swift*
+* [CircleSlider](https://github.com/shushutochako/CircleSlider)
 * [DTIActivityIndicatorView-Swift](https://github.com/dtissera/DTIActivityIndicatorView-Swift)
 * [MFLFillableTextLoader](https://github.com/MattFoley/MFLFillableTextLoader) - Loading slash progress indicator based on filling stroked text.
 * [FliudLoadingIndicator](https://github.com/vinit5320/FliudLoadingIndicator)
@@ -857,6 +860,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
 * [SMTNavigationBar](https://github.com/teffi/SMTNavigationBar) - Customize iOS Navigation Bar items conveniently.
 * [TB_TwitterUI](https://github.com/ariok/TB_TwitterUI)
+* [TCTitleLoading](https://github.com/TravelC/TCTitleLoading) - This is a loading in the bottom of navigation bar title area.
 
 ## Network
 
@@ -1261,6 +1265,7 @@ iw.
 * [BezierString](https://github.com/lvnyk/BezierString) - Rendering NSAttributedStrings along arbitrary UIBezierPaths.
 * [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
 * [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Gradient Text in Real.
+* [Splitflap](https://github.com/YannickL/Splitflap) - A simple split-flap display for your Swift applications.
 
 
 ## Textfield
@@ -1323,6 +1328,7 @@ iw.
 * [CSNotificationView](https://github.com/problame/CSNotificationView)
 * [GSMessages](https://github.com/wxxsw/GSMessages)
 * [HDNotificationView](https://github.com/nhdang103/HDNotificationView)
+* [HMAMessageViewManager](https://github.com/xjki/HMAMessageViewManager)
 * [IIShortNotificationPresenter](https://github.com/Inferis/IIShortNotificationPresenter)
 * [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications)
 * [KODropdownNotification](https://github.com/kohtenko/KODropdownNotification)
@@ -1445,6 +1451,7 @@ iw.
 * [core-background](https://github.com/justinmfischer/core-background) - set of Objective-C classes inspired by the iOS Yahoo Weather App. It provides iOS location-based Flickr backgrounds with Gaussian blur light effects for iPhone.
 
 #### 🔸*Swift*
+* [AbstractView](https://github.com/nuudles/AbstractView) - A simple UIView subclass that you can use as a background view.
 * [AHKBendableView](https://github.com/fastred/AHKBendableView) - UIView subclass that bends its edges when its position change is animated
 * [AvatarView](https://github.com/chrene/AvatarView/)
 * [Blurable](https://github.com/FlexMonkey/Blurable)
@@ -1484,6 +1491,7 @@ iw.
 * [ZoomTransition](https://github.com/tristanhimmelman/ZoomTransition) - An easy to use interactive zoom transition for presenting view controllers onto a navigation stack.
 
 #### 🔸*Swift*
+* [EZSwipeController](https://github.com/goktugyil/EZSwipeController)
 * [interactiveplayerview](https://github.com/AhmettKeskin/InteractivePlayerView) - Custom iOS music player view.
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control.
 * [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
