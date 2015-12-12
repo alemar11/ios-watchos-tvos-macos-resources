@@ -61,6 +61,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Keyboard](#keyboard)
 - [Label](#label)
 - [Loader](#loader)
+- [Localization](#localization)
 - [Log](#log)
 - [Map](#map)
 - [Metal](#metal)
@@ -731,6 +732,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX.
 * [RSDotsView](https://github.com/Kemcake/RSDotsView)
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)
+
+## Localization
+
+#### 🔸*Swift*
+* [Laurine](https://github.com/JiriTrecak/Laurine) - Localization code generator written in Swift.
 
 ## Log
 
