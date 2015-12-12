@@ -266,6 +266,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)
 * [BRNImagePickerSheet](https://github.com/jacklevin74/BRNImagePickerSheet/tree/master)
 * [DSFacebookImagePicker](https://github.com/sanche21/DSFacebookImagePicker)
+* [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
 * [Videoshader](https://github.com/snakajima/videoshader) - Script-based real-time video processing technology for OpenGL/iOS
 
 ## Audio
@@ -600,6 +601,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DPImageGenerator](https://github.com/dwipp/DPImageGenerator) - It's an image generator for default image.
 * [Haneke](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 * [ImageLoaderSwift](https://github.com/hirohisa/ImageLoaderSwift)
+* [ImageViewer](https://github.com/MailOnline/ImageViewer) - An image viewer à la Twitter.
 * [Nuke](https://github.com/kean/Nuke) - Advanced pure Swift framework for loading, caching, processing, displaying and preheating images.
 * [Panorama](https://github.com/robbykraft/Panorama) - 360° panorama view, iOS-
 * [Panoramic](https://github.com/iSame7/Panoramic) - Swift implementation of the photo tilt gesture/UX found in Facebook's Paper app.
@@ -896,6 +898,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [GRDB](https://github.com/groue/GRDB.swift) - SQLite toolkit.
 * [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit)
 * [QueryKit](https://github.com/QueryKit) - A simple CoreData query language for Swift and Objective-C.
+* [Pantry](https://github.com/nickoneill/Pantry) - The missing light persistence layer for Swift.
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 * [WACoreDataSpotlight](https://github.com/Wasappli/WACoreDataSpotlight) - Automatically index your CoreData objects to CoreSpotlight on iOS 9.
 
