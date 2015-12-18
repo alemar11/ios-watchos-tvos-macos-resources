@@ -378,6 +378,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [SwiftMustaches](https://github.com/elpassion/SwiftMustaches)
+* [TGLAugmentedRealityView](https://github.com/gleue/TGLAugmentedRealityView) - Augmented Reality made easy -- place overlays on a camera preview and adjust their position depending on device attitude.
 
 ## Charts
 
@@ -800,13 +801,12 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [LGPlusButtonsView](https://github.com/Friend-LGA/LGPlusButtonsView) - iOS implementation of Google 'plus button', that shows more options.
 * [LGSideMenuController](https://github.com/Friend-LGA/LGSideMenuController)
 * [LMDropdownView](https://github.com/lminhtm/LMDropdownView) - Simple dropdown view inspired by Tappy.
-* [M13ContextMenu](https://github.com/Marxon13/M13ContextMenu)
- for iOS with blurring background and screen-edge activation gestures.
+* [M13ContextMenu](https://github.com/Marxon13/M13ContextMenu) - A Pintrest style context menu for iOS.
 * [MCSFishEye](https://github.com/macoscope/MCSFishEye) - The dock-like control for iOS.
 * [MISDropdownViewController](https://github.com/maicki/MISDropdownViewController)
 * [MLPresentController](https://github.com/molon/MLPresentController)
 * [NGSplitMenuController](https://github.com/nitingeorge227/NGSplitMenuController) - Menu Driven Split view controller
-* [NOCircleSelector](https://github.com/natalia-osa/NOCircleSelector)*
+* [NOCircleSelector](https://github.com/natalia-osa/NOCircleSelector)
 * [OECentreMenu](https://github.com/oduwa/OECentreMenu) - A simple drag and drop solution for an animated menu in the centre of the screen.
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) - Pop animation menu
 * [NFXPullTab](https://github.com/noppefoxwolf/NFXPullTab) - Easy way to select ViewController.
@@ -823,6 +823,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu)
+* [FlowingMenu](https://github.com/YannickL/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects in Swift.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
 * [Hokusai](https://github.com/ytakzk/Hokusai) - Swift library that provides a bouncy action sheet.
 * [JGFlipMenu](https://github.com/ziligy/JGFlipMenu) - Flipping menu system written in Swift. Uses @IBDesignable for quick and easy implementation.
@@ -1054,6 +1055,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [CrossNavigation](https://github.com/artemstepanenko/CrossNavigation) - Any side navigation.
+* [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) - Simple parallax header for UIScrollView.
 * [PBPagerViewController](https://github.com/paoloboschini/PBPagerViewController)
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController)
 
@@ -1102,6 +1104,7 @@ iw.
 ## Stepper
 
 #### 🔹*Obj-C*
+* [AYStepperView](https://github.com/yenbekbay/AYStepperView)
 * [CMSteppedProgressBar](https://github.com/Mycose/CMSteppedProgressBar) - Custom view as a progress bar with steps.
 * [Flat-SlideControl](https://github.com/alexey-kubas-appus/Flat-SlideControl)
 
@@ -1141,6 +1144,7 @@ iw.
 * [HTHorizontalSelectionList](https://github.com/hightower/HTHorizontalSelectionList)
 * [JCSegmentBarController](https://github.com/lijingcheng/JCSegmentBarController)
 * [JFATabBarController](https://github.com/vermont42/JFATabBarController)
+* [LCTabBarController](https://github.com/LeoiOS/LCTabBarController)
 * [NTSlidingViewController](https://github.com/nonstriater/NTSlidingViewController)
 * [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController)
 * [RKTabView](https://github.com/RafaelKayumov/RKTabView)
