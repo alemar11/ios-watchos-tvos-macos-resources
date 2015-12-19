@@ -507,7 +507,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [UIColor-uiGradientsAdditions](https://github.com/kaiinui/UIColor-uiGradientsAdditions)
 
 #### 🔸*Swift*
-* [DPTheme](https://github.com/dphans/DPTheme) - https://github.com/dphans/DPTheme
+* [Colors](https://github.com/paulot/Colors) - Terminal Colors for Swift.
+* [DPTheme](https://github.com/dphans/DPTheme)
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - DynamicColor provides powerful methods to manipulate colours in an easy way.
 * [flatuicolor](https://github.com/avdyushin/flatuicolor)
 * [himbo](https://github.com/kimar/himbo) - A simple iOS App to create mono colored backgrounds. Written in Swift and supporting 3D Touch on iPhone 6s.
@@ -743,6 +744,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## Log
 
 #### 🔸*Swift*
+* [CleanroomASL](https://github.com/emaloney/CleanroomASL]) - A Swift-based API for reading from & writing to the Apple System Log (more commonly known somewhat inaccurately as "the console").
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Colorful, lightweight & fast logging in Swift 2.
 * [SwiftLogger](https://github.com/MugunthKumar/SwiftLogger)
