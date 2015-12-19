@@ -549,7 +549,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [VBFJellyView](https://github.com/victorBaro/VBFJellyView) - VBFJellyView is a custom view made out using UIKit Dynamics and with a very funny effect when adding behaviours to it.
 
 #### 🔸*Swift*
-* [Newtons-Cradle](https://github.com/bishalg/Newtons-Cradle)- Newtons Cradle - Bearing in Swift using UIDynamicBehavior.
+* [DateRangePicker](https://github.com/MrMage/DateRangePicker) - Date range picker control for OSX.
+* [Newtons-Cradle](https://github.com/bishalg/Newtons-Cradle) - Newtons Cradle - Bearing in Swift using UIDynamicBehavior.
 * [PhysicsCup](https://github.com/jnfisher/PhysicsCup)
 
 ## Font
@@ -743,6 +744,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
+* [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Colorful, lightweight & fast logging in Swift 2.
 * [SwiftLogger](https://github.com/MugunthKumar/SwiftLogger)
 * [Watchdog](https://github.com/wojteklukaszuk/Watchdog) - Class for logging excessive blocking on the main thread.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number.
@@ -1365,6 +1367,7 @@ iw.
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
 * [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
+* [Whisper](https://github.com/hyperoslo/Whisper)
 
 ## Utils
 
