@@ -1190,7 +1190,8 @@ iw.
 * [JGCustomSelection](https://github.com/JayGajjar/JGCustomSelection) A selection controller made with combinitation of UITableView and UICollectionview.
 * [KNPathTableViewController](https://github.com/kentnguyen/KNPathTableViewController) - UITableViewController with customizable overlay panel while scrolling.
 * [MGSpotyViewController](https://github.com/matteogobbi/MGSpotyViewController) - Beautiful viewController with a tableView and amazing effects like a viewController in the Spotify app.
-* [MMTransitionEffect](https://github.com/mukyasa/MMTransitionEffect) - Transition Effect
+* [MMTransitionEffect](https://github.com/mukyasa/MMTransitionEffect) - Transition Effect.
+* [NewsCommentLayout](https://github.com/xxhp/NewsCommentLayout) - The NewsCommentLayout mimic a layout of Netease client.
 * [OCBorghettiView](https://github.com/otaviocc/OCBorghettiView) - OCBorghettiView is an easy to use accordion view component for iOS.
 * [PADTiltViewController](https://github.com/dusi/PADTiltViewController) - PADTiltViewController adds device tilt capability to one directional scroll views on iOS.
 * [ParallaxTableViewHeader](https://github.com/Vinodh-G/ParallaxTableViewHeader) - Parallax scrolling effect on UITableView header view when a tableView is scrolled.
@@ -1454,6 +1455,7 @@ iw.
 * [JTFadingInfoView](https://github.com/JunichiT/JTFadingInfoView) - JTFadingInfoView is google's material design like notification view with smooth fade in/out animation features, based on UIButton subclass.
 * [JZStackedView](https://github.com/zammitjames/JZStackedView)
 * [LazyFadeInView](https://github.com/itouch2/LazyFadeInView)
+* [LCBannerView](https://github.com/LeoiOS/LCBannerView) - A very popular and highly customized banner view.
 * [M2DRibbonView](https://github.com/0x0c/M2DRibbonView) - Ribbon shape view
 * [MABCardsView](https://github.com/muhammadbassio/MABCardsView)
 * [MSLiveBlur](https://github.com/mspensieri/MSLiveBlur)
