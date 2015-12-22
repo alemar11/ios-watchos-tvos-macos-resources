@@ -661,6 +661,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
 * [LCNumberInputView](https://github.com/sinss/LCNumberInputView)
 * [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
+* [PEAR-KeyboardNotification](https://github.com/HirokiUmatani/PEAR-KeyboardNotification-iOS) - It is keyboard notification for ios.
 * [UIViewController-KeyboardAnimation](https://github.com/Just-/UIViewController-KeyboardAnimation) - Working with iOS keyboard demands a lot of duplicated code. This category allows you to declare your animations with smooth keyboard animation timing and write very little code.
 
 #### 🔸*Swift*
