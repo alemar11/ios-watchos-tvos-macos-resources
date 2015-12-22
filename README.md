@@ -905,6 +905,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [APCDController](https://github.com/deszip/APCDController)
 * [ApolloDB](https://github.com/jchomali/ApolloDB) - Encrypted JSON
 * [HardCoreData](https://github.com/Krivoblotsky/HardCoreData)
+* [PEAR-CoreDataManager](https://github.com/HirokiUmatani/PEAR-CoreDataManager-iOS)
 * [XLData](https://github.com/xmartlabs/XLData)
 
 #### 🔸*Swift*
