@@ -216,11 +216,13 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Fluent](https://github.com/matthewcheok/Fluent) - Swift Animations made Easy.
 * [InstagramHeartView](https://github.com/wojteklukaszuk/articles/tree/]()/InstagramHeartView)
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
+* [MTPrivateTrainerAnimation](https://github.com/MartinRGB/MTPrivateTrainerAnimation)
 * [PIRipple](https://github.com/pixel-ink/PIRipple) - Ripple Effect for iOS (swift)
 * [PowerUpYourAnimations](https://github.com/icanzilb/PowerUpYourAnimations) - Sample code from talks on advanced animations: [link]([https://realm.io/news/altconf-marin-todorov-animations/)
 * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect)
-* [SnowFalling](https://github.com/pixyzehn/SnowFalling) - Snow Falling in Swift
+* [SnowFalling](https://github.com/pixyzehn/SnowFalling) - Snow Falling in Swift.
+* [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
 * [springdamping](https://github.com/mortenjust/springdamping) - Realtime experimentation with duration, spring and damping for UIView animations.
 * [UIViewXXYBoom](https://github.com/xxycode/UIViewXXYBoom)
 
