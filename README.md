@@ -1389,6 +1389,7 @@ iw.
 * [BugReportKit](https://github.com/rahuljiresal/BugReportKit/tree/master/Example/BugReportKit)
 * [CZWeatherKit](https://github.com/comyarzaheri/CZWeatherKit) - A Simple Cocoa Weather Library.
 * [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper) - Quick tool to explain the right place to enable your privacy settings.
+* [HelperLibrary](https://github.com/rondinellimorais/HelperLibrary) - The HelperLibrary framework is a static library iOs simple that contains all the implementation of the silly and repetitive work you have to do every time you create a new iOS / OSX project.
 * [MBObjectPoolManager](https://github.com/MBKwon/MBObjectPoolManager) - MBObjectPoolManager is best way to reuse your objects in your project. You can save a memory reusing objects.
 * [SmileWeather](https://github.com/liu044100/SmileWeather) - A library for Search & Parse the weather data from Wunderground & Openweathermap conveniently.
 
@@ -1521,6 +1522,7 @@ iw.
 * [ZoomTransition](https://github.com/tristanhimmelman/ZoomTransition) - An easy to use interactive zoom transition for presenting view controllers onto a navigation stack.
 
 #### 🔸*Swift*
+* [CarbonKitSwift](https://github.com/melieskubrick/CarbonKitSwift) - CarbonKit is an OpenSource iOS library that includes powerful and beauty UI controllers.
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController)
 * [interactiveplayerview](https://github.com/AhmettKeskin/InteractivePlayerView) - Custom iOS music player view.
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control.
