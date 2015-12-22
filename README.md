@@ -38,6 +38,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [ActivityViewController](#activityviewcontroller)
 - [ActionSheet](#actionsheet)
 - [AddressBook](#addressbook)
+- [AI](#ai)
 - [Alert](#alert)
 - [Animation](#animation)
 - [Asset Picker](#asset-picker)
@@ -129,6 +130,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔹*Obj-C*
 * [WLActivityViewController](https://github.com/an0/WLActivityViewController)
+
+## AI
+
+#### 🔸*Swift*
+* [Swift-AI](https://github.com/collinhundley/Swift-AI)
 
 ## Alert
 *UIAlertViewControllers, PopUps, PopOvers and ToolTips*
@@ -479,6 +485,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ScaledVisibleCellsCollectionView](https://github.com/ikemai/ScaledVisibleCellsCollectionView) - ScaledVisibleCellsCollectionView is UICollectionView extension. ScaledVisibleCellsCollectionView is Check visible cells position. And setting cell's scale and alpha.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)
 * [SwiftyCollectionView](https://github.com/vinit5320/SwiftyCollectionView) - [Tutorial](https://swiftyos.wordpress.com/2015/08/01/animated-wave-transition-collectionview-ckwavecollectionviewtransition/)
+* [TabbedCollectionView](https://github.com/sprint84/TabbedCollectionView) - Multi-page collection view with tab categories.
 * [ZLBalancedFlowLayout](https://github.com/zhxnlai/ZLBalancedFlowLayout) - A UICollectionViewFlowLayout subclass that scales items to take up space, optimized for large item set.
 
 ## CollectionViewCell
