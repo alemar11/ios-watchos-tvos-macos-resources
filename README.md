@@ -539,7 +539,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
-
+* [EPCalendarPicker](https://github.com/ipraba/EPCalendarPicker)
+ 
 ## Dynamic Behavior
 
 #### 🔹*Obj-C*
@@ -1264,7 +1265,7 @@ iw.
 #### 🔸*Swift*
 * [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view, in Swift.
 * [RRTagController](https://github.com/remirobert/RRTagController) - RRTagController allows user to select tag and create new one.
-
+* [UITags](https://github.com/gtsif21/UITags)
 
 ## Text
 *NSAttributedStrings, TextKit and UITextView*
