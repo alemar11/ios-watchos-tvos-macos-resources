@@ -6,7 +6,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects.](https://github.com/vsouza/awesome-ios)
 - [A collaborative list of awesome swift resources](https://github.com/matteocrippa/awesome-swift)
 - [A curated list of awesome Swift frameworks](https://github.com/Wolg/awesome-swift)
-- [Awesome OSX](https://github.com/iCHAIT/awesome-osx) - A curated list of awesome applications, softwares, tools and shiny things for OS X.
+- [Awesome OSX](https://github.com/iCHAIT/awesome-osx) - A curated list of awesome applications, softwares, tools and shiny things for OSX.
 - [Awesome Open Source Mac Apps](https://github.com/jeffreyjackson/mac-apps)
 - [Cocoanetics Swift-Examples](https://github.com/Cocoanetics/Swift-Examples)
 - [Collaborative List of Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
@@ -235,6 +235,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Subjective-C Tutorials](https://github.com/subjc)
 
 #### 🔸*Swift* 
+* [Clipinio](https://github.com/benjohnde/Clipinio) - Lightweight clipboard manager for OSX.
 * [Dunk](https://github.com/naoyashiga/Dunk) - Dunk is Dribbble client.
 * [EventBlankApp](https://github.com/icanzilb/EventBlankApp) - A free open source iOS app for events or conferences.
 * [gulps](https://github.com/FancyPixel/gulps) - Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
@@ -543,7 +544,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RDVCalendarView](https://github.com/robbdimitrov/RDVCalendarView)
 * [RMDateSelectionViewController](https://github.com/CooperRS/RMDateSelectionViewController)
 * [SBFlatDatePicker](https://github.com/SolomonBier/SBFlatDatePicker)
-* [ScheduleKit](https://github.com/gservera/ScheduleKit) - ScheduleKit is a new graphical event management framework for Mac OS X that provides a great way to display a set of event-like objects.
+* [ScheduleKit](https://github.com/gservera/ScheduleKit) - ScheduleKit is a new graphical event management framework for Mac OSX that provides a great way to display a set of event-like objects.
 * [timeLineiOS](https://github.com/romaHerman/timeLineiOS)
 
 #### 🔸*Swift*
