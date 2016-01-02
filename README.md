@@ -606,6 +606,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ANBlurredImageView](https://github.com/aaronn/ANBlurredImageView) - Subclass of UIImageView for animating the blurring and unblurring of images with a tint color.
 * [CLImageEditor](https://github.com/yackle/CLImageEditor) - CLImageEditor provides basic image editing features to iPhone
 * [CoverPhotoTwitterExample](https://github.com/vani2/CoverPhotoTwitterExample) - Example of blurred expanding cover photo like twitter app.
+* [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - Core Image Filter explorer.
 * [KVNBoundedImageView](https://github.com/donnellyk/KVNBoundedImageView) - KVNBoundedImageView attempts to keep faces visible and centered in a UIImageView.
 * [LiveBlend](https://github.com/kevinzhow/LiveBlend)
 * [Masu](https://github.com/midnightSuyama/Masu) - Placeholder
@@ -1425,7 +1426,7 @@ iw.
 * [ResourceInstantiatable](https://github.com/rizumita/ResourceInstantiatable) - iOS resources management framework in Swift2.
 * [Regex](https://github.com/sharplet/Regex) - A Swift µframework providing an NSRegularExpression-backed Regex type.
 * [Run](https://github.com/khoiln/Run) - A Swift Wrapper for Grand Central Dispatch (GCD) Framework that supports method chaining.
-* [Transporter](https://github.com/DenHeadless/Transporter) - Transporter is a modern finite-state machine implemented in pure Swift.* [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
+* [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 * [Solid](https://github.com/igormatyushkin014/Solid) - New way to work with arrays in Swift.
 * [SwiftCGRectExtensions](https://github.com/nschum/SwiftCGRectExtensions) - A collection of CGRect, CGPoint and CGSize convenience functions for Swift.
 * [SwiftCop](https://github.com/andresinaka/SwiftCop) - SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.
@@ -1436,6 +1437,7 @@ iw.
 * [SwiftShell-Swift2.0](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
 * [SwiftySwift](https://github.com/adeca/SwiftySwift) - Collection of useful extensions for Swift types and Cocoa objects.
 * [Swiftz](https://github.com/typelift/swiftz) - Functional programming in Swift.
+* [Transporter](https://github.com/DenHeadless/Transporter) - Transporter is a modern finite-state machine implemented in pure Swift.* [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
 * [Verbose](https://github.com/igormatyushkin014/Verbose) - Text generator written in Swift.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
