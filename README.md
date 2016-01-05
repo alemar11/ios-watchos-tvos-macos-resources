@@ -517,6 +517,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [UIColor-uiGradientsAdditions](https://github.com/kaiinui/UIColor-uiGradientsAdditions)
 
 #### 🔸*Swift*
+* [clrex](https://github.com/ilyapuchka/clrex) - Simple script to generate UIColor factory methods from clr files.
 * [Colors](https://github.com/paulot/Colors) - Terminal Colors for Swift.
 * [DPTheme](https://github.com/dphans/DPTheme)
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - DynamicColor provides powerful methods to manipulate colours in an easy way.
@@ -1400,6 +1401,7 @@ iw.
 #### 🔸*Swift*
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
+* [Caramel](https://github.com/CaramelForSwift/Caramel) - A portable I/O framework for Swift.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
 * [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
