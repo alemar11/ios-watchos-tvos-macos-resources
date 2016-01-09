@@ -905,6 +905,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔹*Obj-C*
 * [KVNMaskedPageControl](https://github.com/donnellyk/KVNMaskedPageControl)
 
+#### 🔸*Swift*
+* [GBPageControl](https://github.com/jhurt/GBPageControl) - A page control for SpriteKit based games written in Swift.
+
 ## PickerView
 
 #### 🔹*Obj-C*
