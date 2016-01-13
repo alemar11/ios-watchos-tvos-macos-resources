@@ -465,6 +465,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RBCollectionViewBalancedColumnLayout](https://github.com/eoghain/RBCollectionViewBalancedColumnLayout) - A UICollectionViewLayout that displays your cells in balanced columns.
 * [RCCPeakableImageView](https://github.com/robertoseidenberg/RCCPeakableImageView) - Implementation of a "peekable" thumbnail image.
 * [RPSlidingMenu](https://github.com/RobotsAndPencils/RPSlidingMenu)
+* [StickyCollectionView](https://github.com/matbeich/StickyCollectionView) - UICollectionView layout for presenting of the overlapping cells.
 * [Stretchy-Collection-View](https://github.com/cnoon/Stretchy-Collection-View) - A demo app of how to use a custom UICollectionViewFlowLayout to create a stretchy collection view just like Evernote does in iOS 7.
 * [TGLStackedViewController](https://github.com/gleue/TGLStackedViewController) - A stack layout with gesture-based reordering using UICollectionView -- inspired by Passbook and Reminders apps.
 * [THSpringyCollectionView](https://github.com/tristanhimmelman/THSpringyCollectionView) - A memory and CPU efficient implementation of a collection view with cells that bounce around like they do in the iOS 7 messages app.
@@ -517,6 +518,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [UIColor-uiGradientsAdditions](https://github.com/kaiinui/UIColor-uiGradientsAdditions)
 
 #### 🔸*Swift*
+* [clrex](https://github.com/ilyapuchka/clrex) - Simple script to generate UIColor factory methods from clr files.
 * [Colors](https://github.com/paulot/Colors) - Terminal Colors for Swift.
 * [DPTheme](https://github.com/dphans/DPTheme)
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - DynamicColor provides powerful methods to manipulate colours in an easy way.
@@ -606,6 +608,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ANBlurredImageView](https://github.com/aaronn/ANBlurredImageView) - Subclass of UIImageView for animating the blurring and unblurring of images with a tint color.
 * [CLImageEditor](https://github.com/yackle/CLImageEditor) - CLImageEditor provides basic image editing features to iPhone
 * [CoverPhotoTwitterExample](https://github.com/vani2/CoverPhotoTwitterExample) - Example of blurred expanding cover photo like twitter app.
+* [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - Core Image Filter explorer.
 * [KVNBoundedImageView](https://github.com/donnellyk/KVNBoundedImageView) - KVNBoundedImageView attempts to keep faces visible and centered in a UIImageView.
 * [LiveBlend](https://github.com/kevinzhow/LiveBlend)
 * [Masu](https://github.com/midnightSuyama/Masu) - Placeholder
@@ -671,6 +674,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [IHKeyboardAvoiding](https://github.com/IdleHandsApps/IHKeyboardAvoiding) - IHKeyboardAvoiding is an elegant solution for keeping any UIView visible when the keyboard is being shown - no UIScrollView required!.
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
 * [LCNumberInputView](https://github.com/sinss/LCNumberInputView)
+* [MMNumberKeyboard](https://github.com/matmartinez/MMNumberKeyboard) - A simple keyboard to use with numbers and, optionally, a decimal point.
 * [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
 * [PEAR-KeyboardNotification](https://github.com/HirokiUmatani/PEAR-KeyboardNotification-iOS) - It is keyboard notification for ios.
 * [UIViewController-KeyboardAnimation](https://github.com/Just-/UIViewController-KeyboardAnimation) - Working with iOS keyboard demands a lot of duplicated code. This category allows you to declare your animations with smooth keyboard animation timing and write very little code.
@@ -902,6 +906,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔹*Obj-C*
 * [KVNMaskedPageControl](https://github.com/donnellyk/KVNMaskedPageControl)
+
+#### 🔸*Swift*
+* [GBPageControl](https://github.com/jhurt/GBPageControl) - A page control for SpriteKit based games written in Swift.
 
 ## PickerView
 
@@ -1189,7 +1196,8 @@ iw.
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 * [AMWaveTransition](https://github.com/andreamazz/AMWaveTransition) - Custom transition between viewcontrollers holding tableviews.
 * [ANBlurredTableView](https://github.com/aaronn/ANBlurredTableView) - It is implementation of view allowing navigation between views like in iOS 7 Weather App.
-* [APPaginalTableView](https://github.com/Antol/APPaginalTableView)
+* [APPaginalTableView](https://github.com/Antol/APPaginalTableView) 
+* [AVLighterTableViewController](https://github.com/angelvasa/AVLighterTableViewController) - LighterTableViewController Swift.
 * [BRFlabbyTable](https://github.com/brocoo/BRFlabbyTable) - Bouncy and distorded table view cells.
 * [CFSSpringTableView](https://github.com/chrisfsampaio/CFSSpringTableView) - This UITableView Subclass makes your table view looks like its cells are connected to each other by springs.
 * [CRPaddyTableView](https://github.com/croath/CRPaddyTableView) - A TableView with animations like the Message App.
@@ -1290,7 +1298,9 @@ iw.
 * [LTTextView](https://github.com/EugeneZZI/LTTextView)
 * [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - A drop-in UIViewController subclass with a growing text input view and other useful messaging features.
 * [SWCrawlView](https://github.com/MattFoley/SWCrawlView) - Open source repo for interactive Star Wars Crawl View, as close to theatrically accurate as possible.
+* [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) - A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view.
 * [VerticallyScrollingStatusView](https://github.com/rahuljiresal/VerticallyScrollingStatusView) - A subclass of UIView that shows vertically scrolling status messages.
+* [Wonderful](https://github.com/dsxNiubility/Wonderful)
 * [WPAttributedMarkup](https://github.com/nigelgrange/WPAttributedMarkup) - Simple utility category that can be used to easily create an attributed string from text with markup tags and a style dictionary.
 * [YALField](https://github.com/Yalantis/YALField) - Custom Field component with validation for creating easier form-like UI from interface builder.
 
@@ -1401,6 +1411,7 @@ iw.
 #### 🔸*Swift*
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
+* [Caramel](https://github.com/CaramelForSwift/Caramel) - A portable I/O framework for Swift.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
 * [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
@@ -1427,7 +1438,7 @@ iw.
 * [ResourceInstantiatable](https://github.com/rizumita/ResourceInstantiatable) - iOS resources management framework in Swift2.
 * [Regex](https://github.com/sharplet/Regex) - A Swift µframework providing an NSRegularExpression-backed Regex type.
 * [Run](https://github.com/khoiln/Run) - A Swift Wrapper for Grand Central Dispatch (GCD) Framework that supports method chaining.
-* [Transporter](https://github.com/DenHeadless/Transporter) - Transporter is a modern finite-state machine implemented in pure Swift.* [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
+* [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 * [Solid](https://github.com/igormatyushkin014/Solid) - New way to work with arrays in Swift.
 * [SwiftCGRectExtensions](https://github.com/nschum/SwiftCGRectExtensions) - A collection of CGRect, CGPoint and CGSize convenience functions for Swift.
 * [SwiftCop](https://github.com/andresinaka/SwiftCop) - SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.
@@ -1438,6 +1449,7 @@ iw.
 * [SwiftShell-Swift2.0](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
 * [SwiftySwift](https://github.com/adeca/SwiftySwift) - Collection of useful extensions for Swift types and Cocoa objects.
 * [Swiftz](https://github.com/typelift/swiftz) - Functional programming in Swift.
+* [Transporter](https://github.com/DenHeadless/Transporter) - Transporter is a modern finite-state machine implemented in pure Swift.* [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
 * [Verbose](https://github.com/igormatyushkin014/Verbose) - Text generator written in Swift.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
@@ -1450,6 +1462,7 @@ iw.
 
 #### 🔸*Swift*
 * [HTY360Player](https://github.com/hanton/HTY360Player) - A 360° video player for iOS.
+* [Periscope-VideoViewController](https://github.com/gontovnik/Periscope-VideoViewController) - Video view controller with Periscope fast rewind control.
 
 ## View
 
@@ -1472,6 +1485,7 @@ iw.
 * [LCBannerView](https://github.com/LeoiOS/LCBannerView) - A very popular and highly customized banner view.
 * [M2DRibbonView](https://github.com/0x0c/M2DRibbonView) - Ribbon shape view
 * [MABCardsView](https://github.com/muhammadbassio/MABCardsView)
+* [MMPulseView](https://github.com/adad184/MMPulseView) - A simple view to show circle pulse repeatly.
 * [MSLiveBlur](https://github.com/mspensieri/MSLiveBlur)
 * [NFXBubblePoolView](https://github.com/noppefoxwolf/NFXBubblePoolView)
 * [NORosettaView](https://github.com/natalia-osa/NORosettaView)
