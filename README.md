@@ -215,7 +215,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [Fluent](https://github.com/matthewcheok/Fluent) - Swift Animations made Easy.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable)
-* [InstagramHeartView](https://github.com/wojteklukaszuk/articles/tree/]()/InstagramHeartView)
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
 * [MTPrivateTrainerAnimation](https://github.com/MartinRGB/MTPrivateTrainerAnimation)
 * [PIRipple](https://github.com/pixel-ink/PIRipple) - Ripple Effect for iOS (swift)
@@ -279,6 +278,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BRNImagePickerSheet](https://github.com/jacklevin74/BRNImagePickerSheet/tree/master)
 * [DSFacebookImagePicker](https://github.com/sanche21/DSFacebookImagePicker)
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
+* [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [Videoshader](https://github.com/snakajima/videoshader) - Script-based real-time video processing technology for OpenGL/iOS
 
 ## Audio
@@ -662,7 +662,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - BWWalkthrough is a class to build custom walkthroughs for your iOS App.
 * [Instructions](https://github.com/ephread/Instructions)
 * [JTSplashView](https://github.com/kubatru/JTSplashView) - Create the beautiful splash view with JTSplashView.
-* [RMParallax](https://github.com/michaelbabiy/RMParallax)
+* [RMParallax](https://github.com/michaelbabiy/RMParallax) - The way to impress users on the first app launch.
 * [SoundCloudTransition](https://github.com/xxxAIRINxxx/SoundCloudTransition) - Custom interactive transition like SoundCloud iOS App.
 * [TwitterBirdAnimation](https://github.com/rounak/TwitterBirdAnimation/) - Twitter bird animation
 * [VideoSplash](https://github.com/toygard/VideoSplash)
@@ -1012,7 +1012,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh compontent developed in Swift.
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl)
 * [GearRefreshControl](https://github.com/andreamazz/GearRefreshControl)
-* [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [MAGearRefreshControl](https://github.com/micazeve/MAGearRefreshControl)
 * [PeriscopyPullToRefresh](https://github.com/anaglik/PeriscopyPullToRefresh)
 * [PZPullToRefresh](https://github.com/pixyzehn/PZPullToRefresh)
@@ -1395,6 +1394,7 @@ iw.
 * [DPNotify](https://github.com/dphans/DPNotify)
 * [Dodo](https://github.com/exchangegroup/Dodo)
 * [Hermes](https://github.com/Imgur/Hermes)
+* [iOSNotificationBanner](https://github.com/loconsolutions/iOSNotificationBanner)
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
 * [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
