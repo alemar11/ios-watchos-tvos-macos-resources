@@ -738,10 +738,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [CircleSlider](https://github.com/shushutochako/CircleSlider)
 * [DTIActivityIndicatorView-Swift](https://github.com/dtissera/DTIActivityIndicatorView-Swift)
-* [MFLFillableTextLoader](https://github.com/MattFoley/MFLFillableTextLoader) - Loading slash progress indicator based on filling stroked text.
 * [FliudLoadingIndicator](https://github.com/vinit5320/FliudLoadingIndicator)
 * [KOActivityIndicator](https://github.com/kohtenko/KOActivityIndicator)
+* [Loader](https://github.com/samhann/Loader.swift) - This library allows you to easily add an FB style animated loading placeholder to your tableviews or collection views.
 * [MAActivityIndicator](https://github.com/micazeve/MAActivityIndicator)
+* [MFLFillableTextLoader](https://github.com/MattFoley/MFLFillableTextLoader) - Loading slash progress indicator based on filling stroked text.
 * [MediumProgressView](https://github.com/pixyzehn/MediumProgressView)
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 * [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX.
@@ -883,8 +884,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar)
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
+* [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller. Support 3D Touch.
 * [SMTNavigationBar](https://github.com/teffi/SMTNavigationBar) - Customize iOS Navigation Bar items conveniently.
-* [TB_TwitterUI](https://github.com/ariok/TB_TwitterUI)
+* [TB_TwitterUI](https://github.com/ariok/TB_TwitterUI) 
 * [TCTitleLoading](https://github.com/TravelC/TCTitleLoading) - This is a loading in the bottom of navigation bar title area.
 
 ## Network
