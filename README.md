@@ -212,8 +212,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [DoneHud](https://github.com/beryu/DoneHUD) - Done animation on HUD.
-* [EasyAnimation](https://github.com/icanzilb/EasyAnimation)
+* [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [Fluent](https://github.com/matthewcheok/Fluent) - Swift Animations made Easy.
+* [IBAnimatable](https://github.com/JakeLin/IBAnimatable)
 * [InstagramHeartView](https://github.com/wojteklukaszuk/articles/tree/]()/InstagramHeartView)
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
 * [MTPrivateTrainerAnimation](https://github.com/MartinRGB/MTPrivateTrainerAnimation)
@@ -879,7 +880,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JDFPeekaboo](https://github.com/JoeFryer/JDFPeekaboo) - JDFPeekaboo is a simple class that hides the navigation bar when you scroll down, and shows it again when you scroll back up.
 * [JXGradientNavigationBar](https://github.com/swordray/JXGradientNavigationBar) - Custom UINavigationBar subclass with gradient colors on iOS.
 * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - UINavigationBar Category which allows you to change its appearance dynamically.
-* [NKJPagerViewController](https://github.com/nakajijapan/NKJPagerViewController)
+* [NKJPagerViewController](https://github.com/nakajijapan/NKJPagerViewController) - Swipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar.
+* [RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)
 * [SQTShyNavigationBar](https://github.com/cbpowell/SQTShyNavigationBar) - A shrinking (shy) navigation bar that automatically adjusts as a user scrolls, with customizable full and shy heights.
 * [UINavigationController-gamefade]()
 * [XHLoadingNavigationItemTitleView](https://github.com/JackTeam/XHLoadingNavigationItemTitleView)
@@ -892,6 +894,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SMTNavigationBar](https://github.com/teffi/SMTNavigationBar) - Customize iOS Navigation Bar items conveniently.
 * [TB_TwitterUI](https://github.com/ariok/TB_TwitterUI) 
 * [TCTitleLoading](https://github.com/TravelC/TCTitleLoading) - This is a loading in the bottom of navigation bar title area.
+* [TinderNavDemo](https://github.com/imaccallum/TinderNavDemo) - Tinder-style parallax paging navigation implementation.
 
 ## Network
 
