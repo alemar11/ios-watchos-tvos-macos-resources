@@ -882,7 +882,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - UINavigationBar Category which allows you to change its appearance dynamically.
 * [NKJPagerViewController](https://github.com/nakajijapan/NKJPagerViewController) - Swipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar.
 * [RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)
+* [SMTNavigationBar](https://github.com/teffi/SMTNavigationBar) - Customize iOS Navigation Bar items conveniently.
 * [SQTShyNavigationBar](https://github.com/cbpowell/SQTShyNavigationBar) - A shrinking (shy) navigation bar that automatically adjusts as a user scrolls, with customizable full and shy heights.
+* [TCTitleLoading](https://github.com/TravelC/TCTitleLoading) - This is a loading in the bottom of navigation bar title area.
 * [UINavigationController-gamefade](https://github.com/AlbertMontserrat/UINavigationController-gamefade)
 * [XHLoadingNavigationItemTitleView](https://github.com/JackTeam/XHLoadingNavigationItemTitleView)
 * [ZGNavigationBarTitle](https://github.com/zhigang1992/ZGNavigationBarTitle)
@@ -891,9 +893,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar)
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller. Support 3D Touch.
-* [SMTNavigationBar](https://github.com/teffi/SMTNavigationBar) - Customize iOS Navigation Bar items conveniently.
 * [TB_TwitterUI](https://github.com/ariok/TB_TwitterUI) 
-* [TCTitleLoading](https://github.com/TravelC/TCTitleLoading) - This is a loading in the bottom of navigation bar title area.
 * [TinderNavDemo](https://github.com/imaccallum/TinderNavDemo) - Tinder-style parallax paging navigation implementation.
 
 ## Network
