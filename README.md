@@ -198,7 +198,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BFRadialWaveView](https://github.com/bfeher/BFRadialWaveView) - Radial wave
 * [CPKenBurnsView](https://github.com/muukii0803/CPKenburnsView)
 * [CoreGraphicsDynamicAnimation](https://github.com/larsacus/CoreGraphicsDynamicAnimation)
-* [confetti](https://github.com/life360/confetti/tree/]()/iOS)
+* [confetti](https://github.com/life360/confetti/tree/iOS)
 * [DrawCircleFrame](https://github.com/natalia-osa/DrawCircleFrame)
 * [GLMoveToTrashAnimation](https://github.com/RATTLESNAKE-VIPER/GLMoveToTrashAnimation)
 * [JazzHands](https://github.com/IFTTT/JazzHands)
@@ -265,7 +265,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JSImagePickerController](https://github.com/jacobsieradzki/JSImagePickerController)
 * [KSHMosaicCamera](https://github.com/kimsungwhee/KSHMosaicCamera)
 * [PKImagePickerDemo](https://github.com/pavankris/PKImagePickerDemo)
-* [RAScrollablePickerView]()https://github.com/naturaln0va/RAScrollablePickerView
+* [RAScrollablePickerView](https://github.com/naturaln0va/RAScrollablePickerView)
 * [RPMultipleImagePicker](https://github.com/renatopeterman/RPMultipleImagePicker)
 * [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper)
 * [Reader](https://github.com/vfr/Reader) - pdf
@@ -285,7 +285,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## Audio
 
 #### 🔹*Obj-C*
-* [ECGWavesPlayer]()
 * [IQAudioRecorderController](https://github.com/hackiftekhar/IQAudioRecorderController)
 * [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
 * [MVSpeechSynthesizer](https://github.com/vimalmurugan89/MVSpeechSynthesizer)
@@ -884,7 +883,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [NKJPagerViewController](https://github.com/nakajijapan/NKJPagerViewController) - Swipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar.
 * [RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)
 * [SQTShyNavigationBar](https://github.com/cbpowell/SQTShyNavigationBar) - A shrinking (shy) navigation bar that automatically adjusts as a user scrolls, with customizable full and shy heights.
-* [UINavigationController-gamefade]()
+* [UINavigationController-gamefade](https://github.com/AlbertMontserrat/UINavigationController-gamefade)
 * [XHLoadingNavigationItemTitleView](https://github.com/JackTeam/XHLoadingNavigationItemTitleView)
 * [ZGNavigationBarTitle](https://github.com/zhigang1992/ZGNavigationBarTitle)
 
@@ -951,7 +950,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔹*Obj-C*
 * [ACPDownload](https://github.com/antoniocasero/ACPDownload)
 * [ASProgressPopupView](https://github.com/alskipp/ASProgressPopUpView)
-* [BSProgressButton]()https://github.com/BenjaminSarkisyan/BSProgressButton)
+* [BSProgressButton](https://github.com/BenjaminSarkisyan/BSProgressButton)
 * [CADVoteCountView](https://github.com/TopicSo/CADVoteCountView)
 * [CXCountDownLabel](https://github.com/ChrisXu1221/CXCountDownLabel)
 * [CircleProgressBar](https://github.com/Eclair/CircleProgressBar)
@@ -1181,7 +1180,7 @@ iw.
 * [VMTabbarCustomize](https://github.com/VuMai/VMTabbarCustomize)
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)
 * [ZRScrollableTabBar](https://github.com/raihan/ZRScrollableTabBar)
-* [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar/tree/]()/RAMAnimatedTabBarDemo)
+* [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar/tree/RAMAnimatedTabBarDemo)
 * [scrollableTabbar](https://github.com/valitovaza/scrollableTabbar)
 
 #### 🔸*Swift*
@@ -1360,7 +1359,7 @@ iw.
 * [JSKTimerView](https://github.com/jeffkibuule/JSKTimerView)
 * [KPTimePicker](https://github.com/kasperpihl/KPTimePicker)
 * [MZTimerLabel](https://github.com/mineschan/MZTimerLabel)
-* [PeekInspiredTimePicker]()
+* [PeekInspiredTimePicker](https://github.com/AdamBCo/PeekInspiredTimePicker)
 * [TimeScrubber](https://github.com/pffan91/TimeScrubber)
 * [WMGaugeView](https://github.com/Will-tm/WMGaugeView)
 
@@ -1585,7 +1584,7 @@ iw.
 * [RGCardViewLayout](https://github.com/terminatorover/RGCardViewLayout)
 * [RMStepsController](https://github.com/CooperRS/RMStepsController)
 * [RNBlurredSideViewController](https://github.com/cwenboshi/RNBlurredSideViewController)
-* [SAInboxViewController]https://github.com/szk-atmosphere/SAInboxViewController() - UIViewController subclass inspired by "Inbox by google" animated transitioning.
+* [SAInboxViewController](https://github.com/szk-atmosphere/SAInboxViewController) - UIViewController subclass inspired by "Inbox by google" animated transitioning.
 * [SCPageViewController](https://github.com/stefanceriu/SCPageViewController)
 * [SJStackNavigation](https://github.com/leesungju/SJStackNavigation)
 * [SLPagingView](https://github.com/StefanLage/SLPagingView) - A navigation bar system allowing to do a Tinder like or Twitter like.
