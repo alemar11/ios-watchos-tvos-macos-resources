@@ -1403,6 +1403,7 @@ iw.
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
 * [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
+* [Toast-Swift](https://github.com/scalessec/Toast-Swift) - A Swift extension that adds toast notifications to the UIView object class.
 * [Whisper](https://github.com/hyperoslo/Whisper)
 
 ## Utils
