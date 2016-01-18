@@ -214,6 +214,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [DoneHud](https://github.com/beryu/DoneHUD) - Done animation on HUD.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
+* [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A UIKit custom transition that simulates an elastic drag.
 * [Fluent](https://github.com/matthewcheok/Fluent) - Swift Animations made Easy.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable)
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
@@ -222,6 +223,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PowerUpYourAnimations](https://github.com/icanzilb/PowerUpYourAnimations) - Sample code from talks on advanced animations: [link]([https://realm.io/news/altconf-marin-todorov-animations/)
 * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect)
+* [SAConfettiView](https://github.com/sudeepag/SAConfettiView)
 * [SnowFalling](https://github.com/pixyzehn/SnowFalling) - Snow Falling in Swift.
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
 * [springdamping](https://github.com/mortenjust/springdamping) - Realtime experimentation with duration, spring and damping for UIView animations.
