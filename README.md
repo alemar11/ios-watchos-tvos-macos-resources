@@ -666,6 +666,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JTSplashView](https://github.com/kubatru/JTSplashView) - Create the beautiful splash view with JTSplashView.
 * [RMParallax](https://github.com/michaelbabiy/RMParallax) - The way to impress users on the first app launch.
 * [SoundCloudTransition](https://github.com/xxxAIRINxxx/SoundCloudTransition) - Custom interactive transition like SoundCloud iOS App.
+* [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps, powered by Swift.
 * [TwitterBirdAnimation](https://github.com/rounak/TwitterBirdAnimation/) - Twitter bird animation
 * [VideoSplash](https://github.com/toygard/VideoSplash)
 
@@ -791,6 +792,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [db_compass](https://github.com/alextarrago/db_compass) - It offers you a way to track the user's location and heading given by a coordinate or an address. Really useful for geolocation AR applications.
 
 #### 🔸*Swift*
+* [GpxLocationManager](https://github.com/vermont42/GpxLocationManager) - GpxLocationManager is a replacement for CLLocationManager that allows the developer to use GPS data from GPX files or CLLocation arrays for testing.
 * [SKMapsCenter](https://github.com/asklausen/SKMapsCenter) -  Maintain center while zooming.
 * [SnapLocation](https://github.com/ziligy/SnapLocation) - Swift micro-app that snaps your current location and writes it to pasteboard, it also optionally saves a map image in photos.
 
