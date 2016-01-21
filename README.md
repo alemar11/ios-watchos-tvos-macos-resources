@@ -765,7 +765,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## Log
 
 #### 🔸*Swift*
-* [CleanroomASL](https://github.com/emaloney/CleanroomASL]) - A Swift-based API for reading from & writing to the Apple System Log (more commonly known somewhat inaccurately as "the console").
+* [CleanroomASL](https://github.com/emaloney/CleanroomASL) - A Swift-based API for reading from & writing to the Apple System Log (more commonly known somewhat inaccurately as "the console").
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Colorful, lightweight & fast logging in Swift 2.
 * [SwiftLogger](https://github.com/MugunthKumar/SwiftLogger)
