@@ -1434,6 +1434,7 @@ iw.
 * [KGNAutoLayout](https://github.com/kgn/KGNAutoLayout) - Making AutoLayout Easy.
 * [Laconic](https://github.com/igormatyushkin014/Laconic) - Short and clear expressions in Swift.
 * [Luminescence](https://github.com/Zewo/Luminescence) - HTTP parser for Swift 2 (Linux ready).
+* [mapper](https://github.com/lyft/mapper) - Another JSON deserialization library for Swift.
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 * [Miser](https://github.com/tasanobu/Misen) - Script to support easily using Xcode Asset Catalog in Swift.
 * [Money](https://github.com/danthorpe/Money) - Swift value types for working with money & currency.
