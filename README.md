@@ -855,6 +855,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JGFlipMenu](https://github.com/ziligy/JGFlipMenu) - Flipping menu system written in Swift. Uses @IBDesignable for quick and easy implementation.
 * [MarkingMenu](https://github.com/FlexMonkey/MarkingMenu)
 * [MediumMenu](https://github.com/pixyzehn/MediumMenu)
+* [MenuItemKit](https://github.com/cxa/MenuItemKit) - MenuItemKit provides image and block(closure) support for UIMenuItem.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A fully customizable and flexible paging menu controller built from other view controllers placed inside a scroll view
 * [Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS) - Animated side menu with customizable UI.
 * [SliderPanel](https://github.com/sebk/SliderPanel)
@@ -1464,6 +1465,7 @@ iw.
 * [UnchainedString](https://github.com/dunkelstern/UnchainedString) - Extensions for Swift Strings on Linux until the Foundation classes are up to speed.
 * [Verbose](https://github.com/igormatyushkin014/Verbose) - Text generator written in Swift.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
+* [Zip](https://github.com/marmelroy/Zip) - Swift framework for zipping and unzipping files.
 
 ## Video
 
