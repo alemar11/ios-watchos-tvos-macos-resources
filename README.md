@@ -1428,6 +1428,7 @@ iw.
 * [Diamond](https://github.com/johnno1962/Diamond) - Swift scripting made easy.
 * [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes.
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions)
+* [FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - A Swift ePub reader and parser framework for iOS.
 * [Format](https://github.com/marmelroy/format) - A Swift 2 formatter kit. Simple formatting syntax for decimal numbers, currency, addresses, ordinal numbers and hexadecimal colors.
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift that makes your life easier.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
