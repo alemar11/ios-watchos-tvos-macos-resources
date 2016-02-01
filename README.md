@@ -239,6 +239,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Subjective-C Tutorials](https://github.com/subjc)
 
 #### 🔸*Swift* 
+* [bitbar](https://github.com/matryer/bitbar) - BitBar lets you put the output from any script/program in your Mac OS X Menu Bar.
 * [Clipinio](https://github.com/benjohnde/Clipinio) - Lightweight clipboard manager for OSX.
 * [Dunk](https://github.com/naoyashiga/Dunk) - Dunk is Dribbble client.
 * [EventBlankApp](https://github.com/icanzilb/EventBlankApp) - A free open source iOS app for events or conferences.
@@ -1445,6 +1446,7 @@ iw.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
 * [KGNAutoLayout](https://github.com/kgn/KGNAutoLayout) - Making AutoLayout Easy.
 * [Laconic](https://github.com/igormatyushkin014/Laconic) - Short and clear expressions in Swift.
+* [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Swift 2.0 friendly localization and i18n with in-app language switching.
 * [Luminescence](https://github.com/Zewo/Luminescence) - HTTP parser for Swift 2 (Linux ready).
 * [mapper](https://github.com/lyft/mapper) - Another JSON deserialization library for Swift.
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
@@ -1464,6 +1466,7 @@ iw.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 * [Solid](https://github.com/igormatyushkin014/Solid) - New way to work with arrays in Swift.
 * [Sugar](https://github.com/hyperoslo/Sugar) - Sugar is a sweetener for your Cocoa implementations.
+* [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!.
 * [SwiftCGRectExtensions](https://github.com/nschum/SwiftCGRectExtensions) - A collection of CGRect, CGPoint and CGSize convenience functions for Swift.
 * [SwiftCop](https://github.com/andresinaka/SwiftCop) - SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.
 * [SwiftDate](https://github.com/malcommac/SwiftDate)
