@@ -221,7 +221,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
 * [MTPrivateTrainerAnimation](https://github.com/MartinRGB/MTPrivateTrainerAnimation)
 * [PIRipple](https://github.com/pixel-ink/PIRipple) - Ripple Effect for iOS (swift)
-* [PowerUpYourAnimations](https://github.com/icanzilb/PowerUpYourAnimations) - Sample code from talks on advanced animations: [link]([https://realm.io/news/altconf-marin-todorov-animations/)
+* [PowerUpYourAnimations](https://github.com/icanzilb/PowerUpYourAnimations) - Sample code from talks on advanced animations: [link](https://realm.io/news/altconf-marin-todorov-animations/).
 * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect)
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView)
