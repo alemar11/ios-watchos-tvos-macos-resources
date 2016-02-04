@@ -1407,11 +1407,12 @@ iw.
 * [AZNotification-Swift](https://github.com/azamsharp/AZNotification-Swift)
 * [BRYXBanner](https://github.com/bryx-inc/BRYXBanner)
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)
-* [DPNotify](https://github.com/dphans/DPNotify)
+* [DPNotify](https://github.com/dphans/DPNotify) - DPNotify used to send short notifications on screen simple & quickly for iOS developing using Swift.
 * [Dodo](https://github.com/exchangegroup/Dodo)
 * [Hermes](https://github.com/Imgur/Hermes)
 * [iOSNotificationBanner](https://github.com/loconsolutions/iOSNotificationBanner)
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
+* [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
 * [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - A Swift extension that adds toast notifications to the UIView object class.
