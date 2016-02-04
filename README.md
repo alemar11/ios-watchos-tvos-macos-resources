@@ -111,6 +111,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [WCActionSheet](https://github.com/wczekalski/WCActionSheet)
 
 #### 🔸*Swift*
+* [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift 2.
 * [FloatingActionSheetController](https://github.com/ra1028/FloatingActionSheetController) - Cool design ActionSheetController library written in Swift2.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
 * [PCRapidSelectionView](https://github.com/mmackh/PCRapidSelectionView) - Interactive, beautiful & fast UIActionSheet replacement, supports continuous hold & select.
@@ -203,6 +204,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DrawCircleFrame](https://github.com/natalia-osa/DrawCircleFrame)
 * [GLMoveToTrashAnimation](https://github.com/RATTLESNAKE-VIPER/GLMoveToTrashAnimation)
 * [JazzHands](https://github.com/IFTTT/JazzHands)
+* [LearnCube-iOS](https://github.com/MartinRGB/LearnCube-iOS) - An animation practise demo.
 * [MCSFishEye](https://github.com/macoscope/MCSFishEye)
 * [NGAParallaxMotion](https://github.com/michaeljbishop/NGAParallaxMotion)
 * [MotionBlur](https://github.com/fastred/MotionBlur) - Add motion blur effect to your animations
@@ -1013,6 +1015,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Pull-to-Refresh.Rentals-iOS](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS)
 * [PullToRefreshCoreText](https://github.com/cemolcay/PullToRefreshCoreText) - PullToRefresh extension for all UIScrollView type classes with animated text drawing style
 * [PullToRefreshWP8](https://github.com/Boris-Em/BEMPullToRefreshWP8) - Simple Pull to Refresh Control for iOS. Inspired by WP8.
+* [Replace-iOS](https://github.com/MartinRGB/Replace-iOS)
 * [RMEIdeasPullToSortControl](https://github.com/zogieosagie/RMEIdeasPullToSortControl)
 * [SSAPullToRefresh](https://github.com/SSA111/SSAPullToRefresh)
 * [StargatePullToRefresh](https://github.com/hiddenmemory/StargatePullToRefresh)
@@ -1197,7 +1200,8 @@ iw.
 
 #### 🔸*Swift*
 * [Animated-Tab-Bar](https://github.com/Ramotion/animated-tab-bar)
-* [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) 
+* [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar)
+* [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 * [MHImageTabBar](https://github.com/mho000/MHImageTabBar)
 * [ScrollPager](https://github.com/aryaxt/ScrollPager)
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
