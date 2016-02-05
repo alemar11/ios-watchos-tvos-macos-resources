@@ -6,7 +6,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects.](https://github.com/vsouza/awesome-ios)
 - [A collaborative list of awesome swift resources](https://github.com/matteocrippa/awesome-swift)
 - [A curated list of awesome Swift frameworks](https://github.com/Wolg/awesome-swift)
-- [Awesome OSX](https://github.com/iCHAIT/awesome-osx) - A curated list of awesome applications, softwares, tools and shiny things for OSX.
+- [Awesome OSX](https://github.com/iCHAIT/awesome-osx) - A curated list of awesome applications, softwares, tools and shiny things for OSX. `☓`
 - [Awesome Open Source Mac Apps](https://github.com/jeffreyjackson/mac-apps)
 - [Cocoanetics Swift-Examples](https://github.com/Cocoanetics/Swift-Examples)
 - [Collaborative List of Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
@@ -221,6 +221,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Fluent](https://github.com/matthewcheok/Fluent) - Swift Animations made Easy.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable)
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
+* [KFWatchKitAnimations](https://github.com/kiavashfaisali/KFWatchKitAnimations) - KFWatchKitAnimations creates beautiful 60 FPS animations for  Watch by recording animations from the iOS. ⌚️
 * [MTPrivateTrainerAnimation](https://github.com/MartinRGB/MTPrivateTrainerAnimation)
 * [PIRipple](https://github.com/pixel-ink/PIRipple) - Ripple Effect for iOS (swift)
 * [PowerUpYourAnimations](https://github.com/icanzilb/PowerUpYourAnimations) - Sample code from talks on advanced animations: [link](https://realm.io/news/altconf-marin-todorov-animations/).
@@ -233,24 +234,31 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [UIViewXXYBoom](https://github.com/xxycode/UIViewXXYBoom)
 
 ## App
+*Apps and tutorials*
 
 #### 🔹*Obj-C*
-* [Armchair](https://github.com/UrbanApps/Armchair) - A simple yet powerful App Review Manager for iOS and OSX in Swift
+* [Armchair](https://github.com/UrbanApps/Armchair) - A simple yet powerful App Review Manager for iOS and OSX in Swift. `☓`
+* [MMWormhole](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions. ⌚️
 * [Movies](https://github.com/KMindeguia/movies)
 * [Partita](https://github.com/comyarzaheri/Partita) - A simple instrument tuner app for iOS.
 * [Subjective-C Tutorials](https://github.com/subjc)
 
 #### 🔸*Swift* 
 * [bitbar](https://github.com/matryer/bitbar) - BitBar lets you put the output from any script/program in your Mac OS X Menu Bar.
-* [Clipinio](https://github.com/benjohnde/Clipinio) - Lightweight clipboard manager for OSX.
+* [Cherry](https://github.com/kenshin03/Cherry) - Mini Pomodoro Timer app designed for the  Watch. Written in Swift. ⌚️
+* [Clipinio](https://github.com/benjohnde/Clipinio) - Lightweight clipboard manager for OSX. `☓`
 * [Dunk](https://github.com/naoyashiga/Dunk) - Dunk is Dribbble client.
 * [EventBlankApp](https://github.com/icanzilb/EventBlankApp) - A free open source iOS app for events or conferences.
 * [gulps](https://github.com/FancyPixel/gulps) - Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
+* [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - This repository contains an example Highstreet WatchKit app. ⌚️
+* [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) - JBWatchActivityIndicator - An easy way to generate activity indicator images for Apple Watch. ⌚️
 * [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs).
+* [NKWatchActivityIndicator](https://github.com/NilStack/NKWatchActivityIndicator) - An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2. ⌚️
 * [OpenSim](https://github.com/luosheng/OpenSim) - OpenSim is an open source alternative for SimPholders, written in Swift.
 * [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan) - Open Source Weather App created with Swift.
 * [ReviewTime](https://github.com/nthegedus/ReviewTime) - Review Time is an open source app for iOS written in Swift that show the average review times for iOS and the Mac Apps using data crowdsourced from AppReviewTime.
 * [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
+* [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. ⌚️
 
 ## Asset Picker
 *Image, Video, Color, Audio Editors or Pickers*
@@ -415,6 +423,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MDRotatingPieChart](https://github.com/maxday/MDRotatingPieChart)
 * [MPPlot](https://github.com/MP0w/MPPlot)
 * [MagicPie](https://github.com/AlexandrGraschenkov/MagicPie)
+* [NKWatchChart](https://github.com/NilStack/NKWatchChart) - A chart library for Apple Watch based on PNChart and ios-charts. ⌚️
 * [PieChar](https://github.com/pavanpodila/PieChart) - The source code in this repository should be read along side the [blog post](http://blog.pixelingene.com/2012/02/animating-pie-slices-using-a-custom-calayer/) on creating an animated Pie Chart.
 * [RWBarChartView](https://github.com/eternityz/RWBarChartView)
 * [SHLineGraphView](https://github.com/grevolution/SHLineGraphView)
@@ -534,6 +543,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - DynamicColor provides powerful methods to manipulate colours in an easy way.
 * [flatuicolor](https://github.com/avdyushin/flatuicolor)
 * [himbo](https://github.com/kimar/himbo) - A simple iOS App to create mono colored backgrounds. Written in Swift and supporting 3D Touch on iPhone 6s.
+* [Hue](https://github.com/hyperoslo/Hue) - Hue is the all-in-one coloring utility that you'll ever need. 
 * [MaterialKit](https://github.com/nghialv/MaterialKi.t) - Material design components for iOS written in Swift.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs ANSI escape codes and conforms to ECMA Standard 48.
 * [ProtocolUI](https://github.com/VojtaStavik/ProtocolUI) - ProtocolUI is a simple helper file providing very basic infrastructure for customizing UI elements via protocol extensions.
@@ -556,7 +566,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RDVCalendarView](https://github.com/robbdimitrov/RDVCalendarView)
 * [RMDateSelectionViewController](https://github.com/CooperRS/RMDateSelectionViewController)
 * [SBFlatDatePicker](https://github.com/SolomonBier/SBFlatDatePicker)
-* [ScheduleKit](https://github.com/gservera/ScheduleKit) - ScheduleKit is a new graphical event management framework for Mac OSX that provides a great way to display a set of event-like objects.
+* [ScheduleKit](https://github.com/gservera/ScheduleKit) - ScheduleKit is a new graphical event management framework for Mac OSX that provides a great way to display a set of event-like objects. `☓`
 * [timeLineiOS](https://github.com/romaHerman/timeLineiOS)
 
 #### 🔸*Swift*
@@ -573,7 +583,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [VBFJellyView](https://github.com/victorBaro/VBFJellyView) - VBFJellyView is a custom view made out using UIKit Dynamics and with a very funny effect when adding behaviours to it.
 
 #### 🔸*Swift*
-* [DateRangePicker](https://github.com/MrMage/DateRangePicker) - Date range picker control for OSX.
+* [DateRangePicker](https://github.com/MrMage/DateRangePicker) - Date range picker control for OSX. `☓`
 * [Newtons-Cradle](https://github.com/bishalg/Newtons-Cradle) - Newtons Cradle - Bearing in Swift using UIDynamicBehavior.
 * [PhysicsCup](https://github.com/jnfisher/PhysicsCup)
 
@@ -761,13 +771,17 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MFLFillableTextLoader](https://github.com/MattFoley/MFLFillableTextLoader) - Loading slash progress indicator based on filling stroked text.
 * [MediumProgressView](https://github.com/pixyzehn/MediumProgressView)
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
-* [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX.
+* [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX. `☓`
 * [RSDotsView](https://github.com/Kemcake/RSDotsView)
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)
 
 ## Localization
 
+#### 🔹*Obj-C*
+* [LanguagesManager](https://github.com/leverdeterre/LanguagesManager) - An easy way to control manually the language in your application.
+
 #### 🔸*Swift*
+* [iOS-CustomLocalisator](https://github.com/micazeve/iOS-CustomLocalisator) - A custom localisator class which allows to change the app language without having to restart it.
 * [Laurine](https://github.com/JiriTrecak/Laurine) - Localization code generator written in Swift.
 
 ## Log
@@ -875,7 +889,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## Metal
 
 #### 🔸*Swift*
-* [fireworks](https://github.com/kjpgit/fireworks) - Fireworks Graphics Demo (OSX/Metal/Swift).
+* [fireworks](https://github.com/kjpgit/fireworks) - Fireworks Graphics Demo (OSX/Metal/Swift). `☓`
 
 ## NavigationBar
 
@@ -1431,7 +1445,7 @@ iw.
 * [BugReportKit](https://github.com/rahuljiresal/BugReportKit/tree/master/Example/BugReportKit)
 * [CZWeatherKit](https://github.com/comyarzaheri/CZWeatherKit) - A Simple Cocoa Weather Library.
 * [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper) - Quick tool to explain the right place to enable your privacy settings.
-* [HelperLibrary](https://github.com/rondinellimorais/HelperLibrary) - The HelperLibrary framework is a static library iOs simple that contains all the implementation of the silly and repetitive work you have to do every time you create a new iOS / OSX project.
+* [HelperLibrary](https://github.com/rondinellimorais/HelperLibrary) - The HelperLibrary framework is a static library iOs simple that contains all the implementation of the silly and repetitive work you have to do every time you create a new iOS / OSX project. `☓`
 * [MBObjectPoolManager](https://github.com/MBKwon/MBObjectPoolManager) - MBObjectPoolManager is best way to reuse your objects in your project. You can save a memory reusing objects.
 * [SmileWeather](https://github.com/liu044100/SmileWeather) - A library for Search & Parse the weather data from Wunderground & Openweathermap conveniently.
 
@@ -1441,6 +1455,7 @@ iw.
 * [Caramel](https://github.com/CaramelForSwift/Caramel) - A portable I/O framework for Swift.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
 * [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities.
+* [DCDirectoryWatcher](https://github.com/dcvz/DCDirectoryWatcher) - A lightweight class for monitoring directory changes on iOS.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Diamond](https://github.com/johnno1962/Diamond) - Swift scripting made easy.
 * [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes.
@@ -1530,7 +1545,7 @@ iw.
 * [TwitterCover](https://github.com/cyndibaby905/TwitterCover) - TwitterCover is a parallax top view with real time blur effect to any UIScrollView, inspired by Twitter for iOS.
 * [TWRBorderedView](https://github.com/chasseurmic/TWRBorderedView) - A custom UIView subclass to easily turn on drawing of each single border on a view.
 * [UIView-Easing](https://github.com/tapthaker/UIView-Easing)
-* [UIView-Shake](https://github.com/andreamazz/UIView-Shake) - UIView category that adds a shake animation like the password field of the OSX login screen.
+* [UIView-Shake](https://github.com/andreamazz/UIView-Shake) - UIView category that adds a shake animation like the password field of the OSX login screen. 
 * [XMCircleType](https://github.com/MichMich/XMCircleType) - XMCircleTypeView is a UIView that allows you to display an NSString as a cicular text. Is will take font kerning into account, so no weird spacings.
 * [core-background](https://github.com/justinmfischer/core-background) - set of Objective-C classes inspired by the iOS Yahoo Weather App. It provides iOS location-based Flickr backgrounds with Gaussian blur light effects for iPhone.
 
