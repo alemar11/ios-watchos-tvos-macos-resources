@@ -59,6 +59,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Gesture](#gesture)
 - [Image](#image)
 - [Intro](#intro)
+- [JSON](#json)
 - [Keyboard](#keyboard)
 - [Label](#label)
 - [Loader](#loader)
@@ -688,6 +689,15 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps, powered by Swift.
 * [TwitterBirdAnimation](https://github.com/rounak/TwitterBirdAnimation/) - Twitter bird animation
 * [VideoSplash](https://github.com/toygard/VideoSplash)
+
+## JSON
+
+#### 🔸*Swift*
+* [Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift.
+* [Freddy](https://github.com/bignerdranch/Freddy) - A reusable framework for parsing JSON in Swift.
+* [mapper](https://github.com/lyft/mapper) - Another JSON deserialization library for Swift.
+* [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - Simple JSON Object mapping written in Swift
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 
 ## Keyboard
 
@@ -1478,11 +1488,10 @@ iw.
 * [Laconic](https://github.com/igormatyushkin014/Laconic) - Short and clear expressions in Swift.
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Swift 2.0 friendly localization and i18n with in-app language switching.
 * [Luminescence](https://github.com/Zewo/Luminescence) - HTTP parser for Swift 2 (Linux ready).
-* [mapper](https://github.com/lyft/mapper) - Another JSON deserialization library for Swift.
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 * [Miser](https://github.com/tasanobu/Misen) - Script to support easily using Xcode Asset Catalog in Swift.
 * [Money](https://github.com/danthorpe/Money) - Swift value types for working with money & currency.
-* [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - Simple JSON Object mapping written in Swift
+* [NSData-GZIP](https://github.com/1024jp/NSData-GZIP) - NSData+GZIP.swift is an extension of NSData written in Swift 2.0. It enables compress/decompress gzip using zlib.
 * [OCR-Demo-with-IDOL-OnDemand](https://github.com/bpolat/Swift-OCR-Demo-with-IDOL-OnDemand) - Converting Images into text by using HP's IDOL OnDemand service - iOS app which is written with Swift.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API.
 * [phonenumberkit](https://github.com/marmelroy/phonenumberkit)
