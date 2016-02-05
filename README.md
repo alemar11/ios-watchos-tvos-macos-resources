@@ -77,6 +77,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Rating](#rating)
 - [Routing](#routing)
 - [ScrollView](#scrollview)
+- [Security](#security)
 - [Segmented Control](#segmented-control)
 - [Slider](#slider)
 - [Sprite](#sprite)
@@ -1115,6 +1116,15 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) - Simple parallax header for UIScrollView.
 * [PBPagerViewController](https://github.com/paoloboschini/PBPagerViewController)
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController)
+
+
+## Security
+
+#### 🔹*Obj-C*
+* [valet](https://github.com/square/valet) - Valet lets you securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
+
+#### 🔸*Swift*
+* [Swift.nV](https://github.com/nVisium/Swift.nV) - Security Training Tool that demonstrates common mobile application vulnerabilities using Swift in iOS.
 
 ## Segmented Control
 
