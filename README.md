@@ -1520,6 +1520,7 @@ iw.
 * [SwiftFilePath](https://github.com/nori0620/SwiftFilePath) - Simple and powerful wrapper for NSFileManager.
 * [SwiftyRegex](https://github.com/maxadamski/SwiftyRegex) - Linux compatible regex framework written in Swift.
 * [SwiftShell-Swift2.0](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
+* [SwiftString](https://github.com/amayne/SwiftString) - SwiftString is a lightweight string extension for Swift.
 * [SwiftySwift](https://github.com/adeca/SwiftySwift) - Collection of useful extensions for Swift types and Cocoa objects.
 * [Swiftz](https://github.com/typelift/swiftz) - Functional programming in Swift.
 * [Transporter](https://github.com/DenHeadless/Transporter) - Transporter is a modern finite-state machine implemented in pure Swift.* [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
