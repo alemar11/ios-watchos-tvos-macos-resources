@@ -1527,6 +1527,7 @@ iw.
 * [UnchainedString](https://github.com/dunkelstern/UnchainedString) - Extensions for Swift Strings on Linux until the Foundation classes are up to speed.
 * [Verbose](https://github.com/igormatyushkin014/Verbose) - Text generator written in Swift.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
+* [Warehouse](https://github.com/muukii/Warehouse) - You can use easily NSFileManager.
 * [Zip](https://github.com/marmelroy/Zip) - Swift framework for zipping and unzipping files.
 
 ## Video
