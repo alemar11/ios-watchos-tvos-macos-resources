@@ -1329,6 +1329,7 @@ iw.
 
 #### 🔸*Swift*
 * [ExpandableTableView](https://github.com/rondinellimorais/ExpandableTableView)  * [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - Expanding table view cells using `UIStackView in iOS 9.
+* [folding-cell](https://github.com/Ramotion/folding-cell)
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - Animation between list and detail views.
 * [SBGestureTableView](https://github.com/Stickbuilt/SBGestureTableView) - Swift UITableView subclass that supports swiping rows ala Mailbox and long press to move rows.
 * [WobbleView](https://github.com/inFullMobile/WobbleView) -  Wobble effect.
@@ -1481,6 +1482,8 @@ iw.
 * [SmileWeather](https://github.com/liu044100/SmileWeather) - A library for Search & Parse the weather data from Wunderground & Openweathermap conveniently.
 
 #### 🔸*Swift*
+
+* [APTargets](https://github.com/collinhundley/APTargets) - Adding UIControl targets, the right way.
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
 * [Caramel](https://github.com/CaramelForSwift/Caramel) - A portable I/O framework for Swift.
@@ -1538,6 +1541,7 @@ iw.
 
 #### 🔸*Swift*
 * [HTY360Player](https://github.com/hanton/HTY360Player) - A 360° video player for iOS.
+* [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 * [Periscope-VideoViewController](https://github.com/gontovnik/Periscope-VideoViewController) - Video view controller with Periscope fast rewind control.
 
 ## View
