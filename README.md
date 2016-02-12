@@ -734,7 +734,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
 * [ASAttributedLabelNode](https://github.com/alex-alex/ASAttributedLabelNode)
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - UILabel subclass that saves you from refreshing it when using 'time ago' format.
-* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)
+* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [ODMultiColumnLabel](https://github.com/Sephiroth87/ODMultiColumnLabel) - A UILabel replacement that renders text on multiple columns.
 
 ## Loader
