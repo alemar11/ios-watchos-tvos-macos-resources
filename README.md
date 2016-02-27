@@ -1484,6 +1484,7 @@ iw.
 * [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper) - Quick tool to explain the right place to enable your privacy settings.
 * [HelperLibrary](https://github.com/rondinellimorais/HelperLibrary) - The HelperLibrary framework is a static library iOs simple that contains all the implementation of the silly and repetitive work you have to do every time you create a new iOS / OSX project. `☓`
 * [MBObjectPoolManager](https://github.com/MBKwon/MBObjectPoolManager) - MBObjectPoolManager is best way to reuse your objects in your project. You can save a memory reusing objects.
+* [ORSSerialPort](https://github.com/armadsen/ORSSerialPort) - Serial port library for Objective-C and Swift OS X apps.
 * [SmileWeather](https://github.com/liu044100/SmileWeather) - A library for Search & Parse the weather data from Wunderground & Openweathermap conveniently.
 
 #### 🔸*Swift*
@@ -1515,6 +1516,7 @@ iw.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API.
 * [phonenumberkit](https://github.com/marmelroy/phonenumberkit)
 * [Proposer](https://github.com/nixzhu/Proposer) - Proposer provides a simple API to request permission for access Camera, Photos, Microphone, Contacts, Location.
+* [QuickActions](https://github.com/ricardopereira/QuickActions) - Swift wrapper for iOS Home Screen Quick Actions (App Icon Shortcuts).
 * [RateLimit](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
 * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures.
 * [Regex](https://github.com/sharplet/Regex) - A Swift µframework providing an NSRegularExpression-backed Regex type.
