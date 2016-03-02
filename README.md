@@ -421,7 +421,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [EChart](https://github.com/zhuhuihuihui/EChart)
 * [FSLineChart](https://github.com/ArthurGuibert/FSLineChart)
 * [HACBarChart](https://github.com/litoarias/HACBarChart)
-* [JBChartView](https://github.com/Jawbone/JBChartView)
+* [JBChartView](https://github.com/Jawbone/JBChartView) - iOS-based charting library for both line and bar graphs.
 * [JTChartView](https://github.com/kubatru/JTChartView)
 * [LGFlapJackStackView](https://github.com/lukegeiger/LGFlapJackStackView)
 * [LMGaugeView](https://github.com/lminhtm/LMGaugeView)
