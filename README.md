@@ -41,6 +41,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [AI](#ai)
 - [Alert](#alert)
 - [Animation](#animation)
+- [App](#app)
 - [Asset Picker](#asset-picker)
 - [Audio](#audio)
 - [Badge](#badge)
