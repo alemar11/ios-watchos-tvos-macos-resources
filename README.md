@@ -214,6 +214,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PortalTransition](https://github.com/machackx/PortalTransition) - Inspired by Apple's keynote portal animation, it is an iOS implementation of Portal like UIViewController transition.
 * [PulsingHalo](https://github.com/shu223/PulsingHalo) - iOS Component For Creating A Pulsing Animation. It allows you to create single halo or multiple halos.
 * [RFRotate](https://github.com/ruddfawcett/RFRotate)
+* [ShootingStars](https://github.com/ryang1428/ShootingStars) - Some fun Shooting Star animations built with both SpriteKit and CAEmitterLayer.
 * [UIRotatableView](https://github.com/faviomob/UIRotatableView)
 * [VENSnowOverlayView](https://github.com/chrismaddern/VENSnowOverlayView) - A snowy UIView overlay to make your apps Christmassy!
 
@@ -244,6 +245,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MMWormhole](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions. ⌚️
 * [Movies](https://github.com/KMindeguia/movies)
 * [Partita](https://github.com/comyarzaheri/Partita) - A simple instrument tuner app for iOS.
+* [QuickRadar](https://github.com/amyworrall/QuickRadar) - Mac app to simplify posting bug reports to Apple's Radar bug tracking system. `☓`
 * [Subjective-C Tutorials](https://github.com/subjc)
 
 #### 🔸*Swift* 
@@ -790,6 +792,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX. `☓`
 * [RSDotsView](https://github.com/Kemcake/RSDotsView)
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)
+* [WESlider](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management.
 
 ## Localization
 
