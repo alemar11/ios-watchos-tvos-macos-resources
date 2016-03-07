@@ -220,6 +220,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [VENSnowOverlayView](https://github.com/chrismaddern/VENSnowOverlayView) - A snowy UIView overlay to make your apps Christmassy!
 
 #### 🔸*Swift*
+* [Advance](https://github.com/storehouse/Advance) - A powerful animation framework for iOS.
 * [DoneHud](https://github.com/beryu/DoneHUD) - Done animation on HUD.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A UIKit custom transition that simulates an elastic drag.
@@ -258,7 +259,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [gulps](https://github.com/FancyPixel/gulps) - Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
 * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - This repository contains an example Highstreet WatchKit app. ⌚️
 * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) - JBWatchActivityIndicator - An easy way to generate activity indicator images for Apple Watch. ⌚️
-* [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs).
+* [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). `☓`
+* [localizations](https://github.com/athiercelin/localizations) - OS X app that manages localizations of Xcode projects. `☓`
+* [Markoff](https://github.com/thoughtbot/Markoff) - A light-weight Markdown (CommonMark) previewer for OSX. `☓`
 * [NKWatchActivityIndicator](https://github.com/NilStack/NKWatchActivityIndicator) - An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2. ⌚️
 * [OpenSim](https://github.com/luosheng/OpenSim) - OpenSim is an open source alternative for SimPholders, written in Swift.
 * [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan) - Open Source Weather App created with Swift.
@@ -472,6 +475,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [EBCardCollectionViewLayout](https://github.com/betzerra/EBCardCollectionViewLayout) - Horizzontal UICollectionView.
 * [ERJustifiedFlowLayout](https://github.com/eroth/ERJustifiedFlowLayout) - A subclass of UICollectionViewFlowLayout for iOS that supports different types of cell justification and inter-cell spacing.
 * [FBLikeLayout](https://github.com/gringoireDM/FBLikeLayout) - This is an UICollectionView layout inspired by the photo section of facebook. This layout loads squared items with randomic full size items.
+* [Greedo](https://github.com/500px/greedo-layout-for-ios) - Full aspect ratio grid layout for iOS.
 * [HTKDragAndDropCollectionViewLayout](https://github.com/henrytkirk/HTKDragAndDropCollectionViewLayout) UICollectionViewLayout subclass that works together with a custom UICollectionViewCell to provide drag and drop for a UICollectionView.
 * [HorizontalScrollCell](https://github.com/mcelayir/HorizontalScrollCell)
 * [JCCollectionViewWaterfallLayout](https://github.com/lijingcheng/JCCollectionViewWaterfallLayout) - Support multiple section, and can add headerView and footerView.
@@ -1490,6 +1494,7 @@ iw.
 * [MBObjectPoolManager](https://github.com/MBKwon/MBObjectPoolManager) - MBObjectPoolManager is best way to reuse your objects in your project. You can save a memory reusing objects.
 * [ORSSerialPort](https://github.com/armadsen/ORSSerialPort) - Serial port library for Objective-C and Swift OS X apps.
 * [SmileWeather](https://github.com/liu044100/SmileWeather) - A library for Search & Parse the weather data from Wunderground & Openweathermap conveniently.
+* [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) - Shows your current framerate (fps) in the status bar of your iOS app.
 
 #### 🔸*Swift*
 
@@ -1525,6 +1530,7 @@ iw.
 * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures.
 * [Regex](https://github.com/sharplet/Regex) - A Swift µframework providing an NSRegularExpression-backed Regex type.
 * [Run](https://github.com/khoiln/Run) - A Swift Wrapper for Grand Central Dispatch (GCD) Framework that supports method chaining.
+* [Runner](https://github.com/lucianomarisi/Runner) - Execute a block at specific time intervals.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 * [Solid](https://github.com/igormatyushkin014/Solid) - New way to work with arrays in Swift.
 * [Sugar](https://github.com/hyperoslo/Sugar) - Sugar is a sweetener for your Cocoa implementations.
