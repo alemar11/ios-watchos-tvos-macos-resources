@@ -380,6 +380,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [ANLongTapButton](https://github.com/antrix1989/ANLongTapButton) - Long tap button with animated progress bar.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
+* [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
 * [GNTickerButton](https://github.com/gonzalonunez/GNTickerButton)
 * [Hamburger Menu Button](https://github.com/toannt/Hamburger-Menu-Button)
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton)
@@ -445,7 +446,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [3DGraph](https://github.com/greglecki/3DGraph) - An interactive Swift 3D Graph.
 * [APLineChart](https://github.com/tylyo/APLineChart)
-* [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
 * [ios-charts](https://github.com/danielgindi/ios-charts)
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)
 * [ROStorageBar](https://github.com/prine/ROStorageBar)
