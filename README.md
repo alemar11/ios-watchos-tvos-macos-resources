@@ -202,6 +202,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AnimationEngine](https://github.com/intuit/AnimationEngine)
 * [BAFluidView](https://github.com/antiguab/BAFluidView) - This view and its layer create a 2D fluid animation that can be used to simulate a filling effect.
 * [BFRadialWaveView](https://github.com/bfeher/BFRadialWaveView) - Radial wave
+* [C4Framework](https://github.com/C4Framework) 
 * [CPKenBurnsView](https://github.com/muukii0803/CPKenburnsView)
 * [CoreGraphicsDynamicAnimation](https://github.com/larsacus/CoreGraphicsDynamicAnimation)
 * [confetti](https://github.com/life360/confetti/tree/iOS)
@@ -1113,7 +1114,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Wayfaring](https://github.com/terut/Wayfaring) - Routing library for Swift.
 * [Yukina](https://github.com/charlesmwang/Yukina) - In App URL Router (Deep-Linking Framework for Swift).
 * [RFShortURL](https://github.com/rfunk82/RFShortURL) - RFShortURL provides free URL redirection service.
-
+* [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing for Swift.
 
 ## ScrollView
 *Scrollviews and PageControllers*
