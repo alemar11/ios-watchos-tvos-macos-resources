@@ -900,6 +900,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu)
 * [FlowingMenu](https://github.com/YannickL/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects in Swift.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
+* [Hamburger-DropMenu](https://github.com/vinit5320/Hamburger-DropMenu)
 * [Hokusai](https://github.com/ytakzk/Hokusai) - Swift library that provides a bouncy action sheet.
 * [JGFlipMenu](https://github.com/ziligy/JGFlipMenu) - Flipping menu system written in Swift. Uses @IBDesignable for quick and easy implementation.
 * [MarkingMenu](https://github.com/FlexMonkey/MarkingMenu)
@@ -1114,6 +1115,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Wayfaring](https://github.com/terut/Wayfaring) - Routing library for Swift.
 * [Yukina](https://github.com/charlesmwang/Yukina) - In App URL Router (Deep-Linking Framework for Swift).
 * [RFShortURL](https://github.com/rfunk82/RFShortURL) - RFShortURL provides free URL redirection service.
+* [Routing](https://github.com/jwalapr/Routing) - A Swift router implementation.
 * [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing for Swift.
 
 ## ScrollView
