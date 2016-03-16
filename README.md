@@ -946,7 +946,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ZGNavigationBarTitle](https://github.com/zhigang1992/ZGNavigationBarTitle)
 
 #### 🔸*Swift*
-* [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar)
+* [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
 * [navigation-stack](https://github.com/Ramotion/navigation-stack) - NavigationStack is a stack-modeled navigation controller.
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller. Support 3D Touch.
@@ -1543,8 +1543,10 @@ iw.
 * [Runner](https://github.com/lucianomarisi/Runner) - Execute a block at specific time intervals.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 * [Solid](https://github.com/igormatyushkin014/Solid) - New way to work with arrays in Swift.
+* [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - Replace the system volume popup with a more subtle indicator.
 * [Sugar](https://github.com/hyperoslo/Sugar) - Sugar is a sweetener for your Cocoa implementations.
 * [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!.
+* [swift-utils](https://github.com/eonist/swift-utils) - Generic swift utilities.
 * [SwiftCGRectExtensions](https://github.com/nschum/SwiftCGRectExtensions) - A collection of CGRect, CGPoint and CGSize convenience functions for Swift.
 * [SwiftCop](https://github.com/andresinaka/SwiftCop) - SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.
 * [SwiftDate](https://github.com/malcommac/SwiftDate)
