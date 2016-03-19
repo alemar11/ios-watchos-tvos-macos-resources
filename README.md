@@ -42,6 +42,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Alert](#alert)
 - [Animation](#animation)
 - [App](#app)
+- [Architecture](#architecture) 
 - [Asset Picker](#asset-picker)
 - [Audio](#audio)
 - [Badge](#badge)
@@ -279,6 +280,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Swiflytics](https://github.com/aciidb0mb3r/Swiflytics) - Live Google Analytics.
 * [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. ⌚️
+
+## Architecture
+
+#### 🔸*Swift*
+* [PresenterKit](https://github.com/jessesquires/PresenterKit)
 
 ## Asset Picker
 *Image, Video, Color, Audio Editors or Pickers*
@@ -1525,6 +1531,7 @@ iw.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
 * [Caramel](https://github.com/CaramelForSwift/Caramel) - A portable I/O framework for Swift.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
+* [CGGeometry](https://github.com/andyyhope/Blog_CGGeometry) - Swift: CGRect, CGSize, CGPoint.
 * [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities.
 * [DCDirectoryWatcher](https://github.com/dcvz/DCDirectoryWatcher) - A lightweight class for monitoring directory changes on iOS.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
