@@ -203,6 +203,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BAFluidView](https://github.com/antiguab/BAFluidView) - This view and its layer create a 2D fluid animation that can be used to simulate a filling effect.
 * [BFRadialWaveView](https://github.com/bfeher/BFRadialWaveView) - Radial wave
 * [C4Framework](https://github.com/C4Framework) 
+* [CITwirlDistortionDemo](https://github.com/alienjun/CITwirlDistortionDemo)
 * [CPKenBurnsView](https://github.com/muukii0803/CPKenburnsView)
 * [CoreGraphicsDynamicAnimation](https://github.com/larsacus/CoreGraphicsDynamicAnimation)
 * [confetti](https://github.com/life360/confetti/tree/iOS)
@@ -250,6 +251,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs). `☓`
 * [Partita](https://github.com/comyarzaheri/Partita) - A simple instrument tuner app for iOS.
 * [QuickRadar](https://github.com/amyworrall/QuickRadar) - Mac app to simplify posting bug reports to Apple's Radar bug tracking system. `☓`
+* [SimDirs](https://github.com/somegeekintn/SimDirs) - Quick and dirty app to display Xcode 6 simulator names and open their locations. `☓`
+* [SimulatorManager](https://github.com/tue-savvy/SimulatorManager) - Simple Mac Application to perform quick access iOS Simulator Application data. `☓`
 * [Subjective-C Tutorials](https://github.com/subjc) 
 
 #### 🔸*Swift* 
@@ -278,6 +281,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 *Image, Video, Color, Audio Editors or Pickers*
 
 #### 🔹*Obj-C*
+* [AJPhotoPicker](https://github.com/alienjun/AJPhotoPicker) - PhotoPicker based on AssetsLibrary, Easy to use.
 * [AssetPicker](https://github.com/taruntyagi697/AssetPicker)
 * [AUMediaPlayer](https://github.com/appunite/AUMediaPlayer) - AUMediaPlayer is a nice high level API for audio and video playback, both from network stream and local files.
 * [AVAssetResourceLoader](https://github.com/leshkoapps/AVAssetResourceLoader) - A sample iOS application that demonstrates AVAssetResourceLoader fro AVPlayer.
