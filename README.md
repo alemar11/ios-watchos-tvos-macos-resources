@@ -818,6 +818,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [CleanroomASL](https://github.com/emaloney/CleanroomASL) - A Swift-based API for reading from & writing to the Apple System Log (more commonly known somewhat inaccurately as "the console").
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
+* [Duration](https://github.com/SwiftStudies/Duration) - A simple Swift package for measuring and reporting the time taken for operations.
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Colorful, lightweight & fast logging in Swift 2.
 * [SwiftLogger](https://github.com/MugunthKumar/SwiftLogger)
 * [Watchdog](https://github.com/wojteklukaszuk/Watchdog) - Class for logging excessive blocking on the main thread.
@@ -961,6 +962,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Polymer](https://github.com/LoganWright/Polymer) - Endpoint focused networking.
 
 #### 🔸*Swift*
+* [Bridge](https://github.com/rawrjustin/Bridge) - Extensible HTTP Networking for iOS.
 * [SSASwiftReachability](https://github.com/SSA111/SSASwiftReachability) - A Swift Library To Track Network Reachability Changes.
 
 ## PageControl
@@ -1533,6 +1535,7 @@ iw.
 * [Money](https://github.com/danthorpe/Money) - Swift value types for working with money & currency.
 * [NSData-GZIP](https://github.com/1024jp/NSData-GZIP) - NSData+GZIP.swift is an extension of NSData written in Swift 2.0. It enables compress/decompress gzip using zlib.
 * [OCR-Demo-with-IDOL-OnDemand](https://github.com/bpolat/Swift-OCR-Demo-with-IDOL-OnDemand) - Converting Images into text by using HP's IDOL OnDemand service - iOS app which is written with Swift.
+* [peekpop](https://github.com/marmelroy/peekpop) - Peek and Pop with backwards-compatibility.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API.
 * [phonenumberkit](https://github.com/marmelroy/phonenumberkit)
 * [Proposer](https://github.com/nixzhu/Proposer) - Proposer provides a simple API to request permission for access Camera, Photos, Microphone, Contacts, Location.
