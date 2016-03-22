@@ -101,7 +101,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Utils](#utils)
 - [Video](#video)
 - [View](#view)
-- [ViewController Container](#viewcontroller-container)
+- [ViewController](#viewcontroller)
 - [ViewController Transition](#viewcontroller-transition)
 - [WebView](#webview)
 - [Window](#window)
@@ -264,6 +264,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [iCopyPasta](https://github.com/alltheflow/iCopyPasta) - iOS app for your pasteboard feed, demo app for experimenting with RxSwift.
 * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) - JBWatchActivityIndicator - An easy way to generate activity indicator images for Apple Watch. ⌚️
 * [NKWatchActivityIndicator](https://github.com/NilStack/NKWatchActivityIndicator) - An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2. ⌚️
+* [OneHourWalker](https://github.com/appcoda/OneHourWalker) - HealthKit demo app.
 * [OpenSim](https://github.com/luosheng/OpenSim) - OpenSim is an open source alternative for SimPholders, written in Swift.
 * [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan) - Open Source Weather App created with Swift.
 * [ReviewTime](https://github.com/nthegedus/ReviewTime) - Review Time is an open source app for iOS written in Swift that show the average review times for iOS and the Mac Apps using data crowdsourced from AppReviewTime.
@@ -1699,7 +1700,8 @@ iw.
 * [interactiveplayerview](https://github.com/AhmettKeskin/InteractivePlayerView) - Custom iOS music player view.
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control.
 * [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
-* [StackPageView](https://github.com/noppefoxwolf/StackPageView)
+* [StackPageView](https://github.com/noppefoxwolf/StackPageView) - SwipeViewController is a Swift modification of RKSwipeBetweenViewControllers - navigate between pages / ViewControllers.
+* [SwipeViewController](https://github.com/fortmarek/SwipeViewController)
 * [Timeline](https://github.com/edekhayser/Timeline) - Timeline like the Path iOS app.
 * [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - Easier way to push your viewController.
 
