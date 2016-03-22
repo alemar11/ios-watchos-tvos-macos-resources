@@ -334,6 +334,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)
 * [BRNImagePickerSheet](https://github.com/jacklevin74/BRNImagePickerSheet/tree/master)
 * [DSFacebookImagePicker](https://github.com/sanche21/DSFacebookImagePicker)
+* [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature with a few line of code in Swift.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [Videoshader](https://github.com/snakajima/videoshader) - Script-based real-time video processing technology for OpenGL/iOS
@@ -390,6 +391,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DownloadButton](https://github.com/PavelKatunin/DownloadButton)
 * [FRDLivelyButton](https://github.com/sebastienwindal/FRDLivelyButton)
 * [GBFlatButton](https://github.com/barbosa/GBFlatButton)
+* [gbkui-button-progress-view](https://github.com/Guidebook/gbkui-button-progress-view) - Inspired by Apple’s download progress buttons in the app store.
 * [GUIRoundProgressButton](https://github.com/guilhermearaujo/GUIRoundProgressButton)
 * [HYBubbleButton](https://github.com/nathanwhy/HYBubbleButton)
 * [Icomations](https://github.com/paoloboschini/Icomations)
@@ -876,6 +878,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [GpxLocationManager](https://github.com/vermont42/GpxLocationManager) - GpxLocationManager is a replacement for CLLocationManager that allows the developer to use GPS data from GPX files or CLLocation arrays for testing.
 * [SKMapsCenter](https://github.com/asklausen/SKMapsCenter) -  Maintain center while zooming.
 * [SnapLocation](https://github.com/ziligy/SnapLocation) - Swift micro-app that snaps your current location and writes it to pasteboard, it also optionally saves a map image in photos.
+* [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - UIViewController-Extension which is used to request the User-Location, at the very first time, in a simple and elegent way written in Swift.
 
 ## Menu
 
@@ -950,6 +953,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [fireworks](https://github.com/kjpgit/fireworks) - Fireworks Graphics Demo (OSX/Metal/Swift). `☓`
+* [Metalbrot](https://github.com/jtbandes/Metalbrot.playground) - An interactive playground showing how to use Metal compute kernels.
 
 ## NavigationBar
 
@@ -1135,6 +1139,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings, …).
 
 ## Routing
+*routing, deep linking*
 
 #### 🔹*Obj-C*
 * [ABRouter](https://github.com/aaronbrethorst/ABRouter)
@@ -1145,6 +1150,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [WAAppRouting](https://github.com/Wasappli/WAAppRouting)
 
 #### 🔸*Swift*
+* [Appz](https://github.com/SwiftKitz/Appz) - Launch external apps, and deeplink, with ease using Swift!
 * [Compass](https://github.com/hyperoslo/Compass) - Compass helps you setup a central navigation system for your application.
 * [FeatherweightRouter](https://github.com/featherweightlabs/FeatherweightRouter) - Swift based Application State Router.
 * [IKRouter](https://github.com/IanKeen/IKRouter) - URLScheme router than supports auto creation of UIViewControllers for associated url parameters to allow creation of navigation stacks.
@@ -1425,6 +1431,7 @@ iw.
 #### 🔸*Swift*
 * [BezierString](https://github.com/lvnyk/BezierString) - Rendering NSAttributedStrings along arbitrary UIBezierPaths.
 * [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
+* [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 * [PTPPlaceholderTextView](https://github.com/pitiphong-p/PTPPlaceholderTextView) - A simple naive implementation of UITextView subclass to support placeholder text rendering in UITextView.
 * [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Gradient Text in Real.
 * [Splitflap](https://github.com/YannickL/Splitflap) - A simple split-flap display for your Swift applications.
