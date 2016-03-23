@@ -1026,6 +1026,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ApolloDB](https://github.com/jchomali/ApolloDB) - Encrypted JSON
 * [HardCoreData](https://github.com/Krivoblotsky/HardCoreData)
 * [PEAR-CoreDataManager](https://github.com/HirokiUmatani/PEAR-CoreDataManager-iOS)
+* [SPTPersistentCache](https://github.com/spotify/SPTPersistentCache) - This is a library that allows people to cache NSData with time to live (TTL) values and semantics for disk management.
 * [XLData](https://github.com/xmartlabs/XLData)
 
 #### 🔸*Swift*
