@@ -14,6 +14,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [List of awesome snippets, plugins, and extras for Xcode](https://github.com/jeffreyjackson/awesome-xcode) 
 - [The best FRP in iOS links.](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 - [Swift Community Best Practices](https://github.com/schwa/Swift-Community-Best-Practices)
+- [SwiftKitz](https://github.com/SwiftKitz) - Collection of quality Swift kits (Appz, Storez, Datez, Notificationz, UIKitz, Graphicz).
 - [WWDC Students](https://github.com/wwdc) - This repository features the lists of WWDC scholarship entrants from each year, beginning in 2014.
 
 ---
@@ -1407,6 +1408,7 @@ iw.
 * [iOS-Stepper-UI](https://github.com/soumalya/iOS-Stepper-UI) - This is a custom stepper control for iOS apps. This has been written with Objective-C.
 * [JCTagListView](https://github.com/lijingcheng/JCTagListView) - Support delete tags and settings tags color.
 * [PARTagPicker](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
+* [RKTagsView](https://github.com/kuler90/RKTagsView) - Highly customizable iOS tags view.
 * [ZFTokenField](https://github.com/zoonooz/ZFTokenField) - iOS custom view that let you add token view inside like NSTokenField.
 
 #### 🔸*Swift*
