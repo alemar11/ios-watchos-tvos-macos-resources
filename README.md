@@ -424,6 +424,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
 * [GNTickerButton](https://github.com/gonzalonunez/GNTickerButton)
 * [Hamburger Menu Button](https://github.com/toannt/Hamburger-Menu-Button)
+* [JOEmojiableBtn](https://github.com/lojals/JOEmojiableBtn) - Emoji selector like Facebook Reactions.
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton)
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)
 * [MaterialView](https://github.com/karticodes/MaterialView) - Material Floating Button for iOS - Swift
@@ -579,6 +580,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AYSlidingPickerView](https://github.com/yenbekbay/AYSlidingPickerView) - Implementation of a picker view that can be shown by either tapping on or panning the navigation bar.
 * [BFPaperColors](https://github.com/bfeher/BFPaperColors) - Flat colors taken from Google's Material Design: Paper.
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon is a lightweight, yet powerful, flat color framework for iOS (Objective-C & Swift).
+* [ColorArt](https://github.com/panicinc/ColorArt/) - iTunes 11-style color matching code.
 * [DBImageColorPicker](https://github.com/d0ping/DBImageColorPicker) - https://github.com/d0ping/DBImageColorPicker
 * [DKNightVersion](https://github.com/Draveness/DKNightVersion) - DKNightVersion is a lightweight iOS framework adding night mode/theme to your iOS app.
 * [FPBrandColors](https://github.com/pedrovieira7/FPBrandColors)
@@ -601,6 +603,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs ANSI escape codes and conforms to ECMA Standard 48.
 * [ProtocolUI](https://github.com/VojtaStavik/ProtocolUI) - ProtocolUI is a simple helper file providing very basic infrastructure for customizing UI elements via protocol extensions.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
+* [UIImageColors](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
 
 ## Date
 *Date Pickers and Calendars*
@@ -691,13 +694,15 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [UIView-draggable](https://github.com/andreamazz/UIView-draggable) - UIView category that adds dragging capabilities.
 * [UIImage-Helpers](https://github.com/NZN/UIImage-Helpers)
 * [UIImageView_FaceAwareFill](https://github.com/Julioacarrettoni/UIImageView_FaceAwareFill) - This category applies Aspect Fill content mode to an image and if faces are detected it centers them instead of centering the image just by its geometrical center.
-
+* [YLGIFImage](https://github.com/liyong03/YLGIFImage) - Async GIF image decoder and Image viewer supporting play GIF images. It just use very less memory.
+* 
 #### 🔸*Swift*
 * [ARNZoomImageTransition](https://github.com/xxxAIRINxxx/ARNZoomImageTransition)
 * [DPImageCache](https://github.com/dphans/DPImageCache) - Swift extension for UIImageView. Help loading image asynchronously and store local file cache.
 * [DPImageGenerator](https://github.com/dwipp/DPImageGenerator) - It's an image generator for default image.
 * [Gifu](https://github.com/kaishin/Gifu) - High-performance animated GIF support for iOS in Swift.
 * [Haneke](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
+* [JWAnimatedImage](https://github.com/wangjwchn/JWAnimatedImage) - A animated GIF engine for iOS in Swift. Optimized for Multi-Image case.
 * [ImageLoaderSwift](https://github.com/hirohisa/ImageLoaderSwift)
 * [ImageViewer](https://github.com/MailOnline/ImageViewer) - An image viewer à la Twitter.
 * [Nuke](https://github.com/kean/Nuke) - Advanced pure Swift framework for loading, caching, processing, displaying and preheating images.
@@ -1028,7 +1033,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [KPFontPicker](https://github.com/pahnev/KPFontPicker) - https://github.com/pahnev/KPFontPicker.
 
 ## Persistance
-*CoreData, SQLite, NSUserDefaults*
+*CoreData, SQLite, NSUserDefaults, Caching*
 
 #### 🔹*Obj-C*
 * [APCDController](https://github.com/deszip/APCDController)
@@ -1140,6 +1145,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [FloatRatingView](https://github.com/strekfus/FloatRatingView) - Whole, half or floating point ratings control written in Swift.
+* [STRatingControl](https://github.com/shuhrat10/STRatingControl) - STRatingControl is a UI control that represent the star rating control.
 
 ## Resource
 *Assets code generators*
@@ -1227,6 +1233,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) - A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents and various other Google products.
 
 #### 🔸*Swift*
+* [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - BetterSegmentedControl is an easy to use, customizable replacement for UISegmentedControl and UISwitch written in Swift.
 * [NPSegmentedControl](https://github.com/neopixl/NPSegmentedControl)
 
 ## Slider
@@ -1375,6 +1382,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SAStickyHeader](https://github.com/shams-ahmed/SAStickyHeader) - A very simple sticky header with multiple image support via swipe gestures.
 * [Static](https://github.com/venmo/Static) - Simple static table views for iOS in Swift.
 * [TableView-PullToRefresh](https://github.com/vinit5320/TableView---PullToRefresh)
+* [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - a TableView have thumbnail cell only, and you can use gesture let it expands other expansionView, all diy.
 
 ## TableViewCell
 
@@ -1782,6 +1790,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [TLMetaResolver](https://github.com/tryolabs/TLMetaResolver) - TLMetaResolver is an extension to UIWebView writen in Swift that adds the ability to parse the meta tags in the loaded web page and extract information about a native app that can be deep linked from that page.
+* [URLEmbeddedView](https://github.com/szk-atmosphere/URLEmbeddedView) - URLEmbeddedView automatically caches the object that is confirmed the Open Graph Protocol.
 
 ## Window
 
