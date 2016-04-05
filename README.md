@@ -197,6 +197,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
 * [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert)
 * [UNAlertView](https://github.com/ytakzk/UNAlertView)
+* [Whisper](https://github.com/hyperoslo/Whisper) - Whisper is a component that will make the task of display messages and in-app notifications simple.
 
 ## Animation
 
