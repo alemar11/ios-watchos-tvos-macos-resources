@@ -75,6 +75,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [NavigationBar](#navigationbar)
 - [Network](#network)
 - [PageControl](#pagecontrol)
+- [Payment](Payment)
 - [Persistance](#persistance)
 - [PickerView](#pickerview)
 - [Progress Bar](#progress-bar)
@@ -233,6 +234,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A UIKit custom transition that simulates an elastic drag.
 * [Fluent](https://github.com/matthewcheok/Fluent) - Swift Animations made Easy.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable)
+* [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit) - Animate easy and with less code with Swift.
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
 * [KFWatchKitAnimations](https://github.com/kiavashfaisali/KFWatchKitAnimations) - KFWatchKitAnimations creates beautiful 60 FPS animations for  Watch by recording animations from the iOS. ⌚️
 * [MTPrivateTrainerAnimation](https://github.com/MartinRGB/MTPrivateTrainerAnimation)
@@ -289,6 +291,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac. `☓`
 
 #### 🔸*Swift* 
+* [BatteryNotifier](https://github.com/Kalvin126/BatteryNotifier) - OS X tool that warns you if your iOS devices needs a charge. `☓`
+* [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - A text editor that only allows the top 1000 most common words in English. `☓`
 * [Clipinio](https://github.com/benjohnde/Clipinio) - Lightweight clipboard manager for OSX. `☓`
 * [cloudy](https://github.com/calebd/cloudy) - Simple Overcast app for OS X. `☓`
 * [CopyPasta](https://github.com/alltheflow/CopyPasta) - Pasteboard feed Mac app. `☓`
@@ -344,6 +348,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature with a few line of code in Swift.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
+* [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift.
 * [Videoshader](https://github.com/snakajima/videoshader) - Script-based real-time video processing technology for OpenGL/iOS
 
 ## Audio
@@ -490,7 +495,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [3DGraph](https://github.com/greglecki/3DGraph) - An interactive Swift 3D Graph.
 * [APLineChart](https://github.com/tylyo/APLineChart)
 * [HeartRate](https://github.com/liamscofield/HeartRate) - Chart for Decibel.
-* [ios-charts](https://github.com/danielgindi/ios-charts)
+* [ios-charts](https://github.com/danielgindi/ios-charts) - Beautiful charts for iOS/tvOS/OSX.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)
 * [ROStorageBar](https://github.com/prine/ROStorageBar)
 * [SwiftCharts](https://github.com/i-schuetz/SwiftCharts)
@@ -699,6 +704,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * 
 #### 🔸*Swift*
 * [ARNZoomImageTransition](https://github.com/xxxAIRINxxx/ARNZoomImageTransition)
+* [BitmapCanvas](https://github.com/nst/BitmapCanvas) - Bitmap offscreen drawing in Swift for OS X. `☓`
 * [DPImageCache](https://github.com/dphans/DPImageCache) - Swift extension for UIImageView. Help loading image asynchronously and store local file cache.
 * [DPImageGenerator](https://github.com/dwipp/DPImageGenerator) - It's an image generator for default image.
 * [Gifu](https://github.com/kaishin/Gifu) - High-performance animated GIF support for iOS in Swift.
@@ -867,6 +873,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
 * [Duration](https://github.com/SwiftStudies/Duration) - A simple Swift package for measuring and reporting the time taken for operations.
 * [Evergreen](https://github.com/viWiD/Evergreen) - Most natural Swift logging.
+* [logkit](https://github.com/logkit/logkit) - An efficient logging library for OS X, iOS, watchOS, and tvOS – written in Swift. Log to console, file, HTTP service, or your own endpoint. Simple to get started, but smartly customizable.
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Colorful, lightweight & fast logging in Swift 2.
 * [SwiftLogger](https://github.com/MugunthKumar/SwiftLogger)
 * [Watchdog](https://github.com/wojteklukaszuk/Watchdog) - Class for logging excessive blocking on the main thread.
@@ -1006,6 +1013,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [TinderNavDemo](https://github.com/imaccallum/TinderNavDemo) - Tinder-style parallax paging navigation implementation.
 
 ## Network
+*networking and sockets*
 
 #### 🔹*Obj-C*
 * [NetworkEye](https://github.com/coderyi/NetworkEye) - NetworkEye,a iOS network debug library,It can monitor HTTP requests within the App and displays information related to the request.
@@ -1013,6 +1021,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [Bridge](https://github.com/rawrjustin/Bridge) - Extensible HTTP Networking for iOS.
+* [Socks](https://github.com/czechboy0/Socks) - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.
 * [SSASwiftReachability](https://github.com/SSA111/SSASwiftReachability) - A Swift Library To Track Network Reachability Changes.
 
 ## PageControl
@@ -1023,6 +1032,12 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [GBPageControl](https://github.com/jhurt/GBPageControl) - A page control for SpriteKit based games written in Swift.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram).
+
+## Payment
+
+#### 🔸*Swift*
+* [card.io](https://github.com/card-io/card.io-iOS-SDK) - card.io provides fast, easy credit card scanning in mobile apps.
+* [caishen](https://github.com/prolificinteractive/caishen) - A Payment Card UI & Validator for iOS.
 
 ## PickerView
 
@@ -1457,7 +1472,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PTPPlaceholderTextView](https://github.com/pitiphong-p/PTPPlaceholderTextView) - A simple naive implementation of UITextView subclass to support placeholder text rendering in UITextView.
 * [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Gradient Text in Real.
 * [Splitflap](https://github.com/YannickL/Splitflap) - A simple split-flap display for your Swift applications.
-
+* [SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown) - Converts Markdown files and strings into NSAttributedString.
 
 ## Textfield
 *Textfields and Forms*
@@ -1724,7 +1739,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control.
 * [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
 * [StackPageView](https://github.com/noppefoxwolf/StackPageView) - SwipeViewController is a Swift modification of RKSwipeBetweenViewControllers - navigate between pages / ViewControllers.
-* [SwipeViewController](https://github.com/fortmarek/SwipeViewController)
+* [SwipeViewController](https://github.com/fortmarek/SwipeViewController) - SwipeViewController enables you to modify the navigation bar and implement 'Swipe Buttons' that can user switch pages with and also the user can easily see which page he is on.
 * [Timeline](https://github.com/edekhayser/Timeline) - Timeline like the Path iOS app.
 * [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - Easier way to push your viewController.
 
