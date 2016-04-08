@@ -411,6 +411,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JTImageButton](https://github.com/kubatru/JTImageButton)
 * [KBRoundedButton](https://github.com/burczyk/KBRoundedButton)
 * [KSMManyOptionsButton](https://github.com/kierajmumick/KSMManyOptionsButton) - This interface is similar to the interface used when the "Voice recording" and "Camera" buttons are pressed and held in iOS 8's message app.
+* [MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton) - An iOS drop-in UITableView, UICollectionView and UIScrollView superclass category for showing a customizable floating button on top of it.
 * [PicsLikeControl](https://github.com/itouch2/PicsLikeControl)
 * [RMSaveButton](https://github.com/mcduffeyrt/RMSaveButton)
 * [Responsive-Interaction-Control](https://github.com/NghiaTranUIT/Responsive-Interaction-Control)
@@ -967,6 +968,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - MenuItemKit provides image and block(closure) support for UIMenuItem.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A fully customizable and flexible paging menu controller built from other view controllers placed inside a scroll view
 * [Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS) - Animated side menu with customizable UI.
+* [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure swift.
 * [SliderPanel](https://github.com/sebk/SliderPanel)
 * [SphereMenuSwift](https://github.com/caamorales/SphereMenuSwift)
 * [Summflower](https://github.com/iSame7/Summflower) - Swift implementation to the sexiest sharing icon based on Summly app.
