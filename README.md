@@ -205,6 +205,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔹*Obj-C*
 * [AZSoundManager](https://github.com/willingheart/AZSoundManager)
 * [AnimationEngine](https://github.com/intuit/AnimationEngine)
+* [animations-in-ios](https://github.com/somedev/animations-in-ios) - Animations in iOS with Facebook POP.
 * [BAFluidView](https://github.com/antiguab/BAFluidView) - This view and its layer create a 2D fluid animation that can be used to simulate a filling effect.
 * [BFRadialWaveView](https://github.com/bfeher/BFRadialWaveView) - Radial wave
 * [C4Framework](https://github.com/C4Framework) 
@@ -254,6 +255,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔹*Obj-C*
 * [MMWormhole](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions. ⌚️
 * [Movies](https://github.com/KMindeguia/movies)
+* [iBurn-iOS](https://github.com/Burning-Man-Earth/iBurn-iOS) - iBurn is an offline map and guide for the Burning Man art festival.
 * [Partita](https://github.com/comyarzaheri/Partita) - A simple instrument tuner app for iOS.
 * [Subjective-C Tutorials](https://github.com/subjc) 
 
