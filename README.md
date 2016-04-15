@@ -227,6 +227,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ShootingStars](https://github.com/ryang1428/ShootingStars) - Some fun Shooting Star animations built with both SpriteKit and CAEmitterLayer.
 * [UIRotatableView](https://github.com/faviomob/UIRotatableView)
 * [VENSnowOverlayView](https://github.com/chrismaddern/VENSnowOverlayView) - A snowy UIView overlay to make your apps Christmassy!
+* [YTXAnimations](https://github.com/baidao/YTXAnimations) - The iOS Animation Implementation of animate.css.
 
 #### 🔸*Swift*
 * [Advance](https://github.com/storehouse/Advance) - A powerful animation framework for iOS.
