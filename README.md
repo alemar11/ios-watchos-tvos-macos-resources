@@ -706,7 +706,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [UIImage-Helpers](https://github.com/NZN/UIImage-Helpers)
 * [UIImageView_FaceAwareFill](https://github.com/Julioacarrettoni/UIImageView_FaceAwareFill) - This category applies Aspect Fill content mode to an image and if faces are detected it centers them instead of centering the image just by its geometrical center.
 * [YLGIFImage](https://github.com/liyong03/YLGIFImage) - Async GIF image decoder and Image viewer supporting play GIF images. It just use very less memory.
-* 
+
 #### 🔸*Swift*
 * [ARNZoomImageTransition](https://github.com/xxxAIRINxxx/ARNZoomImageTransition)
 * [BitmapCanvas](https://github.com/nst/BitmapCanvas) - Bitmap offscreen drawing in Swift for OS X. `☓`
