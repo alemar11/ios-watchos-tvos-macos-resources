@@ -241,6 +241,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MTPrivateTrainerAnimation](https://github.com/MartinRGB/MTPrivateTrainerAnimation)
 * [PIRipple](https://github.com/pixel-ink/PIRipple) - Ripple Effect for iOS (swift)
 * [PowerUpYourAnimations](https://github.com/icanzilb/PowerUpYourAnimations) - Sample code from talks on advanced animations: [link](https://realm.io/news/altconf-marin-todorov-animations/).
+* [Pulsator](https://github.com/shu223/Pulsator) - Pulse animation for iOS.#
 * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect)
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView)
@@ -431,6 +432,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ANLongTapButton](https://github.com/antrix1989/ANLongTapButton) - Long tap button with animated progress bar.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 * [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
+* [DynamicButton](https://github.com/yannickl/DynamicButton)
 * [GNTickerButton](https://github.com/gonzalonunez/GNTickerButton)
 * [Hamburger Menu Button](https://github.com/toannt/Hamburger-Menu-Button)
 * [JOEmojiableBtn](https://github.com/lojals/JOEmojiableBtn) - Emoji selector like Facebook Reactions.
@@ -636,8 +638,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
-* [EPCalendarPicker](https://github.com/ipraba/EPCalendarPicker)
- 
+* [EPCalendarPicker](https://github.com/ipraba/EPCalendarPicker) - Colourful calendar for iOS written in Swift.
+
 ## Dynamic Behavior
 
 #### 🔹*Obj-C*
