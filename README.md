@@ -863,6 +863,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 * [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX. `☓`
 * [RSDotsView](https://github.com/Kemcake/RSDotsView)
+* [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - A Swift GUI library for displaying various popups and notifications
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)
 * [WESlider](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management.
 
