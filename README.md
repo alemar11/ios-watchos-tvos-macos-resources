@@ -350,6 +350,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BRNImagePickerSheet](https://github.com/jacklevin74/BRNImagePickerSheet/tree/master)
 * [DSFacebookImagePicker](https://github.com/sanche21/DSFacebookImagePicker)
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature with a few line of code in Swift.
+* [INSPhotoGallery](https://github.com/inspace-io/INSPhotoGallery) - INSPhotoGallery is a modern looking photo gallery written in Swift for iOS.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift.
@@ -604,6 +605,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [UIColor-uiGradientsAdditions](https://github.com/kaiinui/UIColor-uiGradientsAdditions)
 
 #### 🔸*Swift*
+* [BCColor](https://github.com/boycechang/BCColor) - A lightweight but powerful color kit (Swift).
 * [clrex](https://github.com/ilyapuchka/clrex) - Simple script to generate UIColor factory methods from clr files.
 * [Colors](https://github.com/paulot/Colors) - Terminal Colors for Swift.
 * [DPTheme](https://github.com/dphans/DPTheme)
@@ -640,6 +642,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
 * [EPCalendarPicker](https://github.com/ipraba/EPCalendarPicker) - Colourful calendar for iOS written in Swift.
+* [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final Apple calendar you will ever try. Built for iOS in Swift.
 
 ## Dynamic Behavior
 
@@ -918,7 +921,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AKLookups](https://github.com/purrrminator/AKLookups) - AKLookups class implements a drop-down list for selecting particular value of set.
 * [AnimatedCircularCollectionMenu](https://github.com/chillok/AnimatedCircularCollectionMenu)
 * [BAHFourCornersController](https://github.com/BHughes3388/BAHFourCornersController)
-* [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu)
 * [BackMenu](https://github.com/GuyKahlon/BackMenu)
 * [BlurMenu](https://github.com/aljhen/BlurMenu) - A simple iOS menu with blur background. Uses Apple's UIImage+ImageEffects.
 * [CDSideBarController](https://github.com/christophedellac/CDSideBarController)
@@ -941,6 +943,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [LGPlusButtonsView](https://github.com/Friend-LGA/LGPlusButtonsView) - iOS implementation of Google 'plus button', that shows more options.
 * [LGSideMenuController](https://github.com/Friend-LGA/LGSideMenuController)
 * [LMDropdownView](https://github.com/lminhtm/LMDropdownView) - Simple dropdown view inspired by Tappy.
+* [LocationPicker](https://github.com/JeromeTan1997/LocationPicker) - A ready for use and fully customizable location picker for your app.
 * [M13ContextMenu](https://github.com/Marxon13/M13ContextMenu) - A Pintrest style context menu for iOS.
 * [MCSFishEye](https://github.com/macoscope/MCSFishEye) - The dock-like control for iOS.
 * [MISDropdownViewController](https://github.com/maicki/MISDropdownViewController)
@@ -962,6 +965,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [btSimpleSideMenu](https://github.com/balram3429/BTSimpleSideMenu)
 
 #### 🔸*Swift*
+* [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu)
 * [FlowingMenu](https://github.com/YannickL/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects in Swift.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
@@ -1800,6 +1804,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
 * [ISScrollViewPageSwift](https://github.com/Ilhasoft/ISScrollViewPageSwift) ScollView with UIViewController
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition)
+* [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
 * [QZCircleSegue](https://github.com/alextarrago/QZCircleSegue) -  Beatiful transition between circular-shapped buttons and your View Controller.
 * [RadialTransition_swift](https://github.com/apadalko/RadialTransition_swift) - Great iOS radial (circle) animation transition for navigation controller, with custom back swipe. (swift).
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)
