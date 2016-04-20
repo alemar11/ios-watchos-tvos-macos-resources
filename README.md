@@ -78,6 +78,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Payment](Payment)
 - [Persistance](#persistance)
 - [PickerView](#pickerview)
+- [Playground](#playground)
 - [Progress Bar](#progress-bar)
 - [Pull To Refresh](#pull-to-refresh)
 - [Rating](#rating)
@@ -467,6 +468,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Smile-Detector-CameraViewController](https://github.com/MaximAlien/Smile-Detector-CameraViewController)
 
 #### 🔸*Swift*
+* [CameraManager](https://github.com/imaginary-cloud/CameraManager) - Simple Swift class to provide all the configurations you need to create custom camera view in your app.
 * [SwiftMustaches](https://github.com/elpassion/SwiftMustaches)
 * [TGLAugmentedRealityView](https://github.com/gleue/TGLAugmentedRealityView) - Augmented Reality made easy -- place overlays on a camera preview and adjust their position depending on device attitude.
 
@@ -717,8 +719,10 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DPImageCache](https://github.com/dphans/DPImageCache) - Swift extension for UIImageView. Help loading image asynchronously and store local file cache.
 * [DPImageGenerator](https://github.com/dwipp/DPImageGenerator) - It's an image generator for default image.
 * [Gifu](https://github.com/kaishin/Gifu) - High-performance animated GIF support for iOS in Swift.
+* [GPUImage2](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
 * [Haneke](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 * [JWAnimatedImage](https://github.com/wangjwchn/JWAnimatedImage) - A animated GIF engine for iOS in Swift. Optimized for Multi-Image case.
+* [ImageButter](https://github.com/dollarshaveclub/ImageButter) - Makes dealing with images buttery smooth (WebP).
 * [ImageLoaderSwift](https://github.com/hirohisa/ImageLoaderSwift)
 * [ImageViewer](https://github.com/MailOnline/ImageViewer) - An image viewer à la Twitter.
 * [Nuke](https://github.com/kean/Nuke) - Advanced pure Swift framework for loading, caching, processing, displaying and preheating images.
@@ -727,6 +731,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Panorific](https://github.com/ndmeiri/Panorific) - An immersive, intuitive, motion-based way to explore high quality panoramas and photos on an iOS device. Panorific is implemented in Swift.
 * [PASImageView](https://github.com/abiaad/PASImageView) - Rounded async imageview downloader lightly cached and written in Swift
 * [SwiftImageProcessing](https://github.com/skyfe79/SwiftImageProcessing) - Pixel operations in swift.
+* [SwiftSVG](https://github.com/mchoe/SwiftSVG) - A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).
 * [SwiftUIImageEffects](https://github.com/globchastyy/SwiftUIImageEffects)
 * [Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
 
@@ -967,6 +972,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title.
+* [circle-menu)](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant menu with a circular layout.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu)
 * [FlowingMenu](https://github.com/YannickL/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects in Swift.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
@@ -1084,6 +1090,12 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 * [TypedDefaults](https://github.com/tasanobu/TypedDefaults) - TypedDefaults is a utility library to type-safely use NSUserDefaults.
 * [WACoreDataSpotlight](https://github.com/Wasappli/WACoreDataSpotlight) - Automatically index your CoreData objects to CoreSpotlight on iOS 9.
+
+## Playground
+
+#### 🔸*Swift*
+* [swift-summary](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language written on Playgrounds.
+
 
 ## Progress Bar
 
@@ -1485,6 +1497,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Gradient Text in Real.
 * [Splitflap](https://github.com/YannickL/Splitflap) - A simple split-flap display for your Swift applications.
 * [SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown) - Converts Markdown files and strings into NSAttributedString.
+* [TextAttributes](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
 
 ## Textfield
 *Textfields and Forms*
@@ -1520,6 +1533,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating UITableView based form.
 * [LTBouncyPlaceholder](https://github.com/lexrus/LTBouncyPlaceholder)
 * [ParkedTextField](https://github.com/gmertk/ParkedTextField) - A text field with a constant text/placeholder.
+* [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift. As used in the Skyscanner TravelPro iOS app.
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - Form framework for iOS written in Swift.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - A small and lightweight library written in Swift that allows you to easily create forms.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift.
@@ -1596,6 +1610,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 
+* [AIToolbox](https://github.com/KevinCoble/AIToolbox) - A toolbox of AI modules written in Swift: Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
 * [APTargets](https://github.com/collinhundley/APTargets) - Adding UIControl targets, the right way.
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
