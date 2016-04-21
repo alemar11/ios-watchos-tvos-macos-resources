@@ -60,6 +60,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Dynamic Behavior](#dynamic-behavior)
 - [Font](#font)
 - [GameplayKit](#gameplaykit)
+- [Geometry](#geometry)
 - [Gesture](#gesture)
 - [Image](#image)
 - [Intro](#intro)
@@ -261,6 +262,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [iBurn-iOS](https://github.com/Burning-Man-Earth/iBurn-iOS) - iBurn is an offline map and guide for the Burning Man art festival.
 * [Partita](https://github.com/comyarzaheri/Partita) - A simple instrument tuner app for iOS.
 * [Subjective-C Tutorials](https://github.com/subjc) 
+* [YoCelsius](https://github.com/YouXianMing/YoCelsius) - A weather app that uses animation to give you an at-a-glance look at the weather.
 
 #### 🔸*Swift* 
 * [bitbar](https://github.com/matryer/bitbar) - BitBar lets you put the output from any script/program in your Mac OS X Menu Bar.
@@ -563,6 +565,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
+* [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts.
 * [GooglePlayTransition](https://github.com/xxxAIRINxxx/GooglePlayTransition) - Custom transition like Google Play Store Android App. written in Swift.
 * [Hanabi](https://github.com/kshin/Hanabi) - UICollectionViewLayout subclass with a focus on UICollectionViewCell content.
 * [KRLCollectionViewGridLayout](https://github.com/JayGajjar/JGTransitionCollectionView/tree/master/JGTransitionCollectionView) - A iOS swift base collectionview with unique animation feature inspired from behance made using UICollectionView.
@@ -674,6 +677,12 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [GameplayKit: beyond games](https://github.com/zats/Presentations/tree/master/GameplayKit)
+
+## Geometry
+
+#### 🔸*Swift*
+* [CGGeometry](https://github.com/andyyhope/Blog_CGGeometry) - Swift: CGRect, CGSize, CGPoint.
+* [InkKit](https://github.com/shaps80/InkKit) - Drawing and Geometry made easy for iOS.
 
 ## Gesture
 
@@ -1616,7 +1625,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
 * [Caramel](https://github.com/CaramelForSwift/Caramel) - A portable I/O framework for Swift.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
-* [CGGeometry](https://github.com/andyyhope/Blog_CGGeometry) - Swift: CGRect, CGSize, CGPoint.
 * [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities.
 * [DCDirectoryWatcher](https://github.com/dcvz/DCDirectoryWatcher) - A lightweight class for monitoring directory changes on iOS.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
