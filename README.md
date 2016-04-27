@@ -1350,7 +1350,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## TabBar
 
 #### 🔹*Obj-C*
-* [AHTabBarController](https://github.com/ArthurDevNL/AHTabBarController) - Using this control is fairly easy. For each tab you want to see in the tab bar you must create an AHTabView instance and set its image and title.
+* [AHTabBarController](https://github.com/ArthurDevNL/AHTabBarController) - A traditional UITabBarController with possibilities of adding multiple items behind every tab.
 * [AXSideButtonTabBarController](https://github.com/akiroom/AXSideButtonTabBarController) - Simple tab bar controller with side buttons.
 * [BFPaperTabBarController](https://github.com/bfeher/BFPaperTabBarController)
 * [BKSegmentedViewController](https://github.com/bhavya-kothari/BKSegmented-OR-TabbarViewController)
