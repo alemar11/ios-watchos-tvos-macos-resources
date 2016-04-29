@@ -88,6 +88,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [ScrollView](#scrollview)
 - [Security](#security)
 - [Segmented Control](#segmented-control)
+- [Server Side](#server-side)
 - [Slider](#slider)
 - [Sprite](#sprite)
 - [Statusbar](#statusbar)
@@ -1288,6 +1289,28 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - BetterSegmentedControl is an easy to use, customizable replacement for UISegmentedControl and UISwitch written in Swift.
 * [NPSegmentedControl](https://github.com/neopixl/NPSegmentedControl)
+
+## Server side
+
+#### 🔸*Swift*
+* [Aeon](https://github.com/paulofaria/Aeon) – Aeon is a GCD based HTTP server for Swift 2.
+* [blackfish](https://github.com/elliottminns/blackfish) – A fast HTTP web server based on Node.js and Express written in Swift
+* [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer) – A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications.
+* [Curassow](https://github.com/kylef/Curassow) – Swift HTTP server using the pre-fork worker model. [And check out the rest at github/kylef!]
+* [Dynamo](https://github.com/johnno1962/Dynamo) – High Performance (nearly)100% Swift Web server supporting dynamic content.
+* [Express](https://github.com/crossroadlabs/Express) – Swift Express is a simple, yet unopinionated web application server written in Swift
+* [Frank](https://github.com/nestproject/Frank) – Frank is a DSL for quickly writing web applications in Swift
+* [Kitura](https://github.com/IBM-Swift/Kitura) – Web framework and HTTP server for Swift by IBM
+* [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect library, application server, connectors and example apps.
+* [Swifter](https://github.com/httpswift/swifter) – Tiny http server engine written in Swift programming language.
+* [Swifton](https://github.com/necolt/Swifton) – A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X
+* [swiftra](https://github.com/takebayashi/swiftra) – Sinatra-like DSL for developing web apps in Swift
+* [swift-http](https://github.com/huytd/swift-http) – HTTP Implementation for Swift on Linux and Mac OS X
+* [Taylor](https://github.com/izqui/Taylor) – A lightweight library for writing HTTP web servers with Swift
+* [Trevi](https://github.com/Yoseob/Trevi) – A powerful Swift Web Application Server Framework Project
+* [Vapor](https://github.com/qutheory/vapor) – Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.
+* [Zewo](https://github.com/Zewo/Zewo) – Venice based HTTP server for Swift 2.2 on Linux
+
 
 ## Slider
 
