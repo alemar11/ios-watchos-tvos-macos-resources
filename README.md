@@ -373,7 +373,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [AudioKit](https://github.com/audiokit/AudioKit) - Open-source audio synthesis, processing, & analysis platform.
-* [TuningFork](https://github.com/comyarzaheri/TuningFork) - A Simple Tuner for iOS.
+* [TuningFork](https://github.com/comyarzaheri/TuningFork) - TuningFork is a simple utility for processing microphone input and interpreting pitch, frequency, amplitude, etc.
 
 ## Badge
 *Notifications icons*
@@ -825,6 +825,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
 * [ASAttributedLabelNode](https://github.com/alex-alex/ASAttributedLabelNode)
+* [GlitchLabel](https://github.com/kciter/GlitchLabel) - glitch effect
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - UILabel subclass that saves you from refreshing it when using 'time ago' format.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text will not fit inside the specified frame.
@@ -1011,6 +1012,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## NavigationBar
 
 #### 🔹*Obj-C*
+* [ATNavBarButton](https://github.com/apptality/ATNavBarButton) - A sub-class of UIBarButtonItem to insert custom buttons or indicatorView into your navigationBar with one line of code.
 * [BFNavigationBarDrawer](https://github.com/DrummerB/BFNavigationBarDrawer) - A UIToolbar subclass that can easily be displayed below a UINavigationBar, similarly to the playlist view in the Music app.
 * [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) - Create condensing header bars like those seen in the Facebook, Square Cash, and Safari iOS apps.
 * [BMYScrollableNavigationBar](https://github.com/beamly/BMYScrollableNavigationBar) - Facebook-style scrollable navigation bar.
@@ -1503,13 +1505,15 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [BezierString](https://github.com/lvnyk/BezierString) - Rendering NSAttributedStrings along arbitrary UIBezierPaths.
-* [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
+* [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - add text(multiple line support) to imageView, edit, rotate or resize them as you want, then render the text on image.
 * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 * [PTPPlaceholderTextView](https://github.com/pitiphong-p/PTPPlaceholderTextView) - A simple naive implementation of UITextView subclass to support placeholder text rendering in UITextView.
 * [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Gradient Text in Real.
+* [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks.
 * [Splitflap](https://github.com/YannickL/Splitflap) - A simple split-flap display for your Swift applications.
 * [SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown) - Converts Markdown files and strings into NSAttributedString.
 * [TextAttributes](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
+* [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
 
 ## Textfield
 *Textfields and Forms*
@@ -1746,6 +1750,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift.
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
+* [Smile-Lock](https://github.com/liu044100/Smile-Lock) - A library for make a beautiful Passcode Lock View.
 * [SVGSpriteView](https://github.com/rondinellimorais/SVGSpriteView) - Subclass of UIView where is possible render SVG Sprites.
 * [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full [tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
