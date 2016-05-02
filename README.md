@@ -182,6 +182,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [STPopup](https://github.com/kevin0571/STPopup)
 * [SWBufferedToast](https://github.com/sfwalsh/SWBufferedToast)
 * [TAOverlay](https://github.com/TaimurAyaz/TAOverlay)
+* [ZHPopupView](https://github.com/zhhlmr/ZHPopupView) - A simple iOS Pop up View to display alert or dialog.
 
 #### 🔸*Swift*
 * [BMInputBox](https://github.com/blackmirror-media/BMInputBox)
