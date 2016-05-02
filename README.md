@@ -1405,6 +1405,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MHImageTabBar](https://github.com/mho000/MHImageTabBar)
 * [ScrollPager](https://github.com/aryaxt/ScrollPager)
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
+* [TabDrawer](https://github.com/winslowdibona/TabDrawer) - TabDrawer is a customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, or display a customizable drawer.
 
 ## TableView
 
@@ -1806,6 +1807,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control.
 * [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
 * [StackPageView](https://github.com/noppefoxwolf/StackPageView) - SwipeViewController is a Swift modification of RKSwipeBetweenViewControllers - navigate between pages / ViewControllers.
+* [StackViewController](https://github.com/seedco/StackViewController) - A controller that uses a UIStackView and view controller composition to display content in a list.
 * [SwipeViewController](https://github.com/fortmarek/SwipeViewController) - SwipeViewController enables you to modify the navigation bar and implement 'Swipe Buttons' that can user switch pages with and also the user can easily see which page he is on.
 * [Timeline](https://github.com/edekhayser/Timeline) - Timeline like the Path iOS app.
 * [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - Easier way to push your viewController.
