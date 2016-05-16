@@ -345,6 +345,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JMBackgroundCameraView](https://github.com/ulidev/JMBackgroundCameraView)
 * [JSImagePickerController](https://github.com/jacobsieradzki/JSImagePickerController)
 * [KSHMosaicCamera](https://github.com/kimsungwhee/KSHMosaicCamera)
+* [MMPaperGallery](https://github.com/mukyasa/MMPaperGallery) - Image Browser similar to Facebook Paper app.
 * [PKImagePickerDemo](https://github.com/pavankris/PKImagePickerDemo)
 * [RAScrollablePickerView](https://github.com/naturaln0va/RAScrollablePickerView)
 * [RPMultipleImagePicker](https://github.com/renatopeterman/RPMultipleImagePicker)
