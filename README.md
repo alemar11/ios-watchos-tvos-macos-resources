@@ -235,6 +235,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [YTXAnimations](https://github.com/baidao/YTXAnimations) - The iOS Animation Implementation of animate.css.
 
 #### 🔸*Swift*
+* [15 Days of Animations in Swift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - A project to learn animations.
 * [Advance](https://github.com/storehouse/Advance) - A powerful animation framework for iOS.
 * [DoneHud](https://github.com/beryu/DoneHUD) - Done animation on HUD.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
