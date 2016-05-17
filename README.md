@@ -286,6 +286,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [OpenSim](https://github.com/luosheng/OpenSim) - OpenSim is an open source alternative for SimPholders, written in Swift.
 * [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan) - Open Source Weather App created with Swift.
 * [ReviewTime](https://github.com/nthegedus/ReviewTime) - Review Time is an open source app for iOS written in Swift that show the average review times for iOS and the Mac Apps using data crowdsourced from AppReviewTime.
+* [Sentiments](https://github.com/kyleweiner/Sentiments) - Sentiments is an iOS app written in Swift that analyzes text for positive or negative sentiment.
 * [Swiflytics](https://github.com/aciidb0mb3r/Swiflytics) - Live Google Analytics.
 * [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. ⌚️
@@ -1544,6 +1545,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [BezierString](https://github.com/lvnyk/BezierString) - Rendering NSAttributedStrings along arbitrary UIBezierPaths.
 * [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - add text(multiple line support) to imageView, edit, rotate or resize them as you want, then render the text on image.
+* [Marklight](https://github.com/macteo/Marklight) - Markdown syntax highlighter for iOS.
 * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 * [PTPPlaceholderTextView](https://github.com/pitiphong-p/PTPPlaceholderTextView) - A simple naive implementation of UITextView subclass to support placeholder text rendering in UITextView.
 * [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Gradient Text in Real.
