@@ -11,6 +11,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Awesome Open Source Mac Apps](https://github.com/jeffreyjackson/mac-apps)
 - [Cocoanetics Swift-Examples](https://github.com/Cocoanetics/Swift-Examples)
 - [Collaborative List of Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [iOS architecture](https://github.com/onmyway133/fantastic-ios-architecture) -  Better ways to structure apps.
 - [iOS Cookies: A hand curated collection of iOS libraries written in Swift](http://www.ioscookies.com)
 - [List of awesome snippets, plugins, and extras for Xcode](https://github.com/jeffreyjackson/awesome-xcode) 
 - [The best FRP in iOS links.](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
@@ -324,6 +325,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## Architecture
 
 #### 🔸*Swift*
+* [CleanStore](https://github.com/Clean-Swift/CleanStore) - A sample iOS app built using the Clean Swift architecture.
 * [PresenterKit](https://github.com/jessesquires/PresenterKit)
 
 ## Asset Picker
@@ -772,6 +774,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [GHWalkThrough](https://github.com/GnosisHub/GHWalkThrough
 * [JMHoledView](https://github.com/leverdeterre/JMHoledView)
 * [LaunchScreenViewController](https://github.com/k06a/LaunchScreenViewController) - iOS View Controller for loading default launch screen in app and maybe to add some animations to it.
+* [LUNTutorialViewController](https://github.com/LunApps/LUNTutorialViewController) - UIViewController designed to simplify creation of tutorial/onboarding of your iOS application.
 * [MPCoachMarks](https://github.com/bubudrc/MPCoachMarks)
 * [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView)
 * [Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
@@ -1403,6 +1406,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JCSegmentBarController](https://github.com/lijingcheng/JCSegmentBarController)
 * [JFATabBarController](https://github.com/vermont42/JFATabBarController)
 * [LCTabBarController](https://github.com/LeoiOS/LCTabBarController)
+* [LUNTabBarController](https://github.com/LunApps/LUNTabBarController) - UITabBarController subclass designed to add cool floating from the bottom animation with scale effect that adds feeling of 3D to one of your tabs.
 * [NTSlidingViewController](https://github.com/nonstriater/NTSlidingViewController)
 * [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController)
 * [RKTabView](https://github.com/RafaelKayumov/RKTabView)
@@ -1573,6 +1577,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JOTextField](https://github.com/lojals/JOTextField)
 * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) - UITextField subclass with floating labels.
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder written in Swift.
+* [LUNField](https://github.com/LunApps/LUNField) - Animated, adaptive textfield group with validation. You can specify the count of textfields and their relative sizes.
 * [MAFormViewController](https://github.com/mamaral/MAFormViewController)
 * [MHTextField](https://github.com/mehfuzh/MHTextField) - UITextField extension with built-in toolbar, validation and scrolling support.
 * [MMTextFieldEffects](https://github.com/mukyasa/MMTextFieldEffects) - Extension of TextFieldEffects with Custom UITextFields effects inspired by Codrops, built using Objective-C.
