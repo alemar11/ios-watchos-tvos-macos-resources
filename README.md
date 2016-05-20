@@ -196,6 +196,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Notification-AlertView](https://github.com/alexey-kubas-appus/Notification-AlertView)
 * [PathDynamicModal](https://github.com/ra1028/PathDynamicModal)
 * [PermissionScope](https://github.com/nickoneill/PermissionScope)
+* [PMAlertController](https://github.com/Codeido/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
 * [Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [SlideControl](https://github.com/dasdom/SlideControl) - Vertical slide control build with Swift 2.0.
@@ -555,6 +556,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [HorizontalScrollCell](https://github.com/mcelayir/HorizontalScrollCell)
 * [JCCollectionViewWaterfallLayout](https://github.com/lijingcheng/JCCollectionViewWaterfallLayout) - Support multiple section, and can add headerView and footerView.
 * [JGTransitionCollectionView](https://github.com/JayGajjar/JGTransitionCollectionView)
+* [MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts) - An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.
 * [MJParallaxCollectionView](https://github.com/mayuur/MJParallaxCollectionView)
 * [MONUniformFlowLayout](https://github.com/mownier/MONUniformFlowLayout) - A simple flow layout the handles the arrangement of the items in a collection view.
 * [MTCardLayout](https://github.com/minhntran/MTCardLayout) - Mimicking the behavior of the Passbooks apps in iOS using a custom UICollectionViewLayout.
@@ -894,6 +896,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MFLFillableTextLoader](https://github.com/MattFoley/MFLFillableTextLoader) - Loading slash progress indicator based on filling stroked text.
 * [MediumProgressView](https://github.com/pixyzehn/MediumProgressView)
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
+* [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) - A customizable SpriteKit particles animation on the border of a view.
 * [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX. `☓`
 * [RSDotsView](https://github.com/Kemcake/RSDotsView)
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - A Swift GUI library for displaying various popups and notifications
