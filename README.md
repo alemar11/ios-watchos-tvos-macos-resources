@@ -242,6 +242,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DoneHud](https://github.com/beryu/DoneHUD) - Done animation on HUD.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A UIKit custom transition that simulates an elastic drag.
+* [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - A collection of iOS animation repos.
 * [Fluent](https://github.com/matthewcheok/Fluent) - Swift Animations made Easy.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable)
 * [Interpolate](https://github.com/marmelroy/Interpolate) - Swift interpolation for gesture-driven animations.
@@ -526,6 +527,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - Beautiful charts for iOS/tvOS/OSX.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)
 * [ROStorageBar](https://github.com/prine/ROStorageBar)
+* [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
 * [SwiftCharts](https://github.com/i-schuetz/SwiftCharts)
 * [swift-linechart](https://github.com/zemirco/swift-linechart)
 
@@ -1667,6 +1669,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔹*Obj-C*
 
+* [AGGeometryKit](https://github.com/agens-no/AGGeometryKit) - Quadrilaterals on CALayer, CGGeometry-functions, UIView/CALayer properties and other invaluable tools.
 * [BugReportKit](https://github.com/rahuljiresal/BugReportKit/tree/master/Example/BugReportKit)
 * [CZWeatherKit](https://github.com/comyarzaheri/CZWeatherKit) - A Simple Cocoa Weather Library.
 * [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper) - Quick tool to explain the right place to enable your privacy settings.
@@ -1685,6 +1688,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Caramel](https://github.com/CaramelForSwift/Caramel) - A portable I/O framework for Swift.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
 * [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities.
+* [CwlUtils](https://github.com/mattgallagher/CwlUtils) - A collection of Swift utilities as documented on cocoawithlove.com.
 * [DCDirectoryWatcher](https://github.com/dcvz/DCDirectoryWatcher) - A lightweight class for monitoring directory changes on iOS.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Diamond](https://github.com/johnno1962/Diamond) - Swift scripting made easy.
@@ -1764,6 +1768,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DBImageView](https://github.com/danielebogo/DBImageView)
 * [ExpandableHeaderView](https://github.com/microeditionbiz/ExpandableHeaderView) It tries to reproduce the behaviour that you can find on Twitter app, profile section, when the user scrolls down that section, the header is expanded and blurred.
 * [ETFoursquareImages](https://github.com/EugeneTrapeznikov/ETFoursquareImages)
+* [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView) - A generic stretchy header for UITableView and UICollectionView.
 * [HATransparentView](https://github.com/hebertialmeida/HATransparentView) - UIView subclass based on Rdio stations menu.
 * [HATransparentView](https://github.com/hebertialmeida/HATransparentView)
 * [IQFeedbackView](https://github.com/hackiftekhar/IQFeedbackView) - Feedback/BugReport iOS control.
