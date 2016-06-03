@@ -553,6 +553,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DMDynamicWaterfall](https://github.com/malcommac/DMDynamicWaterfall) -  UICollectionView Waterfall Layout with UIKit Dynamics.
 * [EBCardCollectionViewLayout](https://github.com/betzerra/EBCardCollectionViewLayout) - Horizzontal UICollectionView.
 * [ERJustifiedFlowLayout](https://github.com/eroth/ERJustifiedFlowLayout) - A subclass of UICollectionViewFlowLayout for iOS that supports different types of cell justification and inter-cell spacing.
+* [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller.
 * [FBLikeLayout](https://github.com/gringoireDM/FBLikeLayout) - This is an UICollectionView layout inspired by the photo section of facebook. This layout loads squared items with randomic full size items.
 * [Greedo](https://github.com/500px/greedo-layout-for-ios) - Full aspect ratio grid layout for iOS.
 * [HTKDragAndDropCollectionViewLayout](https://github.com/henrytkirk/HTKDragAndDropCollectionViewLayout) UICollectionViewLayout subclass that works together with a custom UICollectionViewCell to provide drag and drop for a UICollectionView.
