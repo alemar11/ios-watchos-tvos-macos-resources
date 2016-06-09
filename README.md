@@ -807,6 +807,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RMParallax](https://github.com/michaelbabiy/RMParallax) - The way to impress users on the first app launch.
 * [SoundCloudTransition](https://github.com/xxxAIRINxxx/SoundCloudTransition) - Custom interactive transition like SoundCloud iOS App.
 * [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps, powered by Swift.
+* [tween-controller](https://github.com/daltonclaybrook/tween-controller) - A toolkit for creating interactive menus and tutorials in Swift.
 * [TwitterBirdAnimation](https://github.com/rounak/TwitterBirdAnimation/) - Twitter bird animation
 * [VideoSplash](https://github.com/toygard/VideoSplash)
 
