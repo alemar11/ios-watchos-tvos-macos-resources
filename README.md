@@ -244,11 +244,12 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A UIKit custom transition that simulates an elastic drag.
 * [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - A collection of iOS animation repos.
 * [Fluent](https://github.com/matthewcheok/Fluent) - Swift Animations made Easy.
-* [IBAnimatable](https://github.com/JakeLin/IBAnimatable)
+* [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [Interpolate](https://github.com/marmelroy/Interpolate) - Swift interpolation for gesture-driven animations.
 * [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit) - Animate easy and with less code with Swift.
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
 * [KFWatchKitAnimations](https://github.com/kiavashfaisali/KFWatchKitAnimations) - KFWatchKitAnimations creates beautiful 60 FPS animations for  Watch by recording animations from the iOS. ⌚️
+* [Motion Machine](https://github.com/poetmountain/MotionMachine) - A powerful, elegant, and modular animation library for Swift.
 * [MTPrivateTrainerAnimation](https://github.com/MartinRGB/MTPrivateTrainerAnimation)
 * [PIRipple](https://github.com/pixel-ink/PIRipple) - Ripple Effect for iOS (swift)
 * [PowerUpYourAnimations](https://github.com/icanzilb/PowerUpYourAnimations) - Sample code from talks on advanced animations: [link](https://realm.io/news/altconf-marin-todorov-animations/).
@@ -326,6 +327,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Screenotate](https://github.com/osnr/Screenotate) - Automatically annotate your screenshots. `☓`
 * [Sweetcorn](https://github.com/FlexMonkey/sweetcorn) - Node based CIKernel creation. `☓`
 * [Tailor](https://github.com/kimar/Tailor) - An OS X status bar app to quickly check for new releases at Swift.org. `☓`
+* [Up-Down](https://github.com/gjiazhe/Up-Down) - A menu bar widget for OS X that monitors upload and download speeds. `☓`
 * [WWDC](https://github.com/insidegui/WWDC) - WWDC app for OS X. `☓`
 
 ## Architecture
@@ -1388,6 +1390,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AHStepperControl](https://github.com/ashh640/AHStepperControl) - A simple stepper control for iOS.
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 * [KWStepper](https://github.com/kyleweiner/KWStepper) - A stepper control with flexible UI and tailored UX.
+* [SnappingStepper](https://github.com/yannickl/SnappingStepper) - An elegant alternative to the UIStepper written in Swift.
 * [StepSlider](https://github.com/spromicky/StepSlider)
 
 ## Switch Control
@@ -1680,6 +1683,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔹*Obj-C*
 
 * [AGGeometryKit](https://github.com/agens-no/AGGeometryKit) - Quadrilaterals on CALayer, CGGeometry-functions, UIView/CALayer properties and other invaluable tools.
+* [AppDevKit](https://github.com/yahoo/AppDevKit) - AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
 * [BugReportKit](https://github.com/rahuljiresal/BugReportKit/tree/master/Example/BugReportKit)
 * [CZWeatherKit](https://github.com/comyarzaheri/CZWeatherKit) - A Simple Cocoa Weather Library.
 * [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper) - Quick tool to explain the right place to enable your privacy settings.
@@ -1703,6 +1707,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DCDirectoryWatcher](https://github.com/dcvz/DCDirectoryWatcher) - A lightweight class for monitoring directory changes on iOS.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Diamond](https://github.com/johnno1962/Diamond) - Swift scripting made easy.
+* [Down](https://github.com/iwasrobbed/Down) - Blazing fast Markdown rendering in Swift, built upon cmark.
 * [EnigmaKit](https://github.com/mikaoj/EnigmaKit) - Enigma encryption in Swift.
 * [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes.
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions)
