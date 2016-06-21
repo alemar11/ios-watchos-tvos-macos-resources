@@ -7,7 +7,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [A collaborative list of awesome swift resources](https://github.com/matteocrippa/awesome-swift)
 - [A curated list of awesome Swift frameworks](https://github.com/Wolg/awesome-swift)
 - [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - All of the resources for Learning About Swift.
-- [Awesome OSX](https://github.com/iCHAIT/awesome-osx) - A curated list of awesome applications, softwares, tools and shiny things for OSX. `☓`
+- [Awesome OSX](https://github.com/iCHAIT/awesome-osx) - A curated list of awesome applications, softwares, tools and shiny things for OSX. `macOS`
 - [Awesome Open Source Mac Apps](https://github.com/jeffreyjackson/mac-apps)
 - [Cocoanetics Swift-Examples](https://github.com/Cocoanetics/Swift-Examples)
 - [Collaborative List of Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
@@ -293,42 +293,42 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ReviewTime](https://github.com/nthegedus/ReviewTime) - Review Time is an open source app for iOS written in Swift that show the average review times for iOS and the Mac Apps using data crowdsourced from AppReviewTime.
 * [Sentiments](https://github.com/kyleweiner/Sentiments) - Sentiments is an iOS app written in Swift that analyzes text for positive or negative sentiment.
 * [Swiflytics](https://github.com/aciidb0mb3r/Swiflytics) - Live Google Analytics.
-* [Trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise. ⌚️ `☓`
+* [Trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise. ⌚️ `macOS`
 * [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. ⌚️
 
 ## App OSX
 
 #### 🔹*Obj-C*
-* [Armchair](https://github.com/UrbanApps/Armchair) - A simple yet powerful App Review Manager for iOS and OSX in Swift. `☓`
-* [GIFs](https://github.com/orta/GIFs) - A Mac App for finding GIFs. `☓`
-* [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. `☓`
-* [ModernLook-OSX](https://github.com/gyetvan-andras/ModernLook-OSX) - OSX Moder Look UI. `☓`
-* [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs). `☓`
-* [QuickRadar](https://github.com/amyworrall/QuickRadar) - Mac app to simplify posting bug reports to Apple's Radar bug tracking system. `☓`
-* [SimDirs](https://github.com/somegeekintn/SimDirs) - Quick and dirty app to display Xcode 6 simulator names and open their locations. `☓`
-* [SimulatorManager](https://github.com/tue-savvy/SimulatorManager) - Simple Mac Application to perform quick access iOS Simulator Application data. `☓`
-* [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac. `☓`
+* [Armchair](https://github.com/UrbanApps/Armchair) - A simple yet powerful App Review Manager for iOS and OSX in Swift. `macOS`
+* [GIFs](https://github.com/orta/GIFs) - A Mac App for finding GIFs. `macOS`
+* [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. `macOS`
+* [ModernLook-OSX](https://github.com/gyetvan-andras/ModernLook-OSX) - OSX Moder Look UI. `macOS`
+* [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs). `macOS`
+* [QuickRadar](https://github.com/amyworrall/QuickRadar) - Mac app to simplify posting bug reports to Apple's Radar bug tracking system. `macOS`
+* [SimDirs](https://github.com/somegeekintn/SimDirs) - Quick and dirty app to display Xcode 6 simulator names and open their locations. `macOS`
+* [SimulatorManager](https://github.com/tue-savvy/SimulatorManager) - Simple Mac Application to perform quick access iOS Simulator Application data. `macOS`
+* [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac. `macOS`
 
 #### 🔸*Swift* 
-* [BatteryNotifier](https://github.com/Kalvin126/BatteryNotifier) - OS X tool that warns you if your iOS devices needs a charge. `☓`
-* [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - A text editor that only allows the top 1000 most common words in English. `☓`
-* [Clipinio](https://github.com/benjohnde/Clipinio) - Lightweight clipboard manager for OSX. `☓`
-* [Clipy](https://github.com/Clipy/Clipy) Clipboard extension app for Mac OSX. `☓`
-* [cloudy](https://github.com/calebd/cloudy) - Simple Overcast app for OS X. `☓`
-* [CopyPasta](https://github.com/alltheflow/CopyPasta) - Pasteboard feed Mac app. `☓`
-* [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift. `☓`
-* [EventfulMac](https://github.com/JacobCho/EventfulMac) - OSX application that searches for events within an area using the Eventful API. `☓`
-* [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). `☓`
-* [localizations](https://github.com/athiercelin/localizations) - OS X app that manages localizations of Xcode projects. `☓`
-* [Markoff](https://github.com/thoughtbot/Markoff) - A light-weight Markdown (CommonMark) previewer for OSX. `☓`
-* [osx-xliff-tool](https://github.com/remuslazar/osx-xliff-tool) - OS X Application for editing XLIFF files generated by Xcode. `☓`
-* [producthunt-osx](https://github.com/producthunt/producthunt-osx) - The best new products, every day on Mac. `☓`
-* [Screenotate](https://github.com/osnr/Screenotate) - Automatically annotate your screenshots. `☓`
-* [Sweetcorn](https://github.com/FlexMonkey/sweetcorn) - Node based CIKernel creation. `☓`
-* [Tailor](https://github.com/kimar/Tailor) - An OS X status bar app to quickly check for new releases at Swift.org. `☓`
-* [Up-Down](https://github.com/gjiazhe/Up-Down) - A menu bar widget for OS X that monitors upload and download speeds. `☓`
-* [WWDC](https://github.com/insidegui/WWDC) - WWDC app for OS X. `☓`
+* [BatteryNotifier](https://github.com/Kalvin126/BatteryNotifier) - OS X tool that warns you if your iOS devices needs a charge. `macOS`
+* [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - A text editor that only allows the top 1000 most common words in English. `macOS`
+* [Clipinio](https://github.com/benjohnde/Clipinio) - Lightweight clipboard manager for OSX. `macOS`
+* [Clipy](https://github.com/Clipy/Clipy) Clipboard extension app for Mac OSX. `macOS`
+* [cloudy](https://github.com/calebd/cloudy) - Simple Overcast app for OS X. `macOS`
+* [CopyPasta](https://github.com/alltheflow/CopyPasta) - Pasteboard feed Mac app. `macOS`
+* [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift. `macOS`
+* [EventfulMac](https://github.com/JacobCho/EventfulMac) - OSX application that searches for events within an area using the Eventful API. `macOS`
+* [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). `macOS`
+* [localizations](https://github.com/athiercelin/localizations) - OS X app that manages localizations of Xcode projects. `macOS`
+* [Markoff](https://github.com/thoughtbot/Markoff) - A light-weight Markdown (CommonMark) previewer for OSX. `macOS`
+* [osx-xliff-tool](https://github.com/remuslazar/osx-xliff-tool) - OS X Application for editing XLIFF files generated by Xcode. `macOS`
+* [producthunt-osx](https://github.com/producthunt/producthunt-osx) - The best new products, every day on Mac. `macOS`
+* [Screenotate](https://github.com/osnr/Screenotate) - Automatically annotate your screenshots. `macOS`
+* [Sweetcorn](https://github.com/FlexMonkey/sweetcorn) - Node based CIKernel creation. `macOS`
+* [Tailor](https://github.com/kimar/Tailor) - An OS X status bar app to quickly check for new releases at Swift.org. `macOS`
+* [Up-Down](https://github.com/gjiazhe/Up-Down) - A menu bar widget for OS X that monitors upload and download speeds. `macOS`
+* [WWDC](https://github.com/insidegui/WWDC) - WWDC app for OS X. `macOS`
 
 ## Architecture
 
@@ -669,7 +669,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RDVCalendarView](https://github.com/robbdimitrov/RDVCalendarView)
 * [RMDateSelectionViewController](https://github.com/CooperRS/RMDateSelectionViewController)
 * [SBFlatDatePicker](https://github.com/SolomonBier/SBFlatDatePicker)
-* [ScheduleKit](https://github.com/gservera/ScheduleKit) - ScheduleKit is a new graphical event management framework for Mac OSX that provides a great way to display a set of event-like objects. `☓`
+* [ScheduleKit](https://github.com/gservera/ScheduleKit) - ScheduleKit is a new graphical event management framework for Mac OSX that provides a great way to display a set of event-like objects. `macOS`
 * [timeLineiOS](https://github.com/romaHerman/timeLineiOS)
 
 #### 🔸*Swift*
@@ -687,7 +687,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [VBFJellyView](https://github.com/victorBaro/VBFJellyView) - VBFJellyView is a custom view made out using UIKit Dynamics and with a very funny effect when adding behaviours to it.
 
 #### 🔸*Swift*
-* [DateRangePicker](https://github.com/MrMage/DateRangePicker) - Date range picker control for OSX. `☓`
+* [DateRangePicker](https://github.com/MrMage/DateRangePicker) - Date range picker control for OSX. `macOS`
 * [Newtons-Cradle](https://github.com/bishalg/Newtons-Cradle) - Newtons Cradle - Bearing in Swift using UIDynamicBehavior.
 * [PhysicsCup](https://github.com/jnfisher/PhysicsCup)
 
@@ -753,7 +753,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [ARNZoomImageTransition](https://github.com/xxxAIRINxxx/ARNZoomImageTransition)
-* [BitmapCanvas](https://github.com/nst/BitmapCanvas) - Bitmap offscreen drawing in Swift for OS X. `☓`
+* [BitmapCanvas](https://github.com/nst/BitmapCanvas) - Bitmap offscreen drawing in Swift for OS X. `macOS`
 * [DPImageCache](https://github.com/dphans/DPImageCache) - Swift extension for UIImageView. Help loading image asynchronously and store local file cache.
 * [DPImageGenerator](https://github.com/dwipp/DPImageGenerator) - It's an image generator for default image.
 * [Gifu](https://github.com/kaishin/Gifu) - High-performance animated GIF support for iOS in Swift.
@@ -911,7 +911,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MediumProgressView](https://github.com/pixyzehn/MediumProgressView)
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 * [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) - A customizable SpriteKit particles animation on the border of a view.
-* [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX. `☓`
+* [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX. `macOS`
 * [RSDotsView](https://github.com/Kemcake/RSDotsView)
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - A Swift GUI library for displaying various popups and notifications
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)
@@ -1040,7 +1040,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## Metal
 
 #### 🔸*Swift*
-* [fireworks](https://github.com/kjpgit/fireworks) - Fireworks Graphics Demo (OSX/Metal/Swift). `☓`
+* [fireworks](https://github.com/kjpgit/fireworks) - Fireworks Graphics Demo (OSX/Metal/Swift). `macOS`
 * [Metalbrot](https://github.com/jtbandes/Metalbrot.playground) - An interactive playground showing how to use Metal compute kernels.
 
 ## NavigationBar
@@ -1687,7 +1687,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BugReportKit](https://github.com/rahuljiresal/BugReportKit/tree/master/Example/BugReportKit)
 * [CZWeatherKit](https://github.com/comyarzaheri/CZWeatherKit) - A Simple Cocoa Weather Library.
 * [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper) - Quick tool to explain the right place to enable your privacy settings.
-* [HelperLibrary](https://github.com/rondinellimorais/HelperLibrary) - The HelperLibrary framework is a static library iOs simple that contains all the implementation of the silly and repetitive work you have to do every time you create a new iOS / OSX project. `☓`
+* [HelperLibrary](https://github.com/rondinellimorais/HelperLibrary) - The HelperLibrary framework is a static library iOs simple that contains all the implementation of the silly and repetitive work you have to do every time you create a new iOS / OSX project. `macOS`
 * [MBObjectPoolManager](https://github.com/MBKwon/MBObjectPoolManager) - MBObjectPoolManager is best way to reuse your objects in your project. You can save a memory reusing objects.
 * [ORSSerialPort](https://github.com/armadsen/ORSSerialPort) - Serial port library for Objective-C and Swift OS X apps.
 * [SmileWeather](https://github.com/liu044100/SmileWeather) - A library for Search & Parse the weather data from Wunderground & Openweathermap conveniently.
