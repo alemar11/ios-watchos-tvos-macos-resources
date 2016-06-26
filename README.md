@@ -1569,6 +1569,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [BezierString](https://github.com/lvnyk/BezierString) - Rendering NSAttributedStrings along arbitrary UIBezierPaths.
+* [Down](https://github.com/iwasrobbed/Down) - Blazing fast Markdown rendering in Swift, built upon cmark.
 * [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - add text(multiple line support) to imageView, edit, rotate or resize them as you want, then render the text on image.
 * [Marklight](https://github.com/macteo/Marklight) - Markdown syntax highlighter for iOS.
 * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
@@ -1615,6 +1616,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields)
 * [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating UITableView based form.
 * [LTBouncyPlaceholder](https://github.com/lexrus/LTBouncyPlaceholder)
+* [MPGTextField](https://github.com/gaurvw/MPGTextField) - An autocomplete textfield for iOS which provides suggestions as you type.
 * [ParkedTextField](https://github.com/gmertk/ParkedTextField) - A text field with a constant text/placeholder.
 * [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift. As used in the Skyscanner TravelPro iOS app.
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - Form framework for iOS written in Swift.
@@ -1707,7 +1709,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DCDirectoryWatcher](https://github.com/dcvz/DCDirectoryWatcher) - A lightweight class for monitoring directory changes on iOS.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Diamond](https://github.com/johnno1962/Diamond) - Swift scripting made easy.
-* [Down](https://github.com/iwasrobbed/Down) - Blazing fast Markdown rendering in Swift, built upon cmark.
 * [EnigmaKit](https://github.com/mikaoj/EnigmaKit) - Enigma encryption in Swift.
 * [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes.
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions)
