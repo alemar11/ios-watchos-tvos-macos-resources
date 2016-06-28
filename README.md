@@ -257,6 +257,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect)
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView)
+* [SaveTheDot](https://github.com/JakeLin/SaveTheDot) - A game developed using UIViewPropertyAnimator.
 * [SnowFalling](https://github.com/pixyzehn/SnowFalling) - Snow Falling in Swift.
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
 * [springdamping](https://github.com/mortenjust/springdamping) - Realtime experimentation with duration, spring and damping for UIView animations.
@@ -743,6 +744,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CoverPhotoTwitterExample](https://github.com/vani2/CoverPhotoTwitterExample) - Example of blurred expanding cover photo like twitter app.
 * [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - Core Image Filter explorer.
 * [KVNBoundedImageView](https://github.com/donnellyk/KVNBoundedImageView) - KVNBoundedImageView attempts to keep faces visible and centered in a UIImageView.
+* [LegofySwift](https://github.com/StefanLage/LegofySwift) - Make images look as if they are made out of 1x1 LEGO blocks.
 * [LiveBlend](https://github.com/kevinzhow/LiveBlend)
 * [Masu](https://github.com/midnightSuyama/Masu) - Placeholder
 * [MDIncrementalImageView](https://github.com/mohammedDehairy/MDIncrementalImageView) - UIImageView subclass that loads the image progressively
@@ -1748,6 +1750,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SwiftCop](https://github.com/andresinaka/SwiftCop) - SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.
 * [SwiftDate](https://github.com/malcommac/SwiftDate)
 * [SwiftFilePath](https://github.com/nori0620/SwiftFilePath) - Simple and powerful wrapper for NSFileManager.
+* [SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 * [SwiftyRegex](https://github.com/maxadamski/SwiftyRegex) - Linux compatible regex framework written in Swift.
 * [SwiftShell-Swift2.0](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
 * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases Swift framework for iOS 8.0+ and OSX 9.0+.
