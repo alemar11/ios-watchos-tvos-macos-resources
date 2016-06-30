@@ -60,6 +60,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Color](#color)
 - [Date](#date)
 - [Dynamic Behavior](#dynamic-behavior)
+- [Extension](#extension)
 - [Font](#font)
 - [GameplayKit](#gameplaykit)
 - [Geometry](#geometry)
@@ -697,6 +698,16 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DateRangePicker](https://github.com/MrMage/DateRangePicker) - Date range picker control for OSX. `macOS`
 * [Newtons-Cradle](https://github.com/bishalg/Newtons-Cradle) - Newtons Cradle - Bearing in Swift using UIDynamicBehavior.
 * [PhysicsCup](https://github.com/jnfisher/PhysicsCup)
+
+## Extension
+*swift extensions and utilities*
+
+#### 🔸*Swift*
+* [Cent](https://github.com/ankurp/Cent) - Extensions for Swift Standard Types and Classes.
+* [CwlUtils](https://github.com/mattgallagher/CwlUtils) - A collection of Swift utilities as documented on cocoawithlove.com.
+* [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes.
+* [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - How Swift standard types and classes were supposed to work.
+* [swift-utils](https://github.com/eonist/swift-utils) - Generic swift utilities.
 
 ## Font
 
@@ -1713,7 +1724,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) - Shows your current framerate (fps) in the status bar of your iOS app.
 
 #### 🔸*Swift*
-
 * [AIToolbox](https://github.com/KevinCoble/AIToolbox) - A toolbox of AI modules written in Swift: Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
 * [APTargets](https://github.com/collinhundley/APTargets) - Adding UIControl targets, the right way.
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
@@ -1721,16 +1731,12 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
 * [Caramel](https://github.com/CaramelForSwift/Caramel) - A portable I/O framework for Swift.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
-* [Cent](https://github.com/ankurp/Cent) - Extensions for Swift Standard Types and Classes.
 * [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities.
-* [CwlUtils](https://github.com/mattgallagher/CwlUtils) - A collection of Swift utilities as documented on cocoawithlove.com.
 * [DCDirectoryWatcher](https://github.com/dcvz/DCDirectoryWatcher) - A lightweight class for monitoring directory changes on iOS.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Diamond](https://github.com/johnno1962/Diamond) - Swift scripting made easy.
 * [Dollar](https://github.com/ankurp/Dollar) - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript.
 * [EnigmaKit](https://github.com/mikaoj/EnigmaKit) - Enigma encryption in Swift.
-* [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes.
-* [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions)
 * [FileBrowser](https://github.com/marmelroy/FileBrowser) - Finder-style iOS file browser written in Swift.
 * [FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - A Swift ePub reader and parser framework for iOS.
 * [Format](https://github.com/marmelroy/format) - A Swift 2 formatter kit. Simple formatting syntax for decimal numbers, currency, addresses, ordinal numbers and hexadecimal colors.
@@ -1763,7 +1769,6 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Sugar](https://github.com/hyperoslo/Sugar) - Sugar is a sweetener for your Cocoa implementations.
 * [SwCrypt](https://github.com/soyersoyer/SwCrypt) - RSA public/private key generation, RSA, AES encryption/decryption, SEM encryption in Swift with CommonCrypto in iOS and OS X.
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!.
-* [swift-utils](https://github.com/eonist/swift-utils) - Generic swift utilities.
 * [SwiftCGRectExtensions](https://github.com/nschum/SwiftCGRectExtensions) - A collection of CGRect, CGPoint and CGSize convenience functions for Swift.
 * [SwiftCop](https://github.com/andresinaka/SwiftCop) - SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.
 * [SwiftDate](https://github.com/malcommac/SwiftDate)
