@@ -78,6 +78,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Menu](#menu)
 - [NavigationBar](#navigationbar)
 - [Network](#network)
+- [Outline](#outline)
 - [PageControl](#pagecontrol)
 - [Payment](Payment)
 - [Persistance](#persistance)
@@ -1115,6 +1116,14 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [moa](https://github.com/evgenyneu/moa) - An image download extension of the image view written in Swift for iOS, tvOS and macOS.
 * [Socks](https://github.com/czechboy0/Socks) - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.
 * [SSASwiftReachability](https://github.com/SSA111/SSASwiftReachability) - A Swift Library To Track Network Reachability Changes.
+
+## Outline
+*OutlineView*
+
+#### 🔹*Obj-C*
+* [Custom-OutlineView-Cells](https://github.com/mikestew/Custom-OutlineView-Cells) - Example project for creating custom cells in an NSOutlineView. `macOS`
+* [EDSidebar](https://github.com/erndev/EDSidebar) - Attemp to create a customizable Sidebar like those seen in apps like Sparrow or Twitter. `macOS`
+* [PXSourceList](https://github.com/Perspx/PXSourceList) - Source List control for the Mac. `macOS`
 
 ## PageControl
 
