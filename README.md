@@ -439,6 +439,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BFPaperButton](https://github.com/bfeher/BFPaperButton) - A flat button inspired by Google Material Design's Paper theme.
 * [DKCircleButton](https://github.com/kronik/DKCircleButton) -  Circle button tap effect
 * [DownloadButton](https://github.com/PavelKatunin/DownloadButton)
+* [DYSwitchXDemo](https://github.com/danny-source/DYSwitchXDemo) - DYSwitchX is a iOS UISwitch like for Mac OS X `macOS`
 * [FRDLivelyButton](https://github.com/sebastienwindal/FRDLivelyButton)
 * [GBFlatButton](https://github.com/barbosa/GBFlatButton)
 * [gbkui-button-progress-view](https://github.com/Guidebook/gbkui-button-progress-view) - Inspired by Apple’s download progress buttons in the app store.
@@ -449,6 +450,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [KBRoundedButton](https://github.com/burczyk/KBRoundedButton)
 * [KSMManyOptionsButton](https://github.com/kierajmumick/KSMManyOptionsButton) - This interface is similar to the interface used when the "Voice recording" and "Camera" buttons are pressed and held in iOS 8's message app.
 * [MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton) - An iOS drop-in UITableView, UICollectionView and UIScrollView superclass category for showing a customizable floating button on top of it.
+* [MKBOSXCloseButton](https://github.com/Megatron1000/MKBOSXCloseButton) - An NSButton subclass that looks just like the Yosemite+ native window close button. `macOS`
 * [PicsLikeControl](https://github.com/itouch2/PicsLikeControl)
 * [RMSaveButton](https://github.com/mcduffeyrt/RMSaveButton)
 * [Responsive-Interaction-Control](https://github.com/NghiaTranUIT/Responsive-Interaction-Control)
