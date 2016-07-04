@@ -107,6 +107,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Textfield](#textfield)
 - [Timer](#timer)
 - [Toast Notification](#toast-notification)
+- [Toolbar](#toolbar)
 - [UI Frameworks](ui-frameworks)
 - [Utils](#utils)
 - [Video](#video)
@@ -1730,6 +1731,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - A Swift extension that adds toast notifications to the UIView object class.
 * [Whisper](https://github.com/hyperoslo/Whisper)
+
+## ToolBar
+
+#### 🔹*Obj-C*
+* [KFToolbar](https://github.com/ricobeck/KFToolbar) - A toolbar suitable for NSWindow bottoms. `macOS`
 
 ## UI Frameworks
 
