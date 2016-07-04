@@ -358,6 +358,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AssetPicker](https://github.com/taruntyagi697/AssetPicker)
 * [AUMediaPlayer](https://github.com/appunite/AUMediaPlayer) - AUMediaPlayer is a nice high level API for audio and video playback, both from network stream and local files.
 * [AVAssetResourceLoader](https://github.com/leshkoapps/AVAssetResourceLoader) - A sample iOS application that demonstrates AVAssetResourceLoader fro AVPlayer.
+* [CLColorPicker](https://github.com/sakrist/CLColorPicker) - Color picker for Yosemite. `macOS`
 * [CustomImagePicker](https://github.com/cspnanda/CustomImagePicker)
 * [DLFPhotosPicker](https://github.com/nicnocquee/DLFPhotosPicker)
 * [DRColorPicker](https://github.com/jjxtra/DRColorPicker)
@@ -645,6 +646,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon is a lightweight, yet powerful, flat color framework for iOS (Objective-C & Swift).
 * [ColorArt](https://github.com/panicinc/ColorArt/) - iTunes 11-style color matching code.
 * [DBImageColorPicker](https://github.com/d0ping/DBImageColorPicker) - https://github.com/d0ping/DBImageColorPicker
+* [DFColorWell](https://github.com/danieljfarrell/DFColorWell) - An implementation of the colour well seen in Pages 5, Numbers 3 and Keynote 6 (iWork). `macOS`
 * [DKNightVersion](https://github.com/Draveness/DKNightVersion) - DKNightVersion is a lightweight iOS framework adding night mode/theme to your iOS app.
 * [FPBrandColors](https://github.com/pedrovieira7/FPBrandColors)
 * [ios-material-design](https://github.com/moqod/ios-material-design)
@@ -665,6 +667,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Hue](https://github.com/hyperoslo/Hue) - Hue is the all-in-one coloring utility that you'll ever need. 
 * [MaterialKit](https://github.com/nghialv/MaterialKi.t) - Material design components for iOS written in Swift.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs ANSI escape codes and conforms to ECMA Standard 48.
+* [ProgrammerColorPickerApp](https://github.com/martynchamberlin/ProgrammerColorPickerApp) - Mac OS X desktop application (in Swift) for picking RGB and hexadecimal colors, to be used in Objective-C and Swift applications. `macOS`
 * [ProtocolUI](https://github.com/VojtaStavik/ProtocolUI) - ProtocolUI is a simple helper file providing very basic infrastructure for customizing UI elements via protocol extensions.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
 * [UIImageColors](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
@@ -674,6 +677,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔹*Obj-C*
 * [BKDateAndTimePickerView](https://github.com/bhavya-kothari/BKDate_Time_Year_PickerView)
+* [Calendar-OSX](https://github.com/gyetvan-andras/Calendar-OSX) - Calendar component for OSX inspired by some free iOS alternatives. `macOS`
 * [CLWeeklyCalendarView](https://github.com/clisuper/CLWeeklyCalendarView)
 * [CalendarIOS7](https://github.com/leverdeterre/CalendarIOS7)
 * [DPCalendar](https://github.com/ethan-fang/Calendar)
@@ -900,6 +904,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔹*Obj-C*
 * [AMTumblrHud](https://github.com/Asich/AMTumblrHud)
 * [BLMultiColorLoader](https://github.com/BLPoonia/BLMultiColorLoader) - Multi coloured and customisable loading indicator (loader) for iOS applications.
+* [Circular-Indicator](https://github.com/micoo-li/Circular-Indicator) - Circular Indicator is a simple circulator that fills up a circle as a ring or a full circle. `macOS`
 * [DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView)
 * [ESSSquareProgressIndicator](https://github.com/eternalstorms/ESSSquareProgressIndicator)
 * [FeSpinner](https://github.com/NghiaTranUIT/FeSpinner)
@@ -1396,6 +1401,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔹*Obj-C*
 * [ASValueTrackingSlider](https://github.com/alskipp/ASValueTrackingSlider) - A UISlider subclass that displays the slider value in a popup view.
+* [BezierWidget](https://github.com/corvino/BezierWidget) - An NSView for visualizing Bézier Curves. Built primarily with Core Animation timing curves (CAMediaTimingFunction) in mind. `macOS`
 * [BubbleWindowSlider](https://github.com/ParkGwangBeom/BubbleWindowSlider)
 * [JAMAccurateSlider](https://github.com/jmenter/JAMAccurateSlider) - A more accurate replacement for UISlider.
 * [JMMarkSlider](https://github.com/brightec/JMMarkSlider)
@@ -1403,6 +1409,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MercuryMeter](https://github.com/corvino/MercuryMeter) - A simple UIView that displays a horizontal "thermometer", representing a value using two different colors on a rounded line.
 * [CKSlideView](https://github.com/sunnysideprodcorp/Objective-C_CKSlideView)
 * [ODMSwipeSelector](https://github.com/oscart/ODMSwipeSelector) - A value selector for iOS with a swipe gesture.
+* [TetraSliderCell](https://github.com/Mediajon/TetraSliderCell) - Custom NSSlider Cell. `macOS`
 * [TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) - A slider, similar in style to UISlider, but which allows you to pick a minimum and maximum range.
 
 #### 🔸*Swift*
@@ -1476,8 +1483,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [GGTabBar](https://github.com/Goles/GGTabBar)
 * [GUITabPagerViewController](https://github.com/guilhermearaujo/GUITabPagerViewController)
 * [HTHorizontalSelectionList](https://github.com/hightower/HTHorizontalSelectionList)
+* [ITSidebar](https://github.com/iluuu1994/ITSidebar) - ITSidebar is a control for Mac OS X similar to the one of Sparrow. `macOS`
 * [JCSegmentBarController](https://github.com/lijingcheng/JCSegmentBarController)
 * [JFATabBarController](https://github.com/vermont42/JFATabBarController)
+* [KPCTabsControl](https://github.com/onekiloparsec/KPCTabsControl) - A macOS multi-tabs control with enhanced capabilities. `macOS`
+* [KSTabView](https://github.com/kaunteya/KSTabView) - Simple and lightweight TabView for Mac OSX. `macOS`
 * [LCTabBarController](https://github.com/LeoiOS/LCTabBarController)
 * [LUNTabBarController](https://github.com/LunApps/LUNTabBarController) - UITabBarController subclass designed to add cool floating from the bottom animation with scale effect that adds feeling of 3D to one of your tabs.
 * [NTSlidingViewController](https://github.com/nonstriater/NTSlidingViewController)
@@ -1497,6 +1507,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MHImageTabBar](https://github.com/mho000/MHImageTabBar)
 * [ScrollPager](https://github.com/aryaxt/ScrollPager)
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
+* [SwiftPrefs](https://github.com/emiscience/SwiftPrefs) - A Yosemite-only demo app showing a preferences window using Swift, storyboards and NSTabViewController. `macOS`
 * [TabDrawer](https://github.com/winslowdibona/TabDrawer) - TabDrawer is a customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, or display a customizable drawer.
 
 ## TableView
@@ -1608,7 +1619,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [UITags](https://github.com/gtsif21/UITags)
 
 ## Text
-*NSAttributedStrings, TextKit and UITextView*
+*NSAttributedStrings, TextKit and UITextView, NSTextView*
 
 #### 🔹*Obj-C*
 * [EMString](https://github.com/TanguyAladenise/EMString) -  A simple category on top of NSString using HTML's markup system to abstract the NSAttributedString API.
@@ -1616,6 +1627,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ImgGlyph](https://github.com/dzog/ImgGlyph) - ImgGlyph for iOS is a collection of drop-in replacements for UILabel and UITextView that allow for font-sized in-line images (image glyphs) by auto-replacing specified strings with specified images.
 * [issue-5-textkit](https://github.com/objcio/issue-5-textkit) - A little demo application showing off some features of the new TextKit classes in iOS 7.
 * [LTTextView](https://github.com/EugeneZZI/LTTextView)
+* [NSTextView-LineNumberView](https://github.com/yichizhang/NSTextView-LineNumberView) - Add line numbers to an instance of NSTextView. The line number view is implemented as a subclass of NSRulerView. `macOS`
 * [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - A drop-in UIViewController subclass with a growing text input view and other useful messaging features.
 * [SWCrawlView](https://github.com/MattFoley/SWCrawlView) - Open source repo for interactive Star Wars Crawl View, as close to theatrically accurate as possible.
 * [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) - A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view.
@@ -1660,6 +1672,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MAFormViewController](https://github.com/mamaral/MAFormViewController)
 * [MHTextField](https://github.com/mehfuzh/MHTextField) - UITextField extension with built-in toolbar, validation and scrolling support.
 * [MMTextFieldEffects](https://github.com/mukyasa/MMTextFieldEffects) - Extension of TextFieldEffects with Custom UITextFields effects inspired by Codrops, built using Objective-C.
+* [MPScrollingTextField](https://github.com/zyafa/MPScrollingTextField) - NSTextField subclass with automatic horizontal text scrolling. `macOS`
+* [NFSplitViewController](https://github.com/naftaly/NFSplitViewController) - A simple split view controller for Mac OS X that works. `macOS`
 * [PAYFormBuilder](https://github.com/Eldorado234/PAYFormBuilder)
 * [RDRGrowingTextView](https://github.com/datwelk/RDRGrowingTextView) - Auto Layout backed growing UITextView.
 * [SingleLineInput](https://github.com/diogomaximo/SingleLineInput) - A single line textfield implementation with Float Label Animation.
@@ -1738,6 +1752,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [KFToolbar](https://github.com/ricobeck/KFToolbar) - A toolbar suitable for NSWindow bottoms. `macOS`
 
 ## UI Frameworks
+
+#### 🔹*Obj-C*
+* [ModernLook-OSX](https://github.com/gyetvan-andras/ModernLook-OSX) - OSX Moder Look UI. `macOS`
 
 #### 🔸*Swift*
 * [Material](https://github.com/CosmicMind/Material) - A beautiful graphics framework for Material Design in Swift.
@@ -1863,6 +1880,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MSLiveBlur](https://github.com/mspensieri/MSLiveBlur)
 * [NFXBubblePoolView](https://github.com/noppefoxwolf/NFXBubblePoolView)
 * [NORosettaView](https://github.com/natalia-osa/NORosettaView)
+* [NSView-ESSViewCategory](https://github.com/eternalstorms/NSView-ESSViewCategory) - A category on NSView that simplifies zoom-transitioning between two NSViews. `macOS`
 * [PWParallaxScrollView](https://github.com/wpsteak/PWParallaxScrollView)
 * [SKPanoramaView](https://github.com/sachinkesiraju/SKPanoramaView) - Create beautiful animated panorama views. Inspired by the intro view on the LinkedIn iOS app.
 * [SSUIViewMiniMe](https://github.com/sSegev/SSUIViewMiniMe) - A miniature replica of your UIView with an indicator of your location.
@@ -1904,6 +1922,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ARSlidingPanel](https://github.com/andriirogulin/ARSlidingPanel)
 * [CBHazeTransitionViewController](https://github.com/coolbeet/CBHazeTransitionViewController)
 * [FlexSlidingView](https://github.com/hwiesmann/FlexSlidingView)
+* [JMModalOverlay](https://github.com/kodlian/JMModalOverlay) - Create easily and display an animated modal . `macOS`
 * [JRSplitVC](https://github.com/tommypeps/JRSplitVC) - UISplitViewController with adaptative layouts.
 * [LGSemiModalNavController](https://github.com/lukegeiger/LGSemiModalNavController) - Show a view controller a dynamically set height over another view controller.
 * [MCCardPickerCollectionViewController](https://github.com/yuhua-chen/MCCardPickerCollectionViewController) - A card collection view controller inspired by Facebook People you may know.
@@ -1941,6 +1960,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CBStoreHouseTransition](https://github.com/coolbeet/CBStoreHouseTransition) - A custom transition inspired by Storehouse iOS app, also support pop gesture.
 * [CircleTransition](https://github.com/kukat/CircleTransition)
 * [FGDynamicsTransition](https://github.com/finngaida/FGDynamicsTransition) 
+* [GRPushSegue](https://github.com/insidegui/GRPushSegue) - A custom NSStoryboardSegue to make a nice iOS-like push transition. `macOS`
 * [HYAwesomeTransition](https://github.com/nathanwhy/HYAwesomeTransition)
 * [ICSDrawerController](https://github.com/icecreamstudios/ICSDrawerController)
 * [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition)
@@ -2000,6 +2020,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔹*Obj-C*
 * [ATTutorialController](https://github.com/AfonsoTsukamoto/ATTutorialController) - A tutorial controller ready to use. Uses its own UIWindow.
 * [LNWindowManagerExample](https://github.com/LeoNatan/LNWindowManager) - A window manager that makes working with UIWindow objects easily using an API similar to the UIViewController modal presentation API.
+* [RHPreferences](https://github.com/heardrwt/RHPreferences) - A simple and easy Preferences window controller with multiple tabs for your next Mac application. `macOS`
+* [WAYSourceListWindow](https://github.com/weAreYeah/WAYSourceListWindow) - The WAYSourceListWindow is a NSWindow subclass, which splits the window space vertically into the master view on the left, and the detail view on the right side as known from apps like Reminders or Notes. `macOS`
+
 
 #### 🔸*Swift*
 * [appresizer](https://www.cocoacontrols.com/controls/appresizer) - AppResizer allows you to change the width of the main window, thereby checking if your app renders correctly on all devices.
