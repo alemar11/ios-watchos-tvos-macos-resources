@@ -172,11 +172,14 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ENPopUp](https://github.com/evnaz/ENPopUp)
 * [ExpandAlertView](https://github.com/denty/ExpandAlertView)
 * [GUAAlertView](https://github.com/onlymelon/GUAAlertView)
+* [INPopoverController](https://github.com/indragiek/INPopoverController) - A customizable popover controller for OS X. `macOS`
 * [JDFTooltips](https://github.com/JoeFryer/JDFTooltips)
 * [JTAlertView](https://github.com/kubatru/JTAlertView)
 * [KLCPopup](https://github.com/jmascia/KLCPopup)
 * [Kamagari](https://github.com/tasanobu/Kamagari)
 * [LGAlertView](https://github.com/Friend-LGA/LGAlertView)
+* [LMAlertPopover](https://github.com/lemonmojo/LMAlertPopover) - LMAlertPopover provides a simple API for showing an NSAlert as Popover (NSPopover). `macOS`
+* [LMComboBox](https://github.com/lemonmojo/LMComboBox) - LMComboBox is a subclass of NSComboBox that provides an easy way to access the underlying NSTableViewDelegate, allowing you to make customizations to the drawing of the items in the NSComboBox. `macOS`
 * [MJAlertView](https://github.com/mayuur/MJAlertView)
 * [MMPopupView](https://github.com/adad184/MMPopupView)
 * [MODropAlert](https://github.com/minsOne/MODropAlert)
