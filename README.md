@@ -96,6 +96,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Slider](#slider)
 - [Sprite](#sprite)
 - [Statusbar](#statusbar)
+- [StatusItem](#statusitem)
 - [Stepper](#stepper)
 - [Switch Control](#switch-control)
 - [Tag](#tag)
@@ -1417,6 +1418,16 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SmoothStatusBar](https://github.com/vani2/SmoothStatusBar)
 * [UIViewController-ScrollingStatusBar](https://github.com/Antondomashnev/UIViewController-ScrollingStatusBar) - Category for UIViewController with UIScrollView to scroll statusBar along any UIScrollView subclass.
 
+
+##StatusItem
+
+#### 🔹*Obj-C*
+* [AXStatusItemPopup](https://github.com/aschuch/AXStatusItemPopup) - NSStatusItem that shows a little NSPopover when clicked. `macOS`
+* [CCNStatusItem](https://github.com/phranck/CCNStatusItem) - CCNStatusItem is a subclass of NSObject to act as a custom view for NSStatusItem. It supports a customizable statusItemWindow handling any viewController for presenting the content. `macOS`
+* [RHStatusItemView](https://github.com/heardrwt/RHStatusItemView) - An NSStatusItem hosted view that supports handling both left and right click actions, menus and showing an image / alternateImage pair. `macOS`
+* [RocketBeans.TV-Sendeplan](https://github.com/timoschlueter/RocketBeans.TV-Sendeplan)
+* [StatusBarWindow](https://github.com/wigging/StatusBarWindow) - Make an NSWindow appear from the status bar using an NSStatusItem. `macOS`
+* [YZStatusItemView](https://github.com/yzlin/YZStatusItemView) - Customized view for NSStatusItem with the fix for status bar icon's vertical center issue. `macOS`
 
 ## Stepper
 
