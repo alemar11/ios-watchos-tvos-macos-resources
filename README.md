@@ -76,6 +76,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Map](#map)
 - [Metal](#metal)
 - [Menu](#menu)
+- [Messaging](#messaging)
 - [NavigationBar](#navigationbar)
 - [Network](#network)
 - [Outline](#outline)
@@ -528,6 +529,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [HACBarChart](https://github.com/litoarias/HACBarChart)
 * [JBChartView](https://github.com/Jawbone/JBChartView) - iOS-based charting library for both line and bar graphs.
 * [JTChartView](https://github.com/kubatru/JTChartView)
+* [JYGraphViewController](https://github.com/johnyorke/JYGraphView) - Simple line graph view for iOS.
 * [LGFlapJackStackView](https://github.com/lukegeiger/LGFlapJackStackView)
 * [LMGaugeView](https://github.com/lminhtm/LMGaugeView)
 * [MDRotatingPieChart](https://github.com/maxday/MDRotatingPieChart)
@@ -871,6 +873,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [KBKit](https://github.com/edekhayser/KBKit) - Classes to extend UIKit navigation using key commands.
+* [Keyboardy](https://github.com/podkovyrin/Keyboardy) - UIViewController extension for convenient keyboard management.
 * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
 * [RFCalculatorKeyboard](https://github.com/sprint84/RFCalculatorKeyboard)
 * [TKKeyboardControl](https://github.com/cztatsumi-keisuke/TKKeyboardControl) - TKKeyboardControl adds keyboard awareness and scrolling dismissal (like iMessages app) to any view with only 1 line of code for Swift.
@@ -1074,6 +1077,30 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Summflower](https://github.com/iSame7/Summflower) - Swift implementation to the sexiest sharing icon based on Summly app.
 * [SvpplyTable](https://github.com/liuminqian/SvpplyTable) - Expandable and collapsable Menu, like Svpply.
 * [SwiftySideMenu](https://github.com/hossamghareeb/SwiftySideMenu)
+
+## Messaging
+
+#### 🔹*Obj-C*
+* [BABFrameObservingInputAccessoryView](https://github.com/brynbodayle/BABFrameObservingInputAccessoryView) - A simple view which allows for an iOS Messages style keyboard input view and panning behavior.
+* [BMInitialsPlaceholderView](https://github.com/brianmichel/BMInitialsPlaceholderView) - Circular placeholder view with text similar to iMessage.
+* [CDFInitialsAvatar](https://github.com/totocaster/CDFInitialsAvatar) - Simple to use initials avatar generator for iOS. Highly customizable, but with sane defaults. Works great as a avatar placeholder and such.
+* [ChatMessageTableViewController](https://github.com/RobinChao/ChatMessageTableViewController) - ChatMessageTableViewController is like iMessage app.
+
+* [DBChatAvatarSample](https://github.com/medinaonly/DBChatAvatarSample) - Sample for DBChatAvatarView - a control, which allow you to create group avatar for a chat.
+* [GLGroupChatPicView](https://github.com/RATTLESNAKE-VIPER/GLGroupChatPicView) -
+* [GenericSocialApp - On Boarding](Generic Social App: App for sharing a social board) - Generic Social App: App for sharing a social board.
+* [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - An elegant messages UI library for iOS.
+* [RRMessageController](https://github.com/remirobert/RRMessageController) - RRMessageController is a UIViewController, allows you to write a message with photos as attachment. A messages UI for iPhone. Support text && image. Works with all custom Keyboard for iOS 8.
+* [SOMessaging](https://github.com/SocialObjects-Software/SOMessaging) - Messaging library for iOS 7.
+* [SPHChatCollectionView](https://github.com/sibahota059/SPHChatCollectionView) - SPHChatCollectionView to use in chat screens.
+* [Signal-iOS](https://github.com/WhisperSystems/Signal-iOS) - A private messenger for iOS.
+* [UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) - Cocoa UI component for group or private chat bubbles with text, images and audio support.
+* [whatsapp-ios](https://github.com/rcmcastro/whatsapp-ios) - A simple message UI library similar to WhatsApp app.
+
+#### 🔸*Swift*
+* [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
+* [swift-chat](https://github.com/firebase/ios-swift-chat-example) - FireChat implemented in Swift!.
+
 
 ## Metal
 
@@ -1611,6 +1638,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JCTagListView](https://github.com/lijingcheng/JCTagListView) - Support delete tags and settings tags color.
 * [PARTagPicker](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
 * [RKTagsView](https://github.com/kuler90/RKTagsView) - Highly customizable iOS tags view.
+* [WATokenFieldView](https://github.com/wendyabrantes/WATokenFieldView) - TokenFieldView is used to search and and tag in a text view.
 * [ZFTokenField](https://github.com/zoonooz/ZFTokenField) - iOS custom view that let you add token view inside like NSTokenField.
 
 #### 🔸*Swift*
@@ -1628,11 +1656,13 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [issue-5-textkit](https://github.com/objcio/issue-5-textkit) - A little demo application showing off some features of the new TextKit classes in iOS 7.
 * [LTTextView](https://github.com/EugeneZZI/LTTextView)
 * [NSTextView-LineNumberView](https://github.com/yichizhang/NSTextView-LineNumberView) - Add line numbers to an instance of NSTextView. The line number view is implemented as a subclass of NSRulerView. `macOS`
+* [RDRGrowingTextView](https://github.com/datwelk/RDRGrowingTextView) - Auto Layout backed growing UITextView.
 * [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - A drop-in UIViewController subclass with a growing text input view and other useful messaging features.
 * [SWCrawlView](https://github.com/MattFoley/SWCrawlView) - Open source repo for interactive Star Wars Crawl View, as close to theatrically accurate as possible.
 * [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) - A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view.
 * [VerticallyScrollingStatusView](https://github.com/rahuljiresal/VerticallyScrollingStatusView) - A subclass of UIView that shows vertically scrolling status messages.
 * [Wonderful](https://github.com/dsxNiubility/Wonderful)
+* [WordPress-iOS-Editor-develop](https://github.com/wordpress-mobile/WordPress-Editor-iOS) - A reusable iOS rich text editor component.
 * [WPAttributedMarkup](https://github.com/nigelgrange/WPAttributedMarkup) - Simple utility category that can be used to easily create an attributed string from text with markup tags and a style dictionary.
 * [YALField](https://github.com/Yalantis/YALField) - Custom Field component with validation for creating easier form-like UI from interface builder.
 
@@ -1663,6 +1693,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [GDSMSSplitter](https://github.com/coffellas-cto/GDSMSSplitter) - Objective-C classes designed to split a string into a sequence of short messages close to the international standard of SMS messaging.
 * [GrowingTextViewHandler-objc](https://github.com/hsusmita/GrowingTextViewHandler-objc) - An NSObject subclass to handle resizing of UITextView as the user types in.
 * [IQDropDownTextField](https://github.com/hackiftekhar/IQDropDownTextField) - TextField with DropDown support using UIPickerView.
+* [LGViews](https://github.com/Friend-LGA/LGViews) - Classes extends abilities of UILabel, UIButton, UITextField and UITextView.
 * [JDFCurrencyTextField](https://github.com/JoeFryer/JDFCurrencyTextField)
 * [JMFormDescription](https://github.com/leverdeterre/JMFormDescription)
 * [JOTextField](https://github.com/lojals/JOTextField)
@@ -1998,6 +2029,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
 * [ExpandingViewTransition](https://github.com/tomkowz/ExpandingViewTransition-Demo) - Example of how to create custom view controllers transition.
 * [ISScrollViewPageSwift](https://github.com/Ilhasoft/ISScrollViewPageSwift) ScollView with UIViewController
+* [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - MCMHeaderAnimated allows you to add an animation between list and detail views.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition)
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
 * [QZCircleSegue](https://github.com/alextarrago/QZCircleSegue) -  Beatiful transition between circular-shapped buttons and your View Controller.
