@@ -1302,6 +1302,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BTGlassScrollView](https://github.com/BTLibrary/BTGlassScrollView) - Inspired by Yahoo Weather App, this easy to use view replicates the look and feel.
 * [BTInfiniteScrollView](https://github.com/bteapot/BTInfiniteScrollView)* 
 * [CustomScrollIndicator](https://github.com/leverdeterre/CustomScrollIndicator) - iOS custom ScrollIView indicator.
+* [DARecycledScrollView](https://github.com/daria-kopaliani/DARecycledScrollView) - UIScrollView subclass that reuses its tile views.
 * [DroppyScrollView](https://github.com/cemolcay/DroppyScrollView) - Vertical scroll view with abilty to inserting and removing subviews top or any index with stylish dropping animations.
 * [DRPageScrollView](https://github.com/DavdRoman/DRPageScrollView) - Block-driven paginated scroll view.
 * [EMCarousel](https://github.com/emadrazo/EMCarousel)
@@ -1710,7 +1711,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## Utils
 
 #### 🔹*Obj-C*
-
+* [ACReuseQueue](https://github.com/acoomans/ACReuseQueue) - A queue to keep and reusing objects.
 * [AGGeometryKit](https://github.com/agens-no/AGGeometryKit) - Quadrilaterals on CALayer, CGGeometry-functions, UIView/CALayer properties and other invaluable tools.
 * [AppDevKit](https://github.com/yahoo/AppDevKit) - AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
 * [BugReportKit](https://github.com/rahuljiresal/BugReportKit/tree/master/Example/BugReportKit)
