@@ -70,6 +70,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [JSON](#json)
 - [Keyboard](#keyboard)
 - [Label](#label)
+- [Layout](#layout)
 - [Loader](#loader)
 - [Localization](#localization)
 - [Log](#log)
@@ -625,6 +626,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SACollectionViewVerticalScalingFlowLayout](https://github.com/szk-atmosphere/SACollectionViewVerticalScalingFlowLayout) - UICollectionViewLayout that performs scaling up and down automatically on disappearing cells, and applies UIDynamics.
 * [Sapporo](https://github.com/nghialv/Sapporo) - Cellmodel-driven collectionview manager.
 * [ScaledVisibleCellsCollectionView](https://github.com/ikemai/ScaledVisibleCellsCollectionView) - ScaledVisibleCellsCollectionView is UICollectionView extension. ScaledVisibleCellsCollectionView is Check visible cells position. And setting cell's scale and alpha.
+* [SectionScrubber](https://github.com/bakkenbaeck/SectionScrubber) - A component to quickly scroll between collection view sections.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)
 * [StickyCollectionView](https://github.com/matbeich/StickyCollectionView) - UICollectionView layout for presenting of the overlapping cells.
 * [SwiftyCollectionView](https://github.com/vinit5320/SwiftyCollectionView) - [Tutorial](https://swiftyos.wordpress.com/2015/08/01/animated-wave-transition-collectionview-ckwavecollectionviewtransition/)
@@ -675,7 +677,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [UIImageColors](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
 
 ## Date
-*Date Pickers and Calendars*
+*Date Pickers, TimeLines and Calendars*
 
 #### 🔹*Obj-C*
 * [BKDateAndTimePickerView](https://github.com/bhavya-kothari/BKDate_Time_Year_PickerView)
@@ -698,6 +700,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
 * [EPCalendarPicker](https://github.com/ipraba/EPCalendarPicker) - Colourful calendar for iOS written in Swift.
+* [ISTimeline](https://github.com/instant-solutions/ISTimeline) - Simple timeline view written in Swift 2.2.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final Apple calendar you will ever try. Built for iOS in Swift.
 
 ## Dynamic Behavior
@@ -794,6 +797,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Gifu](https://github.com/kaishin/Gifu) - High-performance animated GIF support for iOS in Swift.
 * [GPUImage2](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
 * [Haneke](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
+* [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - Add text(multiple line support) to imageView, edit, rotate or resize them as you want, then render the text on image.
 * [JWAnimatedImage](https://github.com/wangjwchn/JWAnimatedImage) - A animated GIF engine for iOS in Swift. Optimized for Multi-Image case.
 * [ImageButter](https://github.com/dollarshaveclub/ImageButter) - Makes dealing with images buttery smooth (WebP).
 * [ImageLoaderSwift](https://github.com/hirohisa/ImageLoaderSwift)
@@ -900,6 +904,10 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text will not fit inside the specified frame.
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.
 * [ODMultiColumnLabel](https://github.com/Sephiroth87/ODMultiColumnLabel) - A UILabel replacement that renders text on multiple columns.
+
+## Layout
+#### 🔸*Swift*
+* [LayoutKit](https://github.com/linkedin/LayoutKit) - LayoutKit is a fast view layout library for iOS.
 
 ## Loader
 
@@ -1071,6 +1079,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - MenuItemKit provides image and block(closure) support for UIMenuItem.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A fully customizable and flexible paging menu controller built from other view controllers placed inside a scroll view
 * [Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS) - Animated side menu with customizable UI.
+* [SideMenuController](https://github.com/teodorpatras/SideMenuController) - A side menu controller written in Swift.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure swift.
 * [SliderPanel](https://github.com/sebk/SliderPanel)
 * [SphereMenuSwift](https://github.com/caamorales/SphereMenuSwift)
@@ -1209,6 +1218,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [QueryKit](https://github.com/QueryKit) - A simple CoreData query language for Swift and Objective-C.
 * [Pantry](https://github.com/nickoneill/Pantry) - The missing light persistence layer for Swift.
 * [Palau](https://github.com/symentis/Palau) - NSUserDefaults with Wings!.
+* [Redbird](https://github.com/czechboy0/Redbird) - Pure-Swift Redis client implemented from the original protocol spec. OS X + Linux compatible.
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 * [TypedDefaults](https://github.com/tasanobu/TypedDefaults) - TypedDefaults is a utility library to type-safely use NSUserDefaults.
 * [WACoreDataSpotlight](https://github.com/Wasappli/WACoreDataSpotlight) - Automatically index your CoreData objects to CoreSpotlight on iOS 9.
