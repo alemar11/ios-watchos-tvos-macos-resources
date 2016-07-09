@@ -1655,6 +1655,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view, in Swift.
 * [RRTagController](https://github.com/remirobert/RRTagController) - RRTagController allows user to select tag and create new one.
 * [UITags](https://github.com/gtsif21/UITags)
+* [WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
 
 ## Text
 *NSAttributedStrings, TextKit and UITextView, NSTextView*
@@ -1953,6 +1954,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SVGSpriteView](https://github.com/rondinellimorais/SVGSpriteView) - Subclass of UIView where is possible render SVG Sprites.
 * [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full [tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
+* [VBPiledView](https://github.com/v-braun/VBPiledView) - Simple and beautiful stacked UIView to use as a replacement for an UITableView, UIImageView or as a menu.
 * [VideoThumbView](https://github.com/toygar/VideoThumbView) - Video Thumb ScrollView.
 
 
