@@ -637,6 +637,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔹*Obj-C*
 * [BeanTransitionManager](https://github.com/sfwalsh/BeanTransitionManager) - A Pinterest style segue for expanding UIImageViews into detail views.
+* [CollectionViewCell-Mover-Demo](https://github.com/Darktt/CollectionViewCell-Mover-Demo) - UICollectionView move cell module.
 * [JCBannerView](https://github.com/lijingcheng/JCBannerView)
 * [UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell) - Automatically UICollectionViewCell size calculating.
 
@@ -673,6 +674,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs ANSI escape codes and conforms to ECMA Standard 48.
 * [ProgrammerColorPickerApp](https://github.com/martynchamberlin/ProgrammerColorPickerApp) - Mac OS X desktop application (in Swift) for picking RGB and hexadecimal colors, to be used in Objective-C and Swift applications. `macOS`
 * [ProtocolUI](https://github.com/VojtaStavik/ProtocolUI) - ProtocolUI is a simple helper file providing very basic infrastructure for customizing UI elements via protocol extensions.
+* [RainbowColors](https://github.com/igormatyushkin014/RainbowColors) - Colorful programming in Swift.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
 * [UIImageColors](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
 
@@ -1381,6 +1383,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PHPageScrollView](https://github.com/TaPhuocHai/PHPageScrollView)
 * [SMScrollView](https://github.com/smnh/SMScrollView)
 * [StrechyParallaxScrollView](https://github.com/cemolcay/StrechyParallaxScrollView)
+* [Swiper](https://github.com/gkye/Swiper) - UIView sublass for creating Tinder like swipe cards, with a peek view.
 * [TAPageControl](https://github.com/TanguyAladenise/TAPageControl)
 * [ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableView) - A simple view for building card like interface like Tinder and Potluck.
 * [ZSeatSelector](https://github.com/richzertuche/ZSeatSelector) - Create a cinema seat map Layout.
@@ -1467,7 +1470,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [UIViewController-ScrollingStatusBar](https://github.com/Antondomashnev/UIViewController-ScrollingStatusBar) - Category for UIViewController with UIScrollView to scroll statusBar along any UIScrollView subclass.
 
 
-##StatusItem
+## StatusItem
 
 #### 🔹*Obj-C*
 * [AXStatusItemPopup](https://github.com/aschuch/AXStatusItemPopup) - NSStatusItem that shows a little NSPopover when clicked. `macOS`
@@ -1483,7 +1486,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AYStepperView](https://github.com/yenbekbay/AYStepperView)
 * [CMSteppedProgressBar](https://github.com/Mycose/CMSteppedProgressBar) - Custom view as a progress bar with steps.
 * [Flat-SlideControl](https://github.com/alexey-kubas-appus/Flat-SlideControl)
-
+* [GCXSteppedSlider](https://github.com/grandcentrix/GCXSteppedSlider) - A custom, fully-configurable UISlider implementation with tappable intermediate steps.
+* 
 #### 🔸*Swift*
 * [AHStepperControl](https://github.com/ashh640/AHStepperControl) - A simple stepper control for iOS.
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
@@ -1793,6 +1797,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔹*Obj-C*
 * [KFToolbar](https://github.com/ricobeck/KFToolbar) - A toolbar suitable for NSWindow bottoms. `macOS`
 
+#### 🔸*Swift*
+* [ISHHoverBar](https://github.com/iosphere/ISHHoverBar) - A floating UIToolBar replacement as seen in the iOS10 Maps app, supporting both vertical and horizontal orientation.
+
 ## UI Frameworks
 
 #### 🔹*Obj-C*
@@ -1941,6 +1948,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Blurable](https://github.com/FlexMonkey/Blurable)
 * [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) - Waves of the radar
 * [ColorDebugView](https://github.com/jonhull/ColorDebugView) - Simple NS/UIView which can be used to quickly get a view on the screen when roughing out layouts/animations.
+* [ContactImageView](https://github.com/gkye/ContactImageView) - UIImageView subclass which generates text as the placeholder for an ImageView, supports IBDesignable and code.
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A fancy hexagonal layout for displaying data like your Apple Watch.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
 * [jmcrainbow](https://www.cocoacontrols.com/controls/jmcrainbow)
