@@ -640,7 +640,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔹*Obj-C*
 * [BeanTransitionManager](https://github.com/sfwalsh/BeanTransitionManager) - A Pinterest style segue for expanding UIImageViews into detail views.
 * [CollectionViewCell-Mover-Demo](https://github.com/Darktt/CollectionViewCell-Mover-Demo) - UICollectionView move cell module.
-* [JCBannerView](https://github.com/lijingcheng/JCBannerView)
+* [JCBannerView](https://github.com/lijingcheng/JCBannerView) - A fancy collection style view controller.
+* [JFCardSelectionViewController](https://github.com/atljeremy/JFCardSelectionViewController)
 * [UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell) - Automatically UICollectionViewCell size calculating.
 
 
