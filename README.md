@@ -493,6 +493,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [recordbutton](https://github.com/samuelbeek/recordbutton)
 * [RNLoadingButton](https://github.com/souzainf3/RNLoadingButton-Swift)
 * [SFlatButton](https://github.com/alexmeji/SFlatButton)
+* [SparkButtonDemo](https://github.com/saravananImaginea/SparkButtonDemo) - Demonstrates the SparkButton Animations that reflects the FB's Paper App's Like button animation.
 * [TKAnimatedCheckButton](https://github.com/entotsu/TKAnimatedCheckButton)
 * [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition)
 * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons (in Swift).
@@ -1033,9 +1034,10 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS)
 * [DLWidgetMenu](https://github.com/regexident/DLWidgetMenu) - Versatile solution for displaying widget menus and can easily be extended with custom layouts and/or animations.
 * [DOPDropDownMenu](https://github.com/dopcn/DOPDropDownMenu) - Drop down menu like we see on website for iPhone.
-* [DropMenu](https://github.com/edwinbosire/DropMenu)
+* [DropDown](ttps://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS.
 * [DropdownMenu](https://github.com/nmattisson/DropdownMenu)
 * [DropdownViewDemo](https://github.com/JaCaLla/DropdownViewDemo)
+* [DropMenu](https://github.com/edwinbosire/DropMenu)
 * [DWBubbleMenuButton](https://github.com/dwalker39/DWBubbleMenuButton)
 * [E84PopOutMenu](https://github.com/Element84/E84PopOutMenu)
 * [FancyTabBar](https://github.com/marvelapp/FancyTabBar) - Simple menu button that expands to reveal up to 5 sub-menu options.
@@ -1606,6 +1608,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [NSTableView-Sections](https://github.com/krzyzanowskim/NSTableView-Sections) - NSTableView with sections (similar to UITableView) in Swift. `macOS`
 * [NSTableView-Sorting](https://github.com/bitboutique/NSTableView-Sorting) - Drag Sorting NSTableView rows in Swift. `macOS`
 * [OptionalEmptyTableViews](https://github.com/stuartbreckenridge/OptionalEmptyTableViews)
+* [PBDataTableView](https://github.com/praveenb-ios/PBDataTableView) - DataTable for iPhone and iPad.
 * [QuickRearrangeTableView](https://github.com/okla/QuickRearrangeTableView)
 * [SAStickyHeader](https://github.com/shams-ahmed/SAStickyHeader) - A very simple sticky header with multiple image support via swipe gestures.
 * [Static](https://github.com/venmo/Static) - Simple static table views for iOS in Swift.
