@@ -82,6 +82,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Network](#network)
 - [Outline](#outline)
 - [PageControl](#pagecontrol)
+- [Pager](#pager)
 - [Payment](Payment)
 - [Persistance](#persistance)
 - [PickerView](#pickerview)
@@ -485,6 +486,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JOEmojiableBtn](https://github.com/lojals/JOEmojiableBtn) - Emoji selector like Facebook Reactions.
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton)
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)
+* [LoadingButton](https://github.com/SeptiyanAndika/LoadingButton) - UIButton subclass with an activity indicator and loading text.
 * [MaterialView](https://github.com/karticodes/MaterialView) - Material Floating Button for iOS.
 * [MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - Ring progress view similar to Activity app on Apple Watch.
 * [NPFlipButton](https://github.com/neopixl/NPFlipButton)
@@ -772,6 +774,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RPModalGestureTransition](https://github.com/naoyashiga/RPModalGestureTransition)
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
 * [Sensitive](https://github.com/igormatyushkin014/Sensitive) - Fresh look at work with gestures in Swift.
+* [Signature-Capture](https://github.com/vigneshuvi/iOS-Signature-Capture) - iOS-Signature-Capture is helps to capture the user signature with name and signed date in iOS and supports both Objective-c and Swift languages.
 * [Standard-Template-Protocols](https://github.com/cconeil/Standard-Template-Protocols) - Protocols for your every day iOS needs.
 * [Tactile](https://github.com/delba/Tactile) - The Swift way to add UIGestureRecognizer and to react to UIControlEvents.
 
@@ -1186,6 +1189,12 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [GBPageControl](https://github.com/jhurt/GBPageControl) - A page control for SpriteKit based games written in Swift.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram).
+
+## Pager
+*viewpager*
+
+#### 🔸*Swift*
+* [ViewPager](https://github.com/SeptiyanAndika/ViewPager---Swift) - Simple View Pager library for Swift.
 
 ## Payment
 
@@ -1603,6 +1612,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AccordionTableViewController](https://github.com/klevison/KMAccordionTableViewController) - Accordion UITableViewController component based on Apples's example.
 * [COBezierTableView](https://github.com/knutigro/COBezierTableView) - UITableView modification written in Swift where cells are scrolling in an arc defined by a BezierPath.
 * [ConfigurableTableViewController](https://github.com/fastred/ConfigurableTableViewController) - Typed, yet Flexible Table View Controller.
+* [EssentialTableView](https://github.com/sohamb1390/EssentialTableView) - A detailed project on UITableView which includes Parallax effects, Collapse/Expand UITableViewCell, 3D Touch on UITableViewCell.
 * [FileCards](https://github.com/etrep/FileCards_Swift) - A complete and modern OS X 10.10 Swift rewrite of Apple's FileCards example. `macOS`
 * [ios-swift-collapsible-table-section](https://github.com/jeantimex/ios-swift-collapsible-table-section) - A simple iOS swift project demonstrates how to implement collapsible table section.
 * [MBTwitterScroll](https://github.com/starchand/MBTwitterScroll) - Recreate Twitter's profile page scrolling animation for UITableView and UIScrollViews.
@@ -1728,8 +1738,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PAYFormBuilder](https://github.com/Eldorado234/PAYFormBuilder)
 * [RDRGrowingTextView](https://github.com/datwelk/RDRGrowingTextView) - Auto Layout backed growing UITextView.
 * [SingleLineInput](https://github.com/diogomaximo/SingleLineInput) - A single line textfield implementation with Float Label Animation.
+* [SMFloatingLabelTextField](https://github.com/AzimoLabs/SMFloatingLabelTextField)
 * [TSCurrencyTextField](https://github.com/TomSwift/TSCurrencyTextField) - UITextField subclass for ATM-style currency input.
-* [TextFieldValidator](https://github.com/dhawaldawar/TextFieldValidator)
+* [TextFieldValidator](https://github.com/dhawaldawar/TextFieldValidator) - A subclass of UITextField that displays floating placeholder.
 * [validateIt](https://github.com/arpi6/validateIt) - Validation Library for IOS apps.
 
 #### 🔸*Swift*
@@ -1788,6 +1799,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)
 * [DPNotify](https://github.com/dphans/DPNotify) - DPNotify used to send short notifications on screen simple & quickly for iOS developing using Swift.
 * [Dodo](https://github.com/exchangegroup/Dodo)
+* [EVWDropDownNotification](https://github.com/cre8it/EVWDropDownNotification)
 * [Hermes](https://github.com/Imgur/Hermes)
 * [iOSNotificationBanner](https://github.com/loconsolutions/iOSNotificationBanner)
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
@@ -1954,6 +1966,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) - Waves of the radar
 * [ColorDebugView](https://github.com/jonhull/ColorDebugView) - Simple NS/UIView which can be used to quickly get a view on the screen when roughing out layouts/animations.
 * [ContactImageView](https://github.com/gkye/ContactImageView) - UIImageView subclass which generates text as the placeholder for an ImageView, supports IBDesignable and code.
+* [DottedLineView](https://github.com/STAR-ZERO/DottedLineView) - Draw horizontal or vertical dotted line for iOS.
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A fancy hexagonal layout for displaying data like your Apple Watch.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
 * [jmcrainbow](https://www.cocoacontrols.com/controls/jmcrainbow)
@@ -2020,6 +2033,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [GRPushSegue](https://github.com/insidegui/GRPushSegue) - A custom NSStoryboardSegue to make a nice iOS-like push transition. `macOS`
 * [HYAwesomeTransition](https://github.com/nathanwhy/HYAwesomeTransition)
 * [ICSDrawerController](https://github.com/icecreamstudios/ICSDrawerController)
+* [ISHPullUp](https://github.com/iosphere/ISHPullUp) - Vertical split view controller with pull up gesture as seen in the iOS 10 Maps app.
 * [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition)
 * [JVTransitionAnimator](https://github.com/JV17/JVTransitionAnimator)
 * [LHMaterialDesign](https://github.com/leostc/LHMaterialDesign)
