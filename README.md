@@ -168,6 +168,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AMPopTip](https://github.com/andreamazz/AMPopTip)
 * [BTBalloon](https://github.com/brightec/BTBalloon)
 * [btSimplePopUp](https://github.com/balram3429/btSimplePopUp)
+* [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) - Display and customise alerts and action sheets on iPad and iPhone.
 * [CNPPopupController](https://github.com/carsonperrotti/CNPPopupController)
 * [CT_PopOutMenu_Demo](https://github.com/ckpiggy/CT_PopOutMenu_Demo)
 * [CXCardView](https://github.com/ChrisXu1221/CXCardView)
@@ -208,6 +209,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope)
 * [PMAlertController](https://github.com/Codeido/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
 * [Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift.
+* [PopupDialog](https://github.com/Orderella/PopupDialog) - A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertControllers alert style.
 * [Presentr](https://github.com/IcaliaLabs/Presentr) - Wrapper for custom ViewController presentations in iOS 8+.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your iOS app is available, and prompt them with the App Store link.
@@ -252,6 +254,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [15 Days of Animations in Swift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - A project to learn animations.
 * [Advance](https://github.com/storehouse/Advance) - A powerful animation framework for iOS.
 * [AnimateBlurRadius](https://github.com/fichek/AnimateBlurRadius) - An example of how to interactively animate blur radius on iOS 10.
+* [DCExplosion](https://github.com/Tangdixi/DCExplosion)
 * [DoneHud](https://github.com/beryu/DoneHUD) - Done animation on HUD.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A UIKit custom transition that simulates an elastic drag.
@@ -451,6 +454,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BFPaperButton](https://github.com/bfeher/BFPaperButton) - A flat button inspired by Google Material Design's Paper theme.
 * [DKCircleButton](https://github.com/kronik/DKCircleButton) -  Circle button tap effect
 * [DownloadButton](https://github.com/PavelKatunin/DownloadButton)
+* [DRAuraButton](https://github.com/DeRunco/DRAuraButton) - A UIKit component featuring a UIButton surrounded by a circle. Originally created to CABasicAnimation experiment.
 * [DYSwitchXDemo](https://github.com/danny-source/DYSwitchXDemo) - DYSwitchX is a iOS UISwitch like for Mac OS X `macOS`
 * [FRDLivelyButton](https://github.com/sebastienwindal/FRDLivelyButton)
 * [GBFlatButton](https://github.com/barbosa/GBFlatButton)
@@ -504,6 +508,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 *AVFoundation and CIFaceFeature implementations*
 
 #### 🔹*Obj-C*
+* [camera-app-template](https://github.com/ShadeApps/camera-app-template) - Sample camera app template with dedicated tutorial UI & all the necessary utilities to start your next iOS camera project for iPhone or iPad.
 * [CFMagicEventsDemo](https://github.com/zuckerbreizh/CFMagicEventsDemo)
 * [CLFaceDetectionImagePicker](https://github.com/clisuper/CLFaceDetectionImagePicker) - Live face detection
 * [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera)
@@ -517,6 +522,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Smile-Detector-CameraViewController](https://github.com/MaximAlien/Smile-Detector-CameraViewController)
 
 #### 🔸*Swift*
+* [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner.
 * [CameraManager](https://github.com/imaginary-cloud/CameraManager) - Simple Swift class to provide all the configurations you need to create custom camera view in your app.
 * [SwiftMustaches](https://github.com/elpassion/SwiftMustaches)
 * [TGLAugmentedRealityView](https://github.com/gleue/TGLAugmentedRealityView) - Augmented Reality made easy -- place overlays on a camera preview and adjust their position depending on device attitude.
@@ -635,6 +641,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [StickyCollectionView](https://github.com/matbeich/StickyCollectionView) - UICollectionView layout for presenting of the overlapping cells.
 * [SwiftyCollectionView](https://github.com/vinit5320/SwiftyCollectionView) - [Tutorial](https://swiftyos.wordpress.com/2015/08/01/animated-wave-transition-collectionview-ckwavecollectionviewtransition/)
 * [TabbedCollectionView](https://github.com/sprint84/TabbedCollectionView) - Multi-page collection view with tab categories.
+* [UPCarouselFlowLayout](https://github.com/ink-spot/UPCarouselFlowLayout) - A fancy carousel flow layout for UICollectionView on iOS.
 * [ZLBalancedFlowLayout](https://github.com/zhxnlai/ZLBalancedFlowLayout) - A UICollectionViewFlowLayout subclass that scales items to take up space, optimized for large item set.
 
 ## CollectionViewCell
@@ -709,6 +716,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [EPCalendarPicker](https://github.com/ipraba/EPCalendarPicker) - Colourful calendar for iOS written in Swift.
 * [ISTimeline](https://github.com/instant-solutions/ISTimeline) - Simple timeline view written in Swift 2.2.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final Apple calendar you will ever try. Built for iOS in Swift.
+* [MIDatePicker](https://github.com/MarioIannotta/MIDatePicker) - A lightweight, non-invasive, fully customizable DatePicker.
 
 ## Dynamic Behavior
 
@@ -1057,7 +1065,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MCSFishEye](https://github.com/macoscope/MCSFishEye) - The dock-like control for iOS.
 * [MISDropdownViewController](https://github.com/maicki/MISDropdownViewController)
 * [MLPresentController](https://github.com/molon/MLPresentController)
-* [NGSplitMenuController](https://github.com/nitingeorge227/NGSplitMenuController) - Menu Driven Split view controller
+* [NGSplitMenuController](https://github.com/nitingeorge227/NGSplitMenuController) - Menu Driven Split view controller.
+* [MKDropdownMenu](https://github.com/maxkonovalov/MKDropdownMenu) - Dropdown Menu for iOS with many customizable parameters to suit any needs.
 * [NOCircleSelector](https://github.com/natalia-osa/NOCircleSelector)
 * [OECentreMenu](https://github.com/oduwa/OECentreMenu) - A simple drag and drop solution for an animated menu in the centre of the screen.
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) - Pop animation menu
@@ -1091,6 +1100,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SideMenuController](https://github.com/teodorpatras/SideMenuController) - A side menu controller written in Swift.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure swift.
 * [SliderPanel](https://github.com/sebk/SliderPanel)
+* [SwiflyOverlay](https://github.com/edwinbosire/SwiflyOverlay) - Another Navigation component for iOS. This time written in swift.
 * [SphereMenuSwift](https://github.com/caamorales/SphereMenuSwift)
 * [Summflower](https://github.com/iSame7/Summflower) - Swift implementation to the sexiest sharing icon based on Summly app.
 * [SvpplyTable](https://github.com/liuminqian/SvpplyTable) - Expandable and collapsable Menu, like Svpply.
@@ -1426,6 +1436,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - BetterSegmentedControl is an easy to use, customizable replacement for UISegmentedControl and UISwitch written in Swift.
+* [DPSegmentedControl](https://github.com/dwipp/DPSegmentedControl) - Segmented control with image and title.
 * [NPSegmentedControl](https://github.com/neopixl/NPSegmentedControl)
 
 ## Server side
@@ -1505,6 +1516,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AHStepperControl](https://github.com/ashh640/AHStepperControl) - A simple stepper control for iOS.
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 * [KWStepper](https://github.com/kyleweiner/KWStepper) - A stepper control with flexible UI and tailored UX.
+* [MultiStepSlider](https://github.com/hsusmita/MultiStepSlider) - A custom UIControl which functions like UISlider where you can set multiple intervals with different step values for each interval.
 * [SnappingStepper](https://github.com/yannickl/SnappingStepper) - An elegant alternative to the UIStepper written in Swift.
 * [StepSlider](https://github.com/spromicky/StepSlider)
 
@@ -1652,6 +1664,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [ExpandableTableView](https://github.com/rondinellimorais/ExpandableTableView)  * [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - Expanding table view cells using `UIStackView in iOS 9.
 * [folding-cell](https://github.com/Ramotion/folding-cell)
+* [inbox-replica](https://github.com/RabbitMC/inbox-replica) - Recreated the expanding cells effect from `Inbox` by Google in Swift.
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - Animation between list and detail views.
 * [SBGestureTableView](https://github.com/Stickbuilt/SBGestureTableView) - Swift UITableView subclass that supports swiping rows ala Mailbox and long press to move rows.
 * [WobbleView](https://github.com/inFullMobile/WobbleView) -  Wobble effect.
@@ -1697,6 +1710,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [YALField](https://github.com/Yalantis/YALField) - Custom Field component with validation for creating easier form-like UI from interface builder.
 
 #### 🔸*Swift*
+* [AOR](https://github.com/xxxAIRINxxx/AOR) - Wrapper of NSAttributedString and Text Kit. written in Swift.
 * [BezierString](https://github.com/lvnyk/BezierString) - Rendering NSAttributedStrings along arbitrary UIBezierPaths.
 * [Down](https://github.com/iwasrobbed/Down) - Blazing fast Markdown rendering in Swift, built upon cmark.
 * [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - add text(multiple line support) to imageView, edit, rotate or resize them as you want, then render the text on image.
@@ -1802,6 +1816,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [EVWDropDownNotification](https://github.com/cre8it/EVWDropDownNotification)
 * [Hermes](https://github.com/Imgur/Hermes)
 * [iOSNotificationBanner](https://github.com/loconsolutions/iOSNotificationBanner)
+* [KRAlertController](https://github.com/krimpedance/KRAlertController) - A colored alert view for your iOS.
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
 * [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
 * [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
@@ -1857,6 +1872,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Dollar](https://github.com/ankurp/Dollar) - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript.
 * [EnigmaKit](https://github.com/mikaoj/EnigmaKit) - Enigma encryption in Swift.
 * [FileBrowser](https://github.com/marmelroy/FileBrowser) - Finder-style iOS file browser written in Swift.
+* [FileKit](https://github.com/Dschee/FileKit) - Simple and expressive file management in Swift.
 * [FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - A Swift ePub reader and parser framework for iOS.
 * [Format](https://github.com/marmelroy/format) - A Swift 2 formatter kit. Simple formatting syntax for decimal numbers, currency, addresses, ordinal numbers and hexadecimal colors.
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift that makes your life easier.
@@ -1913,6 +1929,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔹*Obj-C*
 * [Eleven](https://github.com/coderyi/Eleven) - Eleven Player is a simple powerful video. player.use ffmpeg.
+* [MD360Player4iOS](https://github.com/ashqal/MD360Player4iOS) - It is a lite library to render 360 degree panorama video for iOS. VR Player.
 * [VideoCover](https://github.com/bichenkk/VideoCover-iOS-Demo) - A video background example for iOS.
 
 #### 🔸*Swift*
@@ -1940,6 +1957,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [JZStackedView](https://github.com/zammitjames/JZStackedView)
 * [LazyFadeInView](https://github.com/itouch2/LazyFadeInView)
 * [LCBannerView](https://github.com/LeoiOS/LCBannerView) - A very popular and highly customized banner view.
+* [MELDynamicCropView](https://github.com/Leveton/MELDynamicCropView) - UIView subclass for cropping photos.
 * [M2DRibbonView](https://github.com/0x0c/M2DRibbonView) - Ribbon shape view
 * [MABCardsView](https://github.com/muhammadbassio/MABCardsView)
 * [MMPulseView](https://github.com/adad184/MMPulseView) - A simple view to show circle pulse repeatly.
