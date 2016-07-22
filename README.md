@@ -198,6 +198,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ZHPopupView](https://github.com/zhhlmr/ZHPopupView) - A simple iOS Pop up View to display alert or dialog.
 
 #### 🔸*Swift*
+* [App-Rating-Alert](https://github.com/pablojotaguardiola/App-Rating-Alert) - Show an alert to rate your APP.
 * [BMInputBox](https://github.com/blackmirror-media/BMInputBox)
 * [DCAlertController](https://github.com/noppefoxwolf/DCAlertController)
 * [DOAlertController](https://github.com/okmr-d/DOAlertController)
@@ -254,6 +255,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [15 Days of Animations in Swift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - A project to learn animations.
 * [Advance](https://github.com/storehouse/Advance) - A powerful animation framework for iOS.
 * [AnimateBlurRadius](https://github.com/fichek/AnimateBlurRadius) - An example of how to interactively animate blur radius on iOS 10.
+* [ATScrollingNumbers](https://github.com/anooptomar1/ATScrollingNumbers) - Scrolling number control with circular progress.
 * [DCExplosion](https://github.com/Tangdixi/DCExplosion)
 * [DoneHud](https://github.com/beryu/DoneHUD) - Done animation on HUD.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
@@ -305,6 +307,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - This repository contains an example Highstreet WatchKit app. ⌚️
 * [iCopyPasta](https://github.com/alltheflow/iCopyPasta) - iOS app for your pasteboard feed, demo app for experimenting with RxSwift.
 * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) - JBWatchActivityIndicator - An easy way to generate activity indicator images for Apple Watch. ⌚️
+* [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 * [Minamo](https://github.com/yukiasai/Minamo) - Simple coach mark library written in Swift.
 * [NKWatchActivityIndicator](https://github.com/NilStack/NKWatchActivityIndicator) - An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2. ⌚️
 * [OneHourWalker](https://github.com/appcoda/OneHourWalker) - HealthKit demo app.
@@ -413,6 +416,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ZLMusicFlowWaveView](https://github.com/zhxnlai/ZLMusicFlowWaveView)
 
 #### 🔸*Swift*
+* [AudioEqualizer](https://github.com/kiran5232/AudioEqualizer) - AudioEqualizer in swift.
 * [AudioKit](https://github.com/audiokit/AudioKit) - Open-source audio synthesis, processing, & analysis platform.
 * [Jukebox](https://github.com/teodorpatras/Jukebox) - Player for streaming local and remote audio files. Written in Swift.
 * [TempiBeatDetection](https://github.com/jscalo/TempiBeatDetection) - Swift library that performs real-time or static beat detection on audio.
@@ -596,6 +600,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [HTKDragAndDropCollectionViewLayout](https://github.com/henrytkirk/HTKDragAndDropCollectionViewLayout) UICollectionViewLayout subclass that works together with a custom UICollectionViewCell to provide drag and drop for a UICollectionView.
 * [HorizontalScrollCell](https://github.com/mcelayir/HorizontalScrollCell)
 * [JCCollectionViewWaterfallLayout](https://github.com/lijingcheng/JCCollectionViewWaterfallLayout) - Support multiple section, and can add headerView and footerView.
+* [JMCFlexibleLayout](https://github.com/izotx/JMCFlexibleLayout) - Self-sizable Collection View.
 * [JGTransitionCollectionView](https://github.com/JayGajjar/JGTransitionCollectionView)
 * [MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts) - An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.
 * [MJParallaxCollectionView](https://github.com/mayuur/MJParallaxCollectionView)
@@ -622,6 +627,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ZOZolaZoomTransition](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition) - Zoom transition that animates the entire view heirarchy. Used extensively in the Zola iOS application.
 
 #### 🔸*Swift*
+* [ADMozaicCollectionViewLayout](https://github.com/Antondomashnev/ADMozaicCollectionViewLayout) - ADMozaicCollectionViewLayout is yet another UICollectionViewLayout subclass that implements "brick" or "mozaic" layout.
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
 * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts.
@@ -667,6 +673,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DKNightVersion](https://github.com/Draveness/DKNightVersion) - DKNightVersion is a lightweight iOS framework adding night mode/theme to your iOS app.
 * [FPBrandColors](https://github.com/pedrovieira7/FPBrandColors)
 * [ios-material-design](https://github.com/moqod/ios-material-design)
+* [MaterialDesignColorObjC](https://github.com/tichise/MaterialDesignColorObjC) - Color library for Objective C. Currently supports GoogleMaterialDesignColor.
 * [MSColorPicker](https://github.com/sgl0v/MSColorPicker)
 * [Rainbow](https://github.com/sickill/rainbow) - Rainbow is a ruby gem for colorizing printed text on ANSI terminals.
 * [UIColor-FlatColors](https://github.com/mokagio/UIColor-FlatColors)
@@ -927,7 +934,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ## Loader
 
-*Loaders and Activity Indicators*
+*Loaders, HUDs and Activity Indicators*
 #### 🔹*Obj-C*
 * [AMTumblrHud](https://github.com/Asich/AMTumblrHud)
 * [BLMultiColorLoader](https://github.com/BLPoonia/BLMultiColorLoader) - Multi coloured and customisable loading indicator (loader) for iOS applications.
@@ -939,6 +946,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [GiFHUD](https://github.com/cemolcay/GiFHUD)
 * [IMGActivityIndicator](https://github.com/DrJid/IMGActivityIndicator)
 * [IoGMarquee](https://github.com/ecrichlow/IoGMarquee) - A scrolling, repeating text display.
+* [JHUD](https://github.com/jinxiansen/JHUD) - https://github.com/jinxiansen/JHUD.
 * [JTMaterialSpinner](https://github.com/jonathantribouharet/JTMaterialSpinner)
 * [JTProgressHUD](https://github.com/kubatru/JTProgressHUD)
 * [KIProgressView](https://github.com/kaiinui/KIProgressView)
@@ -947,6 +955,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [LLARingSpinnerView](https://github.com/lipka/LLARingSpinnerView)
 * [MFLFoldingClock](https://github.com/MattFoley/MFLTransformingDigits) - This is a highly complex animation library for showing numbers changing, be it a countdown, a clock, or a scoreboard. It now allows for any size frame with special affine transforms.
 * [MGFinderView](https://github.com/matteogobbi/MGFinderView)
+* [MKSHorizontalLineProgressView](https://github.com/kamarshad/MKSHorizontalLineProgressView) - It is a subclass of UIView and provides you horizontal progress line view with filled percentage value.
 * [MMMaterialDesignSpinner](https://github.com/misterwell/MMMaterialDesignSpinner)
 * [MZLoading](https://github.com/SergheiMazur/MZLoading)
 * [PQFCustomLoaders](https://github.com/poolqf/PQFCustomLoaders)
@@ -964,6 +973,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [CircleSlider](https://github.com/shushutochako/CircleSlider)
+* [DPBasicLoading](https://github.com/dwipp/DPBasicLoading) - It's a very basic loading in iOS.
 * [DTIActivityIndicatorView-Swift](https://github.com/dtissera/DTIActivityIndicatorView-Swift)
 * [FliudLoadingIndicator](https://github.com/vinit5320/FliudLoadingIndicator)
 * [KOActivityIndicator](https://github.com/kohtenko/KOActivityIndicator)
@@ -1086,7 +1096,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title.
 * [circle-menu)](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant menu with a circular layout.
 * [DropDown](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS.
-* [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu)
+* [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - A lightweight flyover side menu component for iOS with the UIDynamic's bouncing animation, UIGestures and UIBlurEffect. 
 * [FlowingMenu](https://github.com/YannickL/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects in Swift.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
 * [Hamburger-DropMenu](https://github.com/vinit5320/Hamburger-DropMenu)
@@ -1280,6 +1290,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RJImageLoader](https://github.com/rounak/RJImageLoader)
 * [SGNavigationProgress](https://github.com/sgryschuk/SGNavigationProgress) - A category for showing a Messages like progress view on a UINavigationBar.
 * [SuProgress](https://github.com/MobileMakersAcademy/SuProgress) - iOS-7-Safari-style progress bar under the UINavigationBar for your app.
+* [TTCountryFlagLabel](https://github.com/dhiraj/TTCountryFlagLabel) - Simple UILabel subclass that displays a country emoji flag instead of the provided 2 letter ISO_3166-1_alpha-2 NSString.
 * [TWRProgressView](https://github.com/chasseurmic/TWRProgressView)
 * [TYMActivityIndicatorView](https://github.com/yimingtang/TYMActivityIndicatorView)
 * [TYMProgressBarView](https://github.com/yimingtang/TYMProgressBarView)
@@ -1394,6 +1405,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MBXPageViewController](https://github.com/Moblox/MBXPageViewController) - A library that allows to have a UIPageController with control buttons.
 * [JT3DScrollView](https://github.com/jonathantribouharet/JT3DScrollView) - ScrollView with custom effects during the scroll for iOS.
 * [JTNumberScrollAnimatedView](https://github.com/jonathantribouharet/JTNumberScrollAnimatedView) - Use JTNumberScrollAnimatedView for have a nice animation for display number.
+* [KBCScrollView](https://github.com/kostyabl/KBCScrollView) - UIView slider / carousel.
 * [KVNMaskedPageControl](https://github.com/donnellyk/KVNMaskedPageControl) - A drop-in replacement for UIPageControl that allows seamless transition between different dot styles, one for each page, using a masking effect.
 * [LGSublimationView](https://github.com/lukegeiger/LGSublimationView)
 * [LTInfiniteScrollView](https://github.com/ltebean/LTInfiniteScrollView) - An infinite scrollview allowing easily applying animation.
@@ -1668,6 +1680,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - Animation between list and detail views.
 * [SBGestureTableView](https://github.com/Stickbuilt/SBGestureTableView) - Swift UITableView subclass that supports swiping rows ala Mailbox and long press to move rows.
 * [WobbleView](https://github.com/inFullMobile/WobbleView) -  Wobble effect.
+* [VPAccordionAnimation](https://github.com/varunpm1/VPAccordionAnimation) - Accordion Animation for UITableView cell expansion and collapsing.
 
 ## Tag
 *tags and tokens*
@@ -1914,6 +1927,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SwiftShell-Swift2.0](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
 * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases Swift framework for iOS 8.0+ and OSX 9.0+.
 * [SwiftString](https://github.com/amayne/SwiftString) - SwiftString is a lightweight string extension for Swift.
+* [SwiftyConfiguration](https://github.com/ykyouhei/SwiftyConfiguration) - Modern Swift API for Plist.
 * [SwiftySwift](https://github.com/adeca/SwiftySwift) - Collection of useful extensions for Swift types and Cocoa objects.
 * [Swiftz](https://github.com/typelift/swiftz) - Functional programming in Swift.
 * [Transporter](https://github.com/DenHeadless/Transporter) - Transporter is a modern finite-state machine implemented in pure Swift.* [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
@@ -1928,6 +1942,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 ## Video
 
 #### 🔹*Obj-C*
+* [HcdCachePlayer](https://github.com/Jvaeyhcd/HcdCachePlayer) - A video player with cache.
 * [Eleven](https://github.com/coderyi/Eleven) - Eleven Player is a simple powerful video. player.use ffmpeg.
 * [MD360Player4iOS](https://github.com/ashqal/MD360Player4iOS) - It is a lite library to render 360 degree panorama video for iOS. VR Player.
 * [VideoCover](https://github.com/bichenkk/VideoCover-iOS-Demo) - A video background example for iOS.
@@ -1978,6 +1993,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [AbstractView](https://github.com/nuudles/AbstractView) - A simple UIView subclass that you can use as a background view.
+* [ASCustomBannerView](https://github.com/aroldanm/ASCustomBannerView) - This is a banner with similar style to the app store.
 * [AHKBendableView](https://github.com/fastred/AHKBendableView) - UIView subclass that bends its edges when its position change is animated
 * [AvatarView](https://github.com/chrene/AvatarView/)
 * [Blurable](https://github.com/FlexMonkey/Blurable)
@@ -1987,6 +2003,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DottedLineView](https://github.com/STAR-ZERO/DottedLineView) - Draw horizontal or vertical dotted line for iOS.
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A fancy hexagonal layout for displaying data like your Apple Watch.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
+* [NightView](https://github.com/Boris-Em/NightView) - Dazzling Nights on iOS.
 * [jmcrainbow](https://www.cocoacontrols.com/controls/jmcrainbow)
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
