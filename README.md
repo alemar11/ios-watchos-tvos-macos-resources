@@ -1574,10 +1574,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RKTabView](https://github.com/RafaelKayumov/RKTabView)
 * [SWGradientTabBar](https://github.com/satheeshwaran/SWGradientTabBar)
 * [VMTabbarCustomize](https://github.com/VuMai/VMTabbarCustomize)
-* [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)
 * [ZRScrollableTabBar](https://github.com/raihan/ZRScrollableTabBar)
-* [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar/tree/RAMAnimatedTabBarDemo)
-* [scrollableTabbar](https://github.com/valitovaza/scrollableTabbar)
 
 #### 🔸*Swift*
 * [Animated-Tab-Bar](https://github.com/Ramotion/animated-tab-bar)
@@ -1585,9 +1582,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 * [MHImageTabBar](https://github.com/mho000/MHImageTabBar)
 * [ScrollPager](https://github.com/aryaxt/ScrollPager)
+* [Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control written in Swift.
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
 * [SwiftPrefs](https://github.com/emiscience/SwiftPrefs) - A Yosemite-only demo app showing a preferences window using Swift, storyboards and NSTabViewController. `macOS`
 * [TabDrawer](https://github.com/winslowdibona/TabDrawer) - TabDrawer is a customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, or display a customizable drawer.
+* [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 
 ## TableView
 
