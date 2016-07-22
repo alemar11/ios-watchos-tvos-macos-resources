@@ -975,6 +975,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CircleSlider](https://github.com/shushutochako/CircleSlider)
 * [DPBasicLoading](https://github.com/dwipp/DPBasicLoading) - It's a very basic loading in iOS.
 * [DTIActivityIndicatorView-Swift](https://github.com/dtissera/DTIActivityIndicatorView-Swift)
+* [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit.
 * [FliudLoadingIndicator](https://github.com/vinit5320/FliudLoadingIndicator)
 * [KOActivityIndicator](https://github.com/kohtenko/KOActivityIndicator)
 * [Loader](https://github.com/samhann/Loader.swift) - This library allows you to easily add an FB style animated loading placeholder to your tableviews or collection views.
