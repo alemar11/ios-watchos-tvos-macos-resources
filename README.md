@@ -312,6 +312,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [NKWatchActivityIndicator](https://github.com/NilStack/NKWatchActivityIndicator) - An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2. ⌚️
 * [OneHourWalker](https://github.com/appcoda/OneHourWalker) - HealthKit demo app.
 * [OpenSim](https://github.com/luosheng/OpenSim) - OpenSim is an open source alternative for SimPholders, written in Swift.
+* [PostManager](https://github.com/TomekB/PostManager) - iOS Swift + Node.js app to manage and schedule twitter posts (like buffer).
 * [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan) - Open Source Weather App created with Swift.
 * [ReviewTime](https://github.com/nthegedus/ReviewTime) - Review Time is an open source app for iOS written in Swift that show the average review times for iOS and the Mac Apps using data crowdsourced from AppReviewTime.
 * [Sentiments](https://github.com/kyleweiner/Sentiments) - Sentiments is an iOS app written in Swift that analyzes text for positive or negative sentiment.
@@ -1312,6 +1313,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AAPullToRefresh](https://github.com/r-plus/AAPullToRefresh)
 * [AASpringRefresh](https://github.com/r-plus/AASpringRefresh)
 * [CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl)
+* [HTPullToRefresh](https://github.com/hoang-tran/HTPullToRefresh) - Give multiple pull-to-refreshes to any UIScrollView (both vertically and/or horizontally) with minial setup.
 * [INBPullToRefresh](https://github.com/intmain/INBPullToRefresh)
 * [INSPullToRefresh](https://github.com/inspace-io/INSPullToRefresh)
 * [JCPullToRefreshView](https://github.com/lijingcheng/JCPullToRefreshView) - Supports pull-to-refresh and pull-to-loadmore
@@ -1919,7 +1921,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!.
 * [SwiftCGRectExtensions](https://github.com/nschum/SwiftCGRectExtensions) - A collection of CGRect, CGPoint and CGSize convenience functions for Swift.
 * [SwiftCop](https://github.com/andresinaka/SwiftCop) - SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.
-* [SwiftDate](https://github.com/malcommac/SwiftDate)
+* [SwiftDate](https://github.com/malcommac/SwiftDate) - Powerful NSDate & Time Zones Management.
 * [SwiftFilePath](https://github.com/nori0620/SwiftFilePath) - Simple and powerful wrapper for NSFileManager.
 * [SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift.
