@@ -1728,6 +1728,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AOR](https://github.com/xxxAIRINxxx/AOR) - Wrapper of NSAttributedString and Text Kit. written in Swift.
 * [BezierString](https://github.com/lvnyk/BezierString) - Rendering NSAttributedStrings along arbitrary UIBezierPaths.
 * [Down](https://github.com/iwasrobbed/Down) - Blazing fast Markdown rendering in Swift, built upon cmark.
+* [EmojiTextView](https://github.com/fastred/EmojiTextView) - Tap to swap out words with emojis. Inspired by Messages.app on iOS 10.
 * [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - add text(multiple line support) to imageView, edit, rotate or resize them as you want, then render the text on image.
 * [Marklight](https://github.com/macteo/Marklight) - Markdown syntax highlighter for iOS.
 * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
