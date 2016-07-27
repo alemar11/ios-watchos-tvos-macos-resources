@@ -133,6 +133,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift 2.
 * [FloatingActionSheetController](https://github.com/ra1028/FloatingActionSheetController) - Cool design ActionSheetController library written in Swift2.
+* [KUIActionSheet](https://github.com/Kofktu/KUIActionSheet) - Custom UIActionSheet.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
 * [PCRapidSelectionView](https://github.com/mmackh/PCRapidSelectionView) - Interactive, beautiful & fast UIActionSheet replacement, supports continuous hold & select.
 
@@ -1106,6 +1107,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Hamburger-DropMenu](https://github.com/vinit5320/Hamburger-DropMenu)
 * [Hokusai](https://github.com/ytakzk/Hokusai) - Swift library that provides a bouncy action sheet.
 * [JGFlipMenu](https://github.com/ziligy/JGFlipMenu) - Flipping menu system written in Swift. Uses @IBDesignable for quick and easy implementation.
+* [KYWheelTabController](https://github.com/ykyouhei/KYWheelTabController) - KYWheelTabController is a subclass of UITabBarController.It displays the circular menu instead of UITabBar.
 * [MarkingMenu](https://github.com/FlexMonkey/MarkingMenu)
 * [MediumMenu](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - MenuItemKit provides image and block(closure) support for UIMenuItem.
@@ -1315,6 +1317,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AAPullToRefresh](https://github.com/r-plus/AAPullToRefresh)
 * [AASpringRefresh](https://github.com/r-plus/AASpringRefresh)
 * [CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl)
+* [DCPullRefresh](https://github.com/Tangdixi/DCPullRefresh) - A sticky pull down refresh control.
 * [HTPullToRefresh](https://github.com/hoang-tran/HTPullToRefresh) - Give multiple pull-to-refreshes to any UIScrollView (both vertically and/or horizontally) with minial setup.
 * [INBPullToRefresh](https://github.com/intmain/INBPullToRefresh)
 * [INSPullToRefresh](https://github.com/inspace-io/INSPullToRefresh)
@@ -2014,6 +2017,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
 * [MaterialCardView](https://github.com/cemolcay/MaterialCardView)
+* [MDGroupAvatarView](https://github.com/ttmdung203/MDGroupAvatarView) - This library provides a custom UIView with support for showing group of avatars. It’s used for group chat. The images list can be loaded from local or web url.
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift.
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
