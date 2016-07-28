@@ -14,6 +14,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [iOS architecture](https://github.com/onmyway133/fantastic-ios-architecture) -  Better ways to structure apps.
 - [iOS Cookies: A hand curated collection of iOS libraries written in Swift](http://www.ioscookies.com)
 - [List of awesome snippets, plugins, and extras for Xcode](https://github.com/jeffreyjackson/awesome-xcode) 
+- [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS, watchOS and tvOS apps.
 - [The best FRP in iOS links.](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 - [Swift Community Best Practices](https://github.com/schwa/Swift-Community-Best-Practices)
 - [SwiftKitz](https://github.com/SwiftKitz) - Collection of quality Swift kits (Appz, Storez, Datez, Notificationz, UIKitz, Graphicz).
@@ -301,12 +302,13 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Cherry](https://github.com/kenshin03/Cherry) - Mini Pomodoro Timer app designed for the  Watch. Written in Swift. ⌚️
 * [Coderpursue](https://github.com/wenghengcong/Coderpursue) - Github client for iOS in Swift.
 * [Dunk](https://github.com/naoyashiga/Dunk) - Dunk is Dribbble client.
-* [ello-ios](https://github.com/ello/ello-ios) - Ello iOS App.
+* [Ello](https://github.com/ello/ello-ios) - Ello iOS App.
 * [EventBlankApp](https://github.com/icanzilb/EventBlankApp) - A free open source iOS app for events or conferences.
 * [GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard) - Hang a TV in your open space or team room to show everyone what's up and get them up to speed. 📺
 * [gulps](https://github.com/FancyPixel/gulps) - Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
 * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - This repository contains an example Highstreet WatchKit app. ⌚️
 * [iCopyPasta](https://github.com/alltheflow/iCopyPasta) - iOS app for your pasteboard feed, demo app for experimenting with RxSwift.
+* [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) - JBWatchActivityIndicator - An easy way to generate activity indicator images for Apple Watch. ⌚️
 * [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 * [Minamo](https://github.com/yukiasai/Minamo) - Simple coach mark library written in Swift.
@@ -321,6 +323,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise. ⌚️ `macOS`
 * [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. ⌚️
+* [Wire](https://github.com/wireapp/wire-ios) - Wire iOS client (iPhone and iPad).
 
 ## App macOS
 
@@ -1093,6 +1096,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SSASideMenu](https://github.com/SSA111/SSASideMenu)
 * [SlideMenu3D](https://github.com/hunk/SlideMenu3D)
 * [SphereMenu](https://github.com/itouch2/SphereMenu) - Fun menu powered by UIDynamicAnimator
+* [SwiftySlideMenu](https://github.com/dobnezmi/SwiftySlideMenu) - Slide animation menu for iOS.
 * [UPStackMenu](https://github.com/ink-spot/UPStackMenu)
 * [VCFloatingActionButton](https://github.com/gizmoboy7/VCFloatingActionButton)
 * [btSimpleSideMenu](https://github.com/balram3429/BTSimpleSideMenu)
