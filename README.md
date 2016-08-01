@@ -98,6 +98,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Segmented Control](#segmented-control)
 - [Server Side](#server-side)
 - [Slider](#slider)
+- [Snippet](#snippet)
 - [Sprite](#sprite)
 - [Statusbar](#statusbar)
 - [StatusItem](#statusitem)
@@ -207,6 +208,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DTIToastCenter-Swift](https://github.com/dtissera/DTIToastCenter-Swift)
 * [EasyTipView](https://github.com/teodorpatras/EasyTipView)
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController.
+* [MIAlertController](https://github.com/MarioIannotta/MIAlertController) - A simple fully customizable alert controller.
 * [Notification-AlertView](https://github.com/alexey-kubas-appus/Notification-AlertView)
 * [PathDynamicModal](https://github.com/ra1028/PathDynamicModal)
 * [PermissionScope](https://github.com/nickoneill/PermissionScope)
@@ -635,9 +637,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ADMozaicCollectionViewLayout](https://github.com/Antondomashnev/ADMozaicCollectionViewLayout) - ADMozaicCollectionViewLayout is yet another UICollectionViewLayout subclass that implements "brick" or "mozaic" layout.
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
+* [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts.
 * [GooglePlayTransition](https://github.com/xxxAIRINxxx/GooglePlayTransition) - Custom transition like Google Play Store Android App. written in Swift.
 * [Hanabi](https://github.com/kshin/Hanabi) - UICollectionViewLayout subclass with a focus on UICollectionViewCell content.
+* [FlowLayout](https://github.com/avdyushin/FlowLayout) - UICollectionViewFlowLayout with alignment modes.
 * [KRLCollectionViewGridLayout](https://github.com/JayGajjar/JGTransitionCollectionView/tree/master/JGTransitionCollectionView) - A iOS swift base collectionview with unique animation feature inspired from behance made using UICollectionView.
 * [KDDragAndDropCollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
 * [IOStickyHeader](https://github.com/BenjaminPrieur/IOStickyHeader) - Parallax and Sticky header done right using UICollectionViewLayout.
@@ -792,6 +796,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [InceptionTouch](https://github.com/richzertuche/InceptionTouch) - Who needs 3DTouch when you can have InceptionTouch.
 * [Knock](https://github.com/Headtalk/Knock) - A simple detector for physical knocks on the back or front of an iPhone.
 * [LimSignatureView](https://github.com/limhowe/LimSignatureView) - Signature View in Swift.
+* [NXDrawKit](https://github.com/Nicejinux/NXDrawKit) - NXDrawKit is a simple and easy but useful drawing kit for iPhone.
 * [RPModalGestureTransition](https://github.com/naoyashiga/RPModalGestureTransition)
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
 * [Sensitive](https://github.com/igormatyushkin014/Sensitive) - Fresh look at work with gestures in Swift.
@@ -949,6 +954,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView)
 * [ESSSquareProgressIndicator](https://github.com/eternalstorms/ESSSquareProgressIndicator)
 * [FeSpinner](https://github.com/NghiaTranUIT/FeSpinner)
+* [GIFProgressHUD](https://github.com/ali-ehsan/GIFProgressHUD) - GIFProgressHUD is a progress HUD with GIF for iOS.
 * [GMDCircleLoader](https://github.com/gabemdev/GMDCircleLoader)
 * [GiFHUD](https://github.com/cemolcay/GiFHUD)
 * [IMGActivityIndicator](https://github.com/DrJid/IMGActivityIndicator)
@@ -1054,6 +1060,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AirbnbViewController](https://github.com/pixyzehn/AirbnbViewController)
 * [AKLookups](https://github.com/purrrminator/AKLookups) - AKLookups class implements a drop-down list for selecting particular value of set.
 * [AnimatedCircularCollectionMenu](https://github.com/chillok/AnimatedCircularCollectionMenu)
+* [AWNavigationMenuItem](https://github.com/AbeWang/AWNavigationMenuItem) - Navigation Menu for iOS.
 * [BAHFourCornersController](https://github.com/BHughes3388/BAHFourCornersController)
 * [BackMenu](https://github.com/GuyKahlon/BackMenu)
 * [BlurMenu](https://github.com/aljhen/BlurMenu) - A simple iOS menu with blur background. Uses Apple's UIImage+ImageEffects.
@@ -1505,6 +1512,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
 * [SpringySlider](https://github.com/josephlord/SpringySlider)
 
+## Snippet
+
+#### 🔸*Swift*
+* [SwiftSnippets](https://github.com/hyperoslo/SwiftSnippets) - A collection of Swift snippets to be used in Xcode.
+
 ## Sprite
 
 #### 🔸*Swift*
@@ -1580,6 +1592,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [KSTabView](https://github.com/kaunteya/KSTabView) - Simple and lightweight TabView for Mac OSX. `macOS`
 * [LCTabBarController](https://github.com/LeoiOS/LCTabBarController)
 * [LUNTabBarController](https://github.com/LunApps/LUNTabBarController) - UITabBarController subclass designed to add cool floating from the bottom animation with scale effect that adds feeling of 3D to one of your tabs.
+* [NinaPagerView](https://github.com/RamWire/NinaPagerView) - NinaPagerView is a low-coupling segment easy to page your controllers and views.
 * [NTSlidingViewController](https://github.com/nonstriater/NTSlidingViewController)
 * [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController)
 * [RKTabView](https://github.com/RafaelKayumov/RKTabView)
@@ -2115,6 +2128,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ZOZolaZoomTransition](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition)
 
 #### 🔸*Swift*
+* [CustomSegue](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects (NSViewControllerTransitionOptions). `macOS`
 * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
 * [ExpandingViewTransition](https://github.com/tomkowz/ExpandingViewTransition-Demo) - Example of how to create custom view controllers transition.
 * [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images written in Swift.
