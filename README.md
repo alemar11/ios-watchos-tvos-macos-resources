@@ -179,6 +179,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DYAlertPickerViewDemo](https://github.com/danny-source/DYAlertPickerViewDemo)
 * [ENPopUp](https://github.com/evnaz/ENPopUp)
 * [ExpandAlertView](https://github.com/denty/ExpandAlertView)
+* [FTPopOverMenu](https://github.com/liufengting/FTPopOverMenu) - A pop over menu which is maybe the easiest to use.
 * [GUAAlertView](https://github.com/onlymelon/GUAAlertView)
 * [INPopoverController](https://github.com/indragiek/INPopoverController) - A customizable popover controller for OS X. `macOS`
 * [JDFTooltips](https://github.com/JoeFryer/JDFTooltips)
@@ -1063,6 +1064,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AWNavigationMenuItem](https://github.com/AbeWang/AWNavigationMenuItem) - Navigation Menu for iOS.
 * [BAHFourCornersController](https://github.com/BHughes3388/BAHFourCornersController)
 * [BackMenu](https://github.com/GuyKahlon/BackMenu)
+* [BEFoldMenuViewController](https://github.com/werfe/BEFoldMenuViewController)
 * [BlurMenu](https://github.com/aljhen/BlurMenu) - A simple iOS menu with blur background. Uses Apple's UIImage+ImageEffects.
 * [CDSideBarController](https://github.com/christophedellac/CDSideBarController)
 * [CHAnimation](https://github.com/cyndibaby905/CHAnimation)
@@ -1207,6 +1209,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [Bridge](https://github.com/rawrjustin/Bridge) - Extensible HTTP Networking for iOS.
 * [moa](https://github.com/evgenyneu/moa) - An image download extension of the image view written in Swift for iOS, tvOS and macOS.
+* [network](https://github.com/lovesunstar/network) - Making a chain-able request.
 * [Socks](https://github.com/czechboy0/Socks) - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.
 * [SSASwiftReachability](https://github.com/SSA111/SSASwiftReachability) - A Swift Library To Track Network Reachability Changes.
 
@@ -1629,6 +1632,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display.
 * [Doppelganger](https://github.com/Wondermall/Doppelganger) Array diffs as collection view wants it.
 * [ENFooterActivityIndicatorView](https://github.com/evnaz/ENFooterActivityIndicatorView) UITableView's `footer activity indicator`.
+* [FTFoldingTableView](https://github.com/liufengting/FTFoldingTableView) - FTFoldingTableView. Folding cells with simple delegates, and change UI looks in a few lines of code.
 * [FSParallaxTableView](https://github.com/fernandospr/FSParallaxTableView) - Parallax effect for images in table view cells.
 * [HFStretchableTableHeaderView](https://github.com/hfrahmann/HFStretchableTableHeaderView) - Stretchable TableHeaderView for iOS.
 * [HPReorderTableView](https://github.com/hpique/HPReorderTableView) - Drop-in UITableView replacement to reorder cells with long press on any part of the cell.
@@ -1861,6 +1865,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - A Swift extension that adds toast notifications to the UIView object class.
+* [ZKNavigationController](https://github.com/ZacharyKhan/ZKNavigationController) - iOS Navigation Controller Alert.
 * [Whisper](https://github.com/hyperoslo/Whisper)
 
 ## ToolBar
