@@ -340,6 +340,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [GIFs](https://github.com/orta/GIFs) - A Mac App for finding GIFs. `macOS`
 * [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. `macOS`
 * [IP-Menu](https://github.com/Barbayar/IP-Menu) - A small app that shows IP location on the Mac OS X status bar. `macOS`
+* [lumen](https://github.com/anishathalye/lumen) - Magic auto brightness based on screen contents. `macOS`
 * [ModernLook-OSX](https://github.com/gyetvan-andras/ModernLook-OSX) - OSX Moder Look UI. `macOS`
 * [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs). `macOS`
 * [QuickRadar](https://github.com/amyworrall/QuickRadar) - Mac app to simplify posting bug reports to Apple's Radar bug tracking system. `macOS`
@@ -836,6 +837,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [YLGIFImage](https://github.com/liyong03/YLGIFImage) - Async GIF image decoder and Image viewer supporting play GIF images. It just use very less memory.
 
 #### 🔸*Swift*
+* [AspectFillFaceAware](https://github.com/BeauNouvelle/AspectFillFaceAware) - An extension that gives UIImageView the ability to focus on faces within an image when using AspectFill.
 * [ARNZoomImageTransition](https://github.com/xxxAIRINxxx/ARNZoomImageTransition)
 * [BitmapCanvas](https://github.com/nst/BitmapCanvas) - Bitmap offscreen drawing in Swift for OS X. `macOS`
 * [DPImageCache](https://github.com/dphans/DPImageCache) - Swift extension for UIImageView. Help loading image asynchronously and store local file cache.
@@ -1171,6 +1173,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
+* [FTChatMessageDemoProject](https://github.com/liufengting/FTChatMessageDemoProject) - FTChatMessageDemoProject, a chat message ui framework written in swift. Not quite finished.
 * [swift-chat](https://github.com/firebase/ios-swift-chat-example) - FireChat implemented in Swift!.
 
 
@@ -1432,6 +1435,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔹*Obj-C*
 * [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view.
+* [ASJColoredScrollIndicators](https://github.com/sudeepjaiswal/ASJColoredScrollIndicators) - Apply color to scroll indicators of any UIScrollView.
 * [BTGlassScrollView](https://github.com/BTLibrary/BTGlassScrollView) - Inspired by Yahoo Weather App, this easy to use view replicates the look and feel.
 * [BTInfiniteScrollView](https://github.com/bteapot/BTInfiniteScrollView)* 
 * [CustomScrollIndicator](https://github.com/leverdeterre/CustomScrollIndicator) - iOS custom ScrollIView indicator.
@@ -1995,6 +1999,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔹*Obj-C*
 * [HcdCachePlayer](https://github.com/Jvaeyhcd/HcdCachePlayer) - A video player with cache.
 * [Eleven](https://github.com/coderyi/Eleven) - Eleven Player is a simple powerful video. player.use ffmpeg.
+* [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit) - LaiFeng IOS Live Kit,H264 and AAC Hard coding，support GPUImage Beauty， rtmp transmission，weak network lost frame，Dynamic switching rate.
 * [MD360Player4iOS](https://github.com/ashqal/MD360Player4iOS) - It is a lite library to render 360 degree panorama video for iOS. VR Player.
 * [VideoCover](https://github.com/bichenkk/VideoCover-iOS-Demo) - A video background example for iOS.
 
@@ -2052,6 +2057,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ColorDebugView](https://github.com/jonhull/ColorDebugView) - Simple NS/UIView which can be used to quickly get a view on the screen when roughing out layouts/animations.
 * [ContactImageView](https://github.com/gkye/ContactImageView) - UIImageView subclass which generates text as the placeholder for an ImageView, supports IBDesignable and code.
 * [DottedLineView](https://github.com/STAR-ZERO/DottedLineView) - Draw horizontal or vertical dotted line for iOS.
+* [EZYGradientView](https://github.com/shashankpali/EZYGradientView) - Create gradients and blur gradients without a single line of code.
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A fancy hexagonal layout for displaying data like your Apple Watch.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
 * [NightView](https://github.com/Boris-Em/NightView) - Dazzling Nights on iOS.
@@ -2155,6 +2161,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ZOZolaZoomTransition](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition)
 
 #### 🔸*Swift*
+* [AICustomViewControllerTransition](https://github.com/cocoatoucher/AICustomViewControllerTransition) - Easy and tidy way for creating custom UIViewController transitions for iOS.
 * [CustomSegue](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects (NSViewControllerTransitionOptions). `macOS`
 * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
 * [ExpandingViewTransition](https://github.com/tomkowz/ExpandingViewTransition-Demo) - Example of how to create custom view controllers transition.
