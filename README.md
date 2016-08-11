@@ -26,8 +26,10 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 * [Reusable apps code written in Swift](https://github.com/carlbutron/Swift)
 
+#### iOS 10
+* [iOS 10 day by day](https://github.com/shinobicontrols/iOS10-day-by-day) - Projects to accompany the iOS 10 Day by Day blog series.
 #### iOS 9
-* [iOS9 day by day](https://github.com/shinobicontrols/iOS9-day-by-day) - Selection of projects accompanying the iOS9-Day-by-Day blog series.
+* [iOS 9 day by day](https://github.com/shinobicontrols/iOS9-day-by-day) - Selection of projects accompanying the iOS9-Day-by-Day blog series.
 * [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler) - Code examples for the new features of iOS 9.
 * [Programming iOS Book Example](https://github.com/alemar11/Programming-iOS-Book-Examples) - Downloadable code examples for my books, "iOS 9 Programming Fundamentals With Swift" (bk1) and "Programming iOS 9" (bk2). 
 
