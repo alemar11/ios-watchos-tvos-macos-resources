@@ -322,6 +322,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [NKWatchActivityIndicator](https://github.com/NilStack/NKWatchActivityIndicator) - An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2. ⌚️
 * [OneHourWalker](https://github.com/appcoda/OneHourWalker) - HealthKit demo app.
 * [OpenSim](https://github.com/luosheng/OpenSim) - OpenSim is an open source alternative for SimPholders, written in Swift.
+* [PixPic](https://github.com/Yalantis/PixPic) - PixPic, a Photo Editing App.
 * [PostManager](https://github.com/TomekB/PostManager) - iOS Swift + Node.js app to manage and schedule twitter posts (like buffer).
 * [pokemon-weakness-ios](https://github.com/pokeweak/pokemon-weakness-ios) - Source code for Pokemon Weakness iOS application. 
 * [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan) - Open Source Weather App created with Swift.
@@ -332,6 +333,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. ⌚️
 * [Wire](https://github.com/wireapp/wire-ios) - Wire iOS client (iPhone and iPad).
+* [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) - youtube iOS app template written in swift 3.
 
 ## App macOS
 
@@ -607,6 +609,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔹*Obj-C*
 * [ADLivelyCollectionView](https://github.com/applidium/ADLivelyCollectionView) -  Add custom animations to any UICollectionView.
 * [AdvancedUserInterfacesUsingCollectionView](https://github.com/kemenaran/AdvancedUserInterfacesUsingCollectionView) - Swipe to edit, batch editing including drag reordering, and a sophisticated custom UICollectionViewLayout that features pinning headers, global headers, and loading placeholders.
+* [ASJCollectionViewFillLayout](https://github.com/sudeepjaiswal/ASJCollectionViewFillLayout) - A flow layout style UICollectionViewLayout that fills the full width of the collection view.
 * [AWCollectionViewDialLayout](https://github.com/awdigital/AWCollectionViewDialLayout) - UICollectionViewLayout for displaying cells in a semi-circle with a nice fish eye effect.
 * [CollectionViewParallaxScrolling](https://github.com/ole/CollectionViewParallaxScrolling) - An implementation of a custom UICollectionViewLayout that demonstrates WhatsApp-style parallax scrolling in a collection view.
 * [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) - Parallax, Sticky Headers, Growing image heading, done right in one UICollectionViewLayout.
@@ -688,6 +691,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AYSlidingPickerView](https://github.com/yenbekbay/AYSlidingPickerView) - Implementation of a picker view that can be shown by either tapping on or panning the navigation bar.
 * [BFPaperColors](https://github.com/bfeher/BFPaperColors) - Flat colors taken from Google's Material Design: Paper.
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon is a lightweight, yet powerful, flat color framework for iOS (Objective-C & Swift).
+* [CollectionViewCell-animation](https://github.com/YinTokey/CollectionViewCell-animation) - Delete UICollectionViewCell with 8 different Animations.
 * [ColorArt](https://github.com/panicinc/ColorArt/) - iTunes 11-style color matching code.
 * [DBImageColorPicker](https://github.com/d0ping/DBImageColorPicker) - https://github.com/d0ping/DBImageColorPicker
 * [DFColorWell](https://github.com/danieljfarrell/DFColorWell) - An implementation of the colour well seen in Pages 5, Numbers 3 and Keynote 6 (iWork). `macOS`
@@ -1061,10 +1065,12 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [MapKitDrawing](https://github.com/tazihosniomar/MapKitDrawing)
 * [SLParallaxController](https://github.com/StefanLage/SLParallaxController) - Create a parallax effect between an UITableView and a MapView, like the view in FourSquare.
 * [TSClusterMapView](https://github.com/ashare80/TSClusterMapView)
+* [TYDirectionFinder](https://github.com/ThabreshVivid/TYDirectionFinder) - Direction between two routes and showing direction path information.
 * [UIPlacePicker](https://github.com/AlbertMontserrat/UIPlacePicker) - UIPlacePicker is a UIViewController where the user can pick a location from a map or entering the complete address.
 * [db_compass](https://github.com/alextarrago/db_compass) - It offers you a way to track the user's location and heading given by a coordinate or an address. Really useful for geolocation AR applications.
 
 #### 🔸*Swift*
+* [DistancePicker](https://github.com/qmathe/DistancePicker) - Custom UIKit control to select a distance with a pan gesture, written in Swift.
 * [GpxLocationManager](https://github.com/vermont42/GpxLocationManager) - GpxLocationManager is a replacement for CLLocationManager that allows the developer to use GPS data from GPX files or CLLocation arrays for testing.
 * [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI.
 * [SKMapsCenter](https://github.com/asklausen/SKMapsCenter) -  Maintain center while zooming.
@@ -1078,6 +1084,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AirbnbViewController](https://github.com/pixyzehn/AirbnbViewController)
 * [AKLookups](https://github.com/purrrminator/AKLookups) - AKLookups class implements a drop-down list for selecting particular value of set.
 * [AnimatedCircularCollectionMenu](https://github.com/chillok/AnimatedCircularCollectionMenu)
+* [ASJOverflowButton](https://github.com/sudeepjaiswal/ASJOverflowButton) - Android style overflow button for iOS.
 * [AWNavigationMenuItem](https://github.com/AbeWang/AWNavigationMenuItem) - Navigation Menu for iOS.
 * [BAHFourCornersController](https://github.com/BHughes3388/BAHFourCornersController)
 * [BackMenu](https://github.com/GuyKahlon/BackMenu)
@@ -1247,6 +1254,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [GBPageControl](https://github.com/jhurt/GBPageControl) - A page control for SpriteKit based games written in Swift.
+* [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram).
 
 ## Pager
@@ -1737,6 +1745,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔹*Obj-C*
 * [ANTagsView](https://github.com/adnan-careaxiom/ANTagsView) - This is the dynamic view to add and display hash tags in iOS Applicaitons.
+* [ASJTagsView](https://github.com/sudeepjaiswal/ASJTagsView) - Quickly create a view with tags with an option to delete.
 * [CLTokenInputView](https://github.com/clusterinc/CLTokenInputView) - A replica of iOS's native contact bubbles UI.
 * [HKKTagWriteView](https://github.com/fullc0de/HKKTagWriteView) - The smart input custom view for Evernote app style tagging.
 * [iOS-Stepper-UI](https://github.com/soumalya/iOS-Stepper-UI) - This is a custom stepper control for iOS apps. This has been written with Objective-C.
@@ -1947,6 +1956,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
 * [Kanna](https://github.com/tid-kijyun/Kanna) - Kanna is an XML/HTML parser for macOS / iOS / tvOS.
 * [KGNAutoLayout](https://github.com/kgn/KGNAutoLayout) - Making AutoLayout Easy.
+* [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - A micro-framework for observing file changes, both local and remote. Helpful in building developer tools.
 * [Laconic](https://github.com/igormatyushkin014/Laconic) - Short and clear expressions in Swift.
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Swift 2.0 friendly localization and i18n with in-app language switching.
 * [Luminescence](https://github.com/Zewo/Luminescence) - HTTP parser for Swift 2 (Linux ready).
@@ -2106,6 +2116,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [interactiveplayerview](https://github.com/AhmettKeskin/InteractivePlayerView) - Custom iOS music player view.
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control.
 * [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
+* [SJSegmentedViewController](https://github.com/subinspathilettu/SJSegmentedViewController) - SJSegmentedScrollView is a light weight generic controller written in Swift 2.3. Its a simple customizable controller were you can integrate any number of ViewControllers into a segmented controller with a header view controller.
 * [StackPageView](https://github.com/noppefoxwolf/StackPageView) - SwipeViewController is a Swift modification of RKSwipeBetweenViewControllers - navigate between pages / ViewControllers.
 * [StackViewController](https://github.com/seedco/StackViewController) - A controller that uses a UIStackView and view controller composition to display content in a list.
 * [SwipeViewController](https://github.com/fortmarek/SwipeViewController) - SwipeViewController enables you to modify the navigation bar and implement 'Swipe Buttons' that can user switch pages with and also the user can easily see which page he is on.
