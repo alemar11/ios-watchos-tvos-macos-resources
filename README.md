@@ -181,6 +181,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CZPicker](https://github.com/chenzeyu/CZPicker)
 * [DYAlertPickerViewDemo](https://github.com/danny-source/DYAlertPickerViewDemo)
 * [ENPopUp](https://github.com/evnaz/ENPopUp)
+* [FCAlertView](https://github.com/nimati/FCAlertView) - FCAlertView is a Flat Customizable AlertView for iOS.
 * [ExpandAlertView](https://github.com/denty/ExpandAlertView)
 * [FTPopOverMenu](https://github.com/liufengting/FTPopOverMenu) - A pop over menu which is maybe the easiest to use.
 * [GUAAlertView](https://github.com/onlymelon/GUAAlertView)
@@ -227,6 +228,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SlideControl](https://github.com/dasdom/SlideControl) - Vertical slide control build with Swift 2.0.
 * [SLPopupViewController](https://github.com/sunlight3d/SLPopupViewController)
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
+* [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
 * [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert)
 * [UNAlertView](https://github.com/ytakzk/UNAlertView)
@@ -613,6 +615,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [LGRadioButtonsView](https://github.com/Friend-LGA/LGRadioButtonsView) - iOS implementation of radio buttons
 * [M13Checkbox](https://github.com/Marxon13/M13Checkbox) - A customizeable checkbox for iOS.
 * [TNRadioButtonGroup](https://github.com/frederik-jacques/TNRadioButtonGroup) - Create easy radio button groups in Objective-C.
+
+#### 🔸*Swift*
+* [vkcheckbox](https://www.cocoacontrols.com/controls/vkcheckbox) - Simple customizable closure-based checkbox control written on Swift.
 
 ## CollectionView
 
@@ -1147,7 +1152,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title.
 * [circle-menu)](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant menu with a circular layout.
+* [DPEdgeMenu-Swift](https://github.com/HongliYu/DPEdgeMenu-Swift) - Simple menu appear from four directions of screen edge.
 * [DropDown](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS.
+* [DropDownMenuKit](https://github.com/qmathe/DropDownMenuKit) - UIKit drop down menu, simple yet flexible and written in Swift.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - A lightweight flyover side menu component for iOS with the UIDynamic's bouncing animation, UIGestures and UIBlurEffect. 
 * [FlowingMenu](https://github.com/YannickL/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects in Swift.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
@@ -1191,6 +1198,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
 * [FTChatMessageDemoProject](https://github.com/liufengting/FTChatMessageDemoProject) - FTChatMessageDemoProject, a chat message ui framework written in swift. Not quite finished.
+* [MessageProgressView](https://github.com/Tueno/MessageProgressView) - Simple loading animation for Swift.
 * [swift-chat](https://github.com/firebase/ios-swift-chat-example) - FireChat implemented in Swift!.
 
 
@@ -1485,6 +1493,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [CrossNavigation](https://github.com/artemstepanenko/CrossNavigation) - Any side navigation.
+* [LoopedContentsView](https://github.com/naru-jpn/LoopedContentsView) - View to display looped contents.
 * [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) - Simple parallax header for UIScrollView.
 * [ParallaxCarousel](https://github.com/taglia3/ParallaxCarousel) - A lightweight 3D Linear Carousel with parallax effect.
 * [PBPagerViewController](https://github.com/paoloboschini/PBPagerViewController)
@@ -1591,6 +1600,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * 
 #### 🔸*Swift*
 * [AHStepperControl](https://github.com/ashh640/AHStepperControl) - A simple stepper control for iOS.
+* [G8SliderStep](https://github.com/gali8/G8SliderStep) - Custom Range UISlider for iOS, in Swift - Draggable, Tappable, Inspectable.
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 * [KWStepper](https://github.com/kyleweiner/KWStepper) - A stepper control with flexible UI and tailored UX.
 * [MultiStepSlider](https://github.com/hsusmita/MultiStepSlider) - A custom UIControl which functions like UISlider where you can set multiple intervals with different step values for each interval.
@@ -2075,6 +2085,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Blurable](https://github.com/FlexMonkey/Blurable)
 * [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) - Waves of the radar
 * [ColorDebugView](https://github.com/jonhull/ColorDebugView) - Simple NS/UIView which can be used to quickly get a view on the screen when roughing out layouts/animations.
+* [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView) - Create complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js.
 * [ContactImageView](https://github.com/gkye/ContactImageView) - UIImageView subclass which generates text as the placeholder for an ImageView, supports IBDesignable and code.
 * [DottedLineView](https://github.com/STAR-ZERO/DottedLineView) - Draw horizontal or vertical dotted line for iOS.
 * [EZYGradientView](https://github.com/shashankpali/EZYGradientView) - Create gradients and blur gradients without a single line of code.
@@ -2166,6 +2177,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RNBlurredSideViewController](https://github.com/cwenboshi/RNBlurredSideViewController)
 * [SAInboxViewController](https://github.com/szk-atmosphere/SAInboxViewController) - UIViewController subclass inspired by "Inbox by google" animated transitioning.
 * [SCPageViewController](https://github.com/stefanceriu/SCPageViewController)
+* [ScreenSelector](https://github.com/Tueno/ScreenSelector) - Provides screen selector UI for iOS.
 * [SJStackNavigation](https://github.com/leesungju/SJStackNavigation)
 * [SLPagingView](https://github.com/StefanLage/SLPagingView) - A navigation bar system allowing to do a Tinder like or Twitter like.
 * [Sidebar-Reveal-Taasky](https://github.com/IgorFedorchuk/Sidebar-Reveal-Taasky)
