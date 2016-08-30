@@ -304,6 +304,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Movies](https://github.com/KMindeguia/movies)
 * [iBurn-iOS](https://github.com/Burning-Man-Earth/iBurn-iOS) - iBurn is an offline map and guide for the Burning Man art festival.
 * [Partita](https://github.com/comyarzaheri/Partita) - A simple instrument tuner app for iOS.
+* [SougouReading](https://github.com/YinTokey/SougouReading) - Imitate a novel APP.
 * [Subjective-C Tutorials](https://github.com/subjc) 
 * [YoCelsius](https://github.com/YouXianMing/YoCelsius) - A weather app that uses animation to give you an at-a-glance look at the weather.
 
@@ -312,6 +313,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Charter](https://github.com/matthewpalmer/Charter) - A Swift mailing list client for iPhone and iPad.
 * [Cherry](https://github.com/kenshin03/Cherry) - Mini Pomodoro Timer app designed for the  Watch. Written in Swift. ⌚️
 * [Coderpursue](https://github.com/wenghengcong/Coderpursue) - Github client for iOS in Swift.
+* [ConvertCurrency](https://github.com/gkye/ConvertCurrency) - An iOS app for converting currencies written in Swift3.
 * [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) - Build a Swift App as a designer.
 * [Doro](https://github.com/codeOfRobin/doro) - Pomodoro app.
 * [Dunk](https://github.com/naoyashiga/Dunk) - Dunk is Dribbble client.
@@ -1021,6 +1023,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [gmail-like-loading](https://github.com/raweng/gmail-like-loading)
 
 #### 🔸*Swift*
+* [BmoImageLoader](https://github.com/tzef/BmoImageLoader) - BmoImageLoader is a progress animated component for UIImageView.
 * [CircleSlider](https://github.com/shushutochako/CircleSlider)
 * [DPBasicLoading](https://github.com/dwipp/DPBasicLoading) - It's a very basic loading in iOS.
 * [DTIActivityIndicatorView-Swift](https://github.com/dtissera/DTIActivityIndicatorView-Swift)
@@ -1498,7 +1501,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ParallaxCarousel](https://github.com/taglia3/ParallaxCarousel) - A lightweight 3D Linear Carousel with parallax effect.
 * [PBPagerViewController](https://github.com/paoloboschini/PBPagerViewController)
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController)
-
+* [RMSquarePageControl](https://github.com/rupammitra/RMSquarePageControl) - A custom page control having square indicators works both vertically and horizontally.
 
 ## Security
 
@@ -1718,6 +1721,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [FileCards](https://github.com/etrep/FileCards_Swift) - A complete and modern OS X 10.10 Swift rewrite of Apple's FileCards example. `macOS`
 * [ios-swift-collapsible-table-section](https://github.com/jeantimex/ios-swift-collapsible-table-section) - A simple iOS swift project demonstrates how to implement collapsible table section.
 * [MBTwitterScroll](https://github.com/starchand/MBTwitterScroll) - Recreate Twitter's profile page scrolling animation for UITableView and UIScrollViews.
+* [MYTableViewIndex](https://github.com/mindz-eye/MYTableViewIndex) - A pixel perfect replacement for UITableView section index, written in Swift.
 * [NSTableView-Sections](https://github.com/krzyzanowskim/NSTableView-Sections) - NSTableView with sections (similar to UITableView) in Swift. `macOS`
 * [NSTableView-Sorting](https://github.com/bitboutique/NSTableView-Sorting) - Drag Sorting NSTableView rows in Swift. `macOS`
 * [OptionalEmptyTableViews](https://github.com/stuartbreckenridge/OptionalEmptyTableViews)
@@ -1753,6 +1757,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [ExpandableTableView](https://github.com/rondinellimorais/ExpandableTableView)  * [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - Expanding table view cells using `UIStackView in iOS 9.
+* [EVSlidingTableViewCell](https://github.com/epv44/EVSlidingTableViewCell) - Custom UITableViewCell that can be swiped either way to reveal a "drawer" with between 1 and 4 customizable action buttons. These action buttons fade and grow into view as the drawer is swiped. This cell works on all orientations and all devices.
 * [folding-cell](https://github.com/Ramotion/folding-cell)
 * [inbox-replica](https://github.com/RabbitMC/inbox-replica) - Recreated the expanding cells effect from `Inbox` by Google in Swift.
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - Animation between list and detail views.
@@ -1865,6 +1870,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - A small and lightweight library written in Swift that allows you to easily create forms.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift.
 * [UITextField-Navigation](https://github.com/T-Pham/UITextField-Navigation) - UITextField-Navigation make it easier to navigate between UITextFields.
+* [VKAfterTimeTextField](https://github.com/vladislav-k/VKAfterTimeTextField) - VKAfterTimeTextField is a sub-class of UITextField which allows you to know when user edited it last time during current use session. Also it allows to notify after specific time interval when user ends editing. This is gives you a some kind of "setContinouos:false" feature like UISlider has.
 * [VMFloatLabel](https://github.com/varshylmobile/VMFloatLabel) - Swift based UITextField subclass with floating labels.
 
 ## Timer
@@ -1959,6 +1965,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [APTargets](https://github.com/collinhundley/APTargets) - Adding UIControl targets, the right way.
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [AssistantKit](https://github.com/anatoliyv/AssistantKit) - Easy way to detect device environment.
+* [Buffer](https://github.com/alexdrone/Buffer) - Swift μ-framework for efficient array diffs, collection observation and cell configuration.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
 * [Caramel](https://github.com/CaramelForSwift/Caramel) - A portable I/O framework for Swift.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
@@ -2081,6 +2088,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AbstractView](https://github.com/nuudles/AbstractView) - A simple UIView subclass that you can use as a background view.
 * [ASCustomBannerView](https://github.com/aroldanm/ASCustomBannerView) - This is a banner with similar style to the app store.
 * [AHKBendableView](https://github.com/fastred/AHKBendableView) - UIView subclass that bends its edges when its position change is animated
+* [AvatarImageView](https://github.com/ayushn21/AvatarImageView) - AvatarImageView is a UIImageView subclass designed to show a user's profile picture, falling back to their initials when a picture is unavailable.
 * [AvatarView](https://github.com/chrene/AvatarView/)
 * [Blurable](https://github.com/FlexMonkey/Blurable)
 * [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) - Waves of the radar
@@ -2107,6 +2115,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Translucid](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background. Written in swift.
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
 * [VBPiledView](https://github.com/v-braun/VBPiledView) - Simple and beautiful stacked UIView to use as a replacement for an UITableView, UIImageView or as a menu.
+* [VHUD](https://github.com/xxxAIRINxxx/VHUD)
 * [VideoThumbView](https://github.com/toygar/VideoThumbView) - Video Thumb ScrollView.
 
 
