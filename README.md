@@ -431,6 +431,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature with a few line of code in Swift.
 * [INSPhotoGallery](https://github.com/inspace-io/INSPhotoGallery) - INSPhotoGallery is a modern looking photo gallery written in Swift for iOS.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
+* [PrismaSimpleImagePicker](https://github.com/Roylee-ML/PrismaSimpleImagePicker) - This is a copy of the Prisma APP. Reproduce Prisma custom camera, image picker and picture editor.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [preview-transition](https://github.com/Ramotion/preview-transition) - PreviewTransition is a simple preview gallery controller.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift.
@@ -481,6 +482,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [BeaconMonitor](https://github.com/sebk/BeaconMonitor)
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons)
+* [SwiftLocation](https://github.com/malcommac/SwiftLocation) - Sexy Location Manager and Beacon Monitoring for Swift.
 
 ## Button
 *buttons*
@@ -1202,6 +1204,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
 * [FTChatMessageDemoProject](https://github.com/liufengting/FTChatMessageDemoProject) - FTChatMessageDemoProject, a chat message ui framework written in swift. Not quite finished.
 * [MessageProgressView](https://github.com/Tueno/MessageProgressView) - Simple loading animation for Swift.
+* [NMessenger](https://github.com/eBay/NMessenger) - A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift.
 * [swift-chat](https://github.com/firebase/ios-swift-chat-example) - FireChat implemented in Swift!.
 
 
@@ -1471,6 +1474,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DARecycledScrollView](https://github.com/daria-kopaliani/DARecycledScrollView) - UIScrollView subclass that reuses its tile views.
 * [DroppyScrollView](https://github.com/cemolcay/DroppyScrollView) - Vertical scroll view with abilty to inserting and removing subviews top or any index with stylish dropping animations.
 * [DRPageScrollView](https://github.com/DavdRoman/DRPageScrollView) - Block-driven paginated scroll view.
+* [EHHorizontalSelectionView](https://github.com/josshad/EHHorizontalSelectionView) - Horizontal table view style controller.
 * [EMCarousel](https://github.com/emadrazo/EMCarousel)
 * [FeSlideFilter](https://github.com/NghiaTranUIT/FeSlideFilter)
 * [MBXPageViewController](https://github.com/Moblox/MBXPageViewController) - A library that allows to have a UIPageController with control buttons.
@@ -1955,6 +1959,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper) - Quick tool to explain the right place to enable your privacy settings.
 * [HelperLibrary](https://github.com/rondinellimorais/HelperLibrary) - The HelperLibrary framework is a static library iOs simple that contains all the implementation of the silly and repetitive work you have to do every time you create a new iOS / OSX project. `macOS`
 * [MBObjectPoolManager](https://github.com/MBKwon/MBObjectPoolManager) - MBObjectPoolManager is best way to reuse your objects in your project. You can save a memory reusing objects.
+* [ohana](https://github.com/uber/ohana-ios) - Contacts simplified.
 * [ORSSerialPort](https://github.com/armadsen/ORSSerialPort) - Serial port library for Objective-C and Swift OS X apps.
 * [SmileWeather](https://github.com/liu044100/SmileWeather) - A library for Search & Parse the weather data from Wunderground & Openweathermap conveniently.
 * [TrustKit](https://github.com/datatheorem/TrustKit) - Effortless and universal SSL pinning for iOS and OS X.
@@ -1998,7 +2003,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Proposer](https://github.com/nixzhu/Proposer) - Proposer provides a simple API to request permission for access Camera, Photos, Microphone, Contacts, Location.
 * [QuickActions](https://github.com/ricardopereira/QuickActions) - Swift wrapper for iOS Home Screen Quick Actions (App Icon Shortcuts).
 * [RateLimit](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
-* [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures.
+* [Reachability](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures.
+* [ReadabilityKit](https://github.com/exyte/ReadabilityKit) - Preview extractor for news, articles and full-texts in Swift.
 * [Regex](https://github.com/sharplet/Regex) - A Swift µframework providing an NSRegularExpression-backed Regex type.
 * [Run](https://github.com/khoiln/Run) - A Swift Wrapper for Grand Central Dispatch (GCD) Framework that supports method chaining.
 * [Runner](https://github.com/lucianomarisi/Runner) - Execute a block at specific time intervals.
@@ -2211,12 +2217,14 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ISScrollViewPageSwift](https://github.com/Ilhasoft/ISScrollViewPageSwift) ScollView with UIViewController
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - MCMHeaderAnimated allows you to add an animation between list and detail views.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition)
+* [](https://github.com/bannzai/Kaeru) - Kaeru can switch ViewController in NavigationController like iOS task manager UI (after iOS 9).
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
 * [QZCircleSegue](https://github.com/alextarrago/QZCircleSegue) -  Beatiful transition between circular-shapped buttons and your View Controller.
 * [RadialTransition_swift](https://github.com/apadalko/RadialTransition_swift) - Great iOS radial (circle) animation transition for navigation controller, with custom back swipe. (swift).
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)
 * [SwiftPagingNav](https://github.com/aubrey/SwiftPagingNav) - A Twitter-like navigation bar and page viewer written in Swift.
 * [TransitionManager](https://github.com/cemolcay/TransitionManager) - Painless custom transitioning. Easy extend, easy setup, just focus on animations.
+* [View2ViewTransition](https://github.com/naru-jpn/View2ViewTransition) - Custom interactive view controller transition from one view to another view.
 * [ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning) - ZoomTransitioning provides a custom transition with image zooming animation.
 
 ## WebView
