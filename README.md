@@ -1199,6 +1199,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Signal-iOS](https://github.com/WhisperSystems/Signal-iOS) - A private messenger for iOS.
 * [UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) - Cocoa UI component for group or private chat bubbles with text, images and audio support.
 * [whatsapp-ios](https://github.com/rcmcastro/whatsapp-ios) - A simple message UI library similar to WhatsApp app.
+* [ZHChat](https://github.com/zhuozhuo/ZHChat) - An elegant messages UI library for iOS.
 
 #### 🔸*Swift*
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
@@ -1626,6 +1627,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [AnimatedSwitch](https://github.com/alsedi/AnimatedSwitch) - Swift subclass of the UISwitch which paints over the parent view with the color if switch is turned on and returns original superview background color if switch is off.
 * [Custom-Switch](https://github.com/ChadTimmerman/Custom-Switch) - A custom Switch created with UIViews and UIButtons in Swift.
 * [DGRunkeeperSwitch](DGRunkeeperSwitch) - Runkeeper design switch control (two part segment control) developed in Swift 2.0.
+* [Switch](https://github.com/T-Pham/Switch) - An iOS switch control implemented in Swift with full Interface Builder support.
 * [Switcher](https://github.com/knn90/Switcher) - Custom UISwitcher with animation.
 * [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection.
 
