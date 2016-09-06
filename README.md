@@ -544,7 +544,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [TKAnimatedCheckButton](https://github.com/entotsu/TKAnimatedCheckButton)
 * [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition)
 * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons (in Swift).
-* [vkexpandablebutton](https://www.cocoacontrols.com/controls/vkexpandablebutton) - Easy to use expandable button in Swift.
+* [vkexpandablebutton](https://github.com/vladislav-k/VKExpandableButton) - Easy to use expandable button in Swift.
 
 ## Camera
 *AVFoundation and CIFaceFeature implementations*
