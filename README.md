@@ -96,6 +96,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [Rating](#rating)
 - [Routing](#routing)
 - [Resource](#resource)
+- [Script](#script)
 - [ScrollView](#scrollview)
 - [Security](#security)
 - [Segmented Control](#segmented-control)
@@ -1463,6 +1464,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Routing](https://github.com/jwalapr/Routing) - A Swift router implementation.
 * [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing for Swift.
 
+## Script
+
+#### 🔸*Swift*
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool for formatting Swift code.
+
 ## ScrollView
 *Scrollviews and PageControllers*
 
@@ -2008,11 +2014,13 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Reachability](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures.
 * [ReadabilityKit](https://github.com/exyte/ReadabilityKit) - Preview extractor for news, articles and full-texts in Swift.
 * [Regex](https://github.com/sharplet/Regex) - A Swift µframework providing an NSRegularExpression-backed Regex type.
+* [Retry](https://github.com/icanzilb/Retry) - Haven't you wished for `try` to sometimes try a little harder? Meet `retry`.
 * [Run](https://github.com/khoiln/Run) - A Swift Wrapper for Grand Central Dispatch (GCD) Framework that supports method chaining.
 * [Runner](https://github.com/lucianomarisi/Runner) - Execute a block at specific time intervals.
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 * [Solid](https://github.com/igormatyushkin014/Solid) - New way to work with arrays in Swift.
+* [StatusProvider](https://github.com/mariohahn/StatusProvider) - Protocol to handle initial Loadings, Empty Views and Error Handling in a ViewController & views.
 * [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - Replace the system volume popup with a more subtle indicator.
 * [Sugar](https://github.com/hyperoslo/Sugar) - Sugar is a sweetener for your Cocoa implementations.
 * [SwCrypt](https://github.com/soyersoyer/SwCrypt) - RSA public/private key generation, RSA, AES encryption/decryption, SEM encryption in Swift with CommonCrypto in iOS and OS X.
