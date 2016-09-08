@@ -533,6 +533,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [LoadingButton](https://github.com/SeptiyanAndika/LoadingButton) - UIButton subclass with an activity indicator and loading text.
 * [MaterialView](https://github.com/karticodes/MaterialView) - Material Floating Button for iOS.
 * [MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - Ring progress view similar to Activity app on Apple Watch.
+* [MMLoadingButton](https://github.com/MillmanY/MMLoadingButton) - Custom Loading Button With Animation.
 * [NFFlatButton](https://github.com/norfred/NFFlatButton) - Custom flat button 'à la Letterpress' written in Swift.
 * [NPFlipButton](https://github.com/neopixl/NPFlipButton)
 * [OnOffButton](https://github.com/rakaramos/OnOffButton) - Custom On/Off Animated UIButton, written in Swift.
@@ -1896,6 +1897,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [TimeScrubber](https://github.com/pffan91/TimeScrubber)
 * [WMGaugeView](https://github.com/Will-tm/WMGaugeView)
 
+#### 🔸*Swift*
+* [SnapTimer](https://github.com/andresinaka/SnapTimer) - Implementation of Snapchat's stories timer.
+
 ## Toast Notification
 *Toast Notifications and message bars*
 
@@ -1978,6 +1982,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [APTargets](https://github.com/collinhundley/APTargets) - Adding UIControl targets, the right way.
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [AssistantKit](https://github.com/anatoliyv/AssistantKit) - Easy way to detect device environment.
+* [BonMot](https://github.com/Raizlabs/BonMot) - Beautiful, easy attributed strings for iOS.
 * [Buffer](https://github.com/alexdrone/Buffer) - Swift μ-framework for efficient array diffs, collection observation and cell configuration.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
 * [Caramel](https://github.com/CaramelForSwift/Caramel) - A portable I/O framework for Swift.
