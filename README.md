@@ -28,6 +28,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### iOS 10
 * [iOS 10 day by day](https://github.com/shinobicontrols/iOS10-day-by-day) - Projects to accompany the iOS 10 Day by Day blog series.
+* [iOS 10 Sampler](https://github.com/shu223/iOS-10-Sampler) - Code examples for new APIs of iOS 10.
 
 #### iOS 9
 * [iOS 9 day by day](https://github.com/shinobicontrols/iOS9-day-by-day) - Selection of projects accompanying the iOS9-Day-by-Day blog series.
@@ -1247,6 +1248,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
+* [MTCoordinatorView](https://github.com/mittsuu/MTCoordinatorView) - The view coordinate arranged to the scrolling is adjusted.
 * [navigation-stack](https://github.com/Ramotion/navigation-stack) - NavigationStack is a stack-modeled navigation controller.
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller. Support 3D Touch.
 * [TB_TwitterUI](https://github.com/ariok/TB_TwitterUI) 
@@ -1286,6 +1288,9 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 ## Pager
 *viewpager*
+
+#### 🔹*Obj-C*
+* [CCPageViewController](https://github.com/zhanleewo/CCPageViewController) - A simple Page Menu View Controller, Easy to customize, UITableView-like API.
 
 #### 🔸*Swift*
 * [ViewPager](https://github.com/SeptiyanAndika/ViewPager---Swift) - Simple View Pager library for Swift.
@@ -1732,6 +1737,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [ConfigurableTableViewController](https://github.com/fastred/ConfigurableTableViewController) - Typed, yet Flexible Table View Controller.
 * [EssentialTableView](https://github.com/sohamb1390/EssentialTableView) - A detailed project on UITableView which includes Parallax effects, Collapse/Expand UITableViewCell, 3D Touch on UITableViewCell.
 * [FileCards](https://github.com/etrep/FileCards_Swift) - A complete and modern OS X 10.10 Swift rewrite of Apple's FileCards example. `macOS`
+* [HoverConversion](https://github.com/marty-suzuki/HoverConversion) - HoverConversion realized vertical paging with UITableView. UIViewController will be paged when reaching top or bottom of UITableView contentOffset.
 * [ios-swift-collapsible-table-section](https://github.com/jeantimex/ios-swift-collapsible-table-section) - A simple iOS swift project demonstrates how to implement collapsible table section.
 * [MBTwitterScroll](https://github.com/starchand/MBTwitterScroll) - Recreate Twitter's profile page scrolling animation for UITableView and UIScrollViews.
 * [MYTableViewIndex](https://github.com/mindz-eye/MYTableViewIndex) - A pixel perfect replacement for UITableView section index, written in Swift.
@@ -1891,6 +1897,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔹*Obj-C*
 * [DDHTimerControl](https://github.com/dasdom/DDHTimerControl)
 * [JSKTimerView](https://github.com/jeffkibuule/JSKTimerView)
+* [KVTimer](https://github.com/KochIK/KVTimer) - The circular timer for iOS.
 * [KPTimePicker](https://github.com/kasperpihl/KPTimePicker)
 * [MZTimerLabel](https://github.com/mineschan/MZTimerLabel)
 * [PeekInspiredTimePicker](https://github.com/AdamBCo/PeekInspiredTimePicker)
@@ -1898,6 +1905,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [WMGaugeView](https://github.com/Will-tm/WMGaugeView)
 
 #### 🔸*Swift*
+* [10Clock](https://github.com/joedaniels29/10Clock) - This Control is a beautiful time-of-day picker heavily inspired by the iOS 10 "Bedtime" timer.
 * [SnapTimer](https://github.com/andresinaka/SnapTimer) - Implementation of Snapchat's stories timer.
 
 ## Toast Notification
@@ -1912,6 +1920,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [HDNotificationView](https://github.com/nhdang103/HDNotificationView)
 * [HMAMessageViewManager](https://github.com/xjki/HMAMessageViewManager)
 * [IIShortNotificationPresenter](https://github.com/Inferis/IIShortNotificationPresenter)
+* [ISMessages](https://github.com/ilyainyushin/ISMessages) - This is simple extension for presenting system-wide notifications from top/bottom of device screen.
 * [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications)
 * [KODropdownNotification](https://github.com/kohtenko/KODropdownNotification)
 * [KSToastView](https://github.com/c0ming/KSToastView)
