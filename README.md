@@ -339,6 +339,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan) - Open Source Weather App created with Swift.
 * [ReviewTime](https://github.com/nthegedus/ReviewTime) - Review Time is an open source app for iOS written in Swift that show the average review times for iOS and the Mac Apps using data crowdsourced from AppReviewTime.
 * [Sentiments](https://github.com/kyleweiner/Sentiments) - Sentiments is an iOS app written in Swift that analyzes text for positive or negative sentiment.
+* [sismicapp-ios](https://github.com/jbeleno/sismicapp-ios) - Sismicapp app for iOS, developed in swift using MVVM with RXSwift.
 * [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift) - SoundCloud client written on Swift.
 * [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - Swift Radio is an open source radio station app with robust and professional features.
 * [SwiftHN](https://github.com/Dimillian/SwiftHN) - A Hacker News reader in Swift.
