@@ -1542,6 +1542,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - BetterSegmentedControl is an easy to use, customizable replacement for UISegmentedControl and UISwitch written in Swift.
 * [DPSegmentedControl](https://github.com/dwipp/DPSegmentedControl) - Segmented control with image and title.
 * [NPSegmentedControl](https://github.com/neopixl/NPSegmentedControl)
+* [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - Custom UISegmentedControl replacement for iOS, written in Swift.
 
 ## Server side
 
