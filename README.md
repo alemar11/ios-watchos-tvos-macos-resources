@@ -365,6 +365,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [QuickRadar](https://github.com/amyworrall/QuickRadar) - Mac app to simplify posting bug reports to Apple's Radar bug tracking system. `macOS`
 * [SimDirs](https://github.com/somegeekintn/SimDirs) - Quick and dirty app to display Xcode 6 simulator names and open their locations. `macOS`
 * [SimulatorManager](https://github.com/tue-savvy/SimulatorManager) - Simple Mac Application to perform quick access iOS Simulator Application data. `macOS`
+* [ScreenToLayers](https://github.com/jeremyvizzini/ScreenToLayers) - macOS app to capture your screen as a layered PSD file. `macOS`
 * [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac. `macOS`
 
 #### 🔸*Swift* 
@@ -613,6 +614,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
 * [SwiftCharts](https://github.com/i-schuetz/SwiftCharts)
 * [swift-linechart](https://github.com/zemirco/swift-linechart)
+* [WYChart](https://github.com/GeorgeWang03/WYChart) - A simple and elegant Chart library with rich animations.
 
 ## Checkbox
 *Radio buttons and Checkboxes*
@@ -687,6 +689,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RAMReel](https://github.com/Ramotion/reel-search) - RAMReel is a controller that allows you to choose options from a list.
 * [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout) - A UICollectionView layout whitch can move item with drag and drop.
 * [ReorderableGridView-Swift](https://github.com/cemolcay/ReorderableGridView-Swift) - Reorderable grid view solution implemented with swift.
+* [RSKCollectionViewRetractableFirstItemLayout](https://github.com/ruslanskorb/RSKCollectionViewRetractableFirstItemLayout) - A light-weight UICollectionViewFlowLayout subclass that allows the first item to be retractable.
 * [SACollectionViewVerticalScalingFlowLayout](https://github.com/szk-atmosphere/SACollectionViewVerticalScalingFlowLayout) - UICollectionViewLayout that performs scaling up and down automatically on disappearing cells, and applies UIDynamics.
 * [Sapporo](https://github.com/nghialv/Sapporo) - Cellmodel-driven collectionview manager.
 * [ScaledVisibleCellsCollectionView](https://github.com/ikemai/ScaledVisibleCellsCollectionView) - ScaledVisibleCellsCollectionView is UICollectionView extension. ScaledVisibleCellsCollectionView is Check visible cells position. And setting cell's scale and alpha.
@@ -732,6 +735,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [BCColor](https://github.com/boycechang/BCColor) - A lightweight but powerful color kit (Swift).
 * [clrex](https://github.com/ilyapuchka/clrex) - Simple script to generate UIColor factory methods from clr files.
+* [Colorblinds](https://github.com/jordidekock/Colorblinds) - Colorblinds is an easy to use library so simulate color blindness in your app.
 * [Colors](https://github.com/paulot/Colors) - Terminal Colors for Swift.
 * [DPTheme](https://github.com/dphans/DPTheme)
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - DynamicColor provides powerful methods to manipulate colours in an easy way.
@@ -1048,6 +1052,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [RSDotsView](https://github.com/Kemcake/RSDotsView)
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - A Swift GUI library for displaying various popups and notifications
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)
+* [UICircularProgressRing](https://github.com/luispadron/UICircularProgressRing) - A circular progress bar for iOS written in Swift 3.
 * [WESlider](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management.
 
 ## Localization
@@ -1683,6 +1688,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 * [LXPageViewWithButtonsViewController](https://github.com/lxian/LXPageViewWithButtonsViewController) - Combines UIPageViewController and highly customisable page selection tabs.
 * [MHImageTabBar](https://github.com/mho000/MHImageTabBar)
+* [MIPivotPageController](https://github.com/MarioIannotta/MIPivotPageController) - MIPivotPageController allows switching viewcontroller with an horizontal swipe.
 * [ScrollPager](https://github.com/aryaxt/ScrollPager)
 * [Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control written in Swift.
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
@@ -1753,6 +1759,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [QuickRearrangeTableView](https://github.com/okla/QuickRearrangeTableView)
 * [SAStickyHeader](https://github.com/shams-ahmed/SAStickyHeader) - A very simple sticky header with multiple image support via swipe gestures.
 * [Static](https://github.com/venmo/Static) - Simple static table views for iOS in Swift.
+* [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of UITableView can be rearranged by drag and drop.
 * [TableView-PullToRefresh](https://github.com/vinit5320/TableView---PullToRefresh)
 * [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - a TableView have thumbnail cell only, and you can use gesture let it expands other expansionView, all diy.
 
@@ -2288,3 +2295,4 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 
 
+#table
