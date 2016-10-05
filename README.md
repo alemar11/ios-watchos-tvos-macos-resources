@@ -1037,6 +1037,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [BmoImageLoader](https://github.com/tzef/BmoImageLoader) - BmoImageLoader is a progress animated component for UIImageView.
 * [CircleSlider](https://github.com/shushutochako/CircleSlider)
+* [DotsLoader](https://github.com/mattlawer/DotsLoader) - Dots Activity Indicator using Interface Builder.
 * [DPBasicLoading](https://github.com/dwipp/DPBasicLoading) - It's a very basic loading in iOS.
 * [DTIActivityIndicatorView-Swift](https://github.com/dtissera/DTIActivityIndicatorView-Swift)
 * [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit.
@@ -1626,7 +1627,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [CMSteppedProgressBar](https://github.com/Mycose/CMSteppedProgressBar) - Custom view as a progress bar with steps.
 * [Flat-SlideControl](https://github.com/alexey-kubas-appus/Flat-SlideControl)
 * [GCXSteppedSlider](https://github.com/grandcentrix/GCXSteppedSlider) - A custom, fully-configurable UISlider implementation with tappable intermediate steps.
-* 
+* [PSProfileStepper](https://github.com/PKPranav/PSProfileStepper) - PSProfileStepper is custom implementation of stepper such as UISlider for show their step by its value 0,1,2.. and by change the color.
+
 #### 🔸*Swift*
 * [AHStepperControl](https://github.com/ashh640/AHStepperControl) - A simple stepper control for iOS.
 * [G8SliderStep](https://github.com/gali8/G8SliderStep) - Custom Range UISlider for iOS, in Swift - Draggable, Tappable, Inspectable.
