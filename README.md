@@ -126,6 +126,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 - [ViewController Transition](#viewcontroller-transition)
 - [WebView](#webview)
 - [Window](#window)
+- [Xcode Extension](#xcode-extension)
 
 ## ActionSheet
 #### 🔹*Obj-C*
@@ -966,6 +967,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
 * [RFCalculatorKeyboard](https://github.com/sprint84/RFCalculatorKeyboard)
 * [TKKeyboardControl](https://github.com/cztatsumi-keisuke/TKKeyboardControl) - TKKeyboardControl adds keyboard awareness and scrolling dismissal (like iMessages app) to any view with only 1 line of code for Swift.
+* [Typist](https://github.com/totocaster/Typist) - Small Swift UIKit keyboard manager for iOS apps.
 
 ## Label
 
@@ -1853,6 +1855,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [Reductio](https://github.com/fdzsergio/Reductio) - Reductio is a tool used to extract keywords and phrases using an implementation of the algorithm TextRank.
 * [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks.
 * [Splitflap](https://github.com/YannickL/Splitflap) - A simple split-flap display for your Swift applications.
+* [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - Swift extensions that make it a breeze to work with attributed strings.
 * [SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown) - Converts Markdown files and strings into NSAttributedString.
 * [TextAttributes](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
 * [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
@@ -2284,17 +2287,11 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [LNWindowManagerExample](https://github.com/LeoNatan/LNWindowManager) - A window manager that makes working with UIWindow objects easily using an API similar to the UIViewController modal presentation API.
 * [RHPreferences](https://github.com/heardrwt/RHPreferences) - A simple and easy Preferences window controller with multiple tabs for your next Mac application. `macOS`
 * [WAYSourceListWindow](https://github.com/weAreYeah/WAYSourceListWindow) - The WAYSourceListWindow is a NSWindow subclass, which splits the window space vertically into the master view on the left, and the detail view on the right side as known from apps like Reminders or Notes. `macOS`
-
-
-#### 🔸*Swift*
 * [appresizer](https://www.cocoacontrols.com/controls/appresizer) - AppResizer allows you to change the width of the main window, thereby checking if your app renders correctly on all devices.
 
 
+## Xcode Extension
 
-
-
-
-
-
-
-#table
+#### 🔸*Swift*
+* [Import](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code.
+* [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers.
