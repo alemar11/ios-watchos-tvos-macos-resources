@@ -545,6 +545,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [NPFlipButton](https://github.com/neopixl/NPFlipButton)
 * [OnOffButton](https://github.com/rakaramos/OnOffButton) - Custom On/Off Animated UIButton, written in Swift.
 * [PlayPauseAnimation](https://github.com/kNeerajPro/PlayPauseAnimation)
+* [Reactions](https://github.com/yannickl/Reactions) - Fully customizable Facebook reactions control.
 * [recordbutton](https://github.com/samuelbeek/recordbutton)
 * [RNLoadingButton](https://github.com/souzainf3/RNLoadingButton-Swift)
 * [SFlatButton](https://github.com/alexmeji/SFlatButton)
