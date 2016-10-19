@@ -971,6 +971,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [KBKit](https://github.com/edekhayser/KBKit) - Classes to extend UIKit navigation using key commands.
 * [Keyboardy](https://github.com/podkovyrin/Keyboardy) - UIViewController extension for convenient keyboard management.
 * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
+* [PANumberKeyboard](https://github.com/AlexeyYuPopkov/PANumberKeyboard) - Custom Decimal Number Keyboard.
 * [RFCalculatorKeyboard](https://github.com/sprint84/RFCalculatorKeyboard)
 * [TKKeyboardControl](https://github.com/cztatsumi-keisuke/TKKeyboardControl) - TKKeyboardControl adds keyboard awareness and scrolling dismissal (like iMessages app) to any view with only 1 line of code for Swift.
 * [Typist](https://github.com/totocaster/Typist) - Small Swift UIKit keyboard manager for iOS apps.
