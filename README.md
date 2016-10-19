@@ -780,6 +780,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [ASCalendar](https://github.com/scamps88/ASCalendar) - A calendar control for iOS written in swift with mvvm pattern.
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
+* [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
 * [EPCalendarPicker](https://github.com/ipraba/EPCalendarPicker) - Colourful calendar for iOS written in Swift.
 * [ISTimeline](https://github.com/instant-solutions/ISTimeline) - Simple timeline view written in Swift 2.2.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final Apple calendar you will ever try. Built for iOS in Swift.
@@ -1224,6 +1225,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 
 #### 🔸*Swift*
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
+* [ForceBlur](https://github.com/Yalantis/ForceBlur) - ForceBlur Animation for iOS Messaging Apps.
 * [FTChatMessageDemoProject](https://github.com/liufengting/FTChatMessageDemoProject) - FTChatMessageDemoProject, a chat message ui framework written in swift. Not quite finished.
 * [MessageProgressView](https://github.com/Tueno/MessageProgressView) - Simple loading animation for Swift.
 * [NMessenger](https://github.com/eBay/NMessenger) - A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift.
@@ -1557,7 +1559,8 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 #### 🔸*Swift*
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - BetterSegmentedControl is an easy to use, customizable replacement for UISegmentedControl and UISwitch written in Swift.
 * [DPSegmentedControl](https://github.com/dwipp/DPSegmentedControl) - Segmented control with image and title.
-* [NPSegmentedControl](https://github.com/neopixl/NPSegmentedControl)
+* [NPSegmentedControl](https://github.com/neopixl/NPSegmentedControl) - A segmented control with custom appearance and interactive animations. Written in Swift 3.0.
+* [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl)
 * [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - Custom UISegmentedControl replacement for iOS, written in Swift.
 
 ## Server side
@@ -2133,6 +2136,7 @@ Updated list of frameworks and libraries for iOS, Watch OS and OSX.
 * [NORosettaView](https://github.com/natalia-osa/NORosettaView)
 * [NSView-ESSViewCategory](https://github.com/eternalstorms/NSView-ESSViewCategory) - A category on NSView that simplifies zoom-transitioning between two NSViews. `macOS`
 * [PWParallaxScrollView](https://github.com/wpsteak/PWParallaxScrollView)
+* [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by Twitter splash.
 * [SKPanoramaView](https://github.com/sachinkesiraju/SKPanoramaView) - Create beautiful animated panorama views. Inspired by the intro view on the LinkedIn iOS app.
 * [SSUIViewMiniMe](https://github.com/sSegev/SSUIViewMiniMe) - A miniature replica of your UIView with an indicator of your location.
 * [TGDrawSvgPathView](https://github.com/Tibolte/TGDrawSvgPathView) - IOS helper class to draw animated paths from SVG files
