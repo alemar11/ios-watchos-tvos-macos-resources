@@ -1,6 +1,6 @@
-iOS, OSX, tvOS and watchOS resources
+iOS, macOS, tvOS and watchOS resources
 ======
-Updated list of frameworks and libraries for iOS, Watch OS and OSX.
+Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 ### Other Lists
 - [A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects.](https://github.com/vsouza/awesome-ios)
