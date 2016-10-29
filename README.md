@@ -104,6 +104,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [Server Side](#server-side)
 - [Slider](#slider)
 - [Snippet](#snippet)
+- [Speech Recognition](#speech-recognition)
 - [Sprite](#sprite)
 - [Statusbar](#statusbar)
 - [StatusItem](#statusitem)
@@ -1615,6 +1616,11 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [SwiftSnippets](https://github.com/hyperoslo/SwiftSnippets) - A collection of Swift snippets to be used in Xcode.
+
+## Speech Recognition
+
+#### 🔸*Swift*
+* [SayWhat](https://github.com/marcdown/SayWhat) - Spotify artist search using speech recognition ([Talk](https://realm.io/news/tryswift-marc-brown-say-it-aint-so-implementing-speech-recognition/))
 
 ## Sprite
 
