@@ -692,6 +692,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KRLCollectionViewGridLayout](https://github.com/JayGajjar/JGTransitionCollectionView/tree/master/JGTransitionCollectionView) - A iOS swift base collectionview with unique animation feature inspired from behance made using UICollectionView.
 * [KDDragAndDropCollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
 * [IOStickyHeader](https://github.com/BenjaminPrieur/IOStickyHeader) - Parallax and Sticky header done right using UICollectionViewLayout.
+* [MMCardView](https://github.com/MillmanY/MMCardView) - Custom CollectionView like Wallet App.
 * [PopupCollectionViewController](https://github.com/corin8823/PopupCollectionViewController) - PopupCollectionViewController is a collectionView in Popup view.
 * [RAMReel](https://github.com/Ramotion/reel-search) - RAMReel is a controller that allows you to choose options from a list.
 * [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout) - A UICollectionView layout whitch can move item with drag and drop.
@@ -952,6 +953,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift.
 * [Freddy](https://github.com/bignerdranch/Freddy) - A reusable framework for parsing JSON in Swift.
 * [mapper](https://github.com/lyft/mapper) - Another JSON deserialization library for Swift.
+* [Marshal](https://github.com/utahiosmac/Marshal) - Marshaling the typeless wild west of [String: Any].
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - Simple JSON Object mapping written in Swift
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 
@@ -1913,6 +1915,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [EGFloatingTextField](https://github.com/enisgayretli/EGFloatingTextField) - Implementation of Google's "Floating labels" of Material design.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields)
 * [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating UITableView based form.
+* [formvalidator-swift](https://github.com/ustwo/formvalidator-swift) - A framework to validate inputs of text fields and text views in a convenient way.
 * [LTBouncyPlaceholder](https://github.com/lexrus/LTBouncyPlaceholder)
 * [MPGTextField](https://github.com/gaurvw/MPGTextField) - An autocomplete textfield for iOS which provides suggestions as you type.
 * [ParkedTextField](https://github.com/gmertk/ParkedTextField) - A text field with a constant text/placeholder.
@@ -2023,6 +2026,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [APTargets](https://github.com/collinhundley/APTargets) - Adding UIControl targets, the right way.
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [AssistantKit](https://github.com/anatoliyv/AssistantKit) - Easy way to detect device environment.
+* [AsyncOperations](https://github.com/jaredsinclair/AsyncOperations) - A toolbox of NSOperation subclasses for a variety of asynchronous programming needs.
 * [BonMot](https://github.com/Raizlabs/BonMot) - Beautiful, easy attributed strings for iOS.
 * [Buffer](https://github.com/alexdrone/Buffer) - Swift μ-framework for efficient array diffs, collection observation and cell configuration.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
