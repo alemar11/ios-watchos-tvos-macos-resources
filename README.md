@@ -784,7 +784,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ASCalendar](https://github.com/scamps88/ASCalendar) - A calendar control for iOS written in swift with mvvm pattern.
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
-* [DPTimePicker](https://github.com/dariopellegrini/DPTimePicker) - 
+* [DPTimePicker](https://github.com/dariopellegrini/DPTimePicker) 
 * [EPCalendarPicker](https://github.com/ipraba/EPCalendarPicker) - Colourful calendar for iOS written in Swift.
 * [ISTimeline](https://github.com/instant-solutions/ISTimeline) - Simple timeline view written in Swift 2.2.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final Apple calendar you will ever try. Built for iOS in Swift.
