@@ -1827,7 +1827,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [YMSwipeTableViewCell](https://github.com/yammer/YMSwipeTableViewCell)
 
 #### 🔸*Swift*
-* [ExpandableTableView](https://github.com/rondinellimorais/ExpandableTableView)  * [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - Expanding table view cells using `UIStackView in iOS 9.
+* [ExpandableTableView](https://github.com/rondinellimorais/ExpandableTableView)  
+* [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - Expanding table view cells using `UIStackView in iOS 9.
 * [EVSlidingTableViewCell](https://github.com/epv44/EVSlidingTableViewCell) - Custom UITableViewCell that can be swiped either way to reveal a "drawer" with between 1 and 4 customizable action buttons. These action buttons fade and grow into view as the drawer is swiped. This cell works on all orientations and all devices.
 * [folding-cell](https://github.com/Ramotion/folding-cell)
 * [inbox-replica](https://github.com/RabbitMC/inbox-replica) - Recreated the expanding cells effect from `Inbox` by Google in Swift.
