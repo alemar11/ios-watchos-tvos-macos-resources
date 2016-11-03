@@ -1797,7 +1797,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [OptionalEmptyTableViews](https://github.com/stuartbreckenridge/OptionalEmptyTableViews)
 * [PBDataTableView](https://github.com/praveenb-ios/PBDataTableView) - DataTable for iPhone and iPad.
 * [QuickRearrangeTableView](https://github.com/okla/QuickRearrangeTableView)
-* [SAInboxViewController](https://github.com/marty-suzuki/SAInboxViewController) - UIViewController subclass inspired by "Inbox by google" animated transitioning.
 * [SAStickyHeader](https://github.com/shams-ahmed/SAStickyHeader) - A very simple sticky header with multiple image support via swipe gestures.
 * [Static](https://github.com/venmo/Static) - Simple static table views for iOS in Swift.
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of UITableView can be rearranged by drag and drop.
@@ -1832,7 +1831,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - Expanding table view cells using `UIStackView in iOS 9.
 * [EVSlidingTableViewCell](https://github.com/epv44/EVSlidingTableViewCell) - Custom UITableViewCell that can be swiped either way to reveal a "drawer" with between 1 and 4 customizable action buttons. These action buttons fade and grow into view as the drawer is swiped. This cell works on all orientations and all devices.
 * [folding-cell](https://github.com/Ramotion/folding-cell)
-* [inbox-replica](https://github.com/RabbitMC/inbox-replica) - Recreated the expanding cells effect from `Inbox` by Google in Swift.
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - Animation between list and detail views.
 * [RHPreviewCell](https://github.com/robertherdzik/RHPreviewCell) - Use long press on cell to trigger action I envied so much Spotify iOS app this great playlist preview cell, I decided to create my own ones. Now you can give your users ability to quick check "what content is hidden under your UITableViewCell". Great think is that this Library not requires 3D Touch support from user device.
 * [SBGestureTableView](https://github.com/Stickbuilt/SBGestureTableView) - Swift UITableView subclass that supports swiping rows ala Mailbox and long press to move rows.
@@ -2301,6 +2299,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
 * [ExpandingViewTransition](https://github.com/tomkowz/ExpandingViewTransition-Demo) - Example of how to create custom view controllers transition.
 * [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images written in Swift.
+* [inbox-replica](https://github.com/RabbitMC/inbox-replica) - Recreated the expanding cells effect from `Inbox` by Google in Swift.
 * [ISScrollViewPageSwift](https://github.com/Ilhasoft/ISScrollViewPageSwift) ScollView with UIViewController
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - MCMHeaderAnimated allows you to add an animation between list and detail views.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition)
