@@ -1797,6 +1797,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [OptionalEmptyTableViews](https://github.com/stuartbreckenridge/OptionalEmptyTableViews)
 * [PBDataTableView](https://github.com/praveenb-ios/PBDataTableView) - DataTable for iPhone and iPad.
 * [QuickRearrangeTableView](https://github.com/okla/QuickRearrangeTableView)
+* [SAInboxViewController](https://github.com/marty-suzuki/SAInboxViewController) - UIViewController subclass inspired by "Inbox by google" animated transitioning.
 * [SAStickyHeader](https://github.com/shams-ahmed/SAStickyHeader) - A very simple sticky header with multiple image support via swipe gestures.
 * [Static](https://github.com/venmo/Static) - Simple static table views for iOS in Swift.
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of UITableView can be rearranged by drag and drop.
