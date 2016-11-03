@@ -234,6 +234,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SLPopupViewController](https://github.com/sunlight3d/SLPopupViewController)
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
+* [SwiftyPickerPopover](https://github.com/hsylife/SwiftyPickerPopover) - Popover with Picker by Swift 3/2.3 for iPhone/iPad, iOS9+.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
 * [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert)
 * [UNAlertView](https://github.com/ytakzk/UNAlertView)
@@ -301,6 +302,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [springdamping](https://github.com/mortenjust/springdamping) - Realtime experimentation with duration, spring and damping for UIView animations.
 * [Stellar](https://github.com/AugustRush/Stellar) - A fantastic Physical animation library for swift.
 * [UIViewXXYBoom](https://github.com/xxycode/UIViewXXYBoom)
+* [WVCheckMark](https://github.com/wvabrinskas/WVCheckMark) - Animated checkmark made with CoreAnimation.
 
 ## App
 *Apps and tutorials*
@@ -329,6 +331,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard) - Hang a TV in your open space or team room to show everyone what's up and get them up to speed. 📺
 * [gulps](https://github.com/FancyPixel/gulps) - Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
 * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - This repository contains an example Highstreet WatchKit app. ⌚️
+* [Hoopy](https://github.com/danielinoa/Hoopy) - Hoopy is a lightweight and minimal Dribbble client.
 * [iCopyPasta](https://github.com/alltheflow/iCopyPasta) - iOS app for your pasteboard feed, demo app for experimenting with RxSwift.
 * [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) - JBWatchActivityIndicator - An easy way to generate activity indicator images for Apple Watch. ⌚️
@@ -635,6 +638,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TNRadioButtonGroup](https://github.com/frederik-jacques/TNRadioButtonGroup) - Create easy radio button groups in Objective-C.
 
 #### 🔸*Swift*
+* [iCheckbox](https://github.com/mancunianetz/iCheckbox) - Checkbox component for iOS apps.
 * [vkcheckbox](https://www.cocoacontrols.com/controls/vkcheckbox) - Simple customizable closure-based checkbox control written on Swift.
 
 ## CollectionView
@@ -685,6 +689,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ADMozaicCollectionViewLayout](https://github.com/Antondomashnev/ADMozaicCollectionViewLayout) - ADMozaicCollectionViewLayout is yet another UICollectionViewLayout subclass that implements "brick" or "mozaic" layout.
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
+* [CardsStack](https://github.com/priteshrnandgaonkar/CardsStack) - An awesome set of cards at your disposal 
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts.
 * [GooglePlayTransition](https://github.com/xxxAIRINxxx/GooglePlayTransition) - Custom transition like Google Play Store Android App. written in Swift.
@@ -1357,6 +1362,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData is a framework to easily access Core Data objects in Swift.
 * [BNR CoreDataStack](https://github.com/bignerdranch/CoreDataStack) - The Big Nerd Ranch Core Data stack.
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift
+* [Depot](https://github.com/iSame7/Depot) - Struct persistance framework for Swift.
 * [GRDB](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit for Swift, with WAL mode support.
 * [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit)
 * [QueryKit](https://github.com/QueryKit) - A simple CoreData query language for Swift and Objective-C.
@@ -1411,6 +1417,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Download-Indicator](https://github.com/MaheshRS/Download-Indicator)
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders)
 * [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)
+* [GTProgressBar](https://github.com/gregttn/GTProgressBar) - Customisable progress bar written in Swift 3.
 * [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress)
 * [KYCircularProgress](https://github.com/kentya6/KYCircularProgress)
 
@@ -1708,7 +1715,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NinaPagerView](https://github.com/RamWire/NinaPagerView) - NinaPagerView is a low-coupling segment easy to page your controllers and views.
 * [NTSlidingViewController](https://github.com/nonstriater/NTSlidingViewController)
 * [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController)
-* [RKTabView](https://github.com/RafaelKayumov/RKTabView)
+* [RKTabView](https://github.com/RafaelKayumov/RKTabView) - This is super flexible Custom tab bar controller implementation.
+* [RSCustomTabbarController](https://github.com/ratulSharker/RSCustomTabbarController)
 * [SWGradientTabBar](https://github.com/satheeshwaran/SWGradientTabBar)
 * [VMTabbarCustomize](https://github.com/VuMai/VMTabbarCustomize)
 * [ZRScrollableTabBar](https://github.com/raihan/ZRScrollableTabBar)
@@ -2223,6 +2231,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ZoomTransition](https://github.com/tristanhimmelman/ZoomTransition) - An easy to use interactive zoom transition for presenting view controllers onto a navigation stack.
 
 #### 🔸*Swift*
+* [AMLoginSignup](https://github.com/amirdew/AMLoginSignup) - Login/Signup ViewController for iOS.
 * [CarbonKitSwift](https://github.com/melieskubrick/CarbonKitSwift) - CarbonKit is an OpenSource iOS library that includes powerful and beauty UI controllers.
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController)
 * [interactiveplayerview](https://github.com/AhmettKeskin/InteractivePlayerView) - Custom iOS music player view.
