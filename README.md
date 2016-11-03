@@ -784,9 +784,11 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ASCalendar](https://github.com/scamps88/ASCalendar) - A calendar control for iOS written in swift with mvvm pattern.
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
+* [DPTimePicker](https://github.com/dariopellegrini/DPTimePicker) - 
 * [EPCalendarPicker](https://github.com/ipraba/EPCalendarPicker) - Colourful calendar for iOS written in Swift.
 * [ISTimeline](https://github.com/instant-solutions/ISTimeline) - Simple timeline view written in Swift 2.2.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final Apple calendar you will ever try. Built for iOS in Swift.
+* [Koyomi](https://github.com/shoheiyokoyama/Koyomi) - Koyomi is a simple calendar view framework for iOS, written in Swift.
 * [MIDatePicker](https://github.com/MarioIannotta/MIDatePicker) - A lightweight, non-invasive, fully customizable DatePicker.
 * [SCPopDatePicker](https://github.com/scrainie/SCPopDatePicker)
 
@@ -833,6 +835,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [CGGeometry](https://github.com/andyyhope/Blog_CGGeometry) - Swift: CGRect, CGSize, CGPoint.
+* [Iconic](https://github.com/dzenbot/Iconic) - Auto-generated icon font library for iOS & tvOS.
 * [InkKit](https://github.com/shaps80/InkKit) - Drawing and Geometry made easy for iOS.
 
 ## Gesture
@@ -904,6 +907,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
 * [SwiftUIImageEffects](https://github.com/globchastyy/SwiftUIImageEffects)
 * [Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
+* [Walt](https://github.com/gonzalonunez/Walt) - A Swift 3 library for creating gifs and videos from a series of images.
 
 ## Intro
 *LaunchScreen, OnBoarding, Splashscreen, WalkThrough*
@@ -1457,6 +1461,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔹*Obj-C*
 * [HCSStarRatingView](https://github.com/hsousa/HCSStarRatingView) - Simple star rating view for iOS written in Objective-C.
+* [EZRatingView](https://github.com/EvianZhow/EZRatingView) - Star mark rating view with flat design.
 
 #### 🔸*Swift*
 * [FloatRatingView](https://github.com/strekfus/FloatRatingView) - Whole, half or floating point ratings control written in Swift.
@@ -1819,6 +1824,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [folding-cell](https://github.com/Ramotion/folding-cell)
 * [inbox-replica](https://github.com/RabbitMC/inbox-replica) - Recreated the expanding cells effect from `Inbox` by Google in Swift.
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - Animation between list and detail views.
+* [RHPreviewCell](https://github.com/robertherdzik/RHPreviewCell) - Use long press on cell to trigger action I envied so much Spotify iOS app this great playlist preview cell, I decided to create my own ones. Now you can give your users ability to quick check "what content is hidden under your UITableViewCell". Great think is that this Library not requires 3D Touch support from user device.
 * [SBGestureTableView](https://github.com/Stickbuilt/SBGestureTableView) - Swift UITableView subclass that supports swiping rows ala Mailbox and long press to move rows.
 * [WobbleView](https://github.com/inFullMobile/WobbleView) -  Wobble effect.
 * [VPAccordionAnimation](https://github.com/varunpm1/VPAccordionAnimation) - Accordion Animation for UITableView cell expansion and collapsing.
@@ -2193,7 +2199,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [VBPiledView](https://github.com/v-braun/VBPiledView) - Simple and beautiful stacked UIView to use as a replacement for an UITableView, UIImageView or as a menu.
 * [VHUD](https://github.com/xxxAIRINxxx/VHUD)
 * [VideoThumbView](https://github.com/toygar/VideoThumbView) - Video Thumb ScrollView.
-
+* [Wallet](https://github.com/rshevchuk/Wallet) - Wallet is a library to manage cards and passes.
 
 ## ViewController
 
