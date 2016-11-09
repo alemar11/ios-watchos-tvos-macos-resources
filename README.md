@@ -2003,6 +2003,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
 * [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
 * [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
+* [RNNotificationView](https://github.com/souzainf3/RNNotificationView) - Emulates the native Notification Banner UI for any alert.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - A Swift extension that adds toast notifications to the UIView object class.
 * [ZKNavigationController](https://github.com/ZacharyKhan/ZKNavigationController) - iOS Navigation Controller Alert.
@@ -2071,6 +2072,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Laconic](https://github.com/igormatyushkin014/Laconic) - Short and clear expressions in Swift.
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Swift 2.0 friendly localization and i18n with in-app language switching.
 * [Luminescence](https://github.com/Zewo/Luminescence) - HTTP parser for Swift 2 (Linux ready).
+* [Luminous](https://github.com/andrealufino/Luminous) - Luminous gives you all the system information you need (Network, Locale, Carrier...)
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 * [Money](https://github.com/danthorpe/Money) - Swift value types for working with money & currency.
 * [NSData-GZIP](https://github.com/1024jp/NSData-GZIP) - NSData+GZIP.swift is an extension of NSData written in Swift 2.0. It enables compress/decompress gzip using zlib.
