@@ -539,10 +539,12 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DynamicButton](https://github.com/yannickl/DynamicButton)
 * [GNTickerButton](https://github.com/gonzalonunez/GNTickerButton)
 * [Hamburger Menu Button](https://github.com/toannt/Hamburger-Menu-Button)
+* [iOS-camera-button](https://github.com/otusweb/iOS-camera-button) - A button that behave the same way as the video camera button in the iOS camera.
 * [JOEmojiableBtn](https://github.com/lojals/JOEmojiableBtn) - Emoji selector like Facebook Reactions.
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton)
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)
 * [LoadingButton](https://github.com/SeptiyanAndika/LoadingButton) - UIButton subclass with an activity indicator and loading text.
+* [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 * [MaterialView](https://github.com/karticodes/MaterialView) - Material Floating Button for iOS.
 * [MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - Ring progress view similar to Activity app on Apple Watch.
 * [MMLoadingButton](https://github.com/MillmanY/MMLoadingButton) - Custom Loading Button With Animation.
@@ -1066,6 +1068,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit.
 * [FliudLoadingIndicator](https://github.com/vinit5320/FliudLoadingIndicator)
 * [ITActivityIndicator](https://github.com/iluuu1994/ITActivityIndicator) - A very simple alternative to UIActivityIndicatorView.
+* [JDProgressRoundView](https://github.com/jamesdouble/JDProgressRoundView)
 * [KOActivityIndicator](https://github.com/kohtenko/KOActivityIndicator)
 * [Loader](https://github.com/samhann/Loader.swift) - This library allows you to easily add an FB style animated loading placeholder to your tableviews or collection views.
 * [MAActivityIndicator](https://github.com/micazeve/MAActivityIndicator)
