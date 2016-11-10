@@ -1852,6 +1852,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JCTagListView](https://github.com/lijingcheng/JCTagListView) - Support delete tags and settings tags color.
 * [PARTagPicker](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
 * [RKTagsView](https://github.com/kuler90/RKTagsView) - Highly customizable iOS tags view.
+* [TimelineTableViewCell](https://github.com/kf99916/TimelineTableViewCell) - Simple timeline view implemented by UITableViewCell written in Swift 3.0.
 * [WATokenFieldView](https://github.com/wendyabrantes/WATokenFieldView) - TokenFieldView is used to search and and tag in a text view.
 * [ZFTokenField](https://github.com/zoonooz/ZFTokenField) - iOS custom view that let you add token view inside like NSTokenField.
 
@@ -1968,7 +1969,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SnapTimer](https://github.com/andresinaka/SnapTimer) - Implementation of Snapchat's stories timer.
 
 ## Toast Notification
-*Toast Notifications and message bars*
+*Toast Notifications, snack bars and message bars*
 
 #### 🔹*Obj-C*
 * [APToast](https://github.com/podkovyrin/APToast)
@@ -2009,6 +2010,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RNNotificationView](https://github.com/souzainf3/RNNotificationView) - Emulates the native Notification Banner UI for any alert.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - A Swift extension that adds toast notifications to the UIView object class.
+* [TTGSnackbar](https://github.com/zekunyan/TTGSnackbar) - TTGSnackbar shows simple message and action button on the bottom or top of the screen with multi kinds of animation.
 * [ZKNavigationController](https://github.com/ZacharyKhan/ZKNavigationController) - iOS Navigation Controller Alert.
 * [Whisper](https://github.com/hyperoslo/Whisper)
 
@@ -2076,6 +2078,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Swift 2.0 friendly localization and i18n with in-app language switching.
 * [Luminescence](https://github.com/Zewo/Luminescence) - HTTP parser for Swift 2 (Linux ready).
 * [Luminous](https://github.com/andrealufino/Luminous) - Luminous gives you all the system information you need (Network, Locale, Carrier...)
+* [Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics Swift library with SVG support.
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 * [Money](https://github.com/danthorpe/Money) - Swift value types for working with money & currency.
 * [NSData-GZIP](https://github.com/1024jp/NSData-GZIP) - NSData+GZIP.swift is an extension of NSData written in Swift 2.0. It enables compress/decompress gzip using zlib.
