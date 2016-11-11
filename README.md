@@ -915,6 +915,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
 * [SwiftUIImageEffects](https://github.com/globchastyy/SwiftUIImageEffects)
 * [Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
+* [Walt](https://github.com/gonzalonunez/Walt) - A Swift 3 library for creating gifs and videos from a series of images.
 * [ZoomImageView](https://github.com/muukii/ZoomImageView) - UI component library to expand the photo, such as Apple's Photos app.
 
 ## Intro
