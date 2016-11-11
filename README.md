@@ -858,6 +858,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool [Swift / iOS].
 * [EPSignature](https://github.com/ipraba/EPSignature) - Signature component for iOS in Swift.
+* [GestureLockView](https://github.com/778477/GestureLockView) - User Gesture lock & unlock View.
 * [InceptionTouch](https://github.com/richzertuche/InceptionTouch) - Who needs 3DTouch when you can have InceptionTouch.
 * [Knock](https://github.com/Headtalk/Knock) - A simple detector for physical knocks on the back or front of an iPhone.
 * [LimSignatureView](https://github.com/limhowe/LimSignatureView) - Signature View in Swift.
@@ -914,7 +915,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
 * [SwiftUIImageEffects](https://github.com/globchastyy/SwiftUIImageEffects)
 * [Toucan](https://github.com/gavinbunney/Toucan) - Toucan is a Swift library that provides a clean, quick API for processing images.
-* [Walt](https://github.com/gonzalonunez/Walt) - A Swift 3 library for creating gifs and videos from a series of images.
+* [ZoomImageView](https://github.com/muukii/ZoomImageView) - UI component library to expand the photo, such as Apple's Photos app.
 
 ## Intro
 *LaunchScreen, OnBoarding, Splashscreen, WalkThrough*
@@ -1064,6 +1065,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CircleSlider](https://github.com/shushutochako/CircleSlider)
 * [DotsLoader](https://github.com/mattlawer/DotsLoader) - Dots Activity Indicator using Interface Builder.
 * [DPBasicLoading](https://github.com/dwipp/DPBasicLoading) - It's a very basic loading in iOS.
+* [DRPLoadingSpinner](https://github.com/justindhill/DRPLoadingSpinner) - A customizable loading spinner and refresh control for iOS that's strikingly Material-like.
 * [DTIActivityIndicatorView-Swift](https://github.com/dtissera/DTIActivityIndicatorView-Swift)
 * [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit.
 * [FliudLoadingIndicator](https://github.com/vinit5320/FliudLoadingIndicator)
@@ -1077,6 +1079,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MOOverWatchLoadingView](https://github.com/minsOne/MOOverWatchLoadingView) - Animation like OverWatch Loading written in Swift.
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 * [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) - A customizable SpriteKit particles animation on the border of a view.
+* [ProgressButton](https://github.com/AlKhokhlov/ProgressButton) - Custom ProgressButton.
 * [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX. `macOS`
 * [RSDotsView](https://github.com/Kemcake/RSDotsView)
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - A Swift GUI library for displaying various popups and notifications
@@ -1171,6 +1174,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [LGPlusButtonsView](https://github.com/Friend-LGA/LGPlusButtonsView) - iOS implementation of Google 'plus button', that shows more options.
 * [LGSideMenuController](https://github.com/Friend-LGA/LGSideMenuController)
 * [LMDropdownView](https://github.com/lminhtm/LMDropdownView) - Simple dropdown view inspired by Tappy.
+* [LMSideBarController](https://github.com/lminhtm/LMSideBarController) - LMSideBarController is a simple side bar controller inspired by Tappy.
 * [LocationPicker](https://github.com/JeromeTan1997/LocationPicker) - A ready for use and fully customizable location picker for your app.
 * [M13ContextMenu](https://github.com/Marxon13/M13ContextMenu) - A Pintrest style context menu for iOS.
 * [MCSFishEye](https://github.com/macoscope/MCSFishEye) - The dock-like control for iOS.
@@ -1243,6 +1247,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
+* [FirebaseChat](https://github.com/sohamb1390/FirebaseChat) - A simple anonymous group chat application using Firebase.
 * [ForceBlur](https://github.com/Yalantis/ForceBlur) - ForceBlur Animation for iOS Messaging Apps.
 * [FTChatMessageDemoProject](https://github.com/liufengting/FTChatMessageDemoProject) - FTChatMessageDemoProject, a chat message ui framework written in swift. Not quite finished.
 * [MessageProgressView](https://github.com/Tueno/MessageProgressView) - Simple loading animation for Swift.
@@ -1347,6 +1352,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [EasyPickersCollection](https://github.com/TimurBK/EasyPickersCollection) - Collection of simple, extensible, easy to use pickers. Inspired by ActionSheetPicker.
 * [KDropDownMultipleSelection](https://github.com/kiran5232/KDropDownMultipleSelection) - Single or multiple selection in dropdownlist.
 * [KPFontPicker](https://github.com/pahnev/KPFontPicker) - https://github.com/pahnev/KPFontPicker.
+
+#### �*Swift*
+* [DTPhotoViewerController](https://github.com/tungvoduc/DTPhotoViewerController)
 
 ## Persistance
 *CoreData, SQLite, NSUserDefaults, Caching*
@@ -1543,6 +1551,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MPParallaxCollection](https://github.com/MP0w/MPParallaxCollection)
 * [OLEContainerScrollView](https://github.com/ole/OLEContainerScrollView) - A UIScrollView subclass that intelligently handles multiple child scroll views and does not interfere with UIKitʼs cell reuse functionality.
 * [PACScrollView](https://github.com/claudot/PACScrollView) - UIScrollView with blurry effect on scroll.
+* [Parent-Child-ScrollView](https://github.com/SundeepSun/Parent-Child-ScrollView) - Child ScrollView contents changes based on the selection of Parent ScrollView selected item.
 * [PFTemplates](https://github.com/goreste/PFTemplates) - A scrollview similar to Instagram and 20lines app.
 * [PHPageScrollView](https://github.com/TaPhuocHai/PHPageScrollView)
 * [SMScrollView](https://github.com/smnh/SMScrollView)
@@ -1862,6 +1871,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RRTagController](https://github.com/remirobert/RRTagController) - RRTagController allows user to select tag and create new one.
 * [UITags](https://github.com/gtsif21/UITags)
 * [WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
+* [YZTagView](https://github.com/yoshiz3-onishi/YZTagView) - A simple tag view.
 
 ## Text
 *NSAttributedStrings, TextKit and UITextView, NSTextView*
@@ -2003,6 +2013,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Hermes](https://github.com/Imgur/Hermes)
 * [HJToast](https://github.com/himanshujoshi47/HJToast) - Toast messages for iOS.
 * [iOSNotificationBanner](https://github.com/loconsolutions/iOSNotificationBanner)
+* [iPopUp](https://github.com/BlueWonders/iPopUp) - iPopUp uses custom view, not UIPopover or AlertView. UIView contains a tableview. The project is simple, clean and easy to implement.
 * [KRAlertController](https://github.com/krimpedance/KRAlertController) - A colored alert view for your iOS.
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
 * [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
@@ -2173,6 +2184,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NSView-ESSViewCategory](https://github.com/eternalstorms/NSView-ESSViewCategory) - A category on NSView that simplifies zoom-transitioning between two NSViews. `macOS`
 * [PWParallaxScrollView](https://github.com/wpsteak/PWParallaxScrollView)
 * [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by Twitter splash.
+* [SCAvatarBrowser](https://github.com/luosch/SCAvatarBrowser) - Provide detail view for thumb image.
 * [SKPanoramaView](https://github.com/sachinkesiraju/SKPanoramaView) - Create beautiful animated panorama views. Inspired by the intro view on the LinkedIn iOS app.
 * [SSUIViewMiniMe](https://github.com/sSegev/SSUIViewMiniMe) - A miniature replica of your UIView with an indicator of your location.
 * [TGDrawSvgPathView](https://github.com/Tibolte/TGDrawSvgPathView) - IOS helper class to draw animated paths from SVG files
@@ -2180,6 +2192,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TWRBorderedView](https://github.com/chasseurmic/TWRBorderedView) - A custom UIView subclass to easily turn on drawing of each single border on a view.
 * [UIView-Easing](https://github.com/tapthaker/UIView-Easing)
 * [UIView-Shake](https://github.com/andreamazz/UIView-Shake) - UIView category that adds a shake animation like the password field of the OSX login screen. 
+* [WCSBubbleView](https://github.com/WrightsCS/WCSBubbleView) - 3-tier Bubble view with title, detail, value and some options.
 * [XMCircleType](https://github.com/MichMich/XMCircleType) - XMCircleTypeView is a UIView that allows you to display an NSString as a cicular text. Is will take font kerning into account, so no weird spacings.
 * [core-background](https://github.com/justinmfischer/core-background) - set of Objective-C classes inspired by the iOS Yahoo Weather App. It provides iOS location-based Flickr backgrounds with Gaussian blur light effects for iPhone.
 
@@ -2245,6 +2258,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController)
 * [interactiveplayerview](https://github.com/AhmettKeskin/InteractivePlayerView) - Custom iOS music player view.
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control.
+* [MRArticleViewController](https://github.com/mrigdon/MRArticleViewController) - Easily create UIViewControllers for news articles similar to those in the News app.
 * [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
 * [SJSegmentedViewController](https://github.com/subinspathilettu/SJSegmentedViewController) - SJSegmentedScrollView is a light weight generic controller written in Swift 2.3. Its a simple customizable controller were you can integrate any number of ViewControllers into a segmented controller with a header view controller.
 * [StackPageView](https://github.com/noppefoxwolf/StackPageView) - SwipeViewController is a Swift modification of RKSwipeBetweenViewControllers - navigate between pages / ViewControllers.
