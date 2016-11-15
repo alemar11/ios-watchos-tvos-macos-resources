@@ -213,6 +213,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [App-Rating-Alert](https://github.com/pablojotaguardiola/App-Rating-Alert) - Show an alert to rate your APP.
 * [BMInputBox](https://github.com/blackmirror-media/BMInputBox)
+* [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup written in Swift 3.
 * [DCAlertController](https://github.com/noppefoxwolf/DCAlertController)
 * [DOAlertController](https://github.com/okmr-d/DOAlertController)
 * [DTIToastCenter-Swift](https://github.com/dtissera/DTIToastCenter-Swift)
