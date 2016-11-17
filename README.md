@@ -1561,10 +1561,12 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [StrechyParallaxScrollView](https://github.com/cemolcay/StrechyParallaxScrollView)
 * [Swiper](https://github.com/gkye/Swiper) - UIView sublass for creating Tinder like swipe cards, with a peek view.
 * [TAPageControl](https://github.com/TanguyAladenise/TAPageControl)
+* [TOScrollBar](https://github.com/TimOliver/TOScrollBar) - An interactive scroll bar for traversing comically massive scroll views.
 * [ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableView) - A simple view for building card like interface like Tinder and Potluck.
 * [ZSeatSelector](https://github.com/richzertuche/ZSeatSelector) - Create a cinema seat map Layout.
 
 #### 🔸*Swift*
+* [CMLazyScrollViewController](https://github.com/Mycose/CMLazyScrollViewController) - Lazy ScrollView with support for infinite scroll (using a paging system with UIViewControllers and not UIViews).
 * [CrossNavigation](https://github.com/artemstepanenko/CrossNavigation) - Any side navigation.
 * [LoopedContentsView](https://github.com/naru-jpn/LoopedContentsView) - View to display looped contents.
 * [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) - Simple parallax header for UIScrollView.
@@ -1636,6 +1638,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [CircularSlider](https://github.com/taglia3/CircularSlider) - A powerful Circular Slider. It's written in Swift, it's 100% IBDesignable and all parameters are IBInspectable.
 * [GradientSlider](https://github.com/jonhull/GradientSlider)
+* [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
+* [RangeSlider](https://github.com/matthewreagan/RangeSlider) - Simple, clean, and customizable range-based slider control for macOS. `macOS`
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
 * [SpringySlider](https://github.com/josephlord/SpringySlider)
 
@@ -2233,6 +2237,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [VHUD](https://github.com/xxxAIRINxxx/VHUD)
 * [VideoThumbView](https://github.com/toygar/VideoThumbView) - Video Thumb ScrollView.
 * [Wallet](https://github.com/rshevchuk/Wallet) - Wallet is a library to manage cards and passes.
+* [WOWRibbonView](https://github.com/zhouhao27/WOWRibbonView) - Ribbon view for iOS in Swift 3.
 
 ## ViewController
 
@@ -2343,6 +2348,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## WebView
 
 #### 🔹*Obj-C*
+* [CHWebView](https://github.com/chausson/CHWebView) - CHWebView is a lightweigh object-c implemented for webview.It's WKWebView and UIWebView adapter. Support progress view when web is loading and html can convenient to call object-c method.
 * [DZNWebViewController](https://github.com/dzenbot/DZNWebViewController)
 
 #### 🔸*Swift*
