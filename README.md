@@ -989,6 +989,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [CustomKeyboardTextField](https://github.com/giginet/CustomKeyboardTextField) - Provides easy way to make type safety TextField with custom keyboards.
 * [KBKit](https://github.com/edekhayser/KBKit) - Classes to extend UIKit navigation using key commands.
+* [KeyboardAvoidance](https://github.com/radu-costea/KeyboardAvoidance) - Keyboard avoiding kit. The minimal setup you need to make sure that your app can handle easily the appearence / dismissal of the keyboard.
 * [Keyboardy](https://github.com/podkovyrin/Keyboardy) - UIViewController extension for convenient keyboard management.
 * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
 * [PANumberKeyboard](https://github.com/AlexeyYuPopkov/PANumberKeyboard) - Custom Decimal Number Keyboard.
