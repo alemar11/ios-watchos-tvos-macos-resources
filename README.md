@@ -2101,6 +2101,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Money](https://github.com/danthorpe/Money) - Swift value types for working with money & currency.
 * [NSData-GZIP](https://github.com/1024jp/NSData-GZIP) - NSData+GZIP.swift is an extension of NSData written in Swift 2.0. It enables compress/decompress gzip using zlib.
 * [OCR-Demo-with-IDOL-OnDemand](https://github.com/bpolat/Swift-OCR-Demo-with-IDOL-OnDemand) - Converting Images into text by using HP's IDOL OnDemand service - iOS app which is written with Swift.
+* [Overdrive](https://github.com/arikis/Overdrive) - Fast async task based API in Swift with focus on type safety, concurrency and multi threading.
 * [PAPermissions](https://github.com/pascalbros/PAPermissions) - A unified API to ask for permissions on iOS.
 * [peekpop](https://github.com/marmelroy/peekpop) - Peek and Pop with backwards-compatibility.
 * [Permission](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
