@@ -699,6 +699,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GooglePlayTransition](https://github.com/xxxAIRINxxx/GooglePlayTransition) - Custom transition like Google Play Store Android App. written in Swift.
 * [Hanabi](https://github.com/kshin/Hanabi) - UICollectionViewLayout subclass with a focus on UICollectionViewCell content.
 * [FlowLayout](https://github.com/avdyushin/FlowLayout) - UICollectionViewFlowLayout with alignment modes.
+* [HFCardCollectionViewLayout](https://github.com/hfrahmann/HFCardCollectionViewLayout) - The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet.
 * [KRLCollectionViewGridLayout](https://github.com/JayGajjar/JGTransitionCollectionView/tree/master/JGTransitionCollectionView) - A iOS swift base collectionview with unique animation feature inspired from behance made using UICollectionView.
 * [KDDragAndDropCollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
 * [IOStickyHeader](https://github.com/BenjaminPrieur/IOStickyHeader) - Parallax and Sticky header done right using UICollectionViewLayout.
@@ -800,6 +801,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Koyomi](https://github.com/shoheiyokoyama/Koyomi) - Koyomi is a simple calendar view framework for iOS, written in Swift.
 * [MIDatePicker](https://github.com/MarioIannotta/MIDatePicker) - A lightweight, non-invasive, fully customizable DatePicker.
 * [SCPopDatePicker](https://github.com/scrainie/SCPopDatePicker)
+* [sscalendar](https://github.com/StevenPreston/sscalendar) - A Swift and Objective-C compatible iOS calendar UI library that can be used to display a calendar of events within your app. Note that this calendar is not designed as a picker but rather to display an existing set of events.
 
 ## Dynamic Behavior
 
@@ -829,8 +831,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [Font-Awesome-Swift](https://github.com/thii/FontAwesome.swift)
+* [Fontawesome](https://github.com/hirohisa/Font-Awesome) - Demonstrates how to download fonts on demand on iOS 6 and later.
 * [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Say goodbye to importing custom fonts via property lists as FontBlaster automatically imports and loads all fonts in your app's NSBundles with one line of code.
-* [Fontawesome](https://github.com/hirohisa/Font-Awesome)
+* [FontDownload](https://github.com/ililysong/FontDownload)
 * [GoogleMaterialIconFont](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Design Icons for Swift and ObjC project.
 * [MaterialDesignSymbol](https://github.com/tichise/MaterialDesignSymbol)
 * [SwiftFontName](https://github.com/morizotter/SwiftFontName)
@@ -871,6 +874,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Signature-Capture](https://github.com/vigneshuvi/iOS-Signature-Capture) - iOS-Signature-Capture is helps to capture the user signature with name and signed date in iOS and supports both Objective-c and Swift languages.
 * [Standard-Template-Protocols](https://github.com/cconeil/Standard-Template-Protocols) - Protocols for your every day iOS needs.
 * [Tactile](https://github.com/delba/Tactile) - The Swift way to add UIGestureRecognizer and to react to UIControlEvents.
+* [TouchesWindow](https://github.com/dmoroz0v/TouchesWindow) - Show touch and force-touch indicators for your iOS app. Have swift and obj-c versions.
 
 ## Image
 *Images, images processing and Galleries*
@@ -1078,6 +1082,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KOActivityIndicator](https://github.com/kohtenko/KOActivityIndicator)
 * [Loader](https://github.com/samhann/Loader.swift) - This library allows you to easily add an FB style animated loading placeholder to your tableviews or collection views.
 * [MAActivityIndicator](https://github.com/micazeve/MAActivityIndicator)
+* [MaterialLoadingIndicator](https://github.com/Tueno/MaterialLoadingIndicator) - Material like loading indicator sample for iOS.
 * [MFLFillableTextLoader](https://github.com/MattFoley/MFLFillableTextLoader) - Loading slash progress indicator based on filling stroked text.
 * [MediumProgressView](https://github.com/pixyzehn/MediumProgressView)
 * [MOOverWatchLoadingView](https://github.com/minsOne/MOOverWatchLoadingView) - Animation like OverWatch Loading written in Swift.
@@ -1221,6 +1226,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A fully customizable and flexible paging menu controller built from other view controllers placed inside a scroll view
 * [Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS) - Animated side menu with customizable UI.
 * [SideMenuController](https://github.com/teodorpatras/SideMenuController) - A side menu controller written in Swift.
+* [SidePanel](https://github.com/db42/SidePanel) - Google styled side panel for iOS written in Swift.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure swift.
 * [SliderPanel](https://github.com/sebk/SliderPanel)
 * [SwiflyOverlay](https://github.com/edwinbosire/SwiflyOverlay) - Another Navigation component for iOS. This time written in swift.
@@ -1255,6 +1261,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ForceBlur](https://github.com/Yalantis/ForceBlur) - ForceBlur Animation for iOS Messaging Apps.
 * [FTChatMessageDemoProject](https://github.com/liufengting/FTChatMessageDemoProject) - FTChatMessageDemoProject, a chat message ui framework written in swift. Not quite finished.
 * [MessageProgressView](https://github.com/Tueno/MessageProgressView) - Simple loading animation for Swift.
+* [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
 * [NMessenger](https://github.com/eBay/NMessenger) - A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift.
 * [swift-chat](https://github.com/firebase/ios-swift-chat-example) - FireChat implemented in Swift!.
 
@@ -1908,6 +1915,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Down](https://github.com/iwasrobbed/Down) - Blazing fast Markdown rendering in Swift, built upon cmark.
 * [EmojiTextView](https://github.com/fastred/EmojiTextView) - Tap to swap out words with emojis. Inspired by Messages.app on iOS 10.
 * [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - add text(multiple line support) to imageView, edit, rotate or resize them as you want, then render the text on image.
+* [HighlightTextView](https://github.com/yusayusa/HighlightTextView)
 * [Marklight](https://github.com/macteo/Marklight) - Markdown syntax highlighter for iOS.
 * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 * [PTPPlaceholderTextView](https://github.com/pitiphong-p/PTPPlaceholderTextView) - A simple naive implementation of UITextView subclass to support placeholder text rendering in UITextView.
@@ -2012,6 +2020,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [UIUserNotificationSettings-Extension](https://github.com/alexruperez/UIUserNotificationSettings-Extension)
 
 #### 🔸*Swift*
+* [ASToast)](https://github.com/abdullahselek/ASToast) - A Swift extension for using Android style Toast notifications.
 * [AZNotification-Swift](https://github.com/azamsharp/AZNotification-Swift)
 * [BRYXBanner](https://github.com/bryx-inc/BRYXBanner)
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)
