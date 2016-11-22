@@ -309,6 +309,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 *Apps and tutorials*
 
 #### 🔹*Obj-C*
+* [Dash](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets.
 * [MMWormhole](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions. ⌚️
 * [Movies](https://github.com/KMindeguia/movies)
 * [iBurn-iOS](https://github.com/Burning-Man-Earth/iBurn-iOS) - iBurn is an offline map and guide for the Burning Man art festival.
@@ -1257,6 +1258,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
+* [chatheads](https://github.com/rajatgupta26/fk-ios-chatheads) - Library to use chat heads within your iOS app with complete physics and animations which drive multi user chat behaviour to support collapsed/stacked or expanded states.
 * [FirebaseChat](https://github.com/sohamb1390/FirebaseChat) - A simple anonymous group chat application using Firebase.
 * [ForceBlur](https://github.com/Yalantis/ForceBlur) - ForceBlur Animation for iOS Messaging Apps.
 * [FTChatMessageDemoProject](https://github.com/liufengting/FTChatMessageDemoProject) - FTChatMessageDemoProject, a chat message ui framework written in swift. Not quite finished.
@@ -1503,6 +1505,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Iconic](https://github.com/dzenbot/Iconic) - Auto-generated icon font library for iOS.
 * [Misen](https://github.com/tasanobu/Misen) - Script to support easily using Xcode Asset Catalog in Swift.
 * [Natalie](https://github.com/krzyzanowskim/Natalie) - Storyboard Code Generator.
+* [PPAssetsActionController](https://github.com/pantuspavel/PPAssetsActionController) - Highly customizable Action Sheet Controller with Assets Preview written in Swift 3.
 * [R](https://github.com/mac-cain13/R.swift) - Get strong typed, autocompleted resources like images, fonts and segues in Swift projects.
 * [ResourceInstantiatable](https://github.com/rizumita/ResourceInstantiatable) - iOS resources management framework in Swift2.
 * [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings, …).
@@ -1810,6 +1813,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 
 * [AccordionTableViewController](https://github.com/klevison/KMAccordionTableViewController) - Accordion UITableViewController component based on Apples's example.
+* [CascadingTableDelegate](https://github.com/edopelawi/CascadingTableDelegate) - A no-nonsense way to write cleaner UITableViewDelegate and UITableViewDataSource in Swift.
 * [COBezierTableView](https://github.com/knutigro/COBezierTableView) - UITableView modification written in Swift where cells are scrolling in an arc defined by a BezierPath.
 * [ConfigurableTableViewController](https://github.com/fastred/ConfigurableTableViewController) - Typed, yet Flexible Table View Controller.
 * [EssentialTableView](https://github.com/sohamb1390/EssentialTableView) - A detailed project on UITableView which includes Parallax effects, Collapse/Expand UITableViewCell, 3D Touch on UITableViewCell.
@@ -2068,6 +2072,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [BugReportKit](https://github.com/rahuljiresal/BugReportKit/tree/master/Example/BugReportKit)
 * [CZWeatherKit](https://github.com/comyarzaheri/CZWeatherKit) - A Simple Cocoa Weather Library.
 * [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper) - Quick tool to explain the right place to enable your privacy settings.
+* [GDPerformanceView](https://github.com/dani-gavrilov/GDPerformanceView) - Shows FPS, CPU usage, memory usage above the status bar.
 * [HelperLibrary](https://github.com/rondinellimorais/HelperLibrary) - The HelperLibrary framework is a static library iOs simple that contains all the implementation of the silly and repetitive work you have to do every time you create a new iOS / OSX project. `macOS`
 * [MBObjectPoolManager](https://github.com/MBKwon/MBObjectPoolManager) - MBObjectPoolManager is best way to reuse your objects in your project. You can save a memory reusing objects.
 * [ohana](https://github.com/uber/ohana-ios) - Contacts simplified.
@@ -2229,13 +2234,14 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [EZYGradientView](https://github.com/shashankpali/EZYGradientView) - Create gradients and blur gradients without a single line of code.
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A fancy hexagonal layout for displaying data like your Apple Watch.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
-* [NightView](https://github.com/Boris-Em/NightView) - Dazzling Nights on iOS.
+* [JDMechanicWatch](https://github.com/jamesdouble/JDMechanicWatch) - JDMechanicWatch can show time in a MechanicWatch look.
 * [jmcrainbow](https://www.cocoacontrols.com/controls/jmcrainbow)
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
 * [MaterialCardView](https://github.com/cemolcay/MaterialCardView)
 * [MDGroupAvatarView](https://github.com/ttmdung203/MDGroupAvatarView) - This library provides a custom UIView with support for showing group of avatars. It’s used for group chat. The images list can be loaded from local or web url.
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift.
+* [NightView](https://github.com/Boris-Em/NightView) - Dazzling Nights on iOS.
 * [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
@@ -2346,8 +2352,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ISScrollViewPageSwift](https://github.com/Ilhasoft/ISScrollViewPageSwift) ScollView with UIViewController
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - MCMHeaderAnimated allows you to add an animation between list and detail views.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition)
-* [](https://github.com/bannzai/Kaeru) - Kaeru can switch ViewController in NavigationController like iOS task manager UI (after iOS 9).
+* [Kaeru](https://github.com/bannzai/Kaeru) - Kaeru can switch ViewController in NavigationController like iOS task manager UI (after iOS 9).
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
+* [preview-transition](https://github.com/Ramotion/preview-transition) - PreviewTransition is a simple preview gallery controller.
 * [QZCircleSegue](https://github.com/alextarrago/QZCircleSegue) -  Beatiful transition between circular-shapped buttons and your View Controller.
 * [RadialTransition_swift](https://github.com/apadalko/RadialTransition_swift) - Great iOS radial (circle) animation transition for navigation controller, with custom back swipe. (swift).
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)
@@ -2374,7 +2381,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RHPreferences](https://github.com/heardrwt/RHPreferences) - A simple and easy Preferences window controller with multiple tabs for your next Mac application. `macOS`
 * [WAYSourceListWindow](https://github.com/weAreYeah/WAYSourceListWindow) - The WAYSourceListWindow is a NSWindow subclass, which splits the window space vertically into the master view on the left, and the detail view on the right side as known from apps like Reminders or Notes. `macOS`
 * [appresizer](https://www.cocoacontrols.com/controls/appresizer) - AppResizer allows you to change the width of the main window, thereby checking if your app renders correctly on all devices.
-
 
 ## Xcode Extension
 
