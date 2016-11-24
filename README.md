@@ -555,6 +555,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NPFlipButton](https://github.com/neopixl/NPFlipButton)
 * [OnOffButton](https://github.com/rakaramos/OnOffButton) - Custom On/Off Animated UIButton, written in Swift.
 * [PlayPauseAnimation](https://github.com/kNeerajPro/PlayPauseAnimation)
+* [QuickRippleButton](https://github.com/ansonyao/QuickRippleButton) - Custom UIButton which has ripple animation effect when clicked.
 * [Reactions](https://github.com/yannickl/Reactions) - Fully customizable Facebook reactions control.
 * [recordbutton](https://github.com/samuelbeek/recordbutton)
 * [RNLoadingButton](https://github.com/souzainf3/RNLoadingButton-Swift)
@@ -605,9 +606,10 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JYGraphViewController](https://github.com/johnyorke/JYGraphView) - Simple line graph view for iOS.
 * [LGFlapJackStackView](https://github.com/lukegeiger/LGFlapJackStackView)
 * [LMGaugeView](https://github.com/lminhtm/LMGaugeView)
+* [MagicPie](https://github.com/AlexandrGraschenkov/MagicPie)
 * [MDRotatingPieChart](https://github.com/maxday/MDRotatingPieChart)
 * [MPPlot](https://github.com/MP0w/MPPlot)
-* [MagicPie](https://github.com/AlexandrGraschenkov/MagicPie)
+* [MUSleepGraph](https://github.com/usadmania/MUSleepGraph) - This is a unique library to present sleep data per week.
 * [NKWatchChart](https://github.com/NilStack/NKWatchChart) - A chart library for Apple Watch based on PNChart and ios-charts. ⌚️
 * [PieChar](https://github.com/pavanpodila/PieChart) - The source code in this repository should be read along side the [blog post](http://blog.pixelingene.com/2012/02/animating-pie-slices-using-a-custom-calayer/) on creating an animated Pie Chart.
 * [RWBarChartView](https://github.com/eternityz/RWBarChartView)
@@ -656,6 +658,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CollectionViewParallaxScrolling](https://github.com/ole/CollectionViewParallaxScrolling) - An implementation of a custom UICollectionViewLayout that demonstrates WhatsApp-style parallax scrolling in a collection view.
 * [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) - Parallax, Sticky Headers, Growing image heading, done right in one UICollectionViewLayout.
 * [DMDynamicWaterfall](https://github.com/malcommac/DMDynamicWaterfall) -  UICollectionView Waterfall Layout with UIKit Dynamics.
+* [DynamicHeightForCollectionView)](https://github.com/sagarshirbhate/DynamicHeightForCollectionView) - Simple solution for Dynamically adjust view as a blocks.Dynamically adjust height of collection view. No more White spaces.
 * [EBCardCollectionViewLayout](https://github.com/betzerra/EBCardCollectionViewLayout) - Horizzontal UICollectionView.
 * [ERJustifiedFlowLayout](https://github.com/eroth/ERJustifiedFlowLayout) - A subclass of UICollectionViewFlowLayout for iOS that supports different types of cell justification and inter-cell spacing.
 * [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller.
@@ -1349,6 +1352,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CCPageViewController](https://github.com/zhanleewo/CCPageViewController) - A simple Page Menu View Controller, Easy to customize, UITableView-like API.
 
 #### 🔸*Swift*
+* [HQPagerViewController](https://github.com/quangpc/HQPagerViewController) - This control combines the great menu view with a UIPageviewController that takes care of showing the right page when clicking on the menu view and updating the selection when the UIPageviewController scrolls.
+* [PBPagerViewController](https://github.com/paoloboschini/PBPagerViewController)
 * [ViewPager](https://github.com/SeptiyanAndika/ViewPager---Swift) - Simple View Pager library for Swift.
 
 ## Payment
@@ -1582,7 +1587,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [LoopedContentsView](https://github.com/naru-jpn/LoopedContentsView) - View to display looped contents.
 * [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) - Simple parallax header for UIScrollView.
 * [ParallaxCarousel](https://github.com/taglia3/ParallaxCarousel) - A lightweight 3D Linear Carousel with parallax effect.
-* [PBPagerViewController](https://github.com/paoloboschini/PBPagerViewController)
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController)
 * [RMSquarePageControl](https://github.com/rupammitra/RMSquarePageControl) - A custom page control having square indicators works both vertically and horizontally.
 
@@ -1865,6 +1869,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - Animation between list and detail views.
 * [RHPreviewCell](https://github.com/robertherdzik/RHPreviewCell) - Use long press on cell to trigger action I envied so much Spotify iOS app this great playlist preview cell, I decided to create my own ones. Now you can give your users ability to quick check "what content is hidden under your UITableViewCell". Great think is that this Library not requires 3D Touch support from user device.
 * [SBGestureTableView](https://github.com/Stickbuilt/SBGestureTableView) - Swift UITableView subclass that supports swiping rows ala Mailbox and long press to move rows.
+* [TableFlip)](https://github.com/mergesort/TableFlip) - A simpler way to do cool UITableView animations.
 * [WobbleView](https://github.com/inFullMobile/WobbleView) -  Wobble effect.
 * [VPAccordionAnimation](https://github.com/varunpm1/VPAccordionAnimation) - Accordion Animation for UITableView cell expansion and collapsing.
 
@@ -2281,6 +2286,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AMLoginSignup](https://github.com/amirdew/AMLoginSignup) - Login/Signup ViewController for iOS.
 * [CarbonKitSwift](https://github.com/melieskubrick/CarbonKitSwift) - CarbonKit is an OpenSource iOS library that includes powerful and beauty UI controllers.
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController)
+* [Instagram-Feed-View](https://github.com/sagarshirbhate/Instagram-Feed-View) - It is a demo view to show feeds as shown in Instagram.All actions(Like,comment,share,follow,etc..) are managed by blocks.
 * [interactiveplayerview](https://github.com/AhmettKeskin/InteractivePlayerView) - Custom iOS music player view.
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control.
 * [MRArticleViewController](https://github.com/mrigdon/MRArticleViewController) - Easily create UIViewControllers for news articles similar to those in the News app.
