@@ -255,6 +255,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CoreGraphicsDynamicAnimation](https://github.com/larsacus/CoreGraphicsDynamicAnimation)
 * [confetti](https://github.com/life360/confetti/tree/iOS)
 * [DrawCircleFrame](https://github.com/natalia-osa/DrawCircleFrame)
+* [FlareView](https://github.com/StanlyHardy/FlareView) - Create Animatic flares around your uiview's.
 * [GLMoveToTrashAnimation](https://github.com/RATTLESNAKE-VIPER/GLMoveToTrashAnimation)
 * [JazzHands](https://github.com/IFTTT/JazzHands) - An Objective-C animation library used to create floating image views.
 * [JRMFloatingAnimation](https://github.com/carleihar/JRMFloatingAnimation)
@@ -535,6 +536,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [ANLongTapButton](https://github.com/antrix1989/ANLongTapButton) - Long tap button with animated progress bar.
+* [ButtonStyleKit](https://github.com/keygx/ButtonStyleKit) - ButtonStyleKit is helper library for UIButton custom styles.
 * [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Send Button for iOS.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 * [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
@@ -795,6 +797,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [ASCalendar](https://github.com/scamps88/ASCalendar) - A calendar control for iOS written in swift with mvvm pattern.
+* [CalendarPopUp](https://github.com/orazz/CalendarPopUp)
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
 * [DPTimePicker](https://github.com/dariopellegrini/DPTimePicker) 
@@ -805,6 +808,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MIDatePicker](https://github.com/MarioIannotta/MIDatePicker) - A lightweight, non-invasive, fully customizable DatePicker.
 * [SCPopDatePicker](https://github.com/scrainie/SCPopDatePicker)
 * [sscalendar](https://github.com/StevenPreston/sscalendar) - A Swift and Objective-C compatible iOS calendar UI library that can be used to display a calendar of events within your app. Note that this calendar is not designed as a picker but rather to display an existing set of events.
+* [TKCalendarView](https://github.com/powhu/TKCalendarView) - The page curl animation calendar.
 
 ## Dynamic Behavior
 
@@ -874,6 +878,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RPModalGestureTransition](https://github.com/naoyashiga/RPModalGestureTransition)
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
 * [Sensitive](https://github.com/igormatyushkin014/Sensitive) - Fresh look at work with gestures in Swift.
+* [SHFSignature](https://github.com/felipesantolim/SHFSignature) - It's a simple class that provide to draw a signature and result in UIImage.
 * [Signature-Capture](https://github.com/vigneshuvi/iOS-Signature-Capture) - iOS-Signature-Capture is helps to capture the user signature with name and signed date in iOS and supports both Objective-c and Swift languages.
 * [Standard-Template-Protocols](https://github.com/cconeil/Standard-Template-Protocols) - Protocols for your every day iOS needs.
 * [Tactile](https://github.com/delba/Tactile) - The Swift way to add UIGestureRecognizer and to react to UIControlEvents.
@@ -1116,6 +1121,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Duration](https://github.com/SwiftStudies/Duration) - A simple Swift package for measuring and reporting the time taken for operations.
 * [Evergreen](https://github.com/viWiD/Evergreen) - Most natural Swift logging.
 * [logkit](https://github.com/logkit/logkit) - An efficient logging library for OS X, iOS, watchOS, and tvOS – written in Swift. Log to console, file, HTTP service, or your own endpoint. Simple to get started, but smartly customizable.
+* [RapidLogger](https://github.com/krishna706/RapidLogger) - Rapid Logger captures all the log and able to display in device with neat UI.
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Colorful, lightweight & fast logging in Swift 2.
 * [SwiftLogger](https://github.com/MugunthKumar/SwiftLogger)
 * [SwiftTrace](https://github.com/johnno1962/SwiftTrace) - Trace Swift and Objective-C method invocations.
@@ -1359,6 +1365,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [card.io](https://github.com/card-io/card.io-iOS-SDK) - card.io provides fast, easy credit card scanning in mobile apps.
 * [caishen](https://github.com/prolificinteractive/caishen) - A Payment Card UI & Validator for iOS.
+* [CreditCardForm](https://github.com/orazz/CreditCardForm-iOS) - CreditCardForm-iOS is an iOS demo app that allows developers to create the UI which replicates an actual Credit Card.
 
 ## PickerView
 
@@ -2361,6 +2368,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
 * [Presentr](https://github.com/IcaliaLabs/Presentr) - Wrapper for custom ViewController presentations in iOS 8+.
 * [preview-transition](https://github.com/Ramotion/preview-transition) - PreviewTransition is a simple preview gallery controller.
+* [PullToDismiss](https://github.com/sgr-ksmt/PullToDismiss) - Dismiss ViewController by pulling scroll view or navigation bar in Swift.
 * [QZCircleSegue](https://github.com/alextarrago/QZCircleSegue) -  Beatiful transition between circular-shapped buttons and your View Controller.
 * [RadialTransition_swift](https://github.com/apadalko/RadialTransition_swift) - Great iOS radial (circle) animation transition for navigation controller, with custom back swipe. (swift).
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)
