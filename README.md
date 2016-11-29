@@ -228,7 +228,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift.
 * [PopUp](https://github.com/mhlangagc/PopUp) - A simple way to implement a Pop up from the bottom informing the user of any changes within the app or some action they need to do. It Pops up in the KeyWindow and hence over all views, tableViews or collectionViews.
 * [PopupDialog](https://github.com/Orderella/PopupDialog) - A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertControllers alert style.
-* [Presentr](https://github.com/IcaliaLabs/Presentr) - Wrapper for custom ViewController presentations in iOS 8+.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your iOS app is available, and prompt them with the App Store link.
 * [SlideControl](https://github.com/dasdom/SlideControl) - Vertical slide control build with Swift 2.0.
@@ -1098,7 +1097,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - A Swift GUI library for displaying various popups and notifications
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)
 * [UICircularProgressRing](https://github.com/luispadron/UICircularProgressRing) - A circular progress bar for iOS written in Swift 3.
-* [WESlider](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management.
 
 ## Localization
 
@@ -1657,6 +1655,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RangeSlider](https://github.com/matthewreagan/RangeSlider) - Simple, clean, and customizable range-based slider control for macOS. `macOS`
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
 * [SpringySlider](https://github.com/josephlord/SpringySlider)
+* [WESlider](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management.
 
 ## Snippet
 
@@ -2360,6 +2359,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition)
 * [Kaeru](https://github.com/bannzai/Kaeru) - Kaeru can switch ViewController in NavigationController like iOS task manager UI (after iOS 9).
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
+* [Presentr](https://github.com/IcaliaLabs/Presentr) - Wrapper for custom ViewController presentations in iOS 8+.
 * [preview-transition](https://github.com/Ramotion/preview-transition) - PreviewTransition is a simple preview gallery controller.
 * [QZCircleSegue](https://github.com/alextarrago/QZCircleSegue) -  Beatiful transition between circular-shapped buttons and your View Controller.
 * [RadialTransition_swift](https://github.com/apadalko/RadialTransition_swift) - Great iOS radial (circle) animation transition for navigation controller, with custom back swipe. (swift).
