@@ -114,6 +114,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [TabBar](#tabbar)
 - [TableView](#tableview)
 - [TableViewCell](#tableviewcell)
+- [Testing](#testing)
 - [Text](#text)
 - [Textfield](#textfield)
 - [Timer](#timer)
@@ -1902,6 +1903,10 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [UITags](https://github.com/gtsif21/UITags)
 * [WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
 * [YZTagView](https://github.com/yoshiz3-onishi/YZTagView) - A simple tag view.
+
+## Testing
+#### 🔸*Swift*
+* [pxctest](https://github.com/plu/pxctest) - Execute tests in parallel on multiple iOS Simulators.
 
 ## Text
 *NSAttributedStrings, TextKit and UITextView, NSTextView*
