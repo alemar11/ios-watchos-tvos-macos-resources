@@ -88,7 +88,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [Outline](#outline)
 - [PageControl](#pagecontrol)
 - [Pager](#pager)
-- [Payment](Payment)
+- [Payment](#payment)
+- [Permission](#permission)
 - [Persistance](#persistance)
 - [PickerView](#pickerview)
 - [Playground](#playground)
@@ -1377,8 +1378,15 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KDropDownMultipleSelection](https://github.com/kiran5232/KDropDownMultipleSelection) - Single or multiple selection in dropdownlist.
 * [KPFontPicker](https://github.com/pahnev/KPFontPicker) - https://github.com/pahnev/KPFontPicker.
 
-#### �*Swift*
+#### 🔸*Swift*
 * [DTPhotoViewerController](https://github.com/tungvoduc/DTPhotoViewerController)
+
+# Permission
+#### 🔸*Swift*
+* [Arek](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
+* [Permission](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
+* [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API.
+* [PAPermissions](https://github.com/pascalbros/PAPermissions) - A unified API to ask for permissions on iOS.
 
 ## Persistance
 *CoreData, SQLite, NSUserDefaults, Caching*
@@ -2133,10 +2141,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NSData-GZIP](https://github.com/1024jp/NSData-GZIP) - NSData+GZIP.swift is an extension of NSData written in Swift 2.0. It enables compress/decompress gzip using zlib.
 * [OCR-Demo-with-IDOL-OnDemand](https://github.com/bpolat/Swift-OCR-Demo-with-IDOL-OnDemand) - Converting Images into text by using HP's IDOL OnDemand service - iOS app which is written with Swift.
 * [Overdrive](https://github.com/arikis/Overdrive) - Fast async task based API in Swift with focus on type safety, concurrency and multi threading.
-* [PAPermissions](https://github.com/pascalbros/PAPermissions) - A unified API to ask for permissions on iOS.
 * [peekpop](https://github.com/marmelroy/peekpop) - Peek and Pop with backwards-compatibility.
-* [Permission](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
-* [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API.
 * [phonenumberkit](https://github.com/marmelroy/phonenumberkit)
 * [Postal](https://github.com/snipsco/Postal) - A swift framework for working with emails.
 * [Proposer](https://github.com/nixzhu/Proposer) - Proposer provides a simple API to request permission for access Camera, Photos, Microphone, Contacts, Location.
