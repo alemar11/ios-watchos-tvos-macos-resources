@@ -315,6 +315,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MMWormhole](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions. ⌚️
 * [Movies](https://github.com/KMindeguia/movies)
 * [iBurn-iOS](https://github.com/Burning-Man-Earth/iBurn-iOS) - iBurn is an offline map and guide for the Burning Man art festival.
+* [IQScreenRuler](https://github.com/hackiftekhar/IQScreenRuler) - Screen Ruler - Pixel Perfect Screenshot Ruler.
 * [Partita](https://github.com/comyarzaheri/Partita) - A simple instrument tuner app for iOS.
 * [SougouReading](https://github.com/YinTokey/SougouReading) - Imitate a novel APP.
 * [Subjective-C Tutorials](https://github.com/subjc) 
@@ -331,6 +332,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Dunk](https://github.com/naoyashiga/Dunk) - Dunk is Dribbble client.
 * [Ello](https://github.com/ello/ello-ios) - Ello iOS App.
 * [EventBlankApp](https://github.com/icanzilb/EventBlankApp) - A free open source iOS app for events or conferences.
+* [FileExplorer](https://github.com/augustyniak/FileExplorer) - FileExplorer is a powerful iOS file browser that allows its users to choose and remove files and/or directories.
 * [furni-ios](https://github.com/twitterdev/furni-ios) - Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform.
 * [GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard) - Hang a TV in your open space or team room to show everyone what's up and get them up to speed. 📺
 * [gulps](https://github.com/FancyPixel/gulps) - Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
@@ -554,6 +556,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MaterialView](https://github.com/karticodes/MaterialView) - Material Floating Button for iOS.
 * [MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - Ring progress view similar to Activity app on Apple Watch.
 * [MMLoadingButton](https://github.com/MillmanY/MMLoadingButton) - Custom Loading Button With Animation.
+* [Newly](https://github.com/dhirajjadhao/Newly) - Newly is a drop in solution to add Twitter/Facebook/Linkedin style, new updates/tweets/posts available button. It can be used to notify user about new content availability and can other actions can be triggers using its delegate method.
 * [NFFlatButton](https://github.com/norfred/NFFlatButton) - Custom flat button 'à la Letterpress' written in Swift.
 * [NPFlipButton](https://github.com/neopixl/NPFlipButton)
 * [OnOffButton](https://github.com/rakaramos/OnOffButton) - Custom On/Off Animated UIButton, written in Swift.
@@ -777,7 +780,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [UIImageColors](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
 
 ## Date
-*Date Pickers, TimeLines and Calendars*
+*Date Pickers, TimeLines, Date handlers and Calendars*
 
 #### 🔹*Obj-C*
 * [BKDateAndTimePickerView](https://github.com/bhavya-kothari/BKDate_Time_Year_PickerView)
@@ -810,6 +813,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MIDatePicker](https://github.com/MarioIannotta/MIDatePicker) - A lightweight, non-invasive, fully customizable DatePicker.
 * [SCPopDatePicker](https://github.com/scrainie/SCPopDatePicker)
 * [sscalendar](https://github.com/StevenPreston/sscalendar) - A Swift and Objective-C compatible iOS calendar UI library that can be used to display a calendar of events within your app. Note that this calendar is not designed as a picker but rather to display an existing set of events.
+* [Timepiece](https://github.com/naoty/Timepiece) - Intuitive date handling in Swift.
 * [TKCalendarView](https://github.com/powhu/TKCalendarView) - The page curl animation calendar.
 
 ## Dynamic Behavior
@@ -925,7 +929,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Panorama](https://github.com/robbykraft/Panorama) - 360° panorama view, iOS-
 * [Panoramic](https://github.com/iSame7/Panoramic) - Swift implementation of the photo tilt gesture/UX found in Facebook's Paper app.
 * [Panorific](https://github.com/ndmeiri/Panorific) - An immersive, intuitive, motion-based way to explore high quality panoramas and photos on an iOS device. Panorific is implemented in Swift.
-* [PASImageView](https://github.com/abiaad/PASImageView) - Rounded async imageview downloader lightly cached and written in Swift
+* [PASImageView](https://github.com/abiaad/PASImageView) - Rounded async imageview downloader lightly cached and written in Swift.
+* [Snowflake](https://github.com/onmyway133/Snowflake) - SVG in Swift.
 * [SwiftImageProcessing](https://github.com/skyfe79/SwiftImageProcessing) - Pixel operations in swift.
 * [SwiftSVG](https://github.com/mchoe/SwiftSVG) - A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).
 * [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
@@ -1127,6 +1132,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Colorful, lightweight & fast logging in Swift 2.
 * [SwiftLogger](https://github.com/MugunthKumar/SwiftLogger)
 * [SwiftTrace](https://github.com/johnno1962/SwiftTrace) - Trace Swift and Objective-C method invocations.
+* [TinyConsole](https://github.com/Cosmo/TinyConsole) - A tiny log console to display information while using your iOS app. Written in Swift 3.
 * [Watchdog](https://github.com/wojteklukaszuk/Watchdog) - Class for logging excessive blocking on the main thread.
 * [Willow](https://github.com/Nike-Inc/Willow) - Willow is a powerful, yet lightweight logging library written in Swift.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number.
@@ -1596,6 +1602,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ZSeatSelector](https://github.com/richzertuche/ZSeatSelector) - Create a cinema seat map Layout.
 
 #### 🔸*Swift*
+* [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view.
 * [CMLazyScrollViewController](https://github.com/Mycose/CMLazyScrollViewController) - Lazy ScrollView with support for infinite scroll (using a paging system with UIViewControllers and not UIViews).
 * [CrossNavigation](https://github.com/artemstepanenko/CrossNavigation) - Any side navigation.
 * [LoopedContentsView](https://github.com/naru-jpn/LoopedContentsView) - View to display looped contents.
@@ -1942,6 +1949,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [BezierString](https://github.com/lvnyk/BezierString) - Rendering NSAttributedStrings along arbitrary UIBezierPaths.
 * [Down](https://github.com/iwasrobbed/Down) - Blazing fast Markdown rendering in Swift, built upon cmark.
 * [EmojiTextView](https://github.com/fastred/EmojiTextView) - Tap to swap out words with emojis. Inspired by Messages.app on iOS 10.
+* [HandyText](https://github.com/mmrmmlrr/HandyText) - HandyText is a helper library that allows to create and manage text styles in a clear declarative manner.
 * [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - add text(multiple line support) to imageView, edit, rotate or resize them as you want, then render the text on image.
 * [HighlightTextView](https://github.com/yusayusa/HighlightTextView)
 * [Marklight](https://github.com/macteo/Marklight) - Markdown syntax highlighter for iOS.
@@ -2055,6 +2063,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DPNotify](https://github.com/dphans/DPNotify) - DPNotify used to send short notifications on screen simple & quickly for iOS developing using Swift.
 * [Dodo](https://github.com/exchangegroup/Dodo)
 * [EVWDropDownNotification](https://github.com/cre8it/EVWDropDownNotification)
+* [GLNotificationBar](https://github.com/gokulgovind/GLNotificationBar) - GLNotificationBar is a ios10 style notification bar, can be used to handle push notification in active state.
 * [Hermes](https://github.com/Imgur/Hermes)
 * [HJToast](https://github.com/himanshujoshi47/HJToast) - Toast messages for iOS.
 * [iOSNotificationBanner](https://github.com/loconsolutions/iOSNotificationBanner)
@@ -2331,6 +2340,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HYAwesomeTransition](https://github.com/nathanwhy/HYAwesomeTransition)
 * [ICSDrawerController](https://github.com/icecreamstudios/ICSDrawerController)
 * [ISHPullUp](https://github.com/iosphere/ISHPullUp) - Vertical split view controller with pull up gesture as seen in the iOS 10 Maps app.
+* [Jelly](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions in iOS with just a few lines of code.
 * [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition)
 * [JVTransitionAnimator](https://github.com/JV17/JVTransitionAnimator)
 * [LHMaterialDesign](https://github.com/leostc/LHMaterialDesign)
