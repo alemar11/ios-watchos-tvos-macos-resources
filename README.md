@@ -1508,7 +1508,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PullToBounce](https://github.com/entotsu/PullToBounce)
 * [PullToMakeFlight](https://github.com/Yalantis/PullToMakeFlight) - Custom animated pull-to-refresh that can be easily added to UIScrollView
 * [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - Custom animated pull-to-refresh that can be easily added to UIScrollView
-* [PullToRefresh](https://github.com/Yalantis/PullToRefresh) - This component implements pure pull-to-refresh logic and you can use it for developing your own pull-to-refresh animations
+* [PullToRefresh](https://github.com/Yalantis/PullToRefresh) - This component implements pure pull-to-refresh logic and you can use it for developing your own pull-to-refresh animations.
+* [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl)
 * [Refresher](https://github.com/jcavar/refresher)
 * [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - Implementation of [Zee Young's Dribbble animation](https://dribbble.com/shots/2067564-Replace)
 * [TB_PeriscopePTR](https://github.com/ariok/TB_PeriscopePTR) - tutorial [here](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/)
@@ -1631,6 +1632,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - BetterSegmentedControl is an easy to use, customizable replacement for UISegmentedControl and UISwitch written in Swift.
 * [DPSegmentedControl](https://github.com/dwipp/DPSegmentedControl) - Segmented control with image and title.
 * [NPSegmentedControl](https://github.com/neopixl/NPSegmentedControl) - A segmented control with custom appearance and interactive animations. Written in Swift 3.0.
+* [PinterestSegment](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation.
 * [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl)
 * [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - Custom UISegmentedControl replacement for iOS, written in Swift.
 
