@@ -221,6 +221,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DTIToastCenter-Swift](https://github.com/dtissera/DTIToastCenter-Swift)
 * [EasyTipView](https://github.com/teodorpatras/EasyTipView)
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController.
+* [Malert](https://github.com/vitormesquita/Malert) - Custom alert View to iOS applications.
 * [MIAlertController](https://github.com/MarioIannotta/MIAlertController) - A simple fully customizable alert controller.
 * [Notification-AlertView](https://github.com/alexey-kubas-appus/Notification-AlertView)
 * [PathDynamicModal](https://github.com/ra1028/PathDynamicModal)
@@ -382,6 +383,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [stockfish-mac](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac. `macOS`
 
 #### 🔸*Swift* 
+* [AppWage](https://github.com/hankinsoft/AppWage) - iTunes connect reporting tool.
 * [BatteryNotifier](https://github.com/Kalvin126/BatteryNotifier) - OS X tool that warns you if your iOS devices needs a charge. `macOS`
 * [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - A text editor that only allows the top 1000 most common words in English. `macOS`
 * [Clipinio](https://github.com/benjohnde/Clipinio) - Lightweight clipboard manager for OSX. `macOS`
@@ -2109,6 +2111,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper) - Quick tool to explain the right place to enable your privacy settings.
 * [GDPerformanceView](https://github.com/dani-gavrilov/GDPerformanceView) - Shows FPS, CPU usage, memory usage above the status bar.
 * [HelperLibrary](https://github.com/rondinellimorais/HelperLibrary) - The HelperLibrary framework is a static library iOs simple that contains all the implementation of the silly and repetitive work you have to do every time you create a new iOS / OSX project. `macOS`
+* [iosMath](https://github.com/kostub/iosMath) - Beautiful math equation rendering on iOS.
 * [MBObjectPoolManager](https://github.com/MBKwon/MBObjectPoolManager) - MBObjectPoolManager is best way to reuse your objects in your project. You can save a memory reusing objects.
 * [ohana](https://github.com/uber/ohana-ios) - Contacts simplified.
 * [ORSSerialPort](https://github.com/armadsen/ORSSerialPort) - Serial port library for Objective-C and Swift OS X apps.
@@ -2383,7 +2386,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ExpandingViewTransition](https://github.com/tomkowz/ExpandingViewTransition-Demo) - Example of how to create custom view controllers transition.
 * [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images written in Swift.
 * [inbox-replica](https://github.com/RabbitMC/inbox-replica) - Recreated the expanding cells effect from `Inbox` by Google in Swift.
-* [ISScrollViewPageSwift](https://github.com/Ilhasoft/ISScrollViewPageSwift) ScollView with UIViewController
+* [ISScrollViewPageSwift](https://github.com/Ilhasoft/ISScrollViewPageSwift) ScollView with UIViewController.
+* [LNPopupController](https://github.com/LeoNatan/LNPopupController) - LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - MCMHeaderAnimated allows you to add an animation between list and detail views.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition)
 * [Kaeru](https://github.com/bannzai/Kaeru) - Kaeru can switch ViewController in NavigationController like iOS task manager UI (after iOS 9).
