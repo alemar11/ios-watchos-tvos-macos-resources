@@ -1248,6 +1248,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SidePanel](https://github.com/db42/SidePanel) - Google styled side panel for iOS written in Swift.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure swift.
 * [SliderPanel](https://github.com/sebk/SliderPanel)
+* [Swift-CircleMenu](https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu) - Rotating circle menu written in Swift 3.
 * [SwiflyOverlay](https://github.com/edwinbosire/SwiflyOverlay) - Another Navigation component for iOS. This time written in swift.
 * [SphereMenuSwift](https://github.com/caamorales/SphereMenuSwift)
 * [Summflower](https://github.com/iSame7/Summflower) - Swift implementation to the sexiest sharing icon based on Summly app.
@@ -2101,7 +2102,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [Material](https://github.com/CosmicMind/Material) - A beautiful graphics framework for Material Design in Swift.
-
+* [material-components-ios](https://github.com/material-components/material-components-ios) - Modular and customizable Material Design UI components for iOS.
 
 ## Utils
 
