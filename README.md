@@ -362,6 +362,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise. ⌚️ `macOS`
 * [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
 * [TSWeChat](https://github.com/hilen/TSWeChat) - A WeChat alternative. Written in Swift.
+* [Vesper](https://github.com/brentsimmons/Vesper) - Vesper is a note-taking app for iOS by Q Branch.
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. ⌚️
 * [Wire](https://github.com/wireapp/wire-ios) - Wire iOS client (iPhone and iPad).
 * [Yep](https://github.com/CatchChat/Yep) - A community where geniuses meet.
