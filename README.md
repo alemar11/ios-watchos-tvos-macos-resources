@@ -221,6 +221,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DTIToastCenter-Swift](https://github.com/dtissera/DTIToastCenter-Swift)
 * [EasyTipView](https://github.com/teodorpatras/EasyTipView)
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController.
+* [FTPopOverMenu_Swift](https://github.com/liufengting/FTPopOverMenu_Swift) - FTPopOverMenu_Swift, swift version of FTPopOverMenu.
+* [HYAlertController](https://github.com/castial/HYAlertController) - A Simple And Minimalist iOS AlertController.
 * [Malert](https://github.com/vitormesquita/Malert) - Custom alert View to iOS applications.
 * [MIAlertController](https://github.com/MarioIannotta/MIAlertController) - A simple fully customizable alert controller.
 * [Notification-AlertView](https://github.com/alexey-kubas-appus/Notification-AlertView)
@@ -1314,6 +1316,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HTKScrollingNavigationController](https://github.com/henrytkirk/HTKScrollingNavigationController) - Scrolling navigation controller for iOS 7.x with slide-up transitions. It uses UICollectionView under the hood and currently supports vertical sliding.
 * [IHParallaxNavigationController](https://github.com/IdleHandsApps/IHParallaxNavigationController)
 * [IPSqueezableViewController](https://github.com/zetachang/IPSqueezableViewController) - Condensing effect of navigation bar as the one in Safari App.
+* [MLNavigationBarTransition](https://github.com/molon/MLNavigationBarTransition) - Advanced navigation bar transition based on official push-pop transition.
 * [JDFPeekaboo](https://github.com/JoeFryer/JDFPeekaboo) - JDFPeekaboo is a simple class that hides the navigation bar when you scroll down, and shows it again when you scroll back up.
 * [JXGradientNavigationBar](https://github.com/swordray/JXGradientNavigationBar) - Custom UINavigationBar subclass with gradient colors on iOS.
 * [KSNavigationController](https://github.com/coffellas-cto/KSNavigationController) - UIViewController for macOS. `macOS`
@@ -1687,6 +1690,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MercuryMeter](https://github.com/corvino/MercuryMeter) - A simple UIView that displays a horizontal "thermometer", representing a value using two different colors on a rounded line.
 * [CKSlideView](https://github.com/sunnysideprodcorp/Objective-C_CKSlideView)
 * [ODMSwipeSelector](https://github.com/oscart/ODMSwipeSelector) - A value selector for iOS with a swipe gesture.
+* [PrecisionLevelSlider](https://github.com/muukii/PrecisionLevelSlider) - UI component library, such as Apple's Photos app.
 * [TetraSliderCell](https://github.com/Mediajon/TetraSliderCell) - Custom NSSlider Cell. `macOS`
 * [TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) - A slider, similar in style to UISlider, but which allows you to pick a minimum and maximum range.
 
@@ -1697,7 +1701,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NHRangeSlider](https://github.com/thehung111/NHRangeSlider) - A custom range slider in Swift.
 * [RangeSlider](https://github.com/matthewreagan/RangeSlider) - Simple, clean, and customizable range-based slider control for macOS. `macOS`
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
-* [SpringySlider](https://github.com/josephlord/SpringySlider)
+* [SpringySlider](https://github.com/josephlord/SpringySlider) - Custom UISlider with thumb animation.
+* [TNAnimateSlider](https://github.com/nguyentrai2011/TNAnimateSlider)
 * [WESlider](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management.
 
 ## Snippet
@@ -1812,6 +1817,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
 * [SwiftPrefs](https://github.com/emiscience/SwiftPrefs) - A Yosemite-only demo app showing a preferences window using Swift, storyboards and NSTabViewController. `macOS`
 * [TabDrawer](https://github.com/winslowdibona/TabDrawer) - TabDrawer is a customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, or display a customizable drawer.
+* [WBSegmentControl](https://github.com/xiongxiong/WBSegmentControl) - An easy to use, customizable segment control, can be used to show tabs.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 
 ## TableView
@@ -1908,11 +1914,13 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [YMSwipeTableViewCell](https://github.com/yammer/YMSwipeTableViewCell)
 
 #### 🔸*Swift*
+* [ActionCell](https://github.com/xiongxiong/ActionCell) - Easy to use UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 * [ExpandableTableView](https://github.com/rondinellimorais/ExpandableTableView)  
 * [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - Expanding table view cells using `UIStackView in iOS 9.
 * [EVSlidingTableViewCell](https://github.com/epv44/EVSlidingTableViewCell) - Custom UITableViewCell that can be swiped either way to reveal a "drawer" with between 1 and 4 customizable action buttons. These action buttons fade and grow into view as the drawer is swiped. This cell works on all orientations and all devices.
 * [folding-cell](https://github.com/Ramotion/folding-cell)
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - Animation between list and detail views.
+* [PickerController](https://github.com/xiongxiong/PickerController) - Easy to use UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 * [RHPreviewCell](https://github.com/robertherdzik/RHPreviewCell) - Use long press on cell to trigger action I envied so much Spotify iOS app this great playlist preview cell, I decided to create my own ones. Now you can give your users ability to quick check "what content is hidden under your UITableViewCell". Great think is that this Library not requires 3D Touch support from user device.
 * [SBGestureTableView](https://github.com/Stickbuilt/SBGestureTableView) - Swift UITableView subclass that supports swiping rows ala Mailbox and long press to move rows.
 * [TableFlip)](https://github.com/mergesort/TableFlip) - A simpler way to do cool UITableView animations.
@@ -1971,6 +1979,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [AOR](https://github.com/xxxAIRINxxx/AOR) - Wrapper of NSAttributedString and Text Kit. written in Swift.
 * [Apodimark](https://github.com/loiclec/Apodimark) - Fast, flexible markdown parser written in Swift.
+* [AttributedTextView](https://github.com/evermeer/AttributedTextView) - Easiest way to create an attributed UITextView with support for multiple links.
 * [BezierString](https://github.com/lvnyk/BezierString) - Rendering NSAttributedStrings along arbitrary UIBezierPaths.
 * [Down](https://github.com/iwasrobbed/Down) - Blazing fast Markdown rendering in Swift, built upon cmark.
 * [EmojiTextView](https://github.com/fastred/EmojiTextView) - Tap to swap out words with emojis. Inspired by Messages.app on iOS 10.
@@ -2057,7 +2066,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SnapTimer](https://github.com/andresinaka/SnapTimer) - Implementation of Snapchat's stories timer.
 
 ## Toast Notification
-*Toast Notifications, snack bars and message bars*
+*Toast Notifications, snackbars and message bars*
 
 #### 🔹*Obj-C*
 * [APToast](https://github.com/podkovyrin/APToast)
@@ -2099,6 +2108,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
 * [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
 * [RNNotificationView](https://github.com/souzainf3/RNNotificationView) - Emulates the native Notification Banner UI for any alert.
+* [Snackbar-iOS](https://github.com/JastAir/Snackbar-iOS) - Simple snackbar for ios from android platform.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - A Swift extension that adds toast notifications to the UIView object class.
 * [TTGSnackbar](https://github.com/zekunyan/TTGSnackbar) - TTGSnackbar shows simple message and action button on the bottom or top of the screen with multi kinds of animation.
@@ -2313,6 +2323,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [VideoThumbView](https://github.com/toygar/VideoThumbView) - Video Thumb ScrollView.
 * [Wallet](https://github.com/rshevchuk/Wallet) - Wallet is a library to manage cards and passes.
 * [WOWRibbonView](https://github.com/zhouhao27/WOWRibbonView) - Ribbon view for iOS in Swift 3.
+* [YGPulseView](https://github.com/YGeorge/YGPulseView) - Pulsing animation for UIView.
 
 ## ViewController
 
