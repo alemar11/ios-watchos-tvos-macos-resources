@@ -658,6 +658,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [iCheckbox](https://github.com/mancunianetz/iCheckbox) - Checkbox component for iOS apps.
 * [vkcheckbox](https://www.cocoacontrols.com/controls/vkcheckbox) - Simple customizable closure-based checkbox control written on Swift.
+* [WOWCheckbox](https://github.com/zhouhao27/WOWCheckbox) - Highly customisable checkbox in Swift.
 
 ## CollectionView
 
@@ -1155,6 +1156,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FSRotatingCamera](https://github.com/fernandospr/FSRotatingCamera) - Class helper that uses MKMapCamera to rotate around a coordinate.
 * [HACClusterMapViewController](HACClusterMapViewController)
 * [HACLocationManager](https://github.com/litoarias/HACLocationManager)
+* [KGoogleDirectionWithPolyLine](https://github.com/krishnads/KGoogleDirectionWithPolyLine) - Getting direction of a route and drawing polyline on map using google sdk.
 * [LFHeatMap](https://github.com/gpolak/LFHeatMap)
 * [MRWorldMapView](https://github.com/hectr/MRWorldMapView) - UIView subclass that displays a world map with selectable countries.
 * [MapKitDrawing](https://github.com/tazihosniomar/MapKitDrawing)
@@ -1165,6 +1167,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [db_compass](https://github.com/alextarrago/db_compass) - It offers you a way to track the user's location and heading given by a coordinate or an address. Really useful for geolocation AR applications.
 
 #### 🔸*Swift*
+* [asmaplauncher](https://www.cocoacontrols.com/controls/asmaplauncher) - ASMapLauncher is a library for iOS written in Swift that helps navigation with various mapping applications.
 * [DistancePicker](https://github.com/qmathe/DistancePicker) - Custom UIKit control to select a distance with a pan gesture, written in Swift.
 * [GpxLocationManager](https://github.com/vermont42/GpxLocationManager) - GpxLocationManager is a replacement for CLLocationManager that allows the developer to use GPS data from GPX files or CLLocation arrays for testing.
 * [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI.
@@ -2418,6 +2421,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PullToDismiss](https://github.com/sgr-ksmt/PullToDismiss) - Dismiss ViewController by pulling scroll view or navigation bar in Swift.
 * [QZCircleSegue](https://github.com/alextarrago/QZCircleSegue) -  Beatiful transition between circular-shapped buttons and your View Controller.
 * [RadialTransition_swift](https://github.com/apadalko/RadialTransition_swift) - Great iOS radial (circle) animation transition for navigation controller, with custom back swipe. (swift).
+* [SamuraiTransition](https://github.com/hachinobu/SamuraiTransition) - a ViewController transition framework in Swift.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)
 * [SwiftPagingNav](https://github.com/aubrey/SwiftPagingNav) - A Twitter-like navigation bar and page viewer written in Swift.
 * [TransitionManager](https://github.com/cemolcay/TransitionManager) - Painless custom transitioning. Easy extend, easy setup, just focus on animations.
