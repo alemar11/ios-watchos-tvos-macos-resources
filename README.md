@@ -812,6 +812,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DPTimePicker](https://github.com/dariopellegrini/DPTimePicker) 
 * [EPCalendarPicker](https://github.com/ipraba/EPCalendarPicker) - Colourful calendar for iOS written in Swift.
 * [ISTimeline](https://github.com/instant-solutions/ISTimeline) - Simple timeline view written in Swift 2.2.
+* [JBDatePicker](https://github.com/Tuslareb/JBDatePicker) - A customizable calendar field in which the user can select a date.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final Apple calendar you will ever try. Built for iOS in Swift.
 * [Koyomi](https://github.com/shoheiyokoyama/Koyomi) - Koyomi is a simple calendar view framework for iOS, written in Swift.
 * [MIDatePicker](https://github.com/MarioIannotta/MIDatePicker) - A lightweight, non-invasive, fully customizable DatePicker.
@@ -1131,6 +1132,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DefaultStringConvertible](https://github.com/jessesquires/DefaultStringConvertible)
 * [Duration](https://github.com/SwiftStudies/Duration) - A simple Swift package for measuring and reporting the time taken for operations.
 * [Evergreen](https://github.com/viWiD/Evergreen) - Most natural Swift logging.
+* [Lighty](https://github.com/abdullahselek/Lighty) - Easy to use and lightweight logger in Swift.
 * [logkit](https://github.com/logkit/logkit) - An efficient logging library for OS X, iOS, watchOS, and tvOS – written in Swift. Log to console, file, HTTP service, or your own endpoint. Simple to get started, but smartly customizable.
 * [RapidLogger](https://github.com/krishna706/RapidLogger) - Rapid Logger captures all the log and able to display in device with neat UI.
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Colorful, lightweight & fast logging in Swift 2.
@@ -1580,6 +1582,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [BTInfiniteScrollView](https://github.com/bteapot/BTInfiniteScrollView)* 
 * [CustomScrollIndicator](https://github.com/leverdeterre/CustomScrollIndicator) - iOS custom ScrollIView indicator.
 * [DARecycledScrollView](https://github.com/daria-kopaliani/DARecycledScrollView) - UIScrollView subclass that reuses its tile views.
+* [DMSwipeCards](https://github.com/D-32/DMSwipeCards) - Tinder like card interface.
 * [DroppyScrollView](https://github.com/cemolcay/DroppyScrollView) - Vertical scroll view with abilty to inserting and removing subviews top or any index with stylish dropping animations.
 * [DRPageScrollView](https://github.com/DavdRoman/DRPageScrollView) - Block-driven paginated scroll view.
 * [EHHorizontalSelectionView](https://github.com/josshad/EHHorizontalSelectionView) - Horizontal table view style controller.
@@ -1612,6 +1615,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view.
 * [CMLazyScrollViewController](https://github.com/Mycose/CMLazyScrollViewController) - Lazy ScrollView with support for infinite scroll (using a paging system with UIViewControllers and not UIViews).
 * [CrossNavigation](https://github.com/artemstepanenko/CrossNavigation) - Any side navigation.
+* [Image-Carousel](https://github.com/robertrr61/Image-Carousel) - Add an array of images to a view and scroll them.
 * [LoopedContentsView](https://github.com/naru-jpn/LoopedContentsView) - View to display looped contents.
 * [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) - Simple parallax header for UIScrollView.
 * [ParallaxCarousel](https://github.com/taglia3/ParallaxCarousel) - A lightweight 3D Linear Carousel with parallax effect.
@@ -1640,6 +1644,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NPSegmentedControl](https://github.com/neopixl/NPSegmentedControl) - A segmented control with custom appearance and interactive animations. Written in Swift 3.0.
 * [PinterestSegment](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation.
 * [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl)
+* [SSYSegmentedControl](https://github.com/jerrykrinock/SSYSegmentedControl) - UISegmentedControl alternative for text titles. Adaptive segment widths, Swift 3.
 * [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - Custom UISegmentedControl replacement for iOS, written in Swift.
 
 ## Server side
@@ -1683,6 +1688,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CircularSlider](https://github.com/taglia3/CircularSlider) - A powerful Circular Slider. It's written in Swift, it's 100% IBDesignable and all parameters are IBInspectable.
 * [GradientSlider](https://github.com/jonhull/GradientSlider)
 * [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
+* [NHRangeSlider](https://github.com/thehung111/NHRangeSlider) - A custom range slider in Swift.
 * [RangeSlider](https://github.com/matthewreagan/RangeSlider) - Simple, clean, and customizable range-based slider control for macOS. `macOS`
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
 * [SpringySlider](https://github.com/josephlord/SpringySlider)
@@ -1793,6 +1799,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [LXPageViewWithButtonsViewController](https://github.com/lxian/LXPageViewWithButtonsViewController) - Combines UIPageViewController and highly customisable page selection tabs.
 * [MHImageTabBar](https://github.com/mho000/MHImageTabBar)
 * [MIPivotPageController](https://github.com/MarioIannotta/MIPivotPageController) - MIPivotPageController allows switching viewcontroller with an horizontal swipe.
+* [MMTabBarAnimation](https://github.com/MillmanY/MMTabBarAnimation) - Custom Animation on tabbar Item.
 * [ScrollPager](https://github.com/aryaxt/ScrollPager)
 * [Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control written in Swift.
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
@@ -1922,6 +1929,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [automatic-height-tagcells](https://github.com/weijentu/automatic-height-tagcells) - This is a sample project to implement features with dynamic height of UITableViewCell based on autolayout, tags aligned automatically and clickable tags.
+* [DPColorfulTags](https://github.com/HongliYu/DPColorfulTags-Swift) - tags with different colors.
 * [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view, in Swift.
 * [RRTagController](https://github.com/remirobert/RRTagController) - RRTagController allows user to select tag and create new one.
 * [UITags](https://github.com/gtsif21/UITags)
@@ -1970,6 +1978,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Splitflap](https://github.com/YannickL/Splitflap) - A simple split-flap display for your Swift applications.
 * [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - Swift extensions that make it a breeze to work with attributed strings.
 * [SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown) - Converts Markdown files and strings into NSAttributedString.
+* [SwiftRichString](https://github.com/malcommac/SwiftRichString) - Elegant & Painless Attributed Strings Management Library in Swift.
 * [TextAttributes](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
 * [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
 
@@ -2389,6 +2398,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CustomSegue](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects (NSViewControllerTransitionOptions). `macOS`
 * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
 * [ExpandingViewTransition](https://github.com/tomkowz/ExpandingViewTransition-Demo) - Example of how to create custom view controllers transition.
+* [Hero](https://github.com/lkzhao/Hero) - Supercharged transition engine for iOS.
 * [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images written in Swift.
 * [inbox-replica](https://github.com/RabbitMC/inbox-replica) - Recreated the expanding cells effect from `Inbox` by Google in Swift.
 * [ISScrollViewPageSwift](https://github.com/Ilhasoft/ISScrollViewPageSwift) ScollView with UIViewController.
