@@ -552,6 +552,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GNTickerButton](https://github.com/gonzalonunez/GNTickerButton)
 * [Hamburger Menu Button](https://github.com/toannt/Hamburger-Menu-Button)
 * [iOS-camera-button](https://github.com/otusweb/iOS-camera-button) - A button that behave the same way as the video camera button in the iOS camera.
+* [JDJellyButton](https://github.com/jamesdouble/JDJellyButton) - JDJellyButton is a high-cutomization navigation Button.
 * [JOEmojiableBtn](https://github.com/lojals/JOEmojiableBtn) - Emoji selector like Facebook Reactions.
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton)
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)
@@ -1329,6 +1330,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MTCoordinatorView](https://github.com/mittsuu/MTCoordinatorView) - The view coordinate arranged to the scrolling is adjusted.
 * [navigation-stack](https://github.com/Ramotion/navigation-stack) - NavigationStack is a stack-modeled navigation controller.
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller. Support 3D Touch.
+* [Tamamushi](https://github.com/makomori/Tamamushi) - Gradient NavigationBar library written in Swift.
 * [TB_TwitterUI](https://github.com/ariok/TB_TwitterUI) 
 * [TinderNavDemo](https://github.com/imaccallum/TinderNavDemo) - Tinder-style parallax paging navigation implementation.
 
@@ -1425,6 +1427,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [QueryKit](https://github.com/QueryKit) - A simple CoreData query language for Swift and Objective-C.
 * [Pantry](https://github.com/nickoneill/Pantry) - The missing light persistence layer for Swift.
 * [Palau](https://github.com/symentis/Palau) - NSUserDefaults with Wings!.
+* [pencil](https://github.com/naru-jpn/pencil) - Super lightweight DB written in Swift.
 * [Redbird](https://github.com/czechboy0/Redbird) - Pure-Swift Redis client implemented from the original protocol spec. OS X + Linux compatible.
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 * [TypedDefaults](https://github.com/tasanobu/TypedDefaults) - TypedDefaults is a utility library to type-safely use NSUserDefaults.
@@ -1708,6 +1711,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [Orbit7](https://github.com/Mav3r1ck/Orbit7) - Open Source iOS Game created in SpriteKit with Swift.
+* [SKTiled](https://github.com/mfessenden/SKTiled) - Swift framework for working with Tiled assets in SpriteKit.
 * [SKTiledMap](https://github.com/wbcyclist/SKTiledMap) - A TMX TileMap framework for SpriteKit.
 
 ## Statusbar
@@ -1863,6 +1867,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HoverConversion](https://github.com/marty-suzuki/HoverConversion) - HoverConversion realized vertical paging with UITableView. UIViewController will be paged when reaching top or bottom of UITableView contentOffset.
 * [iOS-MultiSelectionTable](https://github.com/nunogoncalves/iOS-MultiSelectionTable) - Beautiful way of having a multi-selection table on iOS written in Swift.
 * [ios-swift-collapsible-table-section](https://github.com/jeantimex/ios-swift-collapsible-table-section) - A simple iOS swift project demonstrates how to implement collapsible table section.
+* [LUExpandableTableView](https://github.com/LaurentiuUngur/LUExpandableTableView) - A subclass of `UITableView` with expandable and collapsible section.
 * [MBTwitterScroll](https://github.com/starchand/MBTwitterScroll) - Recreate Twitter's profile page scrolling animation for UITableView and UIScrollViews.
 * [MYTableViewIndex](https://github.com/mindz-eye/MYTableViewIndex) - A pixel perfect replacement for UITableView section index, written in Swift.
 * [NSTableView-Sections](https://github.com/krzyzanowskim/NSTableView-Sections) - NSTableView with sections (similar to UITableView) in Swift. `macOS`
@@ -2225,6 +2230,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HTY360Player](https://github.com/hanton/HTY360Player) - A 360° video player for iOS.
 * [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 * [Periscope-VideoViewController](https://github.com/gontovnik/Periscope-VideoViewController) - Video view controller with Periscope fast rewind control.
+* [VRDemo-Swift](https://github.com/Huanhoo/VRDemo-Swift) - RDemo-Swift is a 360-degree video player demo which achieved use Swift3.0 and OpenGL ES.
 
 ## View
 
