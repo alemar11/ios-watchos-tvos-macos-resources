@@ -365,6 +365,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise. ⌚️ `macOS`
 * [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
 * [TSWeChat](https://github.com/hilen/TSWeChat) - A WeChat alternative. Written in Swift.
+* [VKMusic](https://github.com/ilyahal/VKMusic) - The app is designed for listening to music from vk.com.
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. ⌚️
 * [Wire](https://github.com/wireapp/wire-ios) - Wire iOS client (iPhone and iPad).
 * [Yep](https://github.com/CatchChat/Yep) - A community where geniuses meet.
@@ -1652,6 +1653,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DPSegmentedControl](https://github.com/dwipp/DPSegmentedControl) - Segmented control with image and title.
 * [NPSegmentedControl](https://github.com/neopixl/NPSegmentedControl) - A segmented control with custom appearance and interactive animations. Written in Swift 3.0.
 * [PinterestSegment](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation.
+* [SegmentedControl](https://github.com/IvanVorobei/SegmentedControl) - Custom SegmentedControl for iOs in Swift.
 * [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl)
 * [SSYSegmentedControl](https://github.com/jerrykrinock/SSYSegmentedControl) - UISegmentedControl alternative for text titles. Adaptive segment widths, Swift 3.
 * [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - Custom UISegmentedControl replacement for iOS, written in Swift.
@@ -1882,6 +1884,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NSTableView-Sections](https://github.com/krzyzanowskim/NSTableView-Sections) - NSTableView with sections (similar to UITableView) in Swift. `macOS`
 * [NSTableView-Sorting](https://github.com/bitboutique/NSTableView-Sorting) - Drag Sorting NSTableView rows in Swift. `macOS`
 * [OptionalEmptyTableViews](https://github.com/stuartbreckenridge/OptionalEmptyTableViews)
+* [ParallaxTableView](https://github.com/IvanVorobei/ParallaxTableView) - Paralax views with tableViewCell.
 * [PBDataTableView](https://github.com/praveenb-ios/PBDataTableView) - DataTable for iPhone and iPad.
 * [QuickRearrangeTableView](https://github.com/okla/QuickRearrangeTableView)
 * [SAStickyHeader](https://github.com/shams-ahmed/SAStickyHeader) - A very simple sticky header with multiple image support via swipe gestures.
