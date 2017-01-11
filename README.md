@@ -442,6 +442,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RPMultipleImagePicker](https://github.com/renatopeterman/RPMultipleImagePicker)
 * [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper)
 * [Reader](https://github.com/vfr/Reader) - pdf
+* [SRPictureBrowser](https://github.com/guowilling/SRPictureBrowser) - A concise and elegant easy-to-use picture browser, the code is clear and easy to extend.
 * [SWImageRotation](https://github.com/SurpriseWave/SWImageRotation)
 * [TOCropViewController](https://github.com/TimOliver/TOCropViewController)
 * [TouchGradientPicker](https://github.com/mmertsock/TouchGradientPicker)
@@ -940,6 +941,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Swift implementation of the photo tilt gesture/UX found in Facebook's Paper app.
 * [Panorific](https://github.com/ndmeiri/Panorific) - An immersive, intuitive, motion-based way to explore high quality panoramas and photos on an iOS device. Panorific is implemented in Swift.
 * [PASImageView](https://github.com/abiaad/PASImageView) - Rounded async imageview downloader lightly cached and written in Swift.
+* [Sharaku](https://github.com/makomori/Sharaku) - Image filtering UI library like Instagram.
 * [Snowflake](https://github.com/onmyway133/Snowflake) - SVG in Swift.
 * [SwiftImageProcessing](https://github.com/skyfe79/SwiftImageProcessing) - Pixel operations in swift.
 * [SwiftSVG](https://github.com/mchoe/SwiftSVG) - A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).
@@ -1105,6 +1107,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ITActivityIndicator](https://github.com/iluuu1994/ITActivityIndicator) - A very simple alternative to UIActivityIndicatorView.
 * [JDProgressRoundView](https://github.com/jamesdouble/JDProgressRoundView)
 * [KOActivityIndicator](https://github.com/kohtenko/KOActivityIndicator)
+* [KRActivityIndicatorView](https://github.com/Henryforce/KRActivityIndicatorView) - An activity indicator view for OSX written in Swift. `macOS`
 * [Loader](https://github.com/samhann/Loader.swift) - This library allows you to easily add an FB style animated loading placeholder to your tableviews or collection views.
 * [MAActivityIndicator](https://github.com/micazeve/MAActivityIndicator)
 * [MaterialLoadingIndicator](https://github.com/Tueno/MaterialLoadingIndicator) - Material like loading indicator sample for iOS.
@@ -1754,6 +1757,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AHStepperControl](https://github.com/ashh640/AHStepperControl) - A simple stepper control for iOS.
 * [G8SliderStep](https://github.com/gali8/G8SliderStep) - Custom Range UISlider for iOS, in Swift - Draggable, Tappable, Inspectable.
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
+* [JKSteppedProgressBar](https://github.com/Johnykutty/JKSteppedProgressBar) - Stepped ProgressBar for iOS.
 * [KWStepper](https://github.com/kyleweiner/KWStepper) - A stepper control with flexible UI and tailored UX.
 * [MultiStepSlider](https://github.com/hsusmita/MultiStepSlider) - A custom UIControl which functions like UISlider where you can set multiple intervals with different step values for each interval.
 * [SnappingStepper](https://github.com/yannickl/SnappingStepper) - An elegant alternative to the UIStepper written in Swift.
@@ -2322,6 +2326,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full [tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
 * [Translucid](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background. Written in swift.
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
+* [UIView-Borders-Swift](https://github.com/aaronn/UIView-Borders-Swift) - One sided borders on any side of a UIView. Now available in Swift 3.
 * [VBPiledView](https://github.com/v-braun/VBPiledView) - Simple and beautiful stacked UIView to use as a replacement for an UITableView, UIImageView or as a menu.
 * [VHUD](https://github.com/xxxAIRINxxx/VHUD)
 * [VideoThumbView](https://github.com/toygar/VideoThumbView) - Video Thumb ScrollView.
