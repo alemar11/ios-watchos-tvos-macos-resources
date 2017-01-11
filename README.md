@@ -2303,6 +2303,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ContactImageView](https://github.com/gkye/ContactImageView) - UIImageView subclass which generates text as the placeholder for an ImageView, supports IBDesignable and code.
 * [DottedLineView](https://github.com/STAR-ZERO/DottedLineView) - Draw horizontal or vertical dotted line for iOS.
 * [EZYGradientView](https://github.com/shashankpali/EZYGradientView) - Create gradients and blur gradients without a single line of code.
+* [FAQView](https://github.com/mukeshthawani/FAQView) - An easy to use FAQ view for iOS written in Swift.
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A fancy hexagonal layout for displaying data like your Apple Watch.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
 * [JDMechanicWatch](https://github.com/jamesdouble/JDMechanicWatch) - JDMechanicWatch can show time in a MechanicWatch look.
