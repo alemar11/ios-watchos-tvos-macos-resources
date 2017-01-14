@@ -1881,6 +1881,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [EssentialTableView](https://github.com/sohamb1390/EssentialTableView) - A detailed project on UITableView which includes Parallax effects, Collapse/Expand UITableViewCell, 3D Touch on UITableViewCell.
 * [FileCards](https://github.com/etrep/FileCards_Swift) - A complete and modern OS X 10.10 Swift rewrite of Apple's FileCards example. `macOS`
 * [files-ios](https://github.com/steventroughtonsmith/files-ios) - File Browser for iOS.
+* [GLTableCollectionView](https://github.com/giulio92/GLTableCollectionView) - Netflix and App Store like UITableView with UICollectionView, written in pure Swift 3.0.
 * [HoverConversion](https://github.com/marty-suzuki/HoverConversion) - HoverConversion realized vertical paging with UITableView. UIViewController will be paged when reaching top or bottom of UITableView contentOffset.
 * [iOS-MultiSelectionTable](https://github.com/nunogoncalves/iOS-MultiSelectionTable) - Beautiful way of having a multi-selection table on iOS written in Swift.
 * [ios-swift-collapsible-table-section](https://github.com/jeantimex/ios-swift-collapsible-table-section) - A simple iOS swift project demonstrates how to implement collapsible table section.
@@ -1996,6 +1997,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - add text(multiple line support) to imageView, edit, rotate or resize them as you want, then render the text on image.
 * [HighlightTextView](https://github.com/yusayusa/HighlightTextView)
 * [Marklight](https://github.com/macteo/Marklight) - Markdown syntax highlighter for iOS.
+* [Mustard](https://github.com/mathewsanders/Mustard) - Mustard is a Swift library for tokenizing strings when splitting by whitespace doesn't cut it.
 * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 * [PTPPlaceholderTextView](https://github.com/pitiphong-p/PTPPlaceholderTextView) - A simple naive implementation of UITextView subclass to support placeholder text rendering in UITextView.
 * [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Gradient Text in Real.
