@@ -139,6 +139,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RMActionController](https://github.com/CooperRS/RMActionController)
 * [RMPickerViewController](https://github.com/CooperRS/RMPickerViewController)
 * [SGActionView](https://github.com/sagiwei/SGActionView)
+* [SRActionSheet](https://github.com/guowilling/SRActionSheet) - A action sheet which is very similar to wechat's option view.
 * [WCActionSheet](https://github.com/wczekalski/WCActionSheet)
 
 #### 🔸*Swift*
@@ -266,6 +267,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JRMFloatingAnimation](https://github.com/carleihar/JRMFloatingAnimation)
 * [LearnCube-iOS](https://github.com/MartinRGB/LearnCube-iOS) - An animation practise demo.
 * [MCSFishEye](https://github.com/macoscope/MCSFishEye)
+* [Mystique](https://github.com/gbammc/Mystique) - A wrapper for CoreAnimation.
 * [NGAParallaxMotion](https://github.com/michaeljbishop/NGAParallaxMotion)
 * [MotionBlur](https://github.com/fastred/MotionBlur) - Add motion blur effect to your animations
 * [PortalTransition](https://github.com/machackx/PortalTransition) - Inspired by Apple's keynote portal animation, it is an iOS implementation of Portal like UIViewController transition.
@@ -337,6 +339,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Ello](https://github.com/ello/ello-ios) - Ello iOS App.
 * [EventBlankApp](https://github.com/icanzilb/EventBlankApp) - A free open source iOS app for events or conferences.
 * [FileExplorer](https://github.com/augustyniak/FileExplorer) - FileExplorer is a powerful iOS file browser that allows its users to choose and remove files and/or directories.
+* [Files](https://github.com/JohnSundell/Files) - A nicer way to handle files & folders in Swift.
 * [furni-ios](https://github.com/twitterdev/furni-ios) - Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform.
 * [GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard) - Hang a TV in your open space or team room to show everyone what's up and get them up to speed. 📺
 * [gulps](https://github.com/FancyPixel/gulps) - Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
@@ -452,6 +455,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)
 * [BRNImagePickerSheet](https://github.com/jacklevin74/BRNImagePickerSheet/tree/master)
+* [CSPhotoGallery](https://github.com/youkchansim/CSPhotoGallery) - This is very simple and light photo gallery.
 * [DSFacebookImagePicker](https://github.com/sanche21/DSFacebookImagePicker)
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature with a few line of code in Swift.
 * [INSPhotoGallery](https://github.com/inspace-io/INSPhotoGallery) - INSPhotoGallery is a modern looking photo gallery written in Swift for iOS.
@@ -642,6 +646,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Graphs](https://github.com/recruit-mtl/Graphs) - Light weight charts view generater for iOS. Written in Swift.
 * [HeartRate](https://github.com/liamscofield/HeartRate) - Chart for Decibel.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - Beautiful charts for iOS/tvOS/OSX.
+* [PieCharts](https://github.com/i-schuetz/PieCharts) - Easy to use and highly customizable pie charts library for iOS.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)
 * [ROStorageBar](https://github.com/prine/ROStorageBar)
 * [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
@@ -1299,8 +1304,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MessageProgressView](https://github.com/Tueno/MessageProgressView) - Simple loading animation for Swift.
 * [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
 * [NMessenger](https://github.com/eBay/NMessenger) - A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift.
+* [Quick-Chat](https://github.com/aslanyanhaik/Quick-Chat) - Real time chat app written in Swift 3 using Firebase.
 * [swift-chat](https://github.com/firebase/ios-swift-chat-example) - FireChat implemented in Swift!.
-
+* [Twitter_Post](https://github.com/csontosgabor/Twitter_Post) - Custom Twitter Post View Controller.
 
 ## Metal
 
@@ -1963,6 +1969,10 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [YZTagView](https://github.com/yoshiz3-onishi/YZTagView) - A simple tag view.
 
 ## Testing
+
+#### 🔹*Obj-C*
+* [bluepill](https://github.com/linkedin/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine.
+
 #### 🔸*Swift*
 * [pxctest](https://github.com/plu/pxctest) - Execute tests in parallel on multiple iOS Simulators.
 
@@ -2046,6 +2056,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) - Animated UITextField and UITextView replacement for iOS.
 * [AutocompleteField](https://github.com/filipstefansson/AutocompleteField) - Add word completion to your UITextFields.
 * [EGFloatingTextField](https://github.com/enisgayretli/EGFloatingTextField) - Implementation of Google's "Floating labels" of Material design.
+* [ElValidator](https://github.com/dk53/ElValidator) - A simple plugin to help you validate textfield entries.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields)
 * [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating UITableView based form.
 * [formvalidator-swift](https://github.com/ustwo/formvalidator-swift) - A framework to validate inputs of text fields and text views in a convenient way.
@@ -2239,6 +2250,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Verbose](https://github.com/igormatyushkin014/Verbose) - Text generator written in Swift.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
 * [Warehouse](https://github.com/muukii/Warehouse) - You can use easily NSFileManager.
+* [WatchShaker](https://github.com/ezefranca/WatchShaker) Simple motion detector for watchOS shake gesture. ⌚️
 * [Zip](https://github.com/marmelroy/Zip) - Swift framework for zipping and unzipping files.
 
 ## Video
