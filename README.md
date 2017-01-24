@@ -1147,6 +1147,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DefaultStringConvertible](https://github.com/jessesquires/DefaultStringConvertible)
 * [Duration](https://github.com/SwiftStudies/Duration) - A simple Swift package for measuring and reporting the time taken for operations.
 * [Evergreen](https://github.com/viWiD/Evergreen) - Most natural Swift logging.
+* [JustLog](https://github.com/justeat/JustLog) - JustLog brings logging on iOS to the next level. It supports console, file and remote Logstash logging via TCP socket with no effort. Support for logz.io available.
 * [Lighty](https://github.com/abdullahselek/Lighty) - Easy to use and lightweight logger in Swift.
 * [logkit](https://github.com/logkit/logkit) - An efficient logging library for OS X, iOS, watchOS, and tvOS – written in Swift. Log to console, file, HTTP service, or your own endpoint. Simple to get started, but smartly customizable.
 * [RapidLogger](https://github.com/krishna706/RapidLogger) - Rapid Logger captures all the log and able to display in device with neat UI.
