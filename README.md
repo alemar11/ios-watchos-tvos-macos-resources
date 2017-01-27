@@ -1934,6 +1934,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [ActionCell](https://github.com/xiongxiong/ActionCell) - Easy to use UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
+* [BWSwipeRevealCell](https://github.com/bitwit/BWSwipeRevealCell) - A Swift library for swipeable table cells.
 * [ExpandableTableView](https://github.com/rondinellimorais/ExpandableTableView)  
 * [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - Expanding table view cells using `UIStackView in iOS 9.
 * [EVSlidingTableViewCell](https://github.com/epv44/EVSlidingTableViewCell) - Custom UITableViewCell that can be swiped either way to reveal a "drawer" with between 1 and 4 customizable action buttons. These action buttons fade and grow into view as the drawer is swiped. This cell works on all orientations and all devices.
@@ -1942,7 +1943,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PickerController](https://github.com/xiongxiong/PickerController) - Easy to use UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 * [RHPreviewCell](https://github.com/robertherdzik/RHPreviewCell) - Use long press on cell to trigger action I envied so much Spotify iOS app this great playlist preview cell, I decided to create my own ones. Now you can give your users ability to quick check "what content is hidden under your UITableViewCell". Great think is that this Library not requires 3D Touch support from user device.
 * [SBGestureTableView](https://github.com/Stickbuilt/SBGestureTableView) - Swift UITableView subclass that supports swiping rows ala Mailbox and long press to move rows.
-* [TableFlip)](https://github.com/mergesort/TableFlip) - A simpler way to do cool UITableView animations.
+* [SwipeAndSnapCell](https://github.com/iandundas/SwipeAndSnapCell) - Cell which immitates iOS10's Mail.app cell swiping behavior.
+* [SwipyCell](https://github.com/moritzsternemann/SwipyCell) - Easy to use UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
+* [TableFlip](https://github.com/mergesort/TableFlip) - A simpler way to do cool UITableView animations.
 * [WobbleView](https://github.com/inFullMobile/WobbleView) -  Wobble effect.
 * [VPAccordionAnimation](https://github.com/varunpm1/VPAccordionAnimation) - Accordion Animation for UITableView cell expansion and collapsing.
 
@@ -2138,7 +2141,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - A Swift extension that adds toast notifications to the UIView object class.
 * [TTGSnackbar](https://github.com/zekunyan/TTGSnackbar) - TTGSnackbar shows simple message and action button on the bottom or top of the screen with multi kinds of animation.
 * [ZKNavigationController](https://github.com/ZacharyKhan/ZKNavigationController) - iOS Navigation Controller Alert.
-* [Whisper](https://github.com/hyperoslo/Whisper)
+* [Whisper](https://github.com/hyperoslo/Whisper) - Whisper is a component that will make the task of display messages and in-app notifications simple. It has three different views inside.
 
 ## ToolBar
 
@@ -2342,7 +2345,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
 * [Smile-Lock](https://github.com/liu044100/Smile-Lock) - A library for make a beautiful Passcode Lock View.
 * [SVGSpriteView](https://github.com/rondinellimorais/SVGSpriteView) - Subclass of UIView where is possible render SVG Sprites.
-* [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full [tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
+* [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full * [tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
 * [Translucid](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background. Written in swift.
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
 * [UIView-Borders-Swift](https://github.com/aaronn/UIView-Borders-Swift) - One sided borders on any side of a UIView. Now available in Swift 3.
