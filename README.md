@@ -755,6 +755,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JFCardSelectionViewController](https://github.com/atljeremy/JFCardSelectionViewController)
 * [UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell) - Automatically UICollectionViewCell size calculating.
 
+#### 🔸*Swift*
+* [SwipeCollectionViewCell](https://github.com/anishparajuli555/SwipeCollectionViewCell) - This project illustrates how to implement swipe to delete functionality in UICollectionViewCell.
 
 ## Color
 *Color Pickers, color and style frameworks*
