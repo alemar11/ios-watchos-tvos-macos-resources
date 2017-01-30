@@ -352,6 +352,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 * [Minamo](https://github.com/yukiasai/Minamo) - Simple coach mark library written in Swift.
 * [NKWatchActivityIndicator](https://github.com/NilStack/NKWatchActivityIndicator) - An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2. ⌚️
+* [Notepad](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 * [OneHourWalker](https://github.com/appcoda/OneHourWalker) - HealthKit demo app.
 * [OpenSim](https://github.com/luosheng/OpenSim) - OpenSim is an open source alternative for SimPholders, written in Swift.
 * [PixPic](https://github.com/Yalantis/PixPic) - PixPic, a Photo Editing App.
@@ -446,6 +447,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper)
 * [Reader](https://github.com/vfr/Reader) - pdf
 * [SRPictureBrowser](https://github.com/guowilling/SRPictureBrowser) - A concise and elegant easy-to-use picture browser, the code is clear and easy to extend.
+* [SRVideoPlayer](https://github.com/guowilling/SRVideoPlayer) - AVFoundation based video player, custom UI and easy to extend.
 * [SWImageRotation](https://github.com/SurpriseWave/SWImageRotation)
 * [TOCropViewController](https://github.com/TimOliver/TOCropViewController)
 * [TouchGradientPicker](https://github.com/mmertsock/TouchGradientPicker)
@@ -821,6 +823,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [ASCalendar](https://github.com/scamps88/ASCalendar) - A calendar control for iOS written in swift with mvvm pattern.
 * [CalendarPopUp](https://github.com/orazz/CalendarPopUp)
+* [CalendarView](https://github.com/mmick66/CalendarView) - This is a calendar component for iOS written in Swift.
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
 * [DPTimePicker](https://github.com/dariopellegrini/DPTimePicker) 
