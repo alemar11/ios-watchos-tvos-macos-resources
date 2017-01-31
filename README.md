@@ -357,6 +357,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [OpenSim](https://github.com/luosheng/OpenSim) - OpenSim is an open source alternative for SimPholders, written in Swift.
 * [PixPic](https://github.com/Yalantis/PixPic) - PixPic, a Photo Editing App.
 * [PostManager](https://github.com/TomekB/PostManager) - iOS Swift + Node.js app to manage and schedule twitter posts (like buffer).
+* [PotterPics](https://github.com/surayashivji/PotterPics) - Harry Potter themed social network similar to Instagram.
 * [pokemon-weakness-ios](https://github.com/pokeweak/pokemon-weakness-ios) - Source code for Pokemon Weakness iOS application. 
 * [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan) - Open Source Weather App created with Swift.
 * [ReviewTime](https://github.com/nthegedus/ReviewTime) - Review Time is an open source app for iOS written in Swift that show the average review times for iOS and the Mac Apps using data crowdsourced from AppReviewTime.
