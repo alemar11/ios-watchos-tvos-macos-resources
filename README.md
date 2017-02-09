@@ -290,12 +290,14 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A UIKit custom transition that simulates an elastic drag.
 * [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - A collection of iOS animation repos.
 * [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - Natural Blocks Based Core Animation Framework.
+* [FlipTheBlinds](https://github.com/joelconnects/FlipTheBlinds) - FlipTheBlinds is an animation transition that creates a venetian blinds domino effect.
 * [Fluent](https://github.com/matthewcheok/Fluent) - Swift Animations made Easy.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [Interpolate](https://github.com/marmelroy/Interpolate) - Swift interpolation for gesture-driven animations.
 * [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit) - Animate easy and with less code with Swift.
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
 * [KFWatchKitAnimations](https://github.com/kiavashfaisali/KFWatchKitAnimations) - KFWatchKitAnimations creates beautiful 60 FPS animations for  Watch by recording animations from the iOS. ⌚️
+* [lottie](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations.
 * [Motion Machine](https://github.com/poetmountain/MotionMachine) - A powerful, elegant, and modular animation library for Swift.
 * [MTPrivateTrainerAnimation](https://github.com/MartinRGB/MTPrivateTrainerAnimation)
 * [PIRipple](https://github.com/pixel-ink/PIRipple) - Ripple Effect for iOS (swift)
@@ -646,6 +648,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [3DGraph](https://github.com/greglecki/3DGraph) - An interactive Swift 3D Graph.
 * [APLineChart](https://github.com/tylyo/APLineChart)
+* [ChartLegends](https://github.com/i-schuetz/ChartLegends) - Convenient and flexible legends for all kind of charts.
 * [Graphs](https://github.com/recruit-mtl/Graphs) - Light weight charts view generater for iOS. Written in Swift.
 * [HeartRate](https://github.com/liamscofield/HeartRate) - Chart for Decibel.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - Beautiful charts for iOS/tvOS/OSX.
@@ -1303,6 +1306,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ZHChat](https://github.com/zhuozhuo/ZHChat) - An elegant messages UI library for iOS.
 
 #### 🔸*Swift*
+* [BubblePictures](https://github.com/kbelter/BubblePictures) - Framework for iOS to show Bubble like pictures.
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
 * [chatheads](https://github.com/rajatgupta26/fk-ios-chatheads) - Library to use chat heads within your iOS app with complete physics and animations which drive multi user chat behaviour to support collapsed/stacked or expanded states.
 * [FirebaseChat](https://github.com/sohamb1390/FirebaseChat) - A simple anonymous group chat application using Firebase.
@@ -1536,6 +1540,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh compontent developed in Swift.
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl)
 * [GearRefreshControl](https://github.com/andreamazz/GearRefreshControl)
+* [JZSpringRefresh](https://github.com/newbdez33/JZSpringRefresh) - All around Unread.app like pull to refresh library.
 * [MAGearRefreshControl](https://github.com/micazeve/MAGearRefreshControl)
 * [PeriscopyPullToRefresh](https://github.com/anaglik/PeriscopyPullToRefresh)
 * [PZPullToRefresh](https://github.com/pixyzehn/PZPullToRefresh)
