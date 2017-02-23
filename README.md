@@ -225,6 +225,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FTPopOverMenu_Swift](https://github.com/liufengting/FTPopOverMenu_Swift) - FTPopOverMenu_Swift, swift version of FTPopOverMenu.
 * [HYAlertController](https://github.com/castial/HYAlertController) - A Simple And Minimalist iOS AlertController.
 * [Malert](https://github.com/vitormesquita/Malert) - Custom alert View to iOS applications.
+* [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - MIBlurPopup let you create amazing popups with a blurred background.
 * [MIAlertController](https://github.com/MarioIannotta/MIAlertController) - A simple fully customizable alert controller.
 * [Notification-AlertView](https://github.com/alexey-kubas-appus/Notification-AlertView)
 * [PathDynamicModal](https://github.com/ra1028/PathDynamicModal)
@@ -249,6 +250,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Animation
 
 #### 🔹*Obj-C*
+* [Animations-in-iOS](https://github.com/krishnads/Animations-in-iOS) - Many kind of animations.
 * [AZSoundManager](https://github.com/willingheart/AZSoundManager)
 * [AnimationEngine](https://github.com/intuit/AnimationEngine)
 * [animations-in-ios](https://github.com/somedev/animations-in-ios) - Animations in iOS with Facebook POP.
@@ -284,6 +286,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AnimateBlurRadius](https://github.com/fichek/AnimateBlurRadius) - An example of how to interactively animate blur radius on iOS 10.
 * [ATScrollingNumbers](https://github.com/anooptomar1/ATScrollingNumbers) - Scrolling number control with circular progress.
 * [ConfettiView](https://github.com/OrRon/ConfettiView) - Confetti View lets you create a magnificent confetti view in your app.
+* [Dance](https://github.com/saoudrizwan/Dance) - A radical & elegant animation library built for iOS.
 * [DCExplosion](https://github.com/Tangdixi/DCExplosion)
 * [DoneHud](https://github.com/beryu/DoneHUD) - Done animation on HUD.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
@@ -484,6 +487,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ZLMusicFlowWaveView](https://github.com/zhxnlai/ZLMusicFlowWaveView)
 
 #### 🔸*Swift*
+* [Audio-Recorder](https://github.com/venkatkukunuru/Audio-Recorder) - Recording voice in swift.
 * [AudioEqualizer](https://github.com/kiran5232/AudioEqualizer) - AudioEqualizer in swift.
 * [AudioKit](https://github.com/audiokit/AudioKit) - Open-source audio synthesis, processing, & analysis platform.
 * [Jukebox](https://github.com/teodorpatras/Jukebox) - Player for streaming local and remote audio files. Written in Swift.
@@ -557,8 +561,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [ANLongTapButton](https://github.com/antrix1989/ANLongTapButton) - Long tap button with animated progress bar.
+* [ButtonSelectionAnimation](https://github.com/tungfam/ButtonSelectionAnimation) - UIButton subclass which performs animation on selection.
 * [ButtonStyleKit](https://github.com/keygx/ButtonStyleKit) - ButtonStyleKit is helper library for UIButton custom styles.
-* [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Send Button for iOS.
+* [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Send Bu#tton for iOS.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 * [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
 * [DynamicButton](https://github.com/yannickl/DynamicButton)
@@ -589,6 +594,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition)
 * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons (in Swift).
 * [vkexpandablebutton](https://github.com/vladislav-k/VKExpandableButton) - Easy to use expandable button in Swift.
+* [WCLShineButton](https://github.com/631106979/WCLShineButton) - This is a UI lib for iOS. Effects like shining.
 
 ## Camera
 *AVFoundation and CIFaceFeature implementations*
@@ -649,6 +655,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [3DGraph](https://github.com/greglecki/3DGraph) - An interactive Swift 3D Graph.
 * [APLineChart](https://github.com/tylyo/APLineChart)
 * [ChartLegends](https://github.com/i-schuetz/ChartLegends) - Convenient and flexible legends for all kind of charts.
+* [CSPieChart](https://github.com/youkchansim/CSPieChart) - This is pie chart that is very easy to use and customizable design.
 * [Graphs](https://github.com/recruit-mtl/Graphs) - Light weight charts view generater for iOS. Written in Swift.
 * [HeartRate](https://github.com/liamscofield/HeartRate) - Chart for Decibel.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - Beautiful charts for iOS/tvOS/OSX.
@@ -673,6 +680,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [iCheckbox](https://github.com/mancunianetz/iCheckbox) - Checkbox component for iOS apps.
+* [SnapchatCheckbox](https://github.com/danielinoa/SnapchatCheckbox) - A Snapchat-inspired checkbox.
 * [vkcheckbox](https://www.cocoacontrols.com/controls/vkcheckbox) - Simple customizable closure-based checkbox control written on Swift.
 * [WOWCheckbox](https://github.com/zhouhao27/WOWCheckbox) - Highly customisable checkbox in Swift.
 
@@ -723,6 +731,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [ADMozaicCollectionViewLayout](https://github.com/Antondomashnev/ADMozaicCollectionViewLayout) - ADMozaicCollectionViewLayout is yet another UICollectionViewLayout subclass that implements "brick" or "mozaic" layout.
+* [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
 * [CardsStack](https://github.com/priteshrnandgaonkar/CardsStack) - An awesome set of cards at your disposal 
@@ -731,6 +740,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GooglePlayTransition](https://github.com/xxxAIRINxxx/GooglePlayTransition) - Custom transition like Google Play Store Android App. written in Swift.
 * [Hanabi](https://github.com/kshin/Hanabi) - UICollectionViewLayout subclass with a focus on UICollectionViewCell content.
 * [FlowLayout](https://github.com/avdyushin/FlowLayout) - UICollectionViewFlowLayout with alignment modes.
+* [FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library implemented primarily with UICollectionView. It is extremely helpful for making Banner、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
 * [HFCardCollectionViewLayout](https://github.com/hfrahmann/HFCardCollectionViewLayout) - The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet.
 * [KRLCollectionViewGridLayout](https://github.com/JayGajjar/JGTransitionCollectionView/tree/master/JGTransitionCollectionView) - A iOS swift base collectionview with unique animation feature inspired from behance made using UICollectionView.
 * [KDDragAndDropCollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
@@ -744,6 +754,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SACollectionViewVerticalScalingFlowLayout](https://github.com/szk-atmosphere/SACollectionViewVerticalScalingFlowLayout) - UICollectionViewLayout that performs scaling up and down automatically on disappearing cells, and applies UIDynamics.
 * [Sapporo](https://github.com/nghialv/Sapporo) - Cellmodel-driven collectionview manager.
 * [ScaledVisibleCellsCollectionView](https://github.com/ikemai/ScaledVisibleCellsCollectionView) - ScaledVisibleCellsCollectionView is UICollectionView extension. ScaledVisibleCellsCollectionView is Check visible cells position. And setting cell's scale and alpha.
+* [ScalingCarousel](https://github.com/superpeteblaze/ScalingCarousel) - A super simple carousel view with scaling transitions written in Swift.
 * [SectionScrubber](https://github.com/bakkenbaeck/SectionScrubber) - A component to quickly scroll between collection view sections.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)
 * [StickyCollectionView](https://github.com/matbeich/StickyCollectionView) - UICollectionView layout for presenting of the overlapping cells.
@@ -1120,6 +1131,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DTIActivityIndicatorView-Swift](https://github.com/dtissera/DTIActivityIndicatorView-Swift)
 * [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit.
 * [FliudLoadingIndicator](https://github.com/vinit5320/FliudLoadingIndicator)
+* [HexLoader](https://github.com/Kesava-Jawaharlal/HexLoader) - This is a open source library which shows a hexagon shaped loading indictor, developed CAShapeLayer and CABasicAnimation.
 * [ITActivityIndicator](https://github.com/iluuu1994/ITActivityIndicator) - A very simple alternative to UIActivityIndicatorView.
 * [JDProgressRoundView](https://github.com/jamesdouble/JDProgressRoundView)
 * [KOActivityIndicator](https://github.com/kohtenko/KOActivityIndicator)
@@ -1270,6 +1282,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JGFlipMenu](https://github.com/ziligy/JGFlipMenu) - Flipping menu system written in Swift. Uses @IBDesignable for quick and easy implementation.
 * [KYWheelTabController](https://github.com/ykyouhei/KYWheelTabController) - KYWheelTabController is a subclass of UITabBarController.It displays the circular menu instead of UITabBar.
 * [MarkingMenu](https://github.com/FlexMonkey/MarkingMenu)
+* [MaterialTapTargetPrompt](https://github.com/Abedalkareem/MaterialTapTargetPrompt-iOS) - A iOS version of Material Tap Target Prompt.
 * [MediumMenu](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - MenuItemKit provides image and block(closure) support for UIMenuItem.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A fully customizable and flexible paging menu controller built from other view controllers placed inside a scroll view
@@ -1953,6 +1966,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RHPreviewCell](https://github.com/robertherdzik/RHPreviewCell) - Use long press on cell to trigger action I envied so much Spotify iOS app this great playlist preview cell, I decided to create my own ones. Now you can give your users ability to quick check "what content is hidden under your UITableViewCell". Great think is that this Library not requires 3D Touch support from user device.
 * [SBGestureTableView](https://github.com/Stickbuilt/SBGestureTableView) - Swift UITableView subclass that supports swiping rows ala Mailbox and long press to move rows.
 * [SwipeAndSnapCell](https://github.com/iandundas/SwipeAndSnapCell) - Cell which immitates iOS10's Mail.app cell swiping behavior.
+* [SwipeCellKit](https://github.com/jerkoch/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app, implemented in Swift.
 * [SwipyCell](https://github.com/moritzsternemann/SwipyCell) - Easy to use UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 * [TableFlip](https://github.com/mergesort/TableFlip) - A simpler way to do cool UITableView animations.
 * [WobbleView](https://github.com/inFullMobile/WobbleView) -  Wobble effect.
@@ -2146,6 +2160,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
 * [RNNotificationView](https://github.com/souzainf3/RNNotificationView) - Emulates the native Notification Banner UI for any alert.
 * [Snackbar-iOS](https://github.com/JastAir/Snackbar-iOS) - Simple snackbar for ios from android platform.
+* [SpaceView](https://github.com/Xopoko/SpaceView)
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - A Swift extension that adds toast notifications to the UIView object class.
 * [TTGSnackbar](https://github.com/zekunyan/TTGSnackbar) - TTGSnackbar shows simple message and action button on the bottom or top of the screen with multi kinds of animation.
@@ -2453,6 +2468,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ZOZolaZoomTransition](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition)
 
 #### 🔸*Swift*
+* [AAPopUp](https://github.com/EngrAhsanAli/AAPopUp) - AAPopUp is a simple and easy-to-use popup view controller designed to present customizable storyboard based view controller as a modal alert, written in Swift..
 * [AICustomViewControllerTransition](https://github.com/cocoatoucher/AICustomViewControllerTransition) - Easy and tidy way for creating custom UIViewController transitions for iOS.
 * [AZTransitions](https://github.com/azimin/AZTransitions) - API to make great custom transitions in one method.
 * [CustomSegue](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects (NSViewControllerTransitionOptions). `macOS`
@@ -2464,6 +2480,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ISScrollViewPageSwift](https://github.com/Ilhasoft/ISScrollViewPageSwift) ScollView with UIViewController.
 * [LNPopupController](https://github.com/LeoNatan/LNPopupController) - LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - MCMHeaderAnimated allows you to add an animation between list and detail views.
+* [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - MIBlurPopup let you create amazing popups with a blurred background.
 * [Motion](https://github.com/CosmicMind/Motion) - Seamless animations and transitions in Swift.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition)
 * [Kaeru](https://github.com/bannzai/Kaeru) - Kaeru can switch ViewController in NavigationController like iOS task manager UI (after iOS 9).
