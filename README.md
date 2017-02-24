@@ -322,6 +322,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 *Apps and tutorials*
 
 #### 🔹*Obj-C*
+* [Blear](https://github.com/sindresorhus/blear) - iOS app that transforms your photos into stunning blurry wallpapers for your device.
 * [Dash](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets.
 * [MMWormhole](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions. ⌚️
 * [Movies](https://github.com/KMindeguia/movies)
@@ -1517,6 +1518,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [Download-Indicator](https://github.com/MaheshRS/Download-Indicator)
+* [DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView) - A simple animated progress bar in Swift.
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders)
 * [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)
 * [GTProgressBar](https://github.com/gregttn/GTProgressBar) - Customisable progress bar written in Swift 3.
