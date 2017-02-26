@@ -471,6 +471,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
 * [PrismaSimpleImagePicker](https://github.com/Roylee-ML/PrismaSimpleImagePicker) - This is a copy of the Prisma APP. Reproduce Prisma custom camera, image picker and picture editor.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
+* [NextLevel](https://github.com/NextLevel/NextLevel) - Rad Media Capture in Swift.
 * [PhotoCropEditor](https://github.com/sprint84/PhotoCropEditor) - Framework written in Swift for Cropping Images easily.
 * [preview-transition](https://github.com/Ramotion/preview-transition) - PreviewTransition is a simple preview gallery controller.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift.
