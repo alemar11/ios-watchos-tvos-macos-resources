@@ -246,6 +246,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
 * [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert)
 * [UNAlertView](https://github.com/ytakzk/UNAlertView)
+* [VKPopupView](https://github.com/vladislav-k/VKPopupView) - Lightweight and easy to use blurred popup view written in Swift. You will find it very similar to your iOS folders at Springboard (Home screen).
 * [Whisper](https://github.com/hyperoslo/Whisper) - Whisper is a component that will make the task of display messages and in-app notifications simple.
 
 ## Animation
@@ -579,6 +580,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [iOS-camera-button](https://github.com/otusweb/iOS-camera-button) - A button that behave the same way as the video camera button in the iOS camera.
 * [JDJellyButton](https://github.com/jamesdouble/JDJellyButton) - JDJellyButton is a high-cutomization navigation Button.
 * [JOEmojiableBtn](https://github.com/lojals/JOEmojiableBtn) - Emoji selector like Facebook Reactions.
+* [KDPulseButton](https://github.com/KaiqueDamato/KDPulseButton) - A Custom button that pulses.
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton)
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)
 * [LoadingButton](https://github.com/SeptiyanAndika/LoadingButton) - UIButton subclass with an activity indicator and loading text.
@@ -665,6 +667,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CSPieChart](https://github.com/youkchansim/CSPieChart) - This is pie chart that is very easy to use and customizable design.
 * [Graphs](https://github.com/recruit-mtl/Graphs) - Light weight charts view generater for iOS. Written in Swift.
 * [HeartRate](https://github.com/liamscofield/HeartRate) - Chart for Decibel.
+* [HSStockChart](https://github.com/zyphs21/HSStockChart) - Stock Chart include CandleStickChart,TimeLineChart.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - Beautiful charts for iOS/tvOS/OSX.
 * [PieCharts](https://github.com/i-schuetz/PieCharts) - Easy to use and highly customizable pie charts library for iOS.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)
@@ -751,6 +754,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HFCardCollectionViewLayout](https://github.com/hfrahmann/HFCardCollectionViewLayout) - The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet.
 * [KRLCollectionViewGridLayout](https://github.com/JayGajjar/JGTransitionCollectionView/tree/master/JGTransitionCollectionView) - A iOS swift base collectionview with unique animation feature inspired from behance made using UICollectionView.
 * [KDDragAndDropCollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
+* [InfiniteScrolling](https://github.com/Vishal-Singh-Panwar/InfiniteScrolling) - Add infinite scrolling to collection view.
 * [IOStickyHeader](https://github.com/BenjaminPrieur/IOStickyHeader) - Parallax and Sticky header done right using UICollectionViewLayout.
 * [MMCardView](https://github.com/MillmanY/MMCardView) - Custom CollectionView like Wallet App.
 * [PopupCollectionViewController](https://github.com/corin8823/PopupCollectionViewController) - PopupCollectionViewController is a collectionView in Popup view.
@@ -1132,6 +1136,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [gmail-like-loading](https://github.com/raweng/gmail-like-loading)
 
 #### 🔸*Swift*
+* [AALoaders](https://github.com/EngrAhsanAli/AALoaders) - AALoaders is a lightweight, easy-to-use and powerful progress view loaders framework, written in Swift. It uses simple native elements for progress loading with customisations and allow to use without creating instance.
 * [BmoImageLoader](https://github.com/tzef/BmoImageLoader) - BmoImageLoader is a progress animated component for UIImageView.
 * [CircleSlider](https://github.com/shushutochako/CircleSlider)
 * [DotsLoader](https://github.com/mattlawer/DotsLoader) - Dots Activity Indicator using Interface Builder.
@@ -1295,6 +1300,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MaterialTapTargetPrompt](https://github.com/Abedalkareem/MaterialTapTargetPrompt-iOS) - A iOS version of Material Tap Target Prompt.
 * [MediumMenu](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - MenuItemKit provides image and block(closure) support for UIMenuItem.
+* [MTSideMenubar](https://github.com/manekdilip/MTSideMenubar) - Side menu bar creating easily left and right side.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A fully customizable and flexible paging menu controller built from other view controllers placed inside a scroll view
 * [Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS) - Animated side menu with customizable UI.
 * [SideMenuController](https://github.com/teodorpatras/SideMenuController) - A side menu controller written in Swift.
@@ -1456,6 +1462,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Permission](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API.
 * [PAPermissions](https://github.com/pascalbros/PAPermissions) - A unified API to ask for permissions on iOS.
+* [RequestPermission](https://github.com/IvanVorobei/RequestPermission) - simple permission request with beautiful UI.
 
 ## Persistance
 *CoreData, SQLite, NSUserDefaults, Caching*
@@ -1780,6 +1787,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SmoothStatusBar](https://github.com/vani2/SmoothStatusBar)
 * [UIViewController-ScrollingStatusBar](https://github.com/Antondomashnev/UIViewController-ScrollingStatusBar) - Category for UIViewController with UIScrollView to scroll statusBar along any UIScrollView subclass.
 
+#### 🔸*Swift*
+* [AutomaticStatusBarColor](https://github.com/dk53/AutomaticStatusBarColor) - A zero line component to manage status bar color automaticly throughout your application.
 
 ## StatusItem
 
@@ -1858,6 +1867,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [Animated-Tab-Bar](https://github.com/Ramotion/animated-tab-bar)
+* [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 3.0.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar)
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
@@ -1870,6 +1880,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control written in Swift.
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
 * [SwiftPrefs](https://github.com/emiscience/SwiftPrefs) - A Yosemite-only demo app showing a preferences window using Swift, storyboards and NSTabViewController. `macOS`
+* [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
 * [TabDrawer](https://github.com/winslowdibona/TabDrawer) - TabDrawer is a customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, or display a customizable drawer.
 * [WBSegmentControl](https://github.com/xiongxiong/WBSegmentControl) - An easy to use, customizable segment control, can be used to show tabs.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
@@ -1943,6 +1954,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SAStickyHeader](https://github.com/shams-ahmed/SAStickyHeader) - A very simple sticky header with multiple image support via swipe gestures.
 * [SelectPickerCell](https://github.com/oclef/SelectPickerCell) - UITableCell with UIPicker Dropdown.
 * [Static](https://github.com/venmo/Static) - Simple static table views for iOS in Swift.
+* [StretchyHeaderView](https://github.com/sunlubo/StretchyHeaderView) - A generic stretchy header for UIScrollView, and allows you to change navigation bar's appearance dynamically.
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of UITableView can be rearranged by drag and drop.
 * [TableView-PullToRefresh](https://github.com/vinit5320/TableView---PullToRefresh)
 * [UITableViewPushAnimation](https://github.com/pal2tapas/UITableViewPushAnimation) - Push a UIViewController with a attractable animation from UITableView.
@@ -1969,6 +1981,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [WCFastCell](https://github.com/wczekalski/WCFastCell) - A drop-in replacement for UITableViewCell and UICollectionViewCell which draws contents using CoreGraphics. Seamless integration with nibs provided.
 * [iOS8SelfSizingCells](https://github.com/xhzengAIB/iOS8SelfSizingCells) - This is instagram app feed tableView demo use iOS8 Self Sizing Cells.
 * [tableviewslide](https://github.com/tuchangwei/tableviewslide) - Table view slides effect.
+* [UIEmptyState](https://github.com/luispadron/UIEmptyState/tree/master/UIEmptyState) - An empty state control to give visually appealing context when building iOS applications.
 * [YMSwipeTableViewCell](https://github.com/yammer/YMSwipeTableViewCell)
 
 #### 🔸*Swift*
@@ -2452,6 +2465,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [BWTitlePagerView](https://github.com/brunow/BWTitlePagerView) - Recreate the Twitter navigation controller pager.
 * [CBHazeTransitionViewController](https://github.com/coolbeet/CBHazeTransitionViewController) - A small clone of Haze's beautiful transition view.
 * [CBStoreHouseTransition](https://github.com/coolbeet/CBStoreHouseTransition) - A custom transition inspired by Storehouse iOS app, also support pop gesture.
+* [CRPageViewController](https://github.com/Cleveroad/CRPageViewController) - While a standard page view allows you to navigate between pages by using simple gestures, our component goes further.
 * [CircleTransition](https://github.com/kukat/CircleTransition)
 * [FGDynamicsTransition](https://github.com/finngaida/FGDynamicsTransition) 
 * [GRPushSegue](https://github.com/insidegui/GRPushSegue) - A custom NSStoryboardSegue to make a nice iOS-like push transition. `macOS`
@@ -2495,6 +2509,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AAPopUp](https://github.com/EngrAhsanAli/AAPopUp) - AAPopUp is a simple and easy-to-use popup view controller designed to present customizable storyboard based view controller as a modal alert, written in Swift..
 * [AICustomViewControllerTransition](https://github.com/cocoatoucher/AICustomViewControllerTransition) - Easy and tidy way for creating custom UIViewController transitions for iOS.
 * [AZTransitions](https://github.com/azimin/AZTransitions) - API to make great custom transitions in one method.
+* [CardSlider](https://github.com/saoudrizwan/CardSlider) - Innovative twist to Tinder cards for iOS.
 * [CustomSegue](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects (NSViewControllerTransitionOptions). `macOS`
 * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
 * [Elastic](https://github.com/lkzhao/Elastic) - Fancy elastic transition powered by Metal, UIKit Dynamics, & Hero.
