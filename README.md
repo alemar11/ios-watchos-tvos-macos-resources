@@ -308,6 +308,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
 * [KFWatchKitAnimations](https://github.com/kiavashfaisali/KFWatchKitAnimations) - KFWatchKitAnimations creates beautiful 60 FPS animations for  Watch by recording animations from the iOS. ⌚️
 * [lottie](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations.
+* [Morph](https://github.com/gbammc/Morph) - A wrapper for CoreAnimation (Swift).
 * [Motion Machine](https://github.com/poetmountain/MotionMachine) - A powerful, elegant, and modular animation library for Swift.
 * [MTPrivateTrainerAnimation](https://github.com/MartinRGB/MTPrivateTrainerAnimation)
 * [MTRipple](https://github.com/manekdilip/MTRipple) - Repository for Ripple Effect.
@@ -342,6 +343,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [YoCelsius](https://github.com/YouXianMing/YoCelsius) - A weather app that uses animation to give you an at-a-glance look at the weather.
 
 #### 🔸*Swift* 
+* [AppStoreLikeExampleSwift3](https://github.com/IosPower/AppStoreLikeExampleSwift3) - Using CollectionView, UITableView, ScrollView, Such As AppStore.
 * [bitbar](https://github.com/matryer/bitbar) - BitBar lets you put the output from any script/program in your Mac OS X Menu Bar.
 * [Charter](https://github.com/matthewpalmer/Charter) - A Swift mailing list client for iPhone and iPad.
 * [Cherry](https://github.com/kenshin03/Cherry) - Mini Pomodoro Timer app designed for the  Watch. Written in Swift. ⌚️
@@ -982,6 +984,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AspectFillFaceAware](https://github.com/BeauNouvelle/AspectFillFaceAware) - An extension that gives UIImageView the ability to focus on faces within an image when using AspectFill.
 * [ARNZoomImageTransition](https://github.com/xxxAIRINxxx/ARNZoomImageTransition)
 * [BitmapCanvas](https://github.com/nst/BitmapCanvas) - Bitmap offscreen drawing in Swift for OS X. `macOS`
+* [cocoa-close-pixelate](https://github.com/bmaslakov/cocoa-close-pixelate)
 * [DPImageCache](https://github.com/dphans/DPImageCache) - Swift extension for UIImageView. Help loading image asynchronously and store local file cache.
 * [DPImageGenerator](https://github.com/dwipp/DPImageGenerator) - It's an image generator for default image.
 * [fog-machin](https://github.com/ngageoint/fog-machine) - The Fog Machine framework is a research and development effort to harness the computing power of multiple, locally connected iOS devices.
@@ -1275,6 +1278,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DWBubbleMenuButton](https://github.com/dwalker39/DWBubbleMenuButton)
 * [E84PopOutMenu](https://github.com/Element84/E84PopOutMenu)
 * [FancyTabBar](https://github.com/marvelapp/FancyTabBar) - Simple menu button that expands to reveal up to 5 sub-menu options.
+* [HyRoundMenuView](https://github.com/wwdc14/HyRoundMenuView) - Round menu.#
 * [IGLDropDownMenu](https://github.com/bestwnh/IGLDropDownMenu) - An iOS drop down menu with pretty animation.
 * [JVMenuPopover](https://github.com/JV17/JVMenuPopover)
 * [JZMultiChoicesCircleButton](https://github.com/JustinFincher/JZMultiChoicesCircleButton) - Multi choice circle button with cool 3d parallax effect.
@@ -1370,6 +1374,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
 * [NMessenger](https://github.com/eBay/NMessenger) - A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift.
 * [Quick-Chat](https://github.com/aslanyanhaik/Quick-Chat) - Real time chat app written in Swift 3 using Firebase.
+* [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension) - UITableView extension that enabled to insert cell from bottom of tableView.
 * [swift-chat](https://github.com/firebase/ios-swift-chat-example) - FireChat implemented in Swift!.
 * [Twitter_Post](https://github.com/csontosgabor/Twitter_Post) - Custom Twitter Post View Controller.
 
@@ -1514,6 +1519,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Palau](https://github.com/symentis/Palau) - NSUserDefaults with Wings!.
 * [pencil](https://github.com/naru-jpn/pencil) - Super lightweight DB written in Swift.
 * [Redbird](https://github.com/czechboy0/Redbird) - Pure-Swift Redis client implemented from the original protocol spec. OS X + Linux compatible.
+* [Seam](https://github.com/nofelmahmood/Seam) - Seamless CloudKit Sync with CoreData.
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 * [TypedDefaults](https://github.com/tasanobu/TypedDefaults) - TypedDefaults is a utility library to type-safely use NSUserDefaults.
 * [WACoreDataSpotlight](https://github.com/Wasappli/WACoreDataSpotlight) - Automatically index your CoreData objects to CoreSpotlight on iOS 9.
@@ -1565,6 +1571,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)
 * [GTProgressBar](https://github.com/gregttn/GTProgressBar) - Customisable progress bar written in Swift 3.
 * [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress)
+* [KDLoadingView](https://github.com/KaiqueDamato/KDLoadingView) - A beautiful loading indicator. Written in Swift.
 * [KYCircularProgress](https://github.com/kentya6/KYCircularProgress)
 
 ## Pull To Refresh
@@ -1786,6 +1793,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
 * [SpringySlider](https://github.com/josephlord/SpringySlider) - Custom UISlider with thumb animation.
 * [TNAnimateSlider](https://github.com/nguyentrai2011/TNAnimateSlider)
+* [TNSlider](https://github.com/tiennth/TNSlider) - A custom iOS slider that show current value on the thumb.
 * [WESlider](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management.
 
 ## Snippet
@@ -1848,6 +1856,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔹*Obj-C*
 * [CMSwitchView](https://github.com/Mycose/CMSwitchView)
 * [DVSwitch](https://github.com/Voley/DVSwitch)
+* [ORBSwitch](https://github.com/vladaverin24/ORBSwitch) - Another custom iOS switch control.
 * [ViralSwitch](https://github.com/andreamazz/ViralSwitch) - UISwitch subclass that 'infects' the parent view with the onTintColor when the switch is turned on.
 * [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch/tree/master/Example/JTMaterialSwitch)
  
@@ -1956,9 +1965,11 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 
 * [AccordionTableViewController](https://github.com/klevison/KMAccordionTableViewController) - Accordion UITableViewController component based on Apples's example.
+* [APSGroupedTableView](https://github.com/AishPratap/APSGroupedTableView)
 * [CascadingTableDelegate](https://github.com/edopelawi/CascadingTableDelegate) - A no-nonsense way to write cleaner UITableViewDelegate and UITableViewDataSource in Swift.
 * [COBezierTableView](https://github.com/knutigro/COBezierTableView) - UITableView modification written in Swift where cells are scrolling in an arc defined by a BezierPath.
 * [ConfigurableTableViewController](https://github.com/fastred/ConfigurableTableViewController) - Typed, yet Flexible Table View Controller.
+* [elongation-preview](https://github.com/Ramotion/elongation-preview) - ElongationPreview is an elegant push-pop style view controller.
 * [EssentialTableView](https://github.com/sohamb1390/EssentialTableView) - A detailed project on UITableView which includes Parallax effects, Collapse/Expand UITableViewCell, 3D Touch on UITableViewCell.
 * [FileCards](https://github.com/etrep/FileCards_Swift) - A complete and modern OS X 10.10 Swift rewrite of Apple's FileCards example. `macOS`
 * [files-ios](https://github.com/steventroughtonsmith/files-ios) - File Browser for iOS.
@@ -2201,6 +2212,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [UIUserNotificationSettings-Extension](https://github.com/alexruperez/UIUserNotificationSettings-Extension)
 
 #### 🔸*Swift*
+* [AANotifier](https://github.com/EngrAhsanAli/AANotifier) - AANotifier allows you to create UIView based fragments to be appear on screen at runtime in iOS, written in Swift.
 * [ASToast)](https://github.com/abdullahselek/ASToast) - A Swift extension for using Android style Toast notifications.
 * [AZNotification-Swift](https://github.com/azamsharp/AZNotification-Swift)
 * [BRYXBanner](https://github.com/bryx-inc/BRYXBanner)
@@ -2421,6 +2433,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FAQView](https://github.com/mukeshthawani/FAQView) - An easy to use FAQ view for iOS written in Swift.
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A fancy hexagonal layout for displaying data like your Apple Watch.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
+* [SSHoneyCombView](https://github.com/SamehSalama/SSHoneyCombView) - A honey comb View that looks like a collection view with hexagon shaped items.
 * [JDMechanicWatch](https://github.com/jamesdouble/JDMechanicWatch) - JDMechanicWatch can show time in a MechanicWatch look.
 * [jmcrainbow](https://www.cocoacontrols.com/controls/jmcrainbow)
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
