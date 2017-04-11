@@ -585,6 +585,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit)
 * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - Flat button with 21 different states and 2 types animated using pop.
 * [VLDContextSheet](https://github.com/vangelov/VLDContextSheet) - A clone of the Pinterest iOS app context menu.
+* [YBPulseButton](https://github.com/YahyaBagia/YBPulseButton) - A Custom button that pulses.
 * [YLLongTapShare](https://github.com/liyong03/YLLongTapShare) - Long Tap Sharing control for iOS.
 * [ZCSHoldProgress](https://github.com/zshannon/ZCSHoldProgress) - UILongPressGestureRecognizer subclass with some nice (customizable) visual flair.
 * [btSimpleRippleButton](https://github.com/balram3429/BTSimpleRippleButton)
@@ -777,6 +778,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts.
 * [DragDropCollection](https://github.com/runrunrun/DragDropCollection) - Custom UICollectionView allowing cells to be dragged and dropped.
+* [gliding-collection](https://github.com/Ramotion/gliding-collection) - Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller.
 * [GooglePlayTransition](https://github.com/xxxAIRINxxx/GooglePlayTransition) - Custom transition like Google Play Store Android App. written in Swift.
 * [Hanabi](https://github.com/kshin/Hanabi) - UICollectionViewLayout subclass with a focus on UICollectionViewCell content.
 * [FlowLayout](https://github.com/avdyushin/FlowLayout) - UICollectionViewFlowLayout with alignment modes.
@@ -800,6 +802,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)
 * [StickyCollectionView](https://github.com/matbeich/StickyCollectionView) - UICollectionView layout for presenting of the overlapping cells.
 * [SwiftyCollectionView](https://github.com/vinit5320/SwiftyCollectionView) - [Tutorial](https://swiftyos.wordpress.com/2015/08/01/animated-wave-transition-collectionview-ckwavecollectionviewtransition/)
+* [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - Spreadsheet CollectionViewLayout in Swift. Fully customizable.
 * [TabbedCollectionView](https://github.com/sprint84/TabbedCollectionView) - Multi-page collection view with tab categories.
 * [UICollectionViewSlideLeft](https://github.com/antbelldev/UICollectionViewSlideLeft) - A UITableView Swipe to Delete implementation in UICollectionView.
 * [UPCarouselFlowLayout](https://github.com/ink-spot/UPCarouselFlowLayout) - A fancy carousel flow layout for UICollectionView on iOS.
@@ -1146,6 +1149,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GMDCircleLoader](https://github.com/gabemdev/GMDCircleLoader)
 * [GiFHUD](https://github.com/cemolcay/GiFHUD)
 * [IMGActivityIndicator](https://github.com/DrJid/IMGActivityIndicator)
+* [InstagramActivityIndicator](https://github.com/YahyaBagia/InstagramActivityIndicator) - Activity Indicator similar to Instagram's.
 * [IoGMarquee](https://github.com/ecrichlow/IoGMarquee) - A scrolling, repeating text display.
 * [JHUD](https://github.com/jinxiansen/JHUD) - https://github.com/jinxiansen/JHUD.
 * [JTMaterialSpinner](https://github.com/jonathantribouharet/JTMaterialSpinner)
@@ -1932,7 +1936,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 3.0.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar)
-* [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
+* [KPSmartTabBar](https://github.com/KrishnaPatell/KPSmartTabBar) - A fully customisable and flexible tab bar controller.
 * [LXPageViewWithButtonsViewController](https://github.com/lxian/LXPageViewWithButtonsViewController) - Combines UIPageViewController and highly customisable page selection tabs.
 * [MHImageTabBar](https://github.com/mho000/MHImageTabBar)
 * [MIPivotPageController](https://github.com/MarioIannotta/MIPivotPageController) - MIPivotPageController allows switching viewcontroller with an horizontal swipe.
@@ -2291,6 +2295,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ModernLook-OSX](https://github.com/gyetvan-andras/ModernLook-OSX) - OSX Moder Look UI. `macOS`
 
 #### 🔸*Swift*
+* [MBIcons](https://github.com/c-Viorel/MBIcons) - MBIcons contains over 100 icons that can be resized to any dimensions as they are drawn using NSBezierPath.
 * [Material](https://github.com/CosmicMind/Material) - A beautiful graphics framework for Material Design in Swift.
 * [material-components-ios](https://github.com/material-components/material-components-ios) - Modular and customizable Material Design UI components for iOS.
 
