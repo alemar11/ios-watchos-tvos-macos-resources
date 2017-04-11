@@ -1118,6 +1118,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Layout
 #### 🔸*Swift*
 * [LayoutKit](https://github.com/linkedin/LayoutKit) - LayoutKit is a fast view layout library for iOS.
+* [Nori](https://github.com/yukiasai/Nori) - Easier to apply code based style guide to storyboard.
 
 ## Loader
 
@@ -2162,6 +2163,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ParkedTextField](https://github.com/gmertk/ParkedTextField) - A text field with a constant text/placeholder.
 * [PRGValidationField](https://github.com/ispiropoulos/PRGValidationField) - A Better way to make registration forms.
 * [RSFloatInputView](https://github.com/roytornado/RSFloatInputView) - A Float Input View with smooth animation and supporting icon and seperator written with Swift.
+* [SelectableTextView](https://github.com/jhurray/SelectableTextView) - A text view that supports selection and expansion.
 * [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift. As used in the Skyscanner TravelPro iOS app.
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - Form framework for iOS written in Swift.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - A small and lightweight library written in Swift that allows you to easily create forms.
