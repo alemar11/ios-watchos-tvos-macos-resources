@@ -316,7 +316,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MTRipple](https://github.com/manekdilip/MTRipple) - Repository for Ripple Effect.
 * [PIRipple](https://github.com/pixel-ink/PIRipple) - Ripple Effect for iOS (swift)
 * [PowerUpYourAnimations](https://github.com/icanzilb/PowerUpYourAnimations) - Sample code from talks on advanced animations: [link](https://realm.io/news/altconf-marin-todorov-animations/).
-* [Pulsator](https://github.com/shu223/Pulsator) - Pulse animation for iOS.#
+* [Pulsator](https://github.com/shu223/Pulsator) - Pulse animation for iOS.
 * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect)
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView)
