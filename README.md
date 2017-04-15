@@ -625,6 +625,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RNLoadingButton](https://github.com/souzainf3/RNLoadingButton-Swift)
 * [SFlatButton](https://github.com/alexmeji/SFlatButton)
 * [SparkButtonDemo](https://github.com/saravananImaginea/SparkButtonDemo) - Demonstrates the SparkButton Animations that reflects the FB's Paper App's Like button animation.
+* [SquishButton](https://github.com/BalestraPatrick/SquishButton) - A button that squishes when pressed. As seen in the Clips app.
 * [TKAnimatedCheckButton](https://github.com/entotsu/TKAnimatedCheckButton)
 * [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition)
 * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons (in Swift).
