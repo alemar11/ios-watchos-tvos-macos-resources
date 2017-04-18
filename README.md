@@ -269,6 +269,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [confetti](https://github.com/life360/confetti/tree/iOS)
 * [DrawCircleFrame](https://github.com/natalia-osa/DrawCircleFrame)
 * [FlareView](https://github.com/StanlyHardy/FlareView) - Create Animatic flares around your uiview's.
+* [GLInAppPurchase](https://github.com/gokulgovind/GLInAppPurchase) - Tinder Style InApp Purchase Banner.
 * [GLMoveToTrashAnimation](https://github.com/RATTLESNAKE-VIPER/GLMoveToTrashAnimation)
 * [JazzHands](https://github.com/IFTTT/JazzHands) - An Objective-C animation library used to create floating image views.
 * [JRMFloatingAnimation](https://github.com/carleihar/JRMFloatingAnimation)
@@ -560,6 +561,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔹*Obj-C*
 * [ABFillButton](https://github.com/andresbrun/ABFillButton)
 * [ALButtonMenu](https://github.com/lobianco/ALButtonMenu) - A simple, fully customizable menu solution for iOS.
+* [ApLoadingButton](https://github.com/arunpandiyanp/ApLoadingButton) - Loading Button in objective c.
 * [APRoundedButton](https://github.com/elpsk/APRoundedButton)
 * [BFPaperButton](https://github.com/bfeher/BFPaperButton) - A flat button inspired by Google Material Design's Paper theme.
 * [DKCircleButton](https://github.com/kronik/DKCircleButton) -  Circle button tap effect
@@ -1211,6 +1213,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ProgressButton](https://github.com/AlKhokhlov/ProgressButton) - Custom ProgressButton.
 * [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX. `macOS`
 * [RSDotsView](https://github.com/Kemcake/RSDotsView)
+* [SemiCircular-Scale](https://github.com/ankits16/SemiCircular-Scale) - A simple component to show circular scale, gauge etc.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - A Swift GUI library for displaying various popups and notifications
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)
 * [UICircularProgressRing](https://github.com/luispadron/UICircularProgressRing) - A circular progress bar for iOS written in Swift 3.
@@ -1833,6 +1836,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TNSlider](https://github.com/tiennth/TNSlider) - A custom iOS slider that show current value on the thumb.
 * [KJCurveSlider](https://github.com/KiranJasvanee/KJCurveSlider)
 * [WESlider](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management.
+* [WOWMarkSlider](https://github.com/zhouhao27/WOWMarkSlider) - A customisable UISlider.
 
 ## Snippet
 
@@ -2051,6 +2055,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HTKDynamicResizingCell](https://github.com/henrytkirk/HTKDynamicResizingCell) - Subclassed UITableView/UICollectionView cells that will auto calculate their size so long as AutoLayout constraints are applied correctly. For iOS 7+. Works similar to how iOS 8's auto sizing of cells work.
 * [JASwipeCell](https://github.com/joseria/JASwipeCell) - iOS 8 Mail Inspired.
 * [JBParallaxCell](https://github.com/jberlana/JBParallaxCell)
+* [JExpandableTableView](https://github.com/jadhavp/JExpandableTableView) - JExpandableTableView provides out of box support for expandable table cells.
 * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
 * [MMTableCellAnimation](https://github.com/mukyasa/MMTableCellAnimation)
 * [SWRevealTableViewCell](https://github.com/John-Lluch/SWRevealTableViewCell) - Swipe.
