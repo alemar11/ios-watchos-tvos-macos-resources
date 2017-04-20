@@ -273,6 +273,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GLMoveToTrashAnimation](https://github.com/RATTLESNAKE-VIPER/GLMoveToTrashAnimation)
 * [JazzHands](https://github.com/IFTTT/JazzHands) - An Objective-C animation library used to create floating image views.
 * [JRMFloatingAnimation](https://github.com/carleihar/JRMFloatingAnimation)
+* [KPFallingObjects](https://github.com/KrishnaPatell/KPFallingObjects) - KPFallingObjects displays falling effect of custom images on your UIView like falling snow, numbers, alphabets etc.
 * [LearnCube-iOS](https://github.com/MartinRGB/LearnCube-iOS) - An animation practise demo.
 * [MCSFishEye](https://github.com/macoscope/MCSFishEye)
 * [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - MIBlurPopup let you create amazing popups with a blurred background.
@@ -1217,6 +1218,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - A Swift GUI library for displaying various popups and notifications
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)
 * [UICircularProgressRing](https://github.com/luispadron/UICircularProgressRing) - A circular progress bar for iOS written in Swift 3.
+* [VerticalProgressScrollView](https://github.com/VamshiIITBHU14/VerticalProgressScrollView)
 
 ## Localization
 
@@ -1451,6 +1453,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
 * [JellyToolbar](https://github.com/Yalantis/JellyToolbar)
+* [KJNavigationViewAnimation](https://github.com/KiranJasvanee/KJNavigationViewAnimation)
 * [MTCoordinatorView](https://github.com/mittsuu/MTCoordinatorView) - The view coordinate arranged to the scrolling is adjusted.
 * [navigation-stack](https://github.com/Ramotion/navigation-stack) - NavigationStack is a stack-modeled navigation controller.
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller. Support 3D Touch.
@@ -2109,6 +2112,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RRTagController](https://github.com/remirobert/RRTagController) - RRTagController allows user to select tag and create new one.
 * [UITags](https://github.com/gtsif21/UITags)
 * [WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
+* [YNSearch](https://github.com/younatics/YNSearch) -  Awesome fully customize search view like Pinterest written in Swift 3.
 * [YZTagView](https://github.com/yoshiz3-onishi/YZTagView) - A simple tag view.
 
 ## Testing
@@ -2429,6 +2433,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - A library that displays spherical or cylindrical panoramas with touch or motion based controls.
 * [HTY360Player](https://github.com/hanton/HTY360Player) - A 360° video player for iOS.
 * [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
+* [SGPlayer](https://github.com/libobjc/SGPlayer) - A powerful media player framework for iOS, macOS, and tvOS. Support 360° panorama video, VR video. RTMP streaming.
 * [Periscope-VideoViewController](https://github.com/gontovnik/Periscope-VideoViewController) - Video view controller with Periscope fast rewind control.
 * [VRDemo-Swift](https://github.com/Huanhoo/VRDemo-Swift) - RDemo-Swift is a 360-degree video player demo which achieved use Swift3.0 and OpenGL ES.
 
