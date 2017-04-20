@@ -214,6 +214,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ZHPopupView](https://github.com/zhhlmr/ZHPopupView) - A simple iOS Pop up View to display alert or dialog.
 
 #### 🔸*Swift*
+* [AMTooltip](https://github.com/amirdew/AMTooltip) - Simple and easy library to show tooltip in iOS.
 * [App-Rating-Alert](https://github.com/pablojotaguardiola/App-Rating-Alert) - Show an alert to rate your APP.
 * [BMInputBox](https://github.com/blackmirror-media/BMInputBox)
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup written in Swift 3.
@@ -972,6 +973,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RPModalGestureTransition](https://github.com/naoyashiga/RPModalGestureTransition)
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
 * [Sensitive](https://github.com/igormatyushkin014/Sensitive) - Fresh look at work with gestures in Swift.
+* [ShakeToChange](https://github.com/freeskys/ShakeToChange) - Change environment using shake.
 * [SHFSignature](https://github.com/felipesantolim/SHFSignature) - It's a simple class that provide to draw a signature and result in UIImage.
 * [Signature-Capture](https://github.com/vigneshuvi/iOS-Signature-Capture) - iOS-Signature-Capture is helps to capture the user signature with name and signed date in iOS and supports both Objective-c and Swift languages.
 * [Standard-Template-Protocols](https://github.com/cconeil/Standard-Template-Protocols) - Protocols for your every day iOS needs.
@@ -1256,6 +1258,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [APOfflineReverseGeocoding](https://github.com/Alterplay/APOfflineReverseGeocoding) - Offline reverse geocoding library.
 * [BBLocationManager](https://github.com/benzamin/BBLocationManager) - A Location Manager for easily implementing location services & geofencing in iOS.
 * [CCHMapClusterController](https://github.com/choefele/CCHMapClusterController)
+* [Cluster](https://github.com/efremidze/Cluster) - Easy Map Annotation Clustering.
 * [DBMapSelectorViewController](https://github.com/d0ping/DBMapSelectorViewController) - This component allows you to select circular map region from the MKMapView.
 * [DXCustomCallout-ObjC](https://github.com/s3lvin/DXCustomCallout-ObjC)
 * [FSInteractiveMap](https://github.com/ArthurGuibert/FSInteractiveMap) - A charting library to visualize data on a map.
@@ -1491,6 +1494,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls written in Swift to replace boring UIPageControl.
+* [FlexiblePageControl](https://github.com/shima11/FlexiblePageControl) - A flexible PageControl like Instagram.
 * [GBPageControl](https://github.com/jhurt/GBPageControl) - A page control for SpriteKit based games written in Swift.
 * [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram).
@@ -2133,6 +2137,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [issue-5-textkit](https://github.com/objcio/issue-5-textkit) - A little demo application showing off some features of the new TextKit classes in iOS 7.
 * [LTTextView](https://github.com/EugeneZZI/LTTextView)
 * [NSTextView-LineNumberView](https://github.com/yichizhang/NSTextView-LineNumberView) - Add line numbers to an instance of NSTextView. The line number view is implemented as a subclass of NSRulerView. `macOS`
+* [NSStringMask](https://github.com/fjcaetano/NSStringMask) - NSStringMask allows you to apply masks or formats to NSStrings using NSRegularExpression to input your format.
 * [RDRGrowingTextView](https://github.com/datwelk/RDRGrowingTextView) - Auto Layout backed growing UITextView.
 * [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - A drop-in UIViewController subclass with a growing text input view and other useful messaging features.
 * [SWCrawlView](https://github.com/MattFoley/SWCrawlView) - Open source repo for interactive Star Wars Crawl View, as close to theatrically accurate as possible.
