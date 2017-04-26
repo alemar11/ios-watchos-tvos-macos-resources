@@ -2197,6 +2197,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MPScrollingTextField](https://github.com/zyafa/MPScrollingTextField) - NSTextField subclass with automatic horizontal text scrolling. `macOS`
 * [NFSplitViewController](https://github.com/naftaly/NFSplitViewController) - A simple split view controller for Mac OS X that works. `macOS`
 * [PAYFormBuilder](https://github.com/Eldorado234/PAYFormBuilder)
+* [Placeholders](https://github.com/dreymonde/Placeholders) - Define multiple placeholders for UITextField and animate their change.
 * [RDRGrowingTextView](https://github.com/datwelk/RDRGrowingTextView) - Auto Layout backed growing UITextView.
 * [SingleLineInput](https://github.com/diogomaximo/SingleLineInput) - A single line textfield implementation with Float Label Animation.
 * [SMFloatingLabelTextField](https://github.com/AzimoLabs/SMFloatingLabelTextField)
@@ -2337,6 +2338,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MBObjectPoolManager](https://github.com/MBKwon/MBObjectPoolManager) - MBObjectPoolManager is best way to reuse your objects in your project. You can save a memory reusing objects.
 * [ohana](https://github.com/uber/ohana-ios) - Contacts simplified.
 * [ORSSerialPort](https://github.com/armadsen/ORSSerialPort) - Serial port library for Objective-C and Swift OS X apps.
+* [PassKit-Business-Card](https://github.com/TimOliver/PassKit-Business-Card) - A template for iOS Wallet passes that can be used like business cards.
 * [SmileWeather](https://github.com/liu044100/SmileWeather) - A library for Search & Parse the weather data from Wunderground & Openweathermap conveniently.
 * [TrustKit](https://github.com/datatheorem/TrustKit) - Effortless and universal SSL pinning for iOS and OS X.
 * [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) - Shows your current framerate (fps) in the status bar of your iOS app.
@@ -2358,6 +2360,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Diamond](https://github.com/johnno1962/Diamond) - Swift scripting made easy.
 * [Dollar](https://github.com/ankurp/Dollar) - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript.
+* [EmojiIntelligence](https://github.com/Luubra/EmojiIntelligence) - Neural Network built in Apple Playground using Swift.
 * [EnigmaKit](https://github.com/mikaoj/EnigmaKit) - Enigma encryption in Swift.
 * [FileBrowser](https://github.com/marmelroy/FileBrowser) - Finder-style iOS file browser written in Swift.
 * [FileKit](https://github.com/Dschee/FileKit) - Simple and expressive file management in Swift.
