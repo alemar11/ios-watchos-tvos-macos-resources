@@ -938,6 +938,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GoogleMaterialIconFont](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Design Icons for Swift and ObjC project.
 * [MaterialDesignSymbol](https://github.com/tichise/MaterialDesignSymbol)
 * [SwiftFontName](https://github.com/morizotter/SwiftFontName)
+* [UIFontComplete](https://github.com/Nirma/UIFontComplete) - Make working with UIFont faster and less error-prone.
 
 ## GameplayKit
 
