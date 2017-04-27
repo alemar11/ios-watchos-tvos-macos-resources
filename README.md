@@ -226,11 +226,12 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController.
 * [FTPopOverMenu_Swift](https://github.com/liufengting/FTPopOverMenu_Swift) - FTPopOverMenu_Swift, swift version of FTPopOverMenu.
 * [HYAlertController](https://github.com/castial/HYAlertController) - A Simple And Minimalist iOS AlertController.
+* [JHTAlertController](https://github.com/jjessel/JHTAlertController) - A custom iOS alert that replaces the stock UIAlertController. Easily style the alert to match your app. Written in Swift for iOS.
 * [Malert](https://github.com/vitormesquita/Malert) - Custom alert View to iOS applications.
 * [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - MIBlurPopup let you create amazing popups with a blurred background.
 * [MIAlertController](https://github.com/MarioIannotta/MIAlertController) - A simple fully customizable alert controller.
 * [Notification-AlertView](https://github.com/alexey-kubas-appus/Notification-AlertView)
-* [https://github.com/louisdh/panelkit](https://github.com/louisdh/panelkit) - A UI framework that enables panels on iOS.
+* [Panelkit](https://github.com/louisdh/panelkit) - A UI framework that enables panels on iOS.
 * [PathDynamicModal](https://github.com/ra1028/PathDynamicModal)
 * [PermissionScope](https://github.com/nickoneill/PermissionScope)
 * [PMAlertController](https://github.com/Codeido/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
@@ -394,6 +395,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TodayMind](https://github.com/cyanzhong/TodayMind) - Make Reminder Great Again.
 * [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
 * [TSWeChat](https://github.com/hilen/TSWeChat) - A WeChat alternative. Written in Swift.
+* [v2ex](https://github.com/darkerk/v2ex) - The unofficial V2EX app for iOS.
 * [VKMusic](https://github.com/ilyahal/VKMusic) - The app is designed for listening to music from vk.com.
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. ⌚️
 * [WatchNote](https://github.com/ezefranca/WatchNote) - Controlling your Keynote using Apple Watch. ⌚️
@@ -777,6 +779,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [ADMozaicCollectionViewLayout](https://github.com/Antondomashnev/ADMozaicCollectionViewLayout) - ADMozaicCollectionViewLayout is yet another UICollectionViewLayout subclass that implements "brick" or "mozaic" layout.
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
+* [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce.
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
 * [CardsStack](https://github.com/priteshrnandgaonkar/CardsStack) - An awesome set of cards at your disposal 
@@ -1144,6 +1147,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [LayoutKit](https://github.com/linkedin/LayoutKit) - LayoutKit is a fast view layout library for iOS.
 * [Nori](https://github.com/yukiasai/Nori) - Easier to apply code based style guide to storyboard.
+* [SizeClasser](https://github.com/cemolcay/SizeClasser)- Device specific UITraitCollection helper with split view detection for iOS.
 * [TinyConstraints](https://github.com/roberthein/TinyConstraints)
 
 ## Loader
@@ -1190,6 +1194,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [AALoaders](https://github.com/EngrAhsanAli/AALoaders) - AALoaders is a lightweight, easy-to-use and powerful progress view loaders framework, written in Swift. It uses simple native elements for progress loading with customisations and allow to use without creating instance.
 * [BmoImageLoader](https://github.com/tzef/BmoImageLoader) - BmoImageLoader is a progress animated component for UIImageView.
+* [BPCircleActivityIndicator](https://github.com/ppth0608/BPCircleActivityIndicator) - A lightweight and awesome loading Activity Indicator for your iOS app.
 * [BRCircularProgressBar](https://github.com/BrammanandSoni/BRCircularProgressBar) - It shows circular progress for multi purpose like download, upload and timer progress.
 * [CircleLoading](https://github.com/goldmoment/CircleLoading) - CircleLoading view.
 * [CircleSlider](https://github.com/shushutochako/CircleSlider)
@@ -1281,6 +1286,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DistancePicker](https://github.com/qmathe/DistancePicker) - Custom UIKit control to select a distance with a pan gesture, written in Swift.
 * [DynamicBubble](https://github.com/vladaverin24/DynamicBubble) - Interactive Speech Balloon/Bubble view with rich customization UI for app user..
 * [GpxLocationManager](https://github.com/vermont42/GpxLocationManager) - GpxLocationManager is a replacement for CLLocationManager that allows the developer to use GPS data from GPX files or CLLocation arrays for testing.
+* [MBMapPulseAnimation)](https://github.com/ManickB/MBMapPulseAnimation)
+* [NearBy](https://github.com/VishalNandoriya/NearBy) - iOS app to find nearby places using MapKit.
 * [PRGLocationSearchBar](https://github.com/ispiropoulos/PRGLocationSearchBar) - Control used to show a search bar which can fetch your location as well as geocode a search string.
 * [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI.
 * [SKMapsCenter](https://github.com/asklausen/SKMapsCenter) -  Maintain center while zooming.
@@ -1415,6 +1422,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Quick-Chat](https://github.com/aslanyanhaik/Quick-Chat) - Real time chat app written in Swift 3 using Firebase.
 * [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension) - UITableView extension that enabled to insert cell from bottom of tableView.
 * [swift-chat](https://github.com/firebase/ios-swift-chat-example) - FireChat implemented in Swift!.
+* [Toolbar](https://github.com/1amageek/Toolbar) - Awesome autolayout Toolbar.
 * [Twitter_Post](https://github.com/csontosgabor/Twitter_Post) - Custom Twitter Post View Controller.
 
 ## Metal
@@ -1499,6 +1507,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GBPageControl](https://github.com/jhurt/GBPageControl) - A page control for SpriteKit based games written in Swift.
 * [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram).
+* [SCPageControl](Swift PageControl)
 
 ## Pager
 *viewpager*
@@ -1618,6 +1627,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress)
 * [KDLoadingView](https://github.com/KaiqueDamato/KDLoadingView) - A beautiful loading indicator. Written in Swift.
 * [KYCircularProgress](https://github.com/kentya6/KYCircularProgress)
+* [MHProgressButton](https://github.com/emadhegab/MHProgressButton) - See the loading progress on your UIButton.
 
 ## Pull To Refresh
 
@@ -2541,6 +2551,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JRSplitVC](https://github.com/tommypeps/JRSplitVC) - UISplitViewController with adaptative layouts.
 * [LGSemiModalNavController](https://github.com/lukegeiger/LGSemiModalNavController) - Show a view controller a dynamically set height over another view controller.
 * [MCCardPickerCollectionViewController](https://github.com/yuhua-chen/MCCardPickerCollectionViewController) - A card collection view controller inspired by Facebook People you may know.
+* [RDGliderViewController](https://github.com/gelemias/RDGliderViewController) - Control for a floating view gliding over a ViewController.
 * [SSStackedPageView](https://github.com/PlenipotentSS/SSStackedPageView) - Stacked Views paged on top of each other, inspired by iOS 7 Reminders and iOS 7 Passport.
 * [SemiModalNavigationController](https://github.com/hughbe/semi-modal-controller)
 * [SCPinViewController](https://github.com/SugarAndCandy/SCPinViewController)
