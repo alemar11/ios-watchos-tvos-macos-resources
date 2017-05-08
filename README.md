@@ -2238,6 +2238,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift. As used in the Skyscanner TravelPro iOS app.
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - Form framework for iOS written in Swift.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - A small and lightweight library written in Swift that allows you to easily create forms.
+* [TextFieldCounter](https://github.com/serralvo/TextFieldCounter) - UITextField character counter with lovable UX.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift.
 * [UITextField-Navigation](https://github.com/T-Pham/UITextField-Navigation) - UITextField-Navigation make it easier to navigate between UITextFields.
 * [VKAfterTimeTextField](https://github.com/vladislav-k/VKAfterTimeTextField) - VKAfterTimeTextField is a sub-class of UITextField which allows you to know when user edited it last time during current use session. Also it allows to notify after specific time interval when user ends editing. This is gives you a some kind of "setContinouos:false" feature like UISlider has.
@@ -2383,6 +2384,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KGNAutoLayout](https://github.com/kgn/KGNAutoLayout) - Making AutoLayout Easy.
 * [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - A micro-framework for observing file changes, both local and remote. Helpful in building developer tools.
 * [Laconic](https://github.com/igormatyushkin014/Laconic) - Short and clear expressions in Swift.
+* [LicensePlist](https://github.com/mono0926/LicensePlist) - iOS license plists generator. Carthage, CocoaPods and the libraries specified by YAML file are supported.
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Swift 2.0 friendly localization and i18n with in-app language switching.
 * [Luminescence](https://github.com/Zewo/Luminescence) - HTTP parser for Swift 2 (Linux ready).
 * [Luminous](https://github.com/andrealufino/Luminous) - Luminous gives you all the system information you need (Network, Locale, Carrier...)
@@ -2599,6 +2601,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Jelly](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions in iOS with just a few lines of code.
 * [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition)
 * [JVTransitionAnimator](https://github.com/JV17/JVTransitionAnimator)
+* [LazyTransitions](https://github.com/serp1412/LazyTransitions) - Lazy pop and dismiss like in the Facebook, Instagram or Twitter apps.
 * [LHMaterialDesign](https://github.com/leostc/LHMaterialDesign)
 * [LicensingViewController](https://github.com/tiagomnh/LicensingViewController) - UIViewController subclass with a simple API for displaying licensing information.
 * [LoginKit](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
