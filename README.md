@@ -214,6 +214,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ZHPopupView](https://github.com/zhhlmr/ZHPopupView) - A simple iOS Pop up View to display alert or dialog.
 
 #### 🔸*Swift*
+* [Alertift](https://github.com/sgr-ksmt/Alertift) - Swifty, modern UIAlertController wrapper.
 * [AMTooltip](https://github.com/amirdew/AMTooltip) - Simple and easy library to show tooltip in iOS.
 * [App-Rating-Alert](https://github.com/pablojotaguardiola/App-Rating-Alert) - Show an alert to rate your APP.
 * [BMInputBox](https://github.com/blackmirror-media/BMInputBox)
@@ -295,6 +296,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [15 Days of Animations in Swift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - A project to learn animations.
 * [AAViewAnimator](https://github.com/EngrAhsanAli/AAViewAnimator) - AAViewAnimator is a set of animations designed for UIView, UIButton, UIImageView with options in iOS, written in Swift.
 * [Advance](https://github.com/storehouse/Advance) - A powerful animation framework for iOS.
+* [Anima](https://github.com/satoshin21/Anima#)
 * [AnimateBlurRadius](https://github.com/fichek/AnimateBlurRadius) - An example of how to interactively animate blur radius on iOS 10.
 * [ATScrollingNumbers](https://github.com/anooptomar1/ATScrollingNumbers) - Scrolling number control with circular progress.
 * [ConfettiView](https://github.com/OrRon/ConfettiView) - Confetti View lets you create a magnificent confetti view in your app.
@@ -906,6 +908,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [sscalendar](https://github.com/StevenPreston/sscalendar) - A Swift and Objective-C compatible iOS calendar UI library that can be used to display a calendar of events within your app. Note that this calendar is not designed as a picker but rather to display an existing set of events.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive date handling in Swift.
 * [TKCalendarView](https://github.com/powhu/TKCalendarView) - The page curl animation calendar.
+* [YMCalendar](https://github.com/matsune/YMCalendar) - Monthly event calendar framework for iOS.
 
 ## Dynamic Behavior
 
@@ -1030,6 +1033,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PASImageView](https://github.com/abiaad/PASImageView) - Rounded async imageview downloader lightly cached and written in Swift.
 * [Sharaku](https://github.com/makomori/Sharaku) - Image filtering UI library like Instagram.
 * [Snowflake](https://github.com/onmyway133/Snowflake) - SVG in Swift.
+* [Sumo](https://github.com/1amageek/Sumo) - Sumo is a library that prepares for fast upload for iOS. It is effective when uploading by selecting images continuously.
 * [SwiftImageProcessing](https://github.com/skyfe79/SwiftImageProcessing) - Pixel operations in swift.
 * [SwiftSVG](https://github.com/mchoe/SwiftSVG) - A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).
 * [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
@@ -1240,6 +1244,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Log
 
 #### 🔸*Swift*
+* [Bulk](https://github.com/muukii/Bulk) - Bulk is pipeline based powerful & flexible logging framework.
 * [CleanroomASL](https://github.com/emaloney/CleanroomASL) - A Swift-based API for reading from & writing to the Apple System Log (more commonly known somewhat inaccurately as "the console").
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - A default CustomStringConvertible implementation for Swift type.
 * [DefaultStringConvertible](https://github.com/jessesquires/DefaultStringConvertible)
@@ -1248,6 +1253,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JustLog](https://github.com/justeat/JustLog) - JustLog brings logging on iOS to the next level. It supports console, file and remote Logstash logging via TCP socket with no effort. Support for logz.io available.
 * [Lighty](https://github.com/abdullahselek/Lighty) - Easy to use and lightweight logger in Swift.
 * [logkit](https://github.com/logkit/logkit) - An efficient logging library for OS X, iOS, watchOS, and tvOS – written in Swift. Log to console, file, HTTP service, or your own endpoint. Simple to get started, but smartly customizable.
+* [printer](https://github.com/hemangshah/printer) - Want to print logs in a fancy way? Here's the Swift 3.x supported logger for you.
 * [RapidLogger](https://github.com/krishna706/RapidLogger) - Rapid Logger captures all the log and able to display in device with neat UI.
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Colorful, lightweight & fast logging in Swift 2.
 * [SwiftLogger](https://github.com/MugunthKumar/SwiftLogger)
@@ -1925,6 +1931,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AnimatedSwitch](https://github.com/alsedi/AnimatedSwitch) - Swift subclass of the UISwitch which paints over the parent view with the color if switch is turned on and returns original superview background color if switch is off.
 * [Custom-Switch](https://github.com/ChadTimmerman/Custom-Switch) - A custom Switch created with UIViews and UIButtons in Swift.
 * [DGRunkeeperSwitch](DGRunkeeperSwitch) - Runkeeper design switch control (two part segment control) developed in Swift 2.0.
+* [MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch) - Android Switch button for iOS.
 * [Switch](https://github.com/T-Pham/Switch) - An iOS switch control implemented in Swift with full Interface Builder support.
 * [Switcher](https://github.com/knn90/Switcher) - Custom UISwitcher with animation.
 * [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection.
@@ -2659,6 +2666,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PullToDismiss](https://github.com/sgr-ksmt/PullToDismiss) - Dismiss ViewController by pulling scroll view or navigation bar in Swift.
 * [QZCircleSegue](https://github.com/alextarrago/QZCircleSegue) -  Beatiful transition between circular-shapped buttons and your View Controller.
 * [RadialTransition_swift](https://github.com/apadalko/RadialTransition_swift) - Great iOS radial (circle) animation transition for navigation controller, with custom back swipe. (swift).
+* [RDGliderViewController-Swift](https://github.com/gelemias/RDGliderViewController-Swift) - Control for a floating view gliding over a ViewController Edit.
 * [SamuraiTransition](https://github.com/hachinobu/SamuraiTransition) - a ViewController transition framework in Swift.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)
 * [SwiftPagingNav](https://github.com/aubrey/SwiftPagingNav) - A Twitter-like navigation bar and page viewer written in Swift.
