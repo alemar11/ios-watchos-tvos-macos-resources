@@ -320,6 +320,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Motion Machine](https://github.com/poetmountain/MotionMachine) - A powerful, elegant, and modular animation library for Swift.
 * [MTPrivateTrainerAnimation](https://github.com/MartinRGB/MTPrivateTrainerAnimation)
 * [MTRipple](https://github.com/manekdilip/MTRipple) - Repository for Ripple Effect.
+* [Pastel](https://github.com/cruisediary/Pastel) - Instagram like Gradient background animation.
 * [PIRipple](https://github.com/pixel-ink/PIRipple) - Ripple Effect for iOS (swift)
 * [PowerUpYourAnimations](https://github.com/icanzilb/PowerUpYourAnimations) - Sample code from talks on advanced animations: [link](https://realm.io/news/altconf-marin-todorov-animations/).
 * [Pulsator](https://github.com/shu223/Pulsator) - Pulse animation for iOS.
@@ -357,6 +358,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Charter](https://github.com/matthewpalmer/Charter) - A Swift mailing list client for iPhone and iPad.
 * [Cherry](https://github.com/kenshin03/Cherry) - Mini Pomodoro Timer app designed for the  Watch. Written in Swift. ⌚️
 * [Coderpursue](https://github.com/wenghengcong/Coderpursue) - Github client for iOS in Swift.
+* [compass](https://github.com/zntfdr/Compass/tree/master/compass)
 * [ConvertCurrency](https://github.com/gkye/ConvertCurrency) - An iOS app for converting currencies written in Swift3.
 * [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) - Build a Swift App as a designer.
 * [Doro](https://github.com/codeOfRobin/doro) - Pomodoro app.
@@ -432,6 +434,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CopyPasta](https://github.com/alltheflow/CopyPasta) - Pasteboard feed Mac app. `macOS`
 * [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift. `macOS`
 * [EventfulMac](https://github.com/JacobCho/EventfulMac) - OSX application that searches for events within an area using the Eventful API. `macOS`
+* [FBSnapshotsViewer](https://github.com/Antondomashnev/FBSnapshotsViewer) - A mac os application that shows the failing snapshot tests from FBSnapshotTestCase.
 * [Gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github. `macOS`
 * [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). `macOS`
 * [localizations](https://github.com/athiercelin/localizations) - OS X app that manages localizations of Xcode projects. `macOS`
@@ -2313,6 +2316,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KRAlertController](https://github.com/krimpedance/KRAlertController) - A colored alert view for your iOS.
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
 * [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
+* [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS.
 * [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
 * [RNNotificationView](https://github.com/souzainf3/RNNotificationView) - Emulates the native Notification Banner UI for any alert.
 * [Snackbar-iOS](https://github.com/JastAir/Snackbar-iOS) - Simple snackbar for ios from android platform.
@@ -2370,6 +2374,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AssistantKit](https://github.com/anatoliyv/AssistantKit) - Easy way to detect device environment.
 * [AsyncOperations](https://github.com/jaredsinclair/AsyncOperations) - A toolbox of NSOperation subclasses for a variety of asynchronous programming needs.
 * [BonMot](https://github.com/Raizlabs/BonMot) - Beautiful, easy attributed strings for iOS.
+* [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
 * [Bleu](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U.
 * [Buffer](https://github.com/alexdrone/Buffer) - Swift μ-framework for efficient array diffs, collection observation and cell configuration.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
