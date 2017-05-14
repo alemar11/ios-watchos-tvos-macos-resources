@@ -511,6 +511,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PKCCrop](https://github.com/pikachu987/PKCCrop)
 * [preview-transition](https://github.com/Ramotion/preview-transition) - PreviewTransition is a simple preview gallery controller.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift.
+* [TLPhotoPicker](https://github.com/tilltue/TLPhotoPicker) - Multiple phassets picker for iOS lib. like a facebook.
 * [Videoshader](https://github.com/snakajima/videoshader) - Script-based real-time video processing technology for OpenGL/iOS
 
 ## Audio
@@ -1019,6 +1020,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DPImageCache](https://github.com/dphans/DPImageCache) - Swift extension for UIImageView. Help loading image asynchronously and store local file cache.
 * [DPImageGenerator](https://github.com/dwipp/DPImageGenerator) - It's an image generator for default image.
 * [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate quick response code in Swift.
+* [FlexibleImage](https://github.com/Kawoou/FlexibleImage) - A simple way to play with image!
 * [fog-machin](https://github.com/ngageoint/fog-machine) - The Fog Machine framework is a research and development effort to harness the computing power of multiple, locally connected iOS devices.
 * [Gifu](https://github.com/kaishin/Gifu) - High-performance animated GIF support for iOS in Swift.
 * [GPUImage2](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
@@ -1034,6 +1036,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Swift implementation of the photo tilt gesture/UX found in Facebook's Paper app.
 * [Panorific](https://github.com/ndmeiri/Panorific) - An immersive, intuitive, motion-based way to explore high quality panoramas and photos on an iOS device. Panorific is implemented in Swift.
 * [PASImageView](https://github.com/abiaad/PASImageView) - Rounded async imageview downloader lightly cached and written in Swift.
+* [ShadowImageView](https://github.com/olddonkey/ShadowImageView) - An apple music cover picture shadow style image library.
 * [Sharaku](https://github.com/makomori/Sharaku) - Image filtering UI library like Instagram.
 * [Snowflake](https://github.com/onmyway133/Snowflake) - SVG in Swift.
 * [Sumo](https://github.com/1amageek/Sumo) - Sumo is a library that prepares for fast upload for iOS. It is effective when uploading by selecting images continuously.
@@ -2392,6 +2395,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - A Swift ePub reader and parser framework for iOS.
 * [Format](https://github.com/marmelroy/format) - A Swift 2 formatter kit. Simple formatting syntax for decimal numbers, currency, addresses, ordinal numbers and hexadecimal colors.
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift that makes your life easier.
+* [Highlighter](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
 * [Kanna](https://github.com/tid-kijyun/Kanna) - Kanna is an XML/HTML parser for macOS / iOS / tvOS.
 * [KGNAutoLayout](https://github.com/kgn/KGNAutoLayout) - Making AutoLayout Easy.
