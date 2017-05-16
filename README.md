@@ -1556,6 +1556,11 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [DTPhotoViewerController](https://github.com/tungvoduc/DTPhotoViewerController)
+* [TVOSPicker](https://github.com/cemolcay/TVOSPicker) - A sweet horizontal picker view controller for tvOS. 📺
+
+# Permission
+#### 🔸*Swift*
+* [Arek](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
 
 # Permission
 #### 🔸*Swift*
