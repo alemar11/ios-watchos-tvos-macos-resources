@@ -328,6 +328,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect)
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView)
 * [SaveTheDot](https://github.com/JakeLin/SaveTheDot) - A game developed using UIViewPropertyAnimator.
+* [SimpleFlipView](https://github.com/javalnanda/SimpleFlipView) - ViewSwitcher container that helps to switch between two views with transition animation.
 * [SnowFalling](https://github.com/pixyzehn/SnowFalling) - Snow Falling in Swift.
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
 * [spruce-ios](https://github.com/willowtreeapps/spruce-ios) - Swift library for choreographing animations on the screen.
@@ -715,6 +716,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)
 * [ROStorageBar](https://github.com/prine/ROStorageBar)
 * [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
+* [SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.
 * [SwiftCharts](https://github.com/i-schuetz/SwiftCharts)
 * [swift-linechart](https://github.com/zemirco/swift-linechart)
 * [WYChart](https://github.com/GeorgeWang03/WYChart) - A simple and elegant Chart library with rich animations.
@@ -912,6 +914,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [sscalendar](https://github.com/StevenPreston/sscalendar) - A Swift and Objective-C compatible iOS calendar UI library that can be used to display a calendar of events within your app. Note that this calendar is not designed as a picker but rather to display an existing set of events.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive date handling in Swift.
 * [TKCalendarView](https://github.com/powhu/TKCalendarView) - The page curl animation calendar.
+* [WRCalendarView](https://github.com/wayfinders/WRCalendarView) - Calendar Day and Week View for iOS.
 * [YMCalendar](https://github.com/matsune/YMCalendar) - Monthly event calendar framework for iOS.
 
 ## Dynamic Behavior
@@ -1086,6 +1089,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by Twitter splash.
 * [RMParallax](https://github.com/michaelbabiy/RMParallax) - The way to impress users on the first app launch.
 * [SoundCloudTransition](https://github.com/xxxAIRINxxx/SoundCloudTransition) - Custom interactive transition like SoundCloud iOS App.
+* [SplashWindow](https://github.com/BabyShung/SplashWindow) - An UIWindow-based TouchID authentication control.
 * [Swift-Intro](https://github.com/sidharthsankh/Swift-Intro) - Swift auto layout with basic animation.
 * [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps, powered by Swift.
 * [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) - A swifty iOS framework that allows developers to create beautiful onboarding experiences.
@@ -1389,6 +1393,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - MenuItemKit provides image and block(closure) support for UIMenuItem.
 * [MTSideMenubar](https://github.com/manekdilip/MTSideMenubar) - Side menu bar creating easily left and right side.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A fully customizable and flexible paging menu controller built from other view controllers placed inside a scroll view
+* [SwiftShareBubbles](https://github.com/takecian/SwiftShareBubbles) - Animated Social share buttons control for iOS written in Swift.
 * [Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS) - Animated side menu with customizable UI.
 * [SideMenuController](https://github.com/teodorpatras/SideMenuController) - A side menu controller written in Swift.
 * [SidePanel](https://github.com/db42/SidePanel) - Google styled side panel for iOS written in Swift.
@@ -1641,6 +1646,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KDLoadingView](https://github.com/KaiqueDamato/KDLoadingView) - A beautiful loading indicator. Written in Swift.
 * [KYCircularProgress](https://github.com/kentya6/KYCircularProgress)
 * [MHProgressButton](https://github.com/emadhegab/MHProgressButton) - See the loading progress on your UIButton.
+* [SRCountdownTimer](https://github.com/rsrbk/SRCountdownTimer) - This is the simple circle countdown with a configurable timer for iOS.
 
 ## Pull To Refresh
 
@@ -1735,6 +1741,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Script
 
 #### 🔸*Swift*
+* [AppIcon](https://github.com/Nonchalant/AppIcon) - AppIcon generates *.appiconset contains each resolution image for iOS.
 * [Marathon](https://github.com/JohnSundell/Marathon) - Marathon makes it easy to write, run and manage your Swift scripts.
 * [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool for formatting Swift code.
 
@@ -2234,6 +2241,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) - Animated UITextField and UITextView replacement for iOS.
 * [AutocompleteField](https://github.com/filipstefansson/AutocompleteField) - Add word completion to your UITextFields.
+* [DateTextField](https://github.com/BeauNouvelle/DateTextField) - A Swift UITextField subclass designed to make entering dates easier, faster and more flexible than the standard UIDatePicker.
 * [EGFloatingTextField](https://github.com/enisgayretli/EGFloatingTextField) - Implementation of Google's "Floating labels" of Material design.
 * [ElValidator](https://github.com/dk53/ElValidator) - A simple plugin to help you validate textfield entries.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields)
@@ -2244,6 +2252,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ImageTextField](https://github.com/Sahilberi/ImageTextField) - A Designable Textfield For adding textfield leftview and rightview images in storyboard for swift 3.0.
 * [LTBouncyPlaceholder](https://github.com/lexrus/LTBouncyPlaceholder)
 * [MPGTextField](https://github.com/gaurvw/MPGTextField) - An autocomplete textfield for iOS which provides suggestions as you type.
+* [NSJTextField](https://github.com/NSJoker/NSJTextField) - A custom textfield with the placeholder displayed on top when text entered.
 * [ParkedTextField](https://github.com/gmertk/ParkedTextField) - A text field with a constant text/placeholder.
 * [PinCodeTextField](https://github.com/tkach/PinCodeTextField) - Simple pin code text input with underlined space for characters.
 * [PRGValidationField](https://github.com/ispiropoulos/PRGValidationField) - A Better way to make registration forms.
