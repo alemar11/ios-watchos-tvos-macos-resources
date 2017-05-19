@@ -1439,6 +1439,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NMessenger](https://github.com/eBay/NMessenger) - A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift.
 * [Quick-Chat](https://github.com/aslanyanhaik/Quick-Chat) - Real time chat app written in Swift 3 using Firebase.
 * [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension) - UITableView extension that enabled to insert cell from bottom of tableView.
+* [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.iOS) - Rocket.Chat Native iOS Application.
 * [swift-chat](https://github.com/firebase/ios-swift-chat-example) - FireChat implemented in Swift!.
 * [Toolbar](https://github.com/1amageek/Toolbar) - Awesome autolayout Toolbar.
 * [Twitter_Post](https://github.com/csontosgabor/Twitter_Post) - Custom Twitter Post View Controller.
