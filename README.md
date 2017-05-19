@@ -1585,6 +1585,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Aggregate](https://github.com/perlmunger/Aggregate) - How to build aggregate data fetch requests using Core Data.
 * [ALBNoSQLDB](https://github.com/AaronBratcher/ALBNoSQLDB) - A SQLite database wrapper written in Swift.
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData is a framework to easily access Core Data objects in Swift.
+* [apollo-ios](https://github.com/apollographql/apollo-ios) - A strongly-typed, caching GraphQL client for iOS, written in Swift.
 * [BNR CoreDataStack](https://github.com/bignerdranch/CoreDataStack) - The Big Nerd Ranch Core Data stack.
 * [Cachyr](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift.
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift
@@ -2207,6 +2208,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown) - Converts Markdown files and strings into NSAttributedString.
 * [SwiftRichString](https://github.com/malcommac/SwiftRichString) - Elegant & Painless Attributed Strings Management Library in Swift.
 * [TextAttributes](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
+* [Typographizer](https://github.com/frankrausch/Typographizer) - Fix dumb quotation marks and apostrophes in Swift.
 * [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
 
 ## Textfield
@@ -2468,6 +2470,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
 * [Warehouse](https://github.com/muukii/Warehouse) - You can use easily NSFileManager.
 * [WatchShaker](https://github.com/ezefranca/WatchShaker) Simple motion detector for watchOS shake gesture. ⌚️
+* [WikipediaKit](https://github.com/Raureif/WikipediaKit) - API Client Framework for Swift 3 on macOS, iOS, watchOS, and tvOS.
 * [Zip](https://github.com/marmelroy/Zip) - Swift framework for zipping and unzipping files.
 
 ## Video
