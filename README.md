@@ -711,6 +711,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Attabench](https://github.com/lorentey/Attabench) - Microbenchmarking app for Swift with nice log-log plots.
 * [ChartLegends](https://github.com/i-schuetz/ChartLegends) - Convenient and flexible legends for all kind of charts.
 * [CSPieChart](https://github.com/youkchansim/CSPieChart) - This is pie chart that is very easy to use and customizable design.
+* [DDSpiderChart](dadalar/DDSpiderChart) - Easy to use Spider (Radar) Chart library for iOS written in Swift.
 * [Graphs](https://github.com/recruit-mtl/Graphs) - Light weight charts view generater for iOS. Written in Swift.
 * [HeartRate](https://github.com/liamscofield/HeartRate) - Chart for Decibel.
 * [HSStockChart](https://github.com/zyphs21/HSStockChart) - Stock Chart include CandleStickChart,TimeLineChart.
@@ -1087,6 +1088,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HAPlayerView](https://github.com/litoarias/HAPlayerView) - Easy-to-use class for inserting videos as a wallpaper without a single line of code, all managed by Interface Builder.
 * [Instructions](https://github.com/ephread/Instructions)
 * [JTSplashView](https://github.com/kubatru/JTSplashView) - Create the beautiful splash view with JTSplashView.
+* [LaunchScreenSnapshot](https://github.com/alexruperez/LaunchScreenSnapshot) - Protects sensitive data in your app snapshot.
 * [OnboardingKit](https://github.com/Athlee/OnboardingKit) - A simple and interactive framework for making iOS onboarding experience easy and fun.
 * [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design slider.
 * [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by Twitter splash.
@@ -1960,6 +1962,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Custom-Switch](https://github.com/ChadTimmerman/Custom-Switch) - A custom Switch created with UIViews and UIButtons in Swift.
 * [DGRunkeeperSwitch](DGRunkeeperSwitch) - Runkeeper design switch control (two part segment control) developed in Swift 2.0.
 * [MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch) - Android Switch button for iOS.
+* [OGSwitch](https://github.com/OskarGroth/OGSwitch) - iOS-inspired Switch Control for macOS. `macOS`
 * [Switch](https://github.com/T-Pham/Switch) - An iOS switch control implemented in Swift with full Interface Builder support.
 * [Switcher](https://github.com/knn90/Switcher) - Custom UISwitcher with animation.
 * [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection.
@@ -2204,6 +2207,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HandyText](https://github.com/mmrmmlrr/HandyText) - HandyText is a helper library that allows to create and manage text styles in a clear declarative manner.
 * [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - add text(multiple line support) to imageView, edit, rotate or resize them as you want, then render the text on image.
 * [HighlightTextView](https://github.com/yusayusa/HighlightTextView)
+* [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - Markdown View for iOS.
 * [Marklight](https://github.com/macteo/Marklight) - Markdown syntax highlighter for iOS.
 * [Mustard](https://github.com/mathewsanders/Mustard) - Mustard is a Swift library for tokenizing strings when splitting by whitespace doesn't cut it.
 * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
