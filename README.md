@@ -1307,6 +1307,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [db_compass](https://github.com/alextarrago/db_compass) - It offers you a way to track the user's location and heading given by a coordinate or an address. Really useful for geolocation AR applications.
 
 #### 🔸*Swift*
+* [ARCarMovement](https://github.com/antonyraphel/ARCarMovement) - This is navigation example on google map. Here Marker move as vehicles moves with turns as uber does in their app. Using old and new coordinates animating bearing value the markers are moving. 
 * [asmaplauncher](https://www.cocoacontrols.com/controls/asmaplauncher) - ASMapLauncher is a library for iOS written in Swift that helps navigation with various mapping applications.
 * [DistancePicker](https://github.com/qmathe/DistancePicker) - Custom UIKit control to select a distance with a pan gesture, written in Swift.
 * [DynamicBubble](https://github.com/vladaverin24/DynamicBubble) - Interactive Speech Balloon/Bubble view with rich customization UI for app user..
@@ -1662,6 +1663,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KDLoadingView](https://github.com/KaiqueDamato/KDLoadingView) - A beautiful loading indicator. Written in Swift.
 * [KYCircularProgress](https://github.com/kentya6/KYCircularProgress)
 * [MHProgressButton](https://github.com/emadhegab/MHProgressButton) - See the loading progress on your UIButton.
+* [OGCircularBar](https://github.com/OskarGroth/OGCircularBar) - Circular progress bar for macOS. `macOS`
 * [SRCountdownTimer](https://github.com/rsrbk/SRCountdownTimer) - This is the simple circle countdown with a configurable timer for iOS.
 
 ## Pull To Refresh
