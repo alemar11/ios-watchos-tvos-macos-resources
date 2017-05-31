@@ -647,6 +647,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons (in Swift).
 * [vkexpandablebutton](https://github.com/vladislav-k/VKExpandableButton) - Easy to use expandable button in Swift.
 * [WCLShineButton](https://github.com/631106979/WCLShineButton) - This is a UI lib for iOS. Effects like shining.
+* [WSVideoRecordButton](https://github.com/WebsoftProfession/WSVideoRecordButton) - This is a animatable video record button, easy to integrate Simply set the custom class to your button and use. 
 
 ## Camera
 *AVFoundation and CIFaceFeature implementations*
@@ -673,6 +674,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftyCam](https://github.com/Awalz/SwiftyCam) - A Snapchat Inspired iOS Camera Framework written in Swift.
 * [SwiftMustaches](https://github.com/elpassion/SwiftMustaches)
 * [TGLAugmentedRealityView](https://github.com/gleue/TGLAugmentedRealityView) - Augmented Reality made easy -- place overlays on a camera preview and adjust their position depending on device attitude.
+* [TLStoryCamera](https://github.com/timelessg/TLStoryCamera)
 
 ## Charts
 
@@ -1159,6 +1161,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [MAGlowingLabel](https://github.com/Marwan8/MAGlowingLabel) - A UILabel with an animated glowing effect written in Swift.
 * [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text will not fit inside the specified frame.
+* [NumericAnimatedLabel](https://github.com/javalnanda/NumericAnimatedLabel) - Animate numeric value while setting new value to label.
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.
 * [ODMultiColumnLabel](https://github.com/Sephiroth87/ODMultiColumnLabel) - A UILabel replacement that renders text on multiple columns.
 * [SwiftyScrollingLabel](https://github.com/Sahilberi/SwiftyScrollingLabel) - SwiftScrollingLabel is a subclass of UIView and it adds a label on it with scrolling marquee effect.
@@ -2563,6 +2566,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DottedLineView](https://github.com/STAR-ZERO/DottedLineView) - Draw horizontal or vertical dotted line for iOS.
 * [EZYGradientView](https://github.com/shashankpali/EZYGradientView) - Create gradients and blur gradients without a single line of code.
 * [FAQView](https://github.com/mukeshthawani/FAQView) - An easy to use FAQ view for iOS written in Swift.
+* [FloatingView](https://github.com/PersianDevelopers/FloatingView)
 * [FNReactionsView](https://github.com/fabiosoft/FNReactionsView) - FNReactionsView is a customizable control (based on UIView) to give people a way to show floating emoji like facebook does during live stream, easy way.
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A fancy hexagonal layout for displaying data like your Apple Watch.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
