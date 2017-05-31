@@ -132,6 +132,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [Xcode Extension](#xcode-extension)
 
 ## ActionSheet
+
 #### 🔹*Obj-C*
 * [JGActionSheet](https://github.com/JonasGessner/JGActionSheet)
 * [LGActionSheet](https://github.com/Friend-LGA/LGActionSheet)
@@ -509,6 +510,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PrismaSimpleImagePicker](https://github.com/Roylee-ML/PrismaSimpleImagePicker) - This is a copy of the Prisma APP. Reproduce Prisma custom camera, image picker and picture editor.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [NextLevel](https://github.com/NextLevel/NextLevel) - Rad Media Capture in Swift.
+* [NKVPhonePicker](https://github.com/NikKovIos/NKVPhonePicker) - An UITextField subclass to simplify country code's picking.
 * [PhotoCropEditor](https://github.com/sprint84/PhotoCropEditor) - Framework written in Swift for Cropping Images easily.
 * [photo-editor](https://github.com/M-Hamed/photo-editor) - Photo editor with a lot of cool features.
 * [PKCCrop](https://github.com/pikachu987/PKCCrop)
@@ -801,6 +803,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts.
 * [DragDropCollection](https://github.com/runrunrun/DragDropCollection) - Custom UICollectionView allowing cells to be dragged and dropped.
+* [FadingEdgesCollectionView](https://github.com/alexandre-g/FadingEdgesCollectionView) - A UICollectionView that fades it's edges to hint about more content.
 * [gliding-collection](https://github.com/Ramotion/gliding-collection) - Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller.
 * [GooglePlayTransition](https://github.com/xxxAIRINxxx/GooglePlayTransition) - Custom transition like Google Play Store Android App. written in Swift.
 * [Hanabi](https://github.com/kshin/Hanabi) - UICollectionViewLayout subclass with a focus on UICollectionViewCell content.
@@ -2225,6 +2228,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown) - Converts Markdown files and strings into NSAttributedString.
 * [SwiftRichString](https://github.com/malcommac/SwiftRichString) - Elegant & Painless Attributed Strings Management Library in Swift.
 * [TextAttributes](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
+* [TvOSTextViewer](https://github.com/dcordero/TvOSTextViewer) - Light and scrollable view controller for tvOS to present blocks of text. 📺
 * [Typographizer](https://github.com/frankrausch/Typographizer) - Fix dumb quotation marks and apostrophes in Swift.
 * [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
 
@@ -2558,6 +2562,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AHKBendableView](https://github.com/fastred/AHKBendableView) - UIView subclass that bends its edges when its position change is animated
 * [AvatarImageView](https://github.com/ayushn21/AvatarImageView) - AvatarImageView is a UIImageView subclass designed to show a user's profile picture, falling back to their initials when a picture is unavailable.
 * [AvatarView](https://github.com/chrene/AvatarView/)
+* [AZEmptyState](https://github.com/Minitour/AZEmptyState) - A UIControl subclass that makes it easy to create empty states.
 * [Blurable](https://github.com/FlexMonkey/Blurable)
 * [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) - Waves of the radar
 * [ColorDebugView](https://github.com/jonhull/ColorDebugView) - Simple NS/UIView which can be used to quickly get a view on the screen when roughing out layouts/animations.
