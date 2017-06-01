@@ -435,6 +435,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [cloudy](https://github.com/calebd/cloudy) - Simple Overcast app for OS X. `macOS`
 * [CopyPasta](https://github.com/alltheflow/CopyPasta) - Pasteboard feed Mac app. `macOS`
 * [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift. `macOS`
+* [Evergreen](https://github.com/brentsimmons/Evergreen) - It’s a feed reader for MacOS. `macOS`
 * [EventfulMac](https://github.com/JacobCho/EventfulMac) - OSX application that searches for events within an area using the Eventful API. `macOS`
 * [FBSnapshotsViewer](https://github.com/Antondomashnev/FBSnapshotsViewer) - A mac os application that shows the failing snapshot tests from FBSnapshotTestCase.
 * [Gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github. `macOS`
