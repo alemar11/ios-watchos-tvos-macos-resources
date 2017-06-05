@@ -921,6 +921,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Koyomi](https://github.com/shoheiyokoyama/Koyomi) - Koyomi is a simple calendar view framework for iOS, written in Swift.
 * [MIDatePicker](https://github.com/MarioIannotta/MIDatePicker) - A lightweight, non-invasive, fully customizable DatePicker.
 * [SCPopDatePicker](https://github.com/scrainie/SCPopDatePicker)
+* [sambag](https://github.com/mownier/sambag) - Android Time, Month-Year, and Date pickers implemented in Swift for iOS development.
 * [sscalendar](https://github.com/StevenPreston/sscalendar) - A Swift and Objective-C compatible iOS calendar UI library that can be used to display a calendar of events within your app. Note that this calendar is not designed as a picker but rather to display an existing set of events.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive date handling in Swift.
 * [TKCalendarView](https://github.com/powhu/TKCalendarView) - The page curl animation calendar.
@@ -1448,6 +1449,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [BubblePictures](https://github.com/kbelter/BubblePictures) - Framework for iOS to show Bubble like pictures.
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
 * [chatheads](https://github.com/rajatgupta26/fk-ios-chatheads) - Library to use chat heads within your iOS app with complete physics and animations which drive multi user chat behaviour to support collapsed/stacked or expanded states.
+* [FBChatClone](https://github.com/VamshiIITBHU14/FBChatClone) - This project is a clone of FB Messenger. 
 * [FirebaseChat](https://github.com/sohamb1390/FirebaseChat) - A simple anonymous group chat application using Firebase.
 * [ForceBlur](https://github.com/Yalantis/ForceBlur) - ForceBlur Animation for iOS Messaging Apps.
 * [FTChatMessageDemoProject](https://github.com/liufengting/FTChatMessageDemoProject) - FTChatMessageDemoProject, a chat message ui framework written in swift. Not quite finished.
