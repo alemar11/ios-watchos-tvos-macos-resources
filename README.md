@@ -1095,6 +1095,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HAPlayerView](https://github.com/litoarias/HAPlayerView) - Easy-to-use class for inserting videos as a wallpaper without a single line of code, all managed by Interface Builder.
 * [Instructions](https://github.com/ephread/Instructions)
 * [JTSplashView](https://github.com/kubatru/JTSplashView) - Create the beautiful splash view with JTSplashView.
+* [KJOverlayTutorial](https://github.com/tranquan/KJOverlayTutorial) - A Tutorial for iOS.
 * [LaunchScreenSnapshot](https://github.com/alexruperez/LaunchScreenSnapshot) - Protects sensitive data in your app snapshot.
 * [OnboardingKit](https://github.com/Athlee/OnboardingKit) - A simple and interactive framework for making iOS onboarding experience easy and fun.
 * [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design slider.
