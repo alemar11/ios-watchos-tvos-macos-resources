@@ -1887,6 +1887,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PrecisionLevelSlider](https://github.com/muukii/PrecisionLevelSlider) - UI component library, such as Apple's Photos app.
 * [TetraSliderCell](https://github.com/Mediajon/TetraSliderCell) - Custom NSSlider Cell. `macOS`
 * [TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) - A slider, similar in style to UISlider, but which allows you to pick a minimum and maximum range.
+* [WSBeforeAfterSliderView](https://github.com/WebsoftProfession/WSBeforeAfterSliderView)
 
 #### 🔸*Swift*
 * [CircularSlider](https://github.com/taglia3/CircularSlider) - A powerful Circular Slider. It's written in Swift, it's 100% IBDesignable and all parameters are IBInspectable.
@@ -2602,6 +2603,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [VideoThumbView](https://github.com/toygar/VideoThumbView) - Video Thumb ScrollView.
 * [Wallet](https://github.com/rshevchuk/Wallet) - Wallet is a library to manage cards and passes.
 * [WOWRibbonView](https://github.com/zhouhao27/WOWRibbonView) - Ribbon view for iOS in Swift 3.
+* [Workaholic](https://github.com/hemangshah/Workaholic) - A Github's like work contribution timeline.
 * [YGPulseView](https://github.com/YGeorge/YGPulseView) - Pulsing animation for UIView.
 
 ## ViewController
