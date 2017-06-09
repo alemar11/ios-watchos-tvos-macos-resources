@@ -1618,6 +1618,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [pencil](https://github.com/naru-jpn/pencil) - Super lightweight DB written in Swift.
 * [Redbird](https://github.com/czechboy0/Redbird) - Pure-Swift Redis client implemented from the original protocol spec. OS X + Linux compatible.
 * [Seam](https://github.com/nofelmahmood/Seam) - Seamless CloudKit Sync with CoreData.
+* [Shallows](https://github.com/dreymonde/Shallows) - Your lightweight caching toolbox.
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 * [TypedDefaults](https://github.com/tasanobu/TypedDefaults) - TypedDefaults is a utility library to type-safely use NSUserDefaults.
 * [WACoreDataSpotlight](https://github.com/Wasappli/WACoreDataSpotlight) - Automatically index your CoreData objects to CoreSpotlight on iOS 9.
