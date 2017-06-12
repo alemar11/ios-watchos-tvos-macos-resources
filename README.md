@@ -54,6 +54,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [Architecture](#architecture) 
 - [Asset Picker](#asset-picker)
 - [Audio](#audio)
+- [Augmented Reality](#augmented-reality)
 - [Badge](#badge)
 - [Beacon](#beacon)
 - [Button](#button)
@@ -542,6 +543,11 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TempiBeatDetection](https://github.com/jscalo/TempiBeatDetection) - Swift library that performs real-time or static beat detection on audio.
 * [TuningFork](https://github.com/comyarzaheri/TuningFork) - TuningFork is a simple utility for processing microphone input and interpreting pitch, frequency, amplitude, etc.
 * [VKMusic](https://github.com/yarodevuci/VKMusic) - VK Player.
+
+## Augmented Reality
+
+#### 🔸*Swift*
+* [ARViewer](https://github.com/farice/ARShooter/tree/master/ARViewer)
 
 ## Badge
 *Notifications icons*
