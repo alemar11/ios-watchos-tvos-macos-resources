@@ -312,6 +312,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - Natural Blocks Based Core Animation Framework.
 * [FlipTheBlinds](https://github.com/joelconnects/FlipTheBlinds) - FlipTheBlinds is an animation transition that creates a venetian blinds domino effect.
 * [Fluent](https://github.com/matthewcheok/Fluent) - Swift Animations made Easy.
+* [Gagat](https://github.com/Boerworz/Gagat) - A delightful way to transition between visual styles in your iOS applications.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [Interpolate](https://github.com/marmelroy/Interpolate) - Swift interpolation for gesture-driven animations.
 * [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit) - Animate easy and with less code with Swift.
@@ -1306,6 +1307,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
+* [Blog-Getting-Started-with-Vision](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision) - Blog: Getting Started with Vision on iOS 11.
 * [UnsplashExplorer-CoreML](https://github.com/ahmetws/UnsplashExplorer-CoreML) - Core ML demo app with Unsplash API.
 
 ## Map
@@ -1840,6 +1842,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController)
 * [RMSquarePageControl](https://github.com/rupammitra/RMSquarePageControl) - A custom page control having square indicators works both vertically and horizontally.
 * [ScrollingCardView](https://github.com/mozilla-mobile/ScrollingCardView) - A card view widget for iOS that will grow with its content, enabling scrolling when the content is larger than the view.
+* [ZKCarousel](https://github.com/ZacharyKhan/ZKCarousel) - A simple carousel implementation written in Swift.
 
 ## Security
 
