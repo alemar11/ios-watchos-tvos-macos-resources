@@ -501,6 +501,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)
+* [AssetsPickerViewController](https://github.com/DragonCherry/AssetsPickerViewController) - Multiple Photo & Video Picker Controller by Swift.
 * [BRNImagePickerSheet](https://github.com/jacklevin74/BRNImagePickerSheet/tree/master)
 * [Collage](https://github.com/sohamb1390/Collage) - A simple photo collage app with predefined collage frames.
 * [CSPhotoGallery](https://github.com/youkchansim/CSPhotoGallery) - This is very simple and light photo gallery.
@@ -634,6 +635,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JOEmojiableBtn](https://github.com/lojals/JOEmojiableBtn) - Emoji selector like Facebook Reactions.
 * [KDPulseButton](https://github.com/KaiqueDamato/KDPulseButton) - A Custom button that pulses.
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton)
+* [LGButton](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)
 * [LoadingButton](https://github.com/SeptiyanAndika/LoadingButton) - UIButton subclass with an activity indicator and loading text.
 * [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
@@ -929,6 +931,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MIDatePicker](https://github.com/MarioIannotta/MIDatePicker) - A lightweight, non-invasive, fully customizable DatePicker.
 * [SCPopDatePicker](https://github.com/scrainie/SCPopDatePicker)
 * [sambag](https://github.com/mownier/sambag) - Android Time, Month-Year, and Date pickers implemented in Swift for iOS development.
+* [ScrollableDatepicker](https://github.com/noxt/ScrollableDatepicker) - Yet another datepicker for iOS.
 * [sscalendar](https://github.com/StevenPreston/sscalendar) - A Swift and Objective-C compatible iOS calendar UI library that can be used to display a calendar of events within your app. Note that this calendar is not designed as a picker but rather to display an existing set of events.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive date handling in Swift.
 * [TKCalendarView](https://github.com/powhu/TKCalendarView) - The page curl animation calendar.
@@ -1196,6 +1199,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView)
 * [ESSSquareProgressIndicator](https://github.com/eternalstorms/ESSSquareProgressIndicator)
 * [FeSpinner](https://github.com/NghiaTranUIT/FeSpinner)
+* [FFLoadingView](https://github.com/FFFang/FFLoadingView) - LoadingView with animation.
 * [GIFProgressHUD](https://github.com/ali-ehsan/GIFProgressHUD) - GIFProgressHUD is a progress HUD with GIF for iOS.
 * [GMDCircleLoader](https://github.com/gabemdev/GMDCircleLoader)
 * [GiFHUD](https://github.com/cemolcay/GiFHUD)
@@ -1862,6 +1866,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl)
 * [SSYSegmentedControl](https://github.com/jerrykrinock/SSYSegmentedControl) - UISegmentedControl alternative for text titles. Adaptive segment widths, Swift 3.
 * [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - Custom UISegmentedControl replacement for iOS, written in Swift.
+* [TZSegmentedControl](https://github.com/tahseen0amin/TZSegmentedControl) - A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents and various other Google products.
 
 ## Server side
 
@@ -1989,6 +1994,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DGRunkeeperSwitch](DGRunkeeperSwitch) - Runkeeper design switch control (two part segment control) developed in Swift 2.0.
 * [MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch) - Android Switch button for iOS.
 * [OGSwitch](https://github.com/OskarGroth/OGSwitch) - iOS-inspired Switch Control for macOS. `macOS`
+* [PWSwitch](https://github.com/Shaninnik/PWSwitch) - Highly customizable UISwitch built with CALayers and CAAnimations.
 * [Switch](https://github.com/T-Pham/Switch) - An iOS switch control implemented in Swift with full Interface Builder support.
 * [Switcher](https://github.com/knn90/Switcher) - Custom UISwitcher with animation.
 * [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection.
@@ -2238,8 +2244,10 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Mustard](https://github.com/mathewsanders/Mustard) - Mustard is a Swift library for tokenizing strings when splitting by whitespace doesn't cut it.
 * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 * [PTPPlaceholderTextView](https://github.com/pitiphong-p/PTPPlaceholderTextView) - A simple naive implementation of UITextView subclass to support placeholder text rendering in UITextView.
+* [RaisePlaceholder](https://github.com/najanda89/RaisePlaceholder)
 * [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Gradient Text in Real.
 * [Reductio](https://github.com/fdzsergio/Reductio) - Reductio is a tool used to extract keywords and phrases using an implementation of the algorithm TextRank.
+* [RegeributedTextView](https://github.com/rinov/RegeributedTextView) - RegeributedTextView is a subclass of UITextView that supports fully attribute string based on regular expression.
 * [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks.
 * [Splitflap](https://github.com/YannickL/Splitflap) - A simple split-flap display for your Swift applications.
 * [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - Swift extensions that make it a breeze to work with attributed strings.
@@ -2578,6 +2586,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AbstractView](https://github.com/nuudles/AbstractView) - A simple UIView subclass that you can use as a background view.
 * [ASCustomBannerView](https://github.com/aroldanm/ASCustomBannerView) - This is a banner with similar style to the app store.
 * [AHKBendableView](https://github.com/fastred/AHKBendableView) - UIView subclass that bends its edges when its position change is animated
+* [Avatar](https://github.com/wvabrinskas/Avatar) - Generate random user Avatars for apps.
 * [AvatarImageView](https://github.com/ayushn21/AvatarImageView) - AvatarImageView is a UIImageView subclass designed to show a user's profile picture, falling back to their initials when a picture is unavailable.
 * [AvatarView](https://github.com/chrene/AvatarView/)
 * [AZEmptyState](https://github.com/Minitour/AZEmptyState) - A UIControl subclass that makes it easy to create empty states.
