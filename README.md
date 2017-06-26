@@ -26,6 +26,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 * [Reusable apps code written in Swift](https://github.com/carlbutron/Swift)
 
+### iOS 11
+* [iOS 11 by Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) - Examples of new iOS 11 APIs.
+
 #### iOS 10
 * [iOS 10 day by day](https://github.com/shinobicontrols/iOS10-day-by-day) - Projects to accompany the iOS 10 Day by Day blog series.
 * [iOS 10 Sampler](https://github.com/shu223/iOS-10-Sampler) - Code examples for new APIs of iOS 10.
@@ -472,6 +475,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AUMediaPlayer](https://github.com/appunite/AUMediaPlayer) - AUMediaPlayer is a nice high level API for audio and video playback, both from network stream and local files.
 * [AVAssetResourceLoader](https://github.com/leshkoapps/AVAssetResourceLoader) - A sample iOS application that demonstrates AVAssetResourceLoader fro AVPlayer.
 * [CLColorPicker](https://github.com/sakrist/CLColorPicker) - Color picker for Yosemite. `macOS`
+* [CreolePhotoSelection](https://github.com/NirmalsinhRathod/CreolePhotoSelection) - It will help to select one or multiple photos from Gallery as well as Camera.
 * [CustomImagePicker](https://github.com/cspnanda/CustomImagePicker)
 * [DBAttachmentPickerController](https://github.com/d0ping/DBAttachmentPickerController) - This powerful component allows to select different types of files from different sources on your device.
 * [DLFPhotosPicker](https://github.com/nicnocquee/DLFPhotosPicker)
@@ -2108,6 +2112,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ConfigurableTableViewController](https://github.com/fastred/ConfigurableTableViewController) - Typed, yet Flexible Table View Controller.
 * [elongation-preview](https://github.com/Ramotion/elongation-preview) - ElongationPreview is an elegant push-pop style view controller.
 * [EssentialTableView](https://github.com/sohamb1390/EssentialTableView) - A detailed project on UITableView which includes Parallax effects, Collapse/Expand UITableViewCell, 3D Touch on UITableViewCell.
+* [ExpyTableView](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method.
 * [FileCards](https://github.com/etrep/FileCards_Swift) - A complete and modern OS X 10.10 Swift rewrite of Apple's FileCards example. `macOS`
 * [files-ios](https://github.com/steventroughtonsmith/files-ios) - File Browser for iOS.
 * [GLTableCollectionView](https://github.com/giulio92/GLTableCollectionView) - Netflix and App Store like UITableView with UICollectionView, written in pure Swift 3.0.
