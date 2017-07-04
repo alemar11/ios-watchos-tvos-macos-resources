@@ -305,9 +305,11 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Anima](https://github.com/satoshin21/Anima#)
 * [AnimateBlurRadius](https://github.com/fichek/AnimateBlurRadius) - An example of how to interactively animate blur radius on iOS 10.
 * [ATScrollingNumbers](https://github.com/anooptomar1/ATScrollingNumbers) - Scrolling number control with circular progress.
+* [Bubble](https://github.com/goldmoment/Bubble)
 * [ConfettiView](https://github.com/OrRon/ConfettiView) - Confetti View lets you create a magnificent confetti view in your app.
 * [Dance](https://github.com/saoudrizwan/Dance) - A radical & elegant animation library built for iOS.
 * [DCExplosion](https://github.com/Tangdixi/DCExplosion)
+* [DDViewSwitcher](https://github.com/DingdingKim/DDViewSwitcher) - With DDViewSwitcher, you can simply implement the effect of scrolling the view with just two lines. Like android TextSwitcher.
 * [DoneHud](https://github.com/beryu/DoneHUD) - Done animation on HUD.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A UIKit custom transition that simulates an elastic drag.
@@ -1637,6 +1639,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Depot](https://github.com/iSame7/Depot) - Struct persistance framework for Swift.
 * [GRDB](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit for Swift, with WAL mode support.
 * [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit)
+* [Kuery](https://github.com/kishikawakatsumi/Kuery) - A type-safe Core Data query API using Swift 4's Smart KeyPaths.
 * [QueryKit](https://github.com/QueryKit) - A simple CoreData query language for Swift and Objective-C.
 * [Pantry](https://github.com/nickoneill/Pantry) - The missing light persistence layer for Swift.
 * [Palau](https://github.com/symentis/Palau) - NSUserDefaults with Wings!.
@@ -1926,6 +1929,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RangeSlider](https://github.com/matthewreagan/RangeSlider) - Simple, clean, and customizable range-based slider control for macOS. `macOS`
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
 * [SpringySlider](https://github.com/josephlord/SpringySlider) - Custom UISlider with thumb animation.
+* [SSSlider](https://github.com/ngodacdu/SSSlider) - A customisable Slider which will show a tooltip when dragging the slider.
 * [TNAnimateSlider](https://github.com/nguyentrai2011/TNAnimateSlider)
 * [TNSlider](https://github.com/tiennth/TNSlider) - A custom iOS slider that show current value on the thumb.
 * [KJCurveSlider](https://github.com/KiranJasvanee/KJCurveSlider)
