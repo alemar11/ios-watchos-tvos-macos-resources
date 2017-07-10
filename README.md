@@ -2092,6 +2092,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NewsCommentLayout](https://github.com/xxhp/NewsCommentLayout) - The NewsCommentLayout mimic a layout of Netease client.
 * [OCBorghettiView](https://github.com/otaviocc/OCBorghettiView) - OCBorghettiView is an easy to use accordion view component for iOS.
 * [PADTiltViewController](https://github.com/dusi/PADTiltViewController) - PADTiltViewController adds device tilt capability to one directional scroll views on iOS.
+* [ParallaxHeader](https://github.com/romansorochak/ParallaxHeader) - Simple way to add parallax header to UIScrollView/UITableView written in Swift.
 * [ParallaxTableViewHeader](https://github.com/Vinodh-G/ParallaxTableViewHeader) - Parallax scrolling effect on UITableView header view when a tableView is scrolled.
 * [RATreeView](https://github.com/Augustyniak/RATreeView)
 * [RNRippleTableView](https://github.com/rnystrom/RNRippleTableView) - A custom table view with highly detailed ripple animations.
@@ -2655,6 +2656,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [LGSemiModalNavController](https://github.com/lukegeiger/LGSemiModalNavController) - Show a view controller a dynamically set height over another view controller.
 * [MCCardPickerCollectionViewController](https://github.com/yuhua-chen/MCCardPickerCollectionViewController) - A card collection view controller inspired by Facebook People you may know.
 * [RDGliderViewController](https://github.com/gelemias/RDGliderViewController) - Control for a floating view gliding over a ViewController.
+* [PlusExtended](https://github.com/souvickcse/PlusExtended)
 * [SSStackedPageView](https://github.com/PlenipotentSS/SSStackedPageView) - Stacked Views paged on top of each other, inspired by iOS 7 Reminders and iOS 7 Passport.
 * [SemiModalNavigationController](https://github.com/hughbe/semi-modal-controller)
 * [SCPinViewController](https://github.com/SugarAndCandy/SCPinViewController)
@@ -2667,6 +2669,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [AMLoginSignup](https://github.com/amirdew/AMLoginSignup) - Login/Signup ViewController for iOS.
+* [AppStoreiOS11](https://github.com/aliumujib/AppStoreiOS11) - iOS 11 Appstore clone.. practise of laying out views purely programatically.
 * [CarbonKitSwift](https://github.com/melieskubrick/CarbonKitSwift) - CarbonKit is an OpenSource iOS library that includes powerful and beauty UI controllers.
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController)
 * [Instagram-Feed-View](https://github.com/sagarshirbhate/Instagram-Feed-View) - It is a demo view to show feeds as shown in Instagram.All actions(Like,comment,share,follow,etc..) are managed by blocks.
