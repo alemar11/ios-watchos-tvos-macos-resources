@@ -249,8 +249,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [ScrollableDisclaimerAlert](https://github.com/kubacizek/ScrollableDisclaimerAlert) - Simple lightweight DisclaimerAlertView.
 * [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your iOS app is available, and prompt them with the App Store link.
-* [SlideControl](https://github.com/dasdom/SlideControl) - Vertical slide control build with Swift 2.0.
-* [SLPopupViewController](https://github.com/sunlight3d/SLPopupViewController)
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
 * [SwiftyPickerPopover](https://github.com/hsylife/SwiftyPickerPopover) - Popover with Picker by Swift 3/2.3 for iPhone/iPad, iOS9+.
