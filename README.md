@@ -1345,6 +1345,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [asmaplauncher](https://www.cocoacontrols.com/controls/asmaplauncher) - ASMapLauncher is a library for iOS written in Swift that helps navigation with various mapping applications.
 * [DistancePicker](https://github.com/qmathe/DistancePicker) - Custom UIKit control to select a distance with a pan gesture, written in Swift.
 * [DynamicBubble](https://github.com/vladaverin24/DynamicBubble) - Interactive Speech Balloon/Bubble view with rich customization UI for app user..
+* [GooglePlacesClone](https://github.com/VishalNandoriya/GooglePlacesClone) - This repository aims for a tutorial on how to use the Google Places API in conjunction with Google Maps iOS SDK.
 * [GpxLocationManager](https://github.com/vermont42/GpxLocationManager) - GpxLocationManager is a replacement for CLLocationManager that allows the developer to use GPS data from GPX files or CLLocation arrays for testing.
 * [MBMapPulseAnimation)](https://github.com/ManickB/MBMapPulseAnimation)
 * [NearBy](https://github.com/VishalNandoriya/NearBy) - iOS app to find nearby places using MapKit.
@@ -2452,6 +2453,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [AssistantKit](https://github.com/anatoliyv/AssistantKit) - Easy way to detect device environment.
 * [AsyncOperations](https://github.com/jaredsinclair/AsyncOperations) - A toolbox of NSOperation subclasses for a variety of asynchronous programming needs.
+* [bluejay](https://github.com/steamclock/bluejay) - A simple Swift framework for building reliable Bluetooth LE apps.
 * [BonMot](https://github.com/Raizlabs/BonMot) - Beautiful, easy attributed strings for iOS.
 * [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
 * [Bleu](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U.
