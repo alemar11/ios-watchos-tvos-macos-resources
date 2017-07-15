@@ -223,6 +223,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Alertift](https://github.com/sgr-ksmt/Alertift) - Swifty, modern UIAlertController wrapper.
 * [AMTooltip](https://github.com/amirdew/AMTooltip) - Simple and easy library to show tooltip in iOS.
 * [App-Rating-Alert](https://github.com/pablojotaguardiola/App-Rating-Alert) - Show an alert to rate your APP.
+* [AZDialogViewController](https://github.com/Minitour/AZDialogViewController) - A highly customizable alert dialog controller that mimics Snapchat's alert dialog.
 * [BMInputBox](https://github.com/blackmirror-media/BMInputBox)
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup written in Swift 3.
 * [CPAlertViewController](https://github.com/katafo/CPAlertViewController) - A way to create a custom alert view with animation.
@@ -1313,6 +1314,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
 * [Blog-Getting-Started-with-Vision](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision) - Blog: Getting Started with Vision on iOS 11.
 * [HelloVision](https://github.com/NilStack/HelloVision)
+* [FaceCropper](https://github.com/KimDarren/FaceCropper) - Crop faces, inside of your image, with iOS 11 Vision api.
 * [MLCameraDemo](https://github.com/stringcode86/MLCameraDemo) - Demonstrates using Vision with Core ML to preprocess AVCaptureVideoDataOutput and perform image classification.
 * [UnsplashExplorer-CoreML](https://github.com/ahmetws/UnsplashExplorer-CoreML) - Core ML demo app with Unsplash API.
 
@@ -1459,7 +1461,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [BMInitialsPlaceholderView](https://github.com/brianmichel/BMInitialsPlaceholderView) - Circular placeholder view with text similar to iMessage.
 * [CDFInitialsAvatar](https://github.com/totocaster/CDFInitialsAvatar) - Simple to use initials avatar generator for iOS. Highly customizable, but with sane defaults. Works great as a avatar placeholder and such.
 * [ChatMessageTableViewController](https://github.com/RobinChao/ChatMessageTableViewController) - ChatMessageTableViewController is like iMessage app.
-
 * [DBChatAvatarSample](https://github.com/medinaonly/DBChatAvatarSample) - Sample for DBChatAvatarView - a control, which allow you to create group avatar for a chat.
 * [GLGroupChatPicView](https://github.com/RATTLESNAKE-VIPER/GLGroupChatPicView) -
 * [GenericSocialApp - On Boarding](Generic Social App: App for sharing a social board) - Generic Social App: App for sharing a social board.
@@ -1482,6 +1483,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FTChatMessageDemoProject](https://github.com/liufengting/FTChatMessageDemoProject) - FTChatMessageDemoProject, a chat message ui framework written in swift. Not quite finished.
 * [MessageProgressView](https://github.com/Tueno/MessageProgressView) - Simple loading animation for Swift.
 * [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
+* [MMTextureChat](https://github.com/mukyasa/MMTextureChat) AsyncDisplayKit(Texture) Smooth Scroll Chat Simulation.
 * [NMessenger](https://github.com/eBay/NMessenger) - A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift.
 * [Quick-Chat](https://github.com/aslanyanhaik/Quick-Chat) - Real time chat app written in Swift 3 using Firebase.
 * [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension) - UITableView extension that enabled to insert cell from bottom of tableView.
@@ -2257,6 +2259,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Marklight](https://github.com/macteo/Marklight) - Markdown syntax highlighter for iOS.
 * [Mustard](https://github.com/mathewsanders/Mustard) - Mustard is a Swift library for tokenizing strings when splitting by whitespace doesn't cut it.
 * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
+* [NSJFontResizingUITextView](https://github.com/NSJoker/NSJFontResizingUITextView) - UITextField adjusts its font size dynamicaly with respect to is content.
 * [PTPPlaceholderTextView](https://github.com/pitiphong-p/PTPPlaceholderTextView) - A simple naive implementation of UITextView subclass to support placeholder text rendering in UITextView.
 * [RaisePlaceholder](https://github.com/najanda89/RaisePlaceholder)
 * [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Gradient Text in Real.
@@ -2617,7 +2620,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FNReactionsView](https://github.com/fabiosoft/FNReactionsView) - FNReactionsView is a customizable control (based on UIView) to give people a way to show floating emoji like facebook does during live stream, easy way.
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A fancy hexagonal layout for displaying data like your Apple Watch.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
-* [SSHoneyCombView](https://github.com/SamehSalama/SSHoneyCombView) - A honey comb View that looks like a collection view with hexagon shaped items.
+* [iOSAlignmentIndicatorViews](https://github.com/gbmiranda/iOSAlignmentIndicatorViews) - This is an iOS component to assist in aligning Views by creating lines similar to image editing programs such as Photoshop and Sketch.
 * [JDMechanicWatch](https://github.com/jamesdouble/JDMechanicWatch) - JDMechanicWatch can show time in a MechanicWatch look.
 * [jmcrainbow](https://www.cocoacontrols.com/controls/jmcrainbow)
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
@@ -2630,6 +2633,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
 * [Smile-Lock](https://github.com/liu044100/Smile-Lock) - A library for make a beautiful Passcode Lock View.
+* [SSHoneyCombView](https://github.com/SamehSalama/SSHoneyCombView) - A honey comb View that looks like a collection view with hexagon shaped items.
 * [SVGSpriteView](https://github.com/rondinellimorais/SVGSpriteView) - Subclass of UIView where is possible render SVG Sprites.
 * [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full * [tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
 * [Translucid](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background. Written in swift.
