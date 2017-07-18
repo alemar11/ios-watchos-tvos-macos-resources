@@ -1020,6 +1020,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Standard-Template-Protocols](https://github.com/cconeil/Standard-Template-Protocols) - Protocols for your every day iOS needs.
 * [Tactile](https://github.com/delba/Tactile) - The Swift way to add UIGestureRecognizer and to react to UIControlEvents.
 * [TouchesWindow](https://github.com/dmoroz0v/TouchesWindow) - Show touch and force-touch indicators for your iOS app. Have swift and obj-c versions.
+* [VMSignatureView](https://github.com/VaibhavMisra/VMSignatureView) - A custom view to capture signature from user.
 
 ## Image
 *Images, images processing and Galleries*
