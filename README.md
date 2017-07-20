@@ -67,6 +67,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [CollectionView](#collectionview)
 - [CollectionViewCell](#collectionviewcell)
 - [Color](#color)
+- [Control](#control)
 - [Date](#date)
 - [Dynamic Behavior](#dynamic-behavior)
 - [Extension](#extension)
@@ -900,6 +901,12 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RainbowColors](https://github.com/igormatyushkin014/RainbowColors) - Colorful programming in Swift.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
 * [UIImageColors](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
+
+## Control
+*UIControls*
+
+#### 🔸*Swift*
+- [padcontrol](https://github.com/gabrieloc/padcontrol) - A UIControl subclass for two-dimension directional input.
 
 ## Date
 *Date Pickers, TimeLines, Date handlers and Calendars*
