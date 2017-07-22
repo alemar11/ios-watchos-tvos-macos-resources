@@ -2408,6 +2408,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [iOSNotificationBanner](https://github.com/loconsolutions/iOSNotificationBanner)
 * [iPopUp](https://github.com/BlueWonders/iPopUp) - iPopUp uses custom view, not UIPopover or AlertView. UIView contains a tableview. The project is simple, clean and easy to implement.
 * [KRAlertController](https://github.com/krimpedance/KRAlertController) - A colored alert view for your iOS.
+* [LPSnackbar](https://github.com/luispadron/LPSnackbar) - A flexible and easy to use Snackbar control for iOS.
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
 * [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS.
