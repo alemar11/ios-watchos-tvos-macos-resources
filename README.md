@@ -2489,6 +2489,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Format](https://github.com/marmelroy/format) - A Swift 2 formatter kit. Simple formatting syntax for decimal numbers, currency, addresses, ordinal numbers and hexadecimal colors.
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift that makes your life easier.
 * [Highlighter](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
+* [instantsearch-ios](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search applications on iOS.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift.
 * [Kanna](https://github.com/tid-kijyun/Kanna) - Kanna is an XML/HTML parser for macOS / iOS / tvOS.
 * [KGNAutoLayout](https://github.com/kgn/KGNAutoLayout) - Making AutoLayout Easy.
