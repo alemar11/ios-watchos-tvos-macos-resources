@@ -556,6 +556,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Augmented Reality
 
 #### 🔸*Swift*
+* [ARuler](https://github.com/duzexu/ARuler) - Mesure distance using apple ARKit.
 * [ARViewer](https://github.com/farice/ARShooter/tree/master/ARViewer)
 
 ## Badge
@@ -1429,6 +1430,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [btSimpleSideMenu](https://github.com/balram3429/BTSimpleSideMenu)
 
 #### 🔸*Swift*
+* [AirBar](https://github.com/uptechteam/AirBar) - UIScrollView driven expandable menu.
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title.
 * [circle-menu)](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant menu with a circular layout.
 * [DPEdgeMenu-Swift](https://github.com/HongliYu/DPEdgeMenu-Swift) - Simple menu appear from four directions of screen edge.
@@ -2268,6 +2270,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HighlightTextView](https://github.com/yusayusa/HighlightTextView)
 * [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - Markdown View for iOS.
 * [Marklight](https://github.com/macteo/Marklight) - Markdown syntax highlighter for iOS.
+* [Markup](https://github.com/gonzalezreal/Markup) - Lightweight markup text formatting in Swift.
 * [Mustard](https://github.com/mathewsanders/Mustard) - Mustard is a Swift library for tokenizing strings when splitting by whitespace doesn't cut it.
 * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 * [NSJFontResizingUITextView](https://github.com/NSJoker/NSJFontResizingUITextView) - UITextField adjusts its font size dynamicaly with respect to is content.
