@@ -509,6 +509,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [YangMingShan](https://github.com/yahoo/YangMingShan) - YangMingShan is a collection of iOS UI components that we created while building Yahoo apps.
 
 #### 🔸*Swift*
+* [AGImageControls](https://github.com/agilie/AGImageControls) - cool tools for image edition.
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)
 * [AssetsPickerViewController](https://github.com/DragonCherry/AssetsPickerViewController) - Multiple Photo & Video Picker Controller by Swift.
 * [BRNImagePickerSheet](https://github.com/jacklevin74/BRNImagePickerSheet/tree/master)
@@ -910,7 +911,10 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 *UIControls*
 
 #### 🔸*Swift*
+* [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter.
+- [AGVolumeControlView](https://github.com/agilie/AGVolumeControlView) - Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic.
 - [padcontrol](https://github.com/gabrieloc/padcontrol) - A UIControl subclass for two-dimension directional input.
+- [VolumeControlView](https://github.com/agilie/VolumeControlView) - Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic much easier.
 
 ## Date
 *Date Pickers, TimeLines, Date handlers and Calendars*
@@ -1016,6 +1020,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * * [AASignatureView)](https://github.com/EngrAhsanAli/AASignatureView) - AASignatureView is a UIView to capture digital signature by drawing it on screen easily in iOS, written in Swift.
+* [CTSlidingUpPanel](https://github.com/hoomazoid/CTSlidingUpPanel) - Transforms any view to sliding panel.
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool [Swift / iOS].
 * [EPSignature](https://github.com/ipraba/EPSignature) - Signature component for iOS in Swift.
 * [GestureLockView](https://github.com/778477/GestureLockView) - User Gesture lock & unlock View.
@@ -1444,6 +1449,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DropDown](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS.
 * [DropDownMenuKit](https://github.com/qmathe/DropDownMenuKit) - UIKit drop down menu, simple yet flexible and written in Swift.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - A lightweight flyover side menu component for iOS with the UIDynamic's bouncing animation, UIGestures and UIBlurEffect. 
+* [FAPanels](https://github.com/fahidattique55/FAPanels) - FAPanels - Swift.
 * [FatSidebar](https://github.com/CleanCocoa/FatSidebar) - Custom vertical button toolbar for macOS. `macOS`
 * [FlowingMenu](https://github.com/YannickL/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects in Swift.
 * [GNAContextMenu](https://github.com/gridNA/GNAContextMenu) - Long press context menu (like in Pintrest for iOS app).
@@ -2705,6 +2711,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [interactiveplayerview](https://github.com/AhmettKeskin/InteractivePlayerView) - Custom iOS music player view.
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control.
 * [MRArticleViewController](https://github.com/mrigdon/MRArticleViewController) - Easily create UIViewControllers for news articles similar to those in the News app.
+* [PictureInPicture](https://github.com/malt03/PictureInPicture)
 * [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
 * [SJSegmentedViewController](https://github.com/subinspathilettu/SJSegmentedViewController) - SJSegmentedScrollView is a light weight generic controller written in Swift 2.3. Its a simple customizable controller were you can integrate any number of ViewControllers into a segmented controller with a header view controller.
 * [StackPageView](https://github.com/noppefoxwolf/StackPageView) - SwipeViewController is a Swift modification of RKSwipeBetweenViewControllers - navigate between pages / ViewControllers.
