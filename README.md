@@ -760,6 +760,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TNRadioButtonGroup](https://github.com/frederik-jacques/TNRadioButtonGroup) - Create easy radio button groups in Objective-C.
 
 #### 🔸*Swift*
+* [CCheckbox-iOS](https://github.com/msalah1193/CCheckbox-iOS) - CCheckbox is a custom UIView which represents custom checkbox component with custom images.
 * [iCheckbox](https://github.com/mancunianetz/iCheckbox) - Checkbox component for iOS apps.
 * [SnapchatCheckbox](https://github.com/danielinoa/SnapchatCheckbox) - A Snapchat-inspired checkbox.
 * [vkcheckbox](https://www.cocoacontrols.com/controls/vkcheckbox) - Simple customizable closure-based checkbox control written on Swift.
@@ -950,6 +951,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [sscalendar](https://github.com/StevenPreston/sscalendar) - A Swift and Objective-C compatible iOS calendar UI library that can be used to display a calendar of events within your app. Note that this calendar is not designed as a picker but rather to display an existing set of events.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive date handling in Swift.
 * [TKCalendarView](https://github.com/powhu/TKCalendarView) - The page curl animation calendar.
+* [VNOfficeHourPicker](https://github.com/varun-naharia/VNOfficeHourPicker)
 * [WRCalendarView](https://github.com/wayfinders/WRCalendarView) - Calendar Day and Week View for iOS.
 * [YMCalendar](https://github.com/matsune/YMCalendar) - Monthly event calendar framework for iOS.
 
@@ -1089,7 +1091,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ZoomImageView](https://github.com/muukii/ZoomImageView) - UI component library to expand the photo, such as Apple's Photos app.
 
 ## Intro
-*LaunchScreen, OnBoarding, Splashscreen, WalkThrough*
+*LaunchScreen, OnBoarding, Splashscreen, WalkThrough, Feedback*
 
 #### 🔹*Obj-C*
 * [ABCIntroView](https://github.com/AdamBCo/ABCIntroView) - Easy to use onboarding which allows you to introduce your users to the applicaiton before reaching the Main Screen.
@@ -1116,6 +1118,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 
+* [Ajimi](https://github.com/nakajijapan/Ajimi) - Ajimi means tasting. In Japanese, 味見. Ajimi is the feedback tool, which anyone can easily feedback to project team any time.
 * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - BWWalkthrough is a class to build custom walkthroughs for your iOS App.
 * [Gecco](https://github.com/yukiasai/Gecco) - Simply highlight items for your tutorial walkthrough, written in Swift.
 * [HAPlayerView](https://github.com/litoarias/HAPlayerView) - Easy-to-use class for inserting videos as a wallpaper without a single line of code, all managed by Interface Builder.
@@ -1495,6 +1498,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FirebaseChat](https://github.com/sohamb1390/FirebaseChat) - A simple anonymous group chat application using Firebase.
 * [ForceBlur](https://github.com/Yalantis/ForceBlur) - ForceBlur Animation for iOS Messaging Apps.
 * [FTChatMessageDemoProject](https://github.com/liufengting/FTChatMessageDemoProject) - FTChatMessageDemoProject, a chat message ui framework written in swift. Not quite finished.
+* [InAppNotify](https://github.com/lucabecchetti/InAppNotify) - Swift library to manage in app notification in swift language, like WhatsApp, Telegram, Frind, etc.
 * [MessageProgressView](https://github.com/Tueno/MessageProgressView) - Simple loading animation for Swift.
 * [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
 * [MMTextureChat](https://github.com/mukyasa/MMTextureChat) AsyncDisplayKit(Texture) Smooth Scroll Chat Simulation.
@@ -2059,6 +2063,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ZRScrollableTabBar](https://github.com/raihan/ZRScrollableTabBar)
 
 #### 🔸*Swift*
+
+* [AnimateTabbarBadgeView](https://github.com/AliAdam/AnimateTabbarBadgeView) - UITabBarController Extention to make badge View animated.
 * [Animated-Tab-Bar](https://github.com/Ramotion/animated-tab-bar)
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 3.0.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)
