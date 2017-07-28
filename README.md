@@ -559,6 +559,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Augmented Reality
 
 #### 🔸*Swift*
+* [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 * [ARuler](https://github.com/duzexu/ARuler) - Mesure distance using apple ARKit.
 * [ARViewer](https://github.com/farice/ARShooter/tree/master/ARViewer)
 
