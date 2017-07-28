@@ -328,6 +328,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [material-motion-swift](https://github.com/material-motion/material-motion-swift) - Reactive motion for iOS.
 * [Morph](https://github.com/gbammc/Morph) - A wrapper for CoreAnimation (Swift).
 * [Motion Machine](https://github.com/poetmountain/MotionMachine) - A powerful, elegant, and modular animation library for Swift.
+* [MountainView](https://github.com/KyoheiG3/MountainView) - The animation curve looks like Mountain View.
 * [MTPrivateTrainerAnimation](https://github.com/MartinRGB/MTPrivateTrainerAnimation)
 * [MTRipple](https://github.com/manekdilip/MTRipple) - Repository for Ripple Effect.
 * [Pastel](https://github.com/cruisediary/Pastel) - Instagram like Gradient background animation.
@@ -1209,8 +1210,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TinyConstraints](https://github.com/roberthein/TinyConstraints)
 
 ## Loader
-
 *Loaders, HUDs and Activity Indicators*
+
 #### 🔹*Obj-C*
 * [AMTumblrHud](https://github.com/Asich/AMTumblrHud)
 * [BLMultiColorLoader](https://github.com/BLPoonia/BLMultiColorLoader) - Multi coloured and customisable loading indicator (loader) for iOS applications.
@@ -1220,6 +1221,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FeSpinner](https://github.com/NghiaTranUIT/FeSpinner)
 * [FFLoadingView](https://github.com/FFFang/FFLoadingView) - LoadingView with animation.
 * [GIFProgressHUD](https://github.com/ali-ehsan/GIFProgressHUD) - GIFProgressHUD is a progress HUD with GIF for iOS.
+* [gmail-like-loading](https://github.com/raweng/gmail-like-loading)
 * [GMDCircleLoader](https://github.com/gabemdev/GMDCircleLoader)
 * [GiFHUD](https://github.com/cemolcay/GiFHUD)
 * [IMGActivityIndicator](https://github.com/DrJid/IMGActivityIndicator)
@@ -1247,13 +1249,14 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TSActivityIndicatorView](https://github.com/tomkowz/TSActivityIndicatorView)
 * [VMGearsLoading](https://github.com/VuMai/VMGearsLoading)
 * [WovenStar](https://github.com/iaomw/WovenStar)
+* [WSProgressHUDIOS](https://github.com/WebsoftProfession/WSProgressHUDIOS)
 * [YRActivityIndicator](https://github.com/solomidSF/YRActivityIndicator)
-* [gmail-like-loading](https://github.com/raweng/gmail-like-loading)
 
 #### 🔸*Swift*
 * [AALoaders](https://github.com/EngrAhsanAli/AALoaders) - AALoaders is a lightweight, easy-to-use and powerful progress view loaders framework, written in Swift. It uses simple native elements for progress loading with customisations and allow to use without creating instance.
 * [BmoImageLoader](https://github.com/tzef/BmoImageLoader) - BmoImageLoader is a progress animated component for UIImageView.
 * [BPCircleActivityIndicator](https://github.com/ppth0608/BPCircleActivityIndicator) - A lightweight and awesome loading Activity Indicator for your iOS app.
+* [BPBlockActivityIndicator](https://github.com/ppth0608/BPBlockActivityIndicator) - A simple and awesome loading Activity Indicator(with block moving animation) for your iOS app.
 * [BRCircularProgressBar](https://github.com/BrammanandSoni/BRCircularProgressBar) - It shows circular progress for multi purpose like download, upload and timer progress.
 * [CircleLoading](https://github.com/goldmoment/CircleLoading) - CircleLoading view.
 * [CircleSlider](https://github.com/shushutochako/CircleSlider)
@@ -1653,6 +1656,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData is a framework to easily access Core Data objects in Swift.
 * [apollo-ios](https://github.com/apollographql/apollo-ios) - A strongly-typed, caching GraphQL client for iOS, written in Swift.
 * [BNR CoreDataStack](https://github.com/bignerdranch/CoreDataStack) - The Big Nerd Ranch Core Data stack.
+* [Cacher](https://github.com/raulriera/Cacher) - Super simple caching solution for iOS, macOS, tvOS and watchOS.
 * [Cachyr](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift.
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift
 * [Depot](https://github.com/iSame7/Depot) - Struct persistance framework for Swift.
@@ -2063,7 +2067,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ZRScrollableTabBar](https://github.com/raihan/ZRScrollableTabBar)
 
 #### 🔸*Swift*
-
 * [AnimateTabbarBadgeView](https://github.com/AliAdam/AnimateTabbarBadgeView) - UITabBarController Extention to make badge View animated.
 * [Animated-Tab-Bar](https://github.com/Ramotion/animated-tab-bar)
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 3.0.
@@ -2130,7 +2133,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [YUTableView](https://github.com/ujell/YUTableView) -  UITableView which adds expandable sub-menu support to it.
 
 #### 🔸*Swift*
-
 * [AccordionTableViewController](https://github.com/klevison/KMAccordionTableViewController) - Accordion UITableViewController component based on Apples's example.
 * [APSGroupedTableView](https://github.com/AishPratap/APSGroupedTableView)
 * [CascadingTableDelegate](https://github.com/edopelawi/CascadingTableDelegate) - A no-nonsense way to write cleaner UITableViewDelegate and UITableViewDataSource in Swift.
@@ -2168,7 +2170,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## TableViewCell
 
 #### 🔹*Obj-C*
-
 * [ABMenuTableViewCell](https://github.com/alexbumbu/ABMenuTableViewCell) - UITableViewCell right menu, shown by ''swipe to delete' gesture.
 * [AMBTableViewController](https://github.com/CyberAgent/AMBTableViewController) - Storyboard and Prototype Cells-centric block-based UITableView controller to manage complex layouts.s
 * [ASOXScrollTableViewCell](https://github.com/agusso/ASOXScrollTableViewCell) - Horizontal Scroll Table View Cell
