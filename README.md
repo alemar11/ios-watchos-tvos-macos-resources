@@ -2078,6 +2078,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 3.0.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar)
+* [HHTabBarView](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tabbar view.
 * [KPSmartTabBar](https://github.com/KrishnaPatell/KPSmartTabBar) - A fully customisable and flexible tab bar controller.
 * [LXPageViewWithButtonsViewController](https://github.com/lxian/LXPageViewWithButtonsViewController) - Combines UIPageViewController and highly customisable page selection tabs.
 * [MHImageTabBar](https://github.com/mho000/MHImageTabBar)
@@ -2540,6 +2541,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 * [Solid](https://github.com/igormatyushkin014/Solid) - New way to work with arrays in Swift.
 * [StatusProvider](https://github.com/mariohahn/StatusProvider) - Protocol to handle initial Loadings, Empty Views and Error Handling in a ViewController & views.
+* [StringFormatter](https://github.com/orucanil/StringFormatter) - Simple Text Formetter (Credit Card Number, Phone Number, Serial Number etc.) Can be used in all text inputs according to the format pattern. If desired, large minor character restrictions can be made in the format pattern.
 * [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - Replace the system volume popup with a more subtle indicator.
 * [Sugar](https://github.com/hyperoslo/Sugar) - Sugar is a sweetener for your Cocoa implementations.
 * [SwCrypt](https://github.com/soyersoyer/SwCrypt) - RSA public/private key generation, RSA, AES encryption/decryption, SEM encryption in Swift with CommonCrypto in iOS and OS X.
