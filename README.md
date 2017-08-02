@@ -559,6 +559,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Augmented Reality
 
 #### 🔸*Swift*
+* [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 * [ARuler](https://github.com/duzexu/ARuler) - Mesure distance using apple ARKit.
 * [ARViewer](https://github.com/farice/ARShooter/tree/master/ARViewer)
 
@@ -665,6 +666,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SFlatButton](https://github.com/alexmeji/SFlatButton)
 * [SparkButtonDemo](https://github.com/saravananImaginea/SparkButtonDemo) - Demonstrates the SparkButton Animations that reflects the FB's Paper App's Like button animation.
 * [SquishButton](https://github.com/BalestraPatrick/SquishButton) - A button that squishes when pressed. As seen in the Clips app.
+* [TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation.
 * [TKAnimatedCheckButton](https://github.com/entotsu/TKAnimatedCheckButton)
 * [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition)
 * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons (in Swift).
@@ -838,6 +840,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [IOStickyHeader](https://github.com/BenjaminPrieur/IOStickyHeader) - Parallax and Sticky header done right using UICollectionViewLayout.
 * [MMCardView](https://github.com/MillmanY/MMCardView) - Custom CollectionView like Wallet App.
 * [PopupCollectionViewController](https://github.com/corin8823/PopupCollectionViewController) - PopupCollectionViewController is a collectionView in Popup view.
+* [PinterestLayout](https://github.com/MagicLab-team/PinterestLayout) - Custom collection view layout inspired by Pinterest layout. Written in Swift.
 * [RAMReel](https://github.com/Ramotion/reel-search) - RAMReel is a controller that allows you to choose options from a list.
 * [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout) - A UICollectionView layout whitch can move item with drag and drop.
 * [ReorderableGridView-Swift](https://github.com/cemolcay/ReorderableGridView-Swift) - Reorderable grid view solution implemented with swift.
@@ -1631,6 +1634,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [DTPhotoViewerController](https://github.com/tungvoduc/DTPhotoViewerController)
+* [TimeIntervalPicker](https://github.com/ChernyshenkoTaras/TimeIntervalPicker) - UIDatePicker-like picker in .countDownTimer mode with range selection support.
 * [TVOSPicker](https://github.com/cemolcay/TVOSPicker) - A sweet horizontal picker view controller for tvOS. 📺
 
 # Permission
