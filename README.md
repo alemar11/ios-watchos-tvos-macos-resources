@@ -2349,6 +2349,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) - Animated UITextField and UITextView replacement for iOS.
 * [AutocompleteField](https://github.com/filipstefansson/AutocompleteField) - Add word completion to your UITextFields.
 * [DateTextField](https://github.com/BeauNouvelle/DateTextField) - A Swift UITextField subclass designed to make entering dates easier, faster and more flexible than the standard UIDatePicker.
+* [DossyTextLabel](https://github.com/joeynelson42/DossyTextLabel) - A subclass of UILabel reminiscent of Strong Bad's faithful Tandy 400.
 * [EGFloatingTextField](https://github.com/enisgayretli/EGFloatingTextField) - Implementation of Google's "Floating labels" of Material design.
 * [ElValidator](https://github.com/dk53/ElValidator) - A simple plugin to help you validate textfield entries.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields)
