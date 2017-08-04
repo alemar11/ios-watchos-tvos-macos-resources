@@ -559,6 +559,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Augmented Reality
 
 #### 🔸*Swift*
+* [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR) - Well known game Snake written in Swift using ARKit.
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 * [ARuler](https://github.com/duzexu/ARuler) - Mesure distance using apple ARKit.
 * [ARViewer](https://github.com/farice/ARShooter/tree/master/ARViewer)
@@ -820,6 +821,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ADMozaicCollectionViewLayout](https://github.com/Antondomashnev/ADMozaicCollectionViewLayout) - ADMozaicCollectionViewLayout is yet another UICollectionViewLayout subclass that implements "brick" or "mozaic" layout.
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce.
+* [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - A custom View with two level chained collection views and fancy transition animation.
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
 * [CardsStack](https://github.com/priteshrnandgaonkar/CardsStack) - An awesome set of cards at your disposal 
@@ -838,6 +840,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KDDragAndDropCollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
 * [InfiniteScrolling](https://github.com/Vishal-Singh-Panwar/InfiniteScrolling) - Add infinite scrolling to collection view.
 * [IOStickyHeader](https://github.com/BenjaminPrieur/IOStickyHeader) - Parallax and Sticky header done right using UICollectionViewLayout.
+* [LNZCollectionLayouts](https://github.com/gringoireDM/LNZCollectionLayouts) - A collection of CollectionViewLayout.
 * [MMCardView](https://github.com/MillmanY/MMCardView) - Custom CollectionView like Wallet App.
 * [PopupCollectionViewController](https://github.com/corin8823/PopupCollectionViewController) - PopupCollectionViewController is a collectionView in Popup view.
 * [PinterestLayout](https://github.com/MagicLab-team/PinterestLayout) - Custom collection view layout inspired by Pinterest layout. Written in Swift.
