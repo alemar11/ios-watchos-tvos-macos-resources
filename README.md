@@ -186,7 +186,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔹*Obj-C*
 * [ATAppUpdater](https://github.com/apptality/ATAppUpdater) - Checks if there is a newer version of your app in the AppStore and alerts the user to update.
 * [AFMInfoBanner](https://github.com/ask-fm/AFMInfoBanner) - Easy to use auto-hiding notice bar below Navigation Bar.
-* [AMPopTip](https://github.com/andreamazz/AMPopTip)
+* [AMPopTip](https://github.com/andreamazz/AMPopTip) - An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
 * [BTBalloon](https://github.com/brightec/BTBalloon)
 * [btSimplePopUp](https://github.com/balram3429/btSimplePopUp)
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) - Display and customise alerts and action sheets on iPad and iPhone.
