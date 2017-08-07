@@ -1604,6 +1604,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls written in Swift to replace boring UIPageControl.
 * [FlexiblePageControl](https://github.com/shima11/FlexiblePageControl) - A flexible PageControl like Instagram.
 * [GBPageControl](https://github.com/jhurt/GBPageControl) - A page control for SpriteKit based games written in Swift.
+* [MBPageControl](https://github.com/c-Viorel/MBPageControl) - A highly customizable page control for OS X. `macOS`
 * [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram).
 * [SCPageControl](Swift PageControl)
