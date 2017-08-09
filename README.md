@@ -601,6 +601,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ApLoadingButton](https://github.com/arunpandiyanp/ApLoadingButton) - Loading Button in objective c.
 * [APRoundedButton](https://github.com/elpsk/APRoundedButton)
 * [BFPaperButton](https://github.com/bfeher/BFPaperButton) - A flat button inspired by Google Material Design's Paper theme.
+* [DBCameraButton](https://github.com/immago/DBCameraButton) - Customizable, IB_DESIGNABLE, iOS style camera button.
 * [DKCircleButton](https://github.com/kronik/DKCircleButton) -  Circle button tap effect
 * [DownloadButton](https://github.com/PavelKatunin/DownloadButton)
 * [DRAuraButton](https://github.com/DeRunco/DRAuraButton) - A UIKit component featuring a UIButton surrounded by a circle. Originally created to CABasicAnimation experiment.
@@ -838,6 +839,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HFCardCollectionViewLayout](https://github.com/hfrahmann/HFCardCollectionViewLayout) - The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet.
 * [KRLCollectionViewGridLayout](https://github.com/JayGajjar/JGTransitionCollectionView/tree/master/JGTransitionCollectionView) - A iOS swift base collectionview with unique animation feature inspired from behance made using UICollectionView.
 * [KDDragAndDropCollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
+* [KSImageCarousel](https://github.com/LeeKahSeng/KSImageCarousel) - Lightweight image carousel which can easily adapt to different type of image source.
 * [InfiniteScrolling](https://github.com/Vishal-Singh-Panwar/InfiniteScrolling) - Add infinite scrolling to collection view.
 * [IOStickyHeader](https://github.com/BenjaminPrieur/IOStickyHeader) - Parallax and Sticky header done right using UICollectionViewLayout.
 * [LNZCollectionLayouts](https://github.com/gringoireDM/LNZCollectionLayouts) - A collection of CollectionViewLayout.
