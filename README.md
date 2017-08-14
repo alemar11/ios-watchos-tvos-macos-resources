@@ -188,7 +188,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔹*Obj-C*
 * [ATAppUpdater](https://github.com/apptality/ATAppUpdater) - Checks if there is a newer version of your app in the AppStore and alerts the user to update.
 * [AFMInfoBanner](https://github.com/ask-fm/AFMInfoBanner) - Easy to use auto-hiding notice bar below Navigation Bar.
-* [AMPopTip](https://github.com/andreamazz/AMPopTip)
+* [AMPopTip](https://github.com/andreamazz/AMPopTip) - An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
 * [BTBalloon](https://github.com/brightec/BTBalloon)
 * [btSimplePopUp](https://github.com/balram3429/btSimplePopUp)
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) - Display and customise alerts and action sheets on iPad and iPhone.
@@ -603,6 +603,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ApLoadingButton](https://github.com/arunpandiyanp/ApLoadingButton) - Loading Button in objective c.
 * [APRoundedButton](https://github.com/elpsk/APRoundedButton)
 * [BFPaperButton](https://github.com/bfeher/BFPaperButton) - A flat button inspired by Google Material Design's Paper theme.
+* [DBCameraButton](https://github.com/immago/DBCameraButton) - Customizable, IB_DESIGNABLE, iOS style camera button.
 * [DKCircleButton](https://github.com/kronik/DKCircleButton) -  Circle button tap effect
 * [DownloadButton](https://github.com/PavelKatunin/DownloadButton)
 * [DRAuraButton](https://github.com/DeRunco/DRAuraButton) - A UIKit component featuring a UIButton surrounded by a circle. Originally created to CABasicAnimation experiment.
@@ -650,6 +651,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JOEmojiableBtn](https://github.com/lojals/JOEmojiableBtn) - Emoji selector like Facebook Reactions.
 * [KDPulseButton](https://github.com/KaiqueDamato/KDPulseButton) - A Custom button that pulses.
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton)
+* [KSFacebookButton](https://github.com/LeeKahSeng/KSFacebookButton) - Customizable button which look exactly the same as FBSDKLoginButton.
 * [LGButton](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)
 * [LoadingButton](https://github.com/SeptiyanAndika/LoadingButton) - UIButton subclass with an activity indicator and loading text.
@@ -840,6 +842,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HFCardCollectionViewLayout](https://github.com/hfrahmann/HFCardCollectionViewLayout) - The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet.
 * [KRLCollectionViewGridLayout](https://github.com/JayGajjar/JGTransitionCollectionView/tree/master/JGTransitionCollectionView) - A iOS swift base collectionview with unique animation feature inspired from behance made using UICollectionView.
 * [KDDragAndDropCollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
+* [KSImageCarousel](https://github.com/LeeKahSeng/KSImageCarousel) - Lightweight image carousel which can easily adapt to different type of image source.
 * [InfiniteScrolling](https://github.com/Vishal-Singh-Panwar/InfiniteScrolling) - Add infinite scrolling to collection view.
 * [IOStickyHeader](https://github.com/BenjaminPrieur/IOStickyHeader) - Parallax and Sticky header done right using UICollectionViewLayout.
 * [LNZCollectionLayouts](https://github.com/gringoireDM/LNZCollectionLayouts) - A collection of CollectionViewLayout.
@@ -1608,6 +1611,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls written in Swift to replace boring UIPageControl.
 * [FlexiblePageControl](https://github.com/shima11/FlexiblePageControl) - A flexible PageControl like Instagram.
 * [GBPageControl](https://github.com/jhurt/GBPageControl) - A page control for SpriteKit based games written in Swift.
+* [MBPageControl](https://github.com/c-Viorel/MBPageControl) - A highly customizable page control for OS X. `macOS`
 * [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram).
 * [SCPageControl](Swift PageControl)
@@ -2101,6 +2105,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
 * [SwiftPrefs](https://github.com/emiscience/SwiftPrefs) - A Yosemite-only demo app showing a preferences window using Swift, storyboards and NSTabViewController. `macOS`
 * [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
+* [TabbarControllerHideable](https://github.com/ezefranca/TabbarControllerHideable) - A drop in UITabbarController with show and hide options.
 * [TabDrawer](https://github.com/winslowdibona/TabDrawer) - TabDrawer is a customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, or display a customizable drawer.
 * [WBSegmentControl](https://github.com/xiongxiong/WBSegmentControl) - An easy to use, customizable segment control, can be used to show tabs.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
@@ -2507,6 +2512,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Caramel](https://github.com/CaramelForSwift/Caramel) - A portable I/O framework for Swift.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
 * [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities.
+* [DAFileMonitor](https://github.com/dagostini/DAFileMonitor) - A simple wrapper around dispatch sources.
 * [DCDirectoryWatcher](https://github.com/dcvz/DCDirectoryWatcher) - A lightweight class for monitoring directory changes on iOS.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Diamond](https://github.com/johnno1962/Diamond) - Swift scripting made easy.
@@ -2688,6 +2694,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [VBPiledView](https://github.com/v-braun/VBPiledView) - Simple and beautiful stacked UIView to use as a replacement for an UITableView, UIImageView or as a menu.
 * [VHUD](https://github.com/xxxAIRINxxx/VHUD)
 * [VideoThumbView](https://github.com/toygar/VideoThumbView) - Video Thumb ScrollView.
+* [Viewer](https://github.com/bakkenbaeck/Viewer) - Image viewer (or Lightbox) with support for local and remote videos and images.
 * [Wallet](https://github.com/rshevchuk/Wallet) - Wallet is a library to manage cards and passes.
 * [WOWRibbonView](https://github.com/zhouhao27/WOWRibbonView) - Ribbon view for iOS in Swift 3.
 * [Workaholic](https://github.com/hemangshah/Workaholic) - A Github's like work contribution timeline.
