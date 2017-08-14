@@ -6,9 +6,10 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects.](https://github.com/vsouza/awesome-ios)
 - [A collaborative list of awesome swift resources](https://github.com/matteocrippa/awesome-swift)
 - [A curated list of awesome Swift frameworks](https://github.com/Wolg/awesome-swift)
-- [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - All of the resources for Learning About Swift.
 - [Awesome OSX](https://github.com/iCHAIT/awesome-osx) - A curated list of awesome applications, softwares, tools and shiny things for OSX. `macOS`
 - [Awesome Open Source Mac Apps](https://github.com/jeffreyjackson/mac-apps)
+- [Awesome Server Side Swift](https://github.com/Awesome-Server-Side-Swift/TheList)
+- [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - All of the resources for Learning About Swift.
 - [Cocoanetics Swift-Examples](https://github.com/Cocoanetics/Swift-Examples)
 - [Collaborative List of Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [iOS architecture](https://github.com/onmyway133/fantastic-ios-architecture) -  Better ways to structure apps.
@@ -152,6 +153,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift 2.
 * [FloatingActionSheetController](https://github.com/ra1028/FloatingActionSheetController) - Cool design ActionSheetController library written in Swift2.
+* [HAActionSheet](https://github.com/hasanlsn/HAActionSheet) - Dynamic action sheet.
 * [KUIActionSheet](https://github.com/Kofktu/KUIActionSheet) - Custom UIActionSheet.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
 * [PCRapidSelectionView](https://github.com/mmackh/PCRapidSelectionView) - Interactive, beautiful & fast UIActionSheet replacement, supports continuous hold & select.
@@ -842,6 +844,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [IOStickyHeader](https://github.com/BenjaminPrieur/IOStickyHeader) - Parallax and Sticky header done right using UICollectionViewLayout.
 * [LNZCollectionLayouts](https://github.com/gringoireDM/LNZCollectionLayouts) - A collection of CollectionViewLayout.
 * [MMCardView](https://github.com/MillmanY/MMCardView) - Custom CollectionView like Wallet App.
+* [MHPinterestLayout](https://github.com/michaelhenry/MHPinterestLayout) - Customized dynamic cell - Pinterest layout with custom header.
 * [PopupCollectionViewController](https://github.com/corin8823/PopupCollectionViewController) - PopupCollectionViewController is a collectionView in Popup view.
 * [PinterestLayout](https://github.com/MagicLab-team/PinterestLayout) - Custom collection view layout inspired by Pinterest layout. Written in Swift.
 * [RAMReel](https://github.com/Ramotion/reel-search) - RAMReel is a controller that allows you to choose options from a list.
@@ -993,6 +996,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Font
 
 #### 🔸*Swift*
+* [AVFonts](https://github.com/codegeeker180/AVFonts) - AVFonts for change/swap fontname throughout app.
 * [Font-Awesome-Swift](https://github.com/thii/FontAwesome.swift)
 * [Fontawesome](https://github.com/hirohisa/Font-Awesome) - Demonstrates how to download fonts on demand on iOS 6 and later.
 * [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Say goodbye to importing custom fonts via property lists as FontBlaster automatically imports and loads all fonts in your app's NSBundles with one line of code.
