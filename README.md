@@ -2581,6 +2581,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Swiftz](https://github.com/typelift/swiftz) - Functional programming in Swift.
 * [TPPDF](https://github.com/Techprimate/TPPDF) - TPPDF is a simple-to-use PDF builder for iOS.
 * [Transporter](https://github.com/DenHeadless/Transporter) - Transporter is a modern finite-state machine implemented in pure Swift.* [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
+* [UIDeviceComplete](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
 * [UnchainedString](https://github.com/dunkelstern/UnchainedString) - Extensions for Swift Strings on Linux until the Foundation classes are up to speed.
 * [URLPreview](https://github.com/itsmeichigo/URLPreview) - An NSURL extension for showing preview info of webpages.
 * [UTIKit](https://github.com/cockscomb/UTIKit) - UTIKit is an UTI (Uniform Type Identifier) wrapper for Swift.
