@@ -239,6 +239,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FTPopOverMenu_Swift](https://github.com/liufengting/FTPopOverMenu_Swift) - FTPopOverMenu_Swift, swift version of FTPopOverMenu.
 * [HYAlertController](https://github.com/castial/HYAlertController) - A Simple And Minimalist iOS AlertController.
 * [JHTAlertController](https://github.com/jjessel/JHTAlertController) - A custom iOS alert that replaces the stock UIAlertController. Easily style the alert to match your app. Written in Swift for iOS.
+* [KUIPopOver](https://github.com/Kofktu/KUIPopOver) - Easy to use PopOver in iOS.
 * [Malert](https://github.com/vitormesquita/Malert) - Custom alert View to iOS applications.
 * [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - MIBlurPopup let you create amazing popups with a blurred background.
 * [MIAlertController](https://github.com/MarioIannotta/MIAlertController) - A simple fully customizable alert controller.
@@ -916,6 +917,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [himbo](https://github.com/kimar/himbo) - A simple iOS App to create mono colored backgrounds. Written in Swift and supporting 3D Touch on iPhone 6s.
 * [Hue](https://github.com/hyperoslo/Hue) - Hue is the all-in-one coloring utility that you'll ever need. 
 * [MaterialKit](https://github.com/nghialv/MaterialKi.t) - Material design components for iOS written in Swift.
+* [PixColor](https://github.com/tranchuong/PixColor) - Generate palette color from image.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs ANSI escape codes and conforms to ECMA Standard 48.
 * [ProgrammerColorPickerApp](https://github.com/martynchamberlin/ProgrammerColorPickerApp) - Mac OS X desktop application (in Swift) for picking RGB and hexadecimal colors, to be used in Objective-C and Swift applications. `macOS`
 * [ProtocolUI](https://github.com/VojtaStavik/ProtocolUI) - ProtocolUI is a simple helper file providing very basic infrastructure for customizing UI elements via protocol extensions.
@@ -1303,7 +1305,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MaterialLoadingIndicator](https://github.com/Tueno/MaterialLoadingIndicator) - Material like loading indicator sample for iOS.
 * [MFLFillableTextLoader](https://github.com/MattFoley/MFLFillableTextLoader) - Loading slash progress indicator based on filling stroked text.
 * [MediumProgressView](https://github.com/pixyzehn/MediumProgressView)
+* [MKMagneticProgress](https://github.com/malkouz/MKMagneticProgress) - A circular progress bar for iOS written in Swift.
 * [MOOverWatchLoadingView](https://github.com/minsOne/MOOverWatchLoadingView) - Animation like OverWatch Loading written in Swift.
+* [navigationLoader](https://github.com/nickypatson/navigationLoader) - Simple Navigation Loader.
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 * [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) - A customizable SpriteKit particles animation on the border of a view.
 * [ProgressButton](https://github.com/AlKhokhlov/ProgressButton) - Custom ProgressButton.
@@ -2699,6 +2703,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NightView](https://github.com/Boris-Em/NightView) - Dazzling Nights on iOS.
 * [OTResizableView](https://github.com/PKPK-Carnage/OTResizableView) - OTResizableView is a UIView library that can be resized with fingers.
 * [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.
+* [SCCardView](https://github.com/myoungsc/SCCardView) - Select Card Change View Content.
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
 * [Smile-Lock](https://github.com/liu044100/Smile-Lock) - A library for make a beautiful Passcode Lock View.
@@ -2706,6 +2711,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SVGSpriteView](https://github.com/rondinellimorais/SVGSpriteView) - Subclass of UIView where is possible render SVG Sprites.
 * [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full * [tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
 * [Translucid](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background. Written in swift.
+* [TvOSPinKeyboard](https://github.com/zattoo/TvOSPinKeyboard) - PIN keyboard for tvOS. 📺
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
 * [UIView-Borders-Swift](https://github.com/aaronn/UIView-Borders-Swift) - One sided borders on any side of a UIView. Now available in Swift 3.
 * [URWeatherView](https://github.com/jegumhon/URWeatherView) - Show the weather effects onto view written in Swift3.
