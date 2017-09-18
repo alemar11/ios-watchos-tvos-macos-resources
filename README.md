@@ -321,6 +321,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - Natural Blocks Based Core Animation Framework.
 * [FlipTheBlinds](https://github.com/joelconnects/FlipTheBlinds) - FlipTheBlinds is an animation transition that creates a venetian blinds domino effect.
 * [Fluent](https://github.com/matthewcheok/Fluent) - Swift Animations made Easy.
+* [FlyToCart](https://github.com/pratik-123/FlyToCart) - Product add to cart animation like Flying to cart.
 * [Gagat](https://github.com/Boerworz/Gagat) - A delightful way to transition between visual styles in your iOS applications.
 * [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework for iOS, written in Swift.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
@@ -564,6 +565,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR) - Well known game Snake written in Swift using ARKit.
+* [ARCharts](https://github.com/Boris-Em/ARCharts) - Lovely Augmented Reality Charts for iOS - Built with ARKit.
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 * [ARPaint](https://github.com/oabdelkarim/ARPaint) - Draw with bare fingers in the air using ARKit.
 * [ARuler](https://github.com/duzexu/ARuler) - Mesure distance using apple ARKit.
@@ -872,6 +874,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [UICollectionViewSlideLeft](https://github.com/antbelldev/UICollectionViewSlideLeft) - A UITableView Swipe to Delete implementation in UICollectionView.
 * [UPCarouselFlowLayout](https://github.com/ink-spot/UPCarouselFlowLayout) - A fancy carousel flow layout for UICollectionView on iOS.
 * [ZLBalancedFlowLayout](https://github.com/zhxnlai/ZLBalancedFlowLayout) - A UICollectionViewFlowLayout subclass that scales items to take up space, optimized for large item set.
+* [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.
 
 ## CollectionViewCell
 
@@ -2358,6 +2361,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MMTextFieldEffects](https://github.com/mukyasa/MMTextFieldEffects) - Extension of TextFieldEffects with Custom UITextFields effects inspired by Codrops, built using Objective-C.
 * [MPScrollingTextField](https://github.com/zyafa/MPScrollingTextField) - NSTextField subclass with automatic horizontal text scrolling. `macOS`
 * [NFSplitViewController](https://github.com/naftaly/NFSplitViewController) - A simple split view controller for Mac OS X that works. `macOS`
+* [PartiallyEditField](https://github.com/isamankumara/PartiallyEditField) - A text field subclass with a constant text in the end or begin. You can constant text to the end of the text field value or begin of the text field value.
 * [PAYFormBuilder](https://github.com/Eldorado234/PAYFormBuilder)
 * [Placeholders](https://github.com/dreymonde/Placeholders) - Define multiple placeholders for UITextField and animate their change.
 * [RDRGrowingTextView](https://github.com/datwelk/RDRGrowingTextView) - Auto Layout backed growing UITextView.
