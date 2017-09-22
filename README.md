@@ -1536,6 +1536,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ForceBlur](https://github.com/Yalantis/ForceBlur) - ForceBlur Animation for iOS Messaging Apps.
 * [FTChatMessageDemoProject](https://github.com/liufengting/FTChatMessageDemoProject) - FTChatMessageDemoProject, a chat message ui framework written in swift. Not quite finished.
 * [InAppNotify](https://github.com/lucabecchetti/InAppNotify) - Swift library to manage in app notification in swift language, like WhatsApp, Telegram, Frind, etc.
+* [ListPlaceholder](https://github.com/malkouz/ListPlaceholder) - ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views.
 * [MessageProgressView](https://github.com/Tueno/MessageProgressView) - Simple loading animation for Swift.
 * [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
 * [MMTextureChat](https://github.com/mukyasa/MMTextureChat) AsyncDisplayKit(Texture) Smooth Scroll Chat Simulation.
@@ -1692,6 +1693,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - AlecrimCoreData is a framework to easily access Core Data objects in Swift.
 * [apollo-ios](https://github.com/apollographql/apollo-ios) - A strongly-typed, caching GraphQL client for iOS, written in Swift.
 * [BNR CoreDataStack](https://github.com/bignerdranch/CoreDataStack) - The Big Nerd Ranch Core Data stack.
+* [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache.
 * [Cacher](https://github.com/raulriera/Cacher) - Super simple caching solution for iOS, macOS, tvOS and watchOS.
 * [Cachyr](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift.
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift
