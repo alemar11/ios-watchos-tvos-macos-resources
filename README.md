@@ -392,6 +392,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - This repository contains an example Highstreet WatchKit app. ⌚️
 * [Hoopy](https://github.com/danielinoa/Hoopy) - Hoopy is a lightweight and minimal Dribbble client.
 * [iCopyPasta](https://github.com/alltheflow/iCopyPasta) - iOS app for your pasteboard feed, demo app for experimenting with RxSwift.
+* [insights-for-instagram](https://github.com/adimango/insights-for-instagram) - A simple iOS Instagram's media insights App written in Swift 4.
 * [kickstarter](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 * [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) - JBWatchActivityIndicator - An easy way to generate activity indicator images for Apple Watch. ⌚️
@@ -934,9 +935,10 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter.
-- [AGVolumeControlView](https://github.com/agilie/AGVolumeControlView) - Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic.
-- [padcontrol](https://github.com/gabrieloc/padcontrol) - A UIControl subclass for two-dimension directional input.
-- [VolumeControlView](https://github.com/agilie/VolumeControlView) - Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic much easier.
+* [AGVolumeControlView](https://github.com/agilie/AGVolumeControlView) - Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic.
+* [Counter](https://github.com/Juanpe/Counter) - Counter is powerful and multipurpose counter.
+* [padcontrol](https://github.com/gabrieloc/padcontrol) - A UIControl subclass for two-dimension directional input.
+* [VolumeControlView](https://github.com/agilie/VolumeControlView) - Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic much easier.
 
 ## Date
 *Date Pickers, TimeLines, Date handlers and Calendars*
@@ -1283,6 +1285,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [AALoaders](https://github.com/EngrAhsanAli/AALoaders) - AALoaders is a lightweight, easy-to-use and powerful progress view loaders framework, written in Swift. It uses simple native elements for progress loading with customisations and allow to use without creating instance.
+* [AJProgressView](https://github.com/arpitjain03/AJProgressView) - A subclass of UIView for managing progress, which can be customized according to your application design.
 * [BmoImageLoader](https://github.com/tzef/BmoImageLoader) - BmoImageLoader is a progress animated component for UIImageView.
 * [BPCircleActivityIndicator](https://github.com/ppth0608/BPCircleActivityIndicator) - A lightweight and awesome loading Activity Indicator for your iOS app.
 * [BPBlockActivityIndicator](https://github.com/ppth0608/BPBlockActivityIndicator) - A simple and awesome loading Activity Indicator(with block moving animation) for your iOS app.
@@ -1990,6 +1993,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NHRangeSlider](https://github.com/thehung111/NHRangeSlider) - A custom range slider in Swift.
 * [PRGRoundSlider](https://github.com/ispiropoulos/PRGRoundSlider) - A fully customizable circular slider.
 * [RangeSlider](https://github.com/matthewreagan/RangeSlider) - Simple, clean, and customizable range-based slider control for macOS. `macOS`
+* [SlideTo](https://github.com/ChristianMoler/SlideTo) - Simple slide controller is fully customizable via interface builder.
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
 * [SpringySlider](https://github.com/josephlord/SpringySlider) - Custom UISlider with thumb animation.
 * [SSSlider](https://github.com/ngodacdu/SSSlider) - A customisable Slider which will show a tooltip when dragging the slider.
@@ -2766,6 +2770,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MRArticleViewController](https://github.com/mrigdon/MRArticleViewController) - Easily create UIViewControllers for news articles similar to those in the News app.
 * [PictureInPicture](https://github.com/malt03/PictureInPicture)
 * [SandboxBrowser](https://github.com/Joe0708/SandboxBrowser) - A simple iOS sandbox file browser, you can share files through AirDrop.
+* [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
 * [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
 * [SJSegmentedViewController](https://github.com/subinspathilettu/SJSegmentedViewController) - SJSegmentedScrollView is a light weight generic controller written in Swift 2.3. Its a simple customizable controller were you can integrate any number of ViewControllers into a segmented controller with a header view controller.
 * [StackPageView](https://github.com/noppefoxwolf/StackPageView) - SwipeViewController is a Swift modification of RKSwipeBetweenViewControllers - navigate between pages / ViewControllers.
