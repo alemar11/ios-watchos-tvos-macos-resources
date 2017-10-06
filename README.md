@@ -229,6 +229,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [App-Rating-Alert](https://github.com/pablojotaguardiola/App-Rating-Alert) - Show an alert to rate your APP.
 * [AZDialogViewController](https://github.com/Minitour/AZDialogViewController) - A highly customizable alert dialog controller that mimics Snapchat's alert dialog.
 * [BMInputBox](https://github.com/blackmirror-media/BMInputBox)
+* [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces on iOS.
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup written in Swift 3.
 * [CPAlertViewController](https://github.com/katafo/CPAlertViewController) - A way to create a custom alert view with animation.
 * [DCAlertController](https://github.com/noppefoxwolf/DCAlertController)
