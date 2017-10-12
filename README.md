@@ -2014,6 +2014,10 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [SayWhat](https://github.com/marcdown/SayWhat) - Spotify artist search using speech recognition ([Talk](https://realm.io/news/tryswift-marc-brown-say-it-aint-so-implementing-speech-recognition/))
 
+## SOAP
+
+* [SOAPEngine](https://github.com/priore/SOAPEngine) - Generic SOAP client allows to access web services using in iOS app, Mac OS X app and AppleTV app.
+
 ## Sprite
 
 #### 🔸*Swift*
