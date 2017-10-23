@@ -2545,6 +2545,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Caramel](https://github.com/CaramelForSwift/Caramel) - A portable I/O framework for Swift.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
 * [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities.
+* [CTFeedbackSwift](https://github.com/rizumita/CTFeedbackSwift) - Feedback mail composer for iOS re-written in Swift of CTFeedback.
 * [DAFileMonitor](https://github.com/dagostini/DAFileMonitor) - A simple wrapper around dispatch sources.
 * [DCDirectoryWatcher](https://github.com/dcvz/DCDirectoryWatcher) - A lightweight class for monitoring directory changes on iOS.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
@@ -2589,6 +2590,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Run](https://github.com/khoiln/Run) - A Swift Wrapper for Grand Central Dispatch (GCD) Framework that supports method chaining.
 * [Runner](https://github.com/lucianomarisi/Runner) - Execute a block at specific time intervals.
 * [SCWebPreview](https://github.com/myoungsc/SCWebPreview) - Preview content in website.
+* [Send-It-for-Slack](https://github.com/MoralAlberto/Send-It-for-Slack) - Add Slack functionality with this Safari Extension.
 * [Serpent](https://github.com/nodes-ios/Serpent) - A protocol to serialize Swift structs and classes for encoding and decoding.
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
