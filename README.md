@@ -282,6 +282,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CoreGraphicsDynamicAnimation](https://github.com/larsacus/CoreGraphicsDynamicAnimation)
 * [confetti](https://github.com/life360/confetti/tree/iOS)
 * [DrawCircleFrame](https://github.com/natalia-osa/DrawCircleFrame)
+* [EMAlertController](https://github.com/egmoll7/EMAlertController) - EMAlertController is a beautiful alternative to the stock iOS UIAlertController. This library is fully customizable with an implementation like the native UIAlertController.
 * [FlareView](https://github.com/StanlyHardy/FlareView) - Create Animatic flares around your uiview's.
 * [GLInAppPurchase](https://github.com/gokulgovind/GLInAppPurchase) - Tinder Style InApp Purchase Banner.
 * [GLMoveToTrashAnimation](https://github.com/RATTLESNAKE-VIPER/GLMoveToTrashAnimation)
@@ -758,6 +759,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HeartRate](https://github.com/liamscofield/HeartRate) - Chart for Decibel.
 * [HSStockChart](https://github.com/zyphs21/HSStockChart) - Stock Chart include CandleStickChart,TimeLineChart.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - Beautiful charts for iOS/tvOS/OSX.
+* [LineChart](https://github.com/nhatminh12369/LineChart)
 * [PieCharts](https://github.com/i-schuetz/PieCharts) - Easy to use and highly customizable pie charts library for iOS.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)
 * [RadarChartView](https://github.com/furuyan/RadarChartView) - RadarChart for iOS.
@@ -1106,6 +1108,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ImageButter](https://github.com/dollarshaveclub/ImageButter) - Makes dealing with images buttery smooth (WebP).
 * [ImageLoaderSwift](https://github.com/hirohisa/ImageLoaderSwift)
 * [ImageViewer](https://github.com/MailOnline/ImageViewer) - An image viewer à la Twitter.
+* [LetterAvatarKit](https://github.com/vpeschenkov/LetterAvatarKit) - UIImage extension that generates letter-based avatars written in Swift.
 * [Nuke](https://github.com/kean/Nuke) - Advanced pure Swift framework for loading, caching, processing, displaying and preheating images.
 * [Panorama](https://github.com/robbykraft/Panorama) - 360° panorama view, iOS-
 * [Panoramic](https://github.com/iSame7/Panoramic) - Swift implementation of the photo tilt gesture/UX found in Facebook's Paper app.
@@ -1597,11 +1600,12 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KJNavigationViewAnimation](https://github.com/KiranJasvanee/KJNavigationViewAnimation)
 * [MTCoordinatorView](https://github.com/mittsuu/MTCoordinatorView) - The view coordinate arranged to the scrolling is adjusted.
 * [navigation-stack](https://github.com/Ramotion/navigation-stack) - NavigationStack is a stack-modeled navigation controller.
+* [PagingKit](https://github.com/kazuhiro4949/PagingKit) - PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries.
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller. Support 3D Touch.
 * [Tamamushi](https://github.com/makomori/Tamamushi) - Gradient NavigationBar library written in Swift.
 * [TB_TwitterUI](https://github.com/ariok/TB_TwitterUI) 
 * [TinderNavDemo](https://github.com/imaccallum/TinderNavDemo) - Tinder-style parallax paging navigation implementation.
-* [https://github.com/saifhunk/TwitterAnimation](https://github.com/saifhunk/TwitterAnimation) - Twitter animation with strechty header and tableview cells with differnt type
+* [TwitterAnimation](https://github.com/saifhunk/TwitterAnimation) - Twitter animation with strechty header and tableview cells with differnt type
 
 ## Network
 *networking and sockets*
@@ -2716,6 +2720,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MDGroupAvatarView](https://github.com/ttmdung203/MDGroupAvatarView) - This library provides a custom UIView with support for showing group of avatars. It’s used for group chat. The images list can be loaded from local or web url.
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift.
 * [NightView](https://github.com/Boris-Em/NightView) - Dazzling Nights on iOS.
+* [OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - A source of circular pictures, currently supports horizontal overlapping or separate pictures with great layout flexibility.
 * [OTResizableView](https://github.com/PKPK-Carnage/OTResizableView) - OTResizableView is a UIView library that can be resized with fingers.
 * [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.
 * [SCCardView](https://github.com/myoungsc/SCCardView) - Select Card Change View Content.
@@ -2844,6 +2849,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CustomSegue](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects (NSViewControllerTransitionOptions). `macOS`
 * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS 10 Apple Music now playing transition.
+* [DeckTransition](https://github.com/tungvoduc/DTContainerController) - A Swift container view controller to handle transitioning to a different child view controller.
 * [Elastic](https://github.com/lkzhao/Elastic) - Fancy elastic transition powered by Metal, UIKit Dynamics, & Hero.
 * [ExpandingViewTransition](https://github.com/tomkowz/ExpandingViewTransition-Demo) - Example of how to create custom view controllers transition.
 * [Hero](https://github.com/lkzhao/Hero) - Supercharged transition engine for iOS.
