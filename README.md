@@ -353,7 +353,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [springdamping](https://github.com/mortenjust/springdamping) - Realtime experimentation with duration, spring and damping for UIView animations.
 * [Stellar](https://github.com/AugustRush/Stellar) - A fantastic Physical animation library for swift.
 * [UIViewXXYBoom](https://github.com/xxycode/UIViewXXYBoom)
-* [Vesper](https://github.com/brentsimmons/Vesper) - Vesper is a note-taking app for iOS by Q Branch.
+* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator is a library for building complex iOS UIView animations in an easy way. It provides one line animations for any view included the ones which contain other views like UITableView and UICollectionView with its cells or UIStackView with its arrangedSubviews.
 * [WVCheckMark](https://github.com/wvabrinskas/WVCheckMark) - Animated checkmark made with CoreAnimation.
 
 ## App
@@ -369,6 +369,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Partita](https://github.com/comyarzaheri/Partita) - A simple instrument tuner app for iOS.
 * [SougouReading](https://github.com/YinTokey/SougouReading) - Imitate a novel APP.
 * [Subjective-C Tutorials](https://github.com/subjc) 
+* [Vesper](https://github.com/brentsimmons/Vesper) - Vesper is a note-taking app for iOS by Q Branch.
 * [YoCelsius](https://github.com/YouXianMing/YoCelsius) - A weather app that uses animation to give you an at-a-glance look at the weather.
 
 #### 🔸*Swift* 
@@ -2692,6 +2693,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AvatarView](https://github.com/chrene/AvatarView/)
 * [AZEmptyState](https://github.com/Minitour/AZEmptyState) - A UIControl subclass that makes it easy to create empty states.
 * [Blurable](https://github.com/FlexMonkey/Blurable)
+* [Cards](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 appstore cards in swift 4.
 * [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) - Waves of the radar
 * [ClapsView](https://github.com/hemangshah/ClapsView) - Implemented the functionality of Medium.com Claps.
 * [ColorDebugView](https://github.com/jonhull/ColorDebugView) - Simple NS/UIView which can be used to quickly get a view on the screen when roughing out layouts/animations.
@@ -2764,6 +2766,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AMLoginSignup](https://github.com/amirdew/AMLoginSignup) - Login/Signup ViewController for iOS.
 * [AppStoreiOS11](https://github.com/aliumujib/AppStoreiOS11) - iOS 11 Appstore clone.. practise of laying out views purely programatically.
 * [CarbonKitSwift](https://github.com/melieskubrick/CarbonKitSwift) - CarbonKit is an OpenSource iOS library that includes powerful and beauty UI controllers.
+* [DrawerKit](https://github.com/Babylonpartners/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController)
 * [Instagram-Feed-View](https://github.com/sagarshirbhate/Instagram-Feed-View) - It is a demo view to show feeds as shown in Instagram.All actions(Like,comment,share,follow,etc..) are managed by blocks.
 * [interactiveplayerview](https://github.com/AhmettKeskin/InteractivePlayerView) - Custom iOS music player view.
