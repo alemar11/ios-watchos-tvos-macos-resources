@@ -532,6 +532,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
 * [INSPhotoGallery](https://github.com/inspace-io/INSPhotoGallery) - INSPhotoGallery is a modern looking photo gallery written in Swift for iOS.
 * [iOS-swift-MSCrop](https://github.com/chetanpanchal94/iOS-swift-MSCrop) - A view which can be moved and scaled, that allows user to select the cropping area in an image.
+* [IVColorPicker](https://github.com/irilka/IVColorPicker)
 * [PrismaSimpleImagePicker](https://github.com/Roylee-ML/PrismaSimpleImagePicker) - This is a copy of the Prisma APP. Reproduce Prisma custom camera, image picker and picture editor.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [NextLevel](https://github.com/NextLevel/NextLevel) - Rad Media Capture in Swift.
