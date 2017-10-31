@@ -837,6 +837,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [ADMozaicCollectionViewLayout](https://github.com/Antondomashnev/ADMozaicCollectionViewLayout) - ADMozaicCollectionViewLayout is yet another UICollectionViewLayout subclass that implements "brick" or "mozaic" layout.
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
+* [appstore-clone](https://github.com/phillfarrugia/appstore-clone) - An experimental clone of the new iOS 11 App Store app.
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce.
 * [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - A custom View with two level chained collection views and fancy transition animation.
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
@@ -874,8 +875,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SectionScrubber](https://github.com/bakkenbaeck/SectionScrubber) - A component to quickly scroll between collection view sections.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)
 * [StickyCollectionView](https://github.com/matbeich/StickyCollectionView) - UICollectionView layout for presenting of the overlapping cells.
-* [SwiftyCollectionView](https://github.com/vinit5320/SwiftyCollectionView) - [Tutorial](https://swiftyos.wordpress.com/2015/08/01/animated-wave-transition-collectionview-ckwavecollectionviewtransition/)
+* [SwiftyCollectionView](https://github.com/vinit5320/SwiftyCollectionView) - Tutorial(https://swiftyos.wordpress.com/2015/08/01/animated-wave-transition-collectionview-ckwavecollectionviewtransition/)
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - Spreadsheet CollectionViewLayout in Swift. Fully customizable.
+* [swipeable-view-stack](https://github.com/phillfarrugia/swipeable-view-stack) - A Swipeable Stack of Views similar to a popular dating app but for swiping through anything.
 * [TabbedCollectionView](https://github.com/sprint84/TabbedCollectionView) - Multi-page collection view with tab categories.
 * [UICollectionViewSlideLeft](https://github.com/antbelldev/UICollectionViewSlideLeft) - A UITableView Swipe to Delete implementation in UICollectionView.
 * [UPCarouselFlowLayout](https://github.com/ink-spot/UPCarouselFlowLayout) - A fancy carousel flow layout for UICollectionView on iOS.
