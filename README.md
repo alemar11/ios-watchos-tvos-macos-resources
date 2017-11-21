@@ -220,6 +220,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [STPopup](https://github.com/kevin0571/STPopup)
 * [SWBufferedToast](https://github.com/sfwalsh/SWBufferedToast)
 * [TAOverlay](https://github.com/TaimurAyaz/TAOverlay)
+* [UIImageAlertController](https://github.com/iosdec/UIImageAlertController) - UIAlertController extension for selecting images.
 * [ZHPopupView](https://github.com/zhhlmr/ZHPopupView) - A simple iOS Pop up View to display alert or dialog.
 
 #### 🔸*Swift*
@@ -300,7 +301,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PulsingHalo](https://github.com/shu223/PulsingHalo) - iOS Component For Creating A Pulsing Animation. It allows you to create single halo or multiple halos.
 * [RFRotate](https://github.com/ruddfawcett/RFRotate)
 * [ShootingStars](https://github.com/ryang1428/ShootingStars) - Some fun Shooting Star animations built with both SpriteKit and CAEmitterLayer.
-* [Skeleton](https://github.com/gonzalonunez/Skeleton) - An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content.
 * [UIRotatableView](https://github.com/faviomob/UIRotatableView)
 * [VENSnowOverlayView](https://github.com/chrismaddern/VENSnowOverlayView) - A snowy UIView overlay to make your apps Christmassy!
 * [YTXAnimations](https://github.com/baidao/YTXAnimations) - The iOS Animation Implementation of animate.css.
@@ -363,6 +363,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 *Apps and tutorials*
 
 #### 🔹*Obj-C*
+* [Animoji](https://github.com/efremidze/Animoji)
 * [Blear](https://github.com/sindresorhus/blear) - iOS app that transforms your photos into stunning blurry wallpapers for your device.
 * [Dash](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets.
 * [MMWormhole](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions. ⌚️
@@ -977,6 +978,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CalendarPopUp](https://github.com/orazz/CalendarPopUp)
 * [CalendarView](https://github.com/mmick66/CalendarView) - This is a calendar component for iOS written in Swift.
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
+* [D2PDatePicker](https://github.com/di2pra/D2PDatePicker) - Elegant and Easy-to-Use iOS Swift Date Picker.
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
 * [DPTimePicker](https://github.com/dariopellegrini/DPTimePicker) 
 * [EPCalendarPicker](https://github.com/ipraba/EPCalendarPicker) - Colourful calendar for iOS written in Swift.
@@ -2737,6 +2739,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SCCardView](https://github.com/myoungsc/SCCardView) - Select Card Change View Content.
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
+* [Skeleton](https://github.com/gonzalonunez/Skeleton) - An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content.
 * [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 * [Smile-Lock](https://github.com/liu044100/Smile-Lock) - A library for make a beautiful Passcode Lock View.
 * [SSHoneyCombView](https://github.com/SamehSalama/SSHoneyCombView) - A honey comb View that looks like a collection view with hexagon shaped items.
@@ -2752,6 +2755,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [VideoThumbView](https://github.com/toygar/VideoThumbView) - Video Thumb ScrollView.
 * [Viewer](https://github.com/bakkenbaeck/Viewer) - Image viewer (or Lightbox) with support for local and remote videos and images.
 * [Wallet](https://github.com/rshevchuk/Wallet) - Wallet is a library to manage cards and passes.
+* [Windless](https://github.com/Interactive-Studio/Windless) - Windless makes it easy to implement invisible (skeleton) layout loading view.
 * [WOWRibbonView](https://github.com/zhouhao27/WOWRibbonView) - Ribbon view for iOS in Swift 3.
 * [Workaholic](https://github.com/hemangshah/Workaholic) - A Github's like work contribution timeline.
 * [YGPulseView](https://github.com/YGeorge/YGPulseView) - Pulsing animation for UIView.
