@@ -334,6 +334,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
 * [KFWatchKitAnimations](https://github.com/kiavashfaisali/KFWatchKitAnimations) - KFWatchKitAnimations creates beautiful 60 FPS animations for  Watch by recording animations from the iOS. ⌚️
 * [lottie](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations.
+* [MarchingLayer](https://github.com/cemolcay/MarchingLayer) - domly fills layer with sprites and move them in any direction and speed you want.
 * [material-motion-swift](https://github.com/material-motion/material-motion-swift) - Reactive motion for iOS.
 * [Morph](https://github.com/gbammc/Morph) - A wrapper for CoreAnimation (Swift).
 * [Motion Machine](https://github.com/poetmountain/MotionMachine) - A powerful, elegant, and modular animation library for Swift.
@@ -575,6 +576,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ARCharts](https://github.com/Boris-Em/ARCharts) - Lovely Augmented Reality Charts for iOS - Built with ARKit.
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 * [ARPaint](https://github.com/oabdelkarim/ARPaint) - Draw with bare fingers in the air using ARKit.
+* [ARSolar](https://github.com/emadhegab/ARSolar) - Solar System with ARKit on Swift.
 * [ARuler](https://github.com/duzexu/ARuler) - Mesure distance using apple ARKit.
 * [ARViewer](https://github.com/farice/ARShooter/tree/master/ARViewer)
 
@@ -926,6 +928,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Colors](https://github.com/paulot/Colors) - Terminal Colors for Swift.
 * [DPTheme](https://github.com/dphans/DPTheme)
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - DynamicColor provides powerful methods to manipulate colours in an easy way.
+* [EFColorPicker](https://github.com/EyreFree/EFColorPicker) - A lightweight color picker in Swift.
 * [flatuicolor](https://github.com/avdyushin/flatuicolor)
 * [himbo](https://github.com/kimar/himbo) - A simple iOS App to create mono colored backgrounds. Written in Swift and supporting 3D Touch on iPhone 6s.
 * [Hue](https://github.com/hyperoslo/Hue) - Hue is the all-in-one coloring utility that you'll ever need. 
@@ -1231,8 +1234,10 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
 * [ASAttributedLabelNode](https://github.com/alex-alex/ASAttributedLabelNode)
+* [EFAutoScrollLabel](https://github.com/EyreFree/EFAutoScrollLabel) - A label which can scroll when text length beyond the width of label.
 * [GlitchLabel](https://github.com/kciter/GlitchLabel) - glitch effect
 * [GlowingLabel](https://github.com/RajChanchal/GlowingLabel) - A label with an outer glow.
+* [IHTypeWriterLabel](https://github.com/Ibrahimhass/IHTypeWriterLabel) - A simple, UILabel subclass which poulates itself as if being typed.
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - UILabel subclass that saves you from refreshing it when using 'time ago' format.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [MAGlowingLabel](https://github.com/Marwan8/MAGlowingLabel) - A UILabel with an animated glowing effect written in Swift.
