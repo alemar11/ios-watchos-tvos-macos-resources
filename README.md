@@ -2129,6 +2129,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ZRScrollableTabBar](https://github.com/raihan/ZRScrollableTabBar)
 
 #### 🔸*Swift*
+* [AHCategoryView](https://github.com/ivsall2012/AHCategoryView)
 * [AnimateTabbarBadgeView](https://github.com/AliAdam/AnimateTabbarBadgeView) - UITabBarController Extention to make badge View animated.
 * [Animated-Tab-Bar](https://github.com/Ramotion/animated-tab-bar)
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 3.0.
@@ -2148,6 +2149,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
 * [TabbarControllerHideable](https://github.com/ezefranca/TabbarControllerHideable) - A drop in UITabbarController with show and hide options.
 * [TabDrawer](https://github.com/winslowdibona/TabDrawer) - TabDrawer is a customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, or display a customizable drawer.
+* [TransitionableTab](https://github.com/Interactive-Studio/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
 * [WBSegmentControl](https://github.com/xiongxiong/WBSegmentControl) - An easy to use, customizable segment control, can be used to show tabs.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 
@@ -2657,6 +2659,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SGPlayer](https://github.com/libobjc/SGPlayer) - A powerful media player framework for iOS, macOS, and tvOS. Support 360° panorama video, VR video. RTMP streaming.
 * [Periscope-VideoViewController](https://github.com/gontovnik/Periscope-VideoViewController) - Video view controller with Periscope fast rewind control.
 * [PryntTrimmerView](https://github.com/prynt/PryntTrimmerView) - A set of tools to trim, crop and select frames inside a video.
+* [Swifty360Player](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
 * [VRDemo-Swift](https://github.com/Huanhoo/VRDemo-Swift) - RDemo-Swift is a 360-degree video player demo which achieved use Swift3.0 and OpenGL ES.
 
 ## View
