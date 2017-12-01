@@ -328,6 +328,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Gagat](https://github.com/Boerworz/Gagat) - A delightful way to transition between visual styles in your iOS applications.
 * [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework for iOS, written in Swift.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
+* [ImageSwapper](https://github.com/tsarikovskiy/ImageSwapper) - Nice iOS animations for swapping images. In progress.
 * [Interpolate](https://github.com/marmelroy/Interpolate) - Swift interpolation for gesture-driven animations.
 * [JellyAnimationView](https://github.com/malt03/JellyAnimationView)
 * [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit) - Animate easy and with less code with Swift.
@@ -347,6 +348,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Pulsator](https://github.com/shu223/Pulsator) - Pulse animation for iOS.
 * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect)
+* [RimhTypingLetters](https://github.com/rimh/RimhTypingLetters) - A simple typing animation for UITextView and UILabel in Swift.
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView)
 * [SaveTheDot](https://github.com/JakeLin/SaveTheDot) - A game developed using UIViewPropertyAnimator.
 * [SimpleFlipView](https://github.com/javalnanda/SimpleFlipView) - ViewSwitcher container that helps to switch between two views with transition animation.
@@ -842,6 +844,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [ADMozaicCollectionViewLayout](https://github.com/Antondomashnev/ADMozaicCollectionViewLayout) - ADMozaicCollectionViewLayout is yet another UICollectionViewLayout subclass that implements "brick" or "mozaic" layout.
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
+* [AppleNews-CollectionView](https://github.com/mhlangagc/AppleNews-CollectionView) - An example on how to use nested Collection Views through implementing the Apple News App Collection View Layout.
 * [appstore-clone](https://github.com/phillfarrugia/appstore-clone) - An experimental clone of the new iOS 11 App Store app.
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce.
 * [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - A custom View with two level chained collection views and fancy transition animation.
@@ -1649,6 +1652,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls written in Swift to replace boring UIPageControl.
 * [FlexiblePageControl](https://github.com/shima11/FlexiblePageControl) - A flexible PageControl like Instagram.
 * [GBPageControl](https://github.com/jhurt/GBPageControl) - A page control for SpriteKit based games written in Swift.
+* [ISPageControl](https://github.com/Interactive-Studio/ISPageControl) - A page control similar to that used in Instagram.
 * [MBPageControl](https://github.com/c-Viorel/MBPageControl) - A highly customizable page control for OS X. `macOS`
 * [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram).
@@ -1932,6 +1936,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) - Simple parallax header for UIScrollView.
 * [ParallaxCarousel](https://github.com/taglia3/ParallaxCarousel) - A lightweight 3D Linear Carousel with parallax effect.
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController)
+* [PSFadingScrollView](https://github.com/Vugla/PSFadingScrollView) - 
 * [RMSquarePageControl](https://github.com/rupammitra/RMSquarePageControl) - A custom page control having square indicators works both vertically and horizontally.
 * [ScrollingCardView](https://github.com/mozilla-mobile/ScrollingCardView) - A card view widget for iOS that will grow with its content, enabling scrolling when the content is larger than the view.
 * [ZKCarousel](https://github.com/ZacharyKhan/ZKCarousel) - A simple carousel implementation written in Swift.
