@@ -351,6 +351,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RimhTypingLetters](https://github.com/rimh/RimhTypingLetters) - A simple typing animation for UITextView and UILabel in Swift.
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView)
 * [SaveTheDot](https://github.com/JakeLin/SaveTheDot) - A game developed using UIViewPropertyAnimator.
+* [SHTransition](https://github.com/iamshezad/SHTransition) - SHTransition is a Library for the transition between the views in a viewcontroller.
 * [SimpleFlipView](https://github.com/javalnanda/SimpleFlipView) - ViewSwitcher container that helps to switch between two views with transition animation.
 * [SnowFalling](https://github.com/pixyzehn/SnowFalling) - Snow Falling in Swift.
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
@@ -582,6 +583,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ARSolar](https://github.com/emadhegab/ARSolar) - Solar System with ARKit on Swift.
 * [ARuler](https://github.com/duzexu/ARuler) - Mesure distance using apple ARKit.
 * [ARViewer](https://github.com/farice/ARShooter/tree/master/ARViewer)
+* [Findme](https://github.com/mmoaay/Findme) - An ARKit App that can help your friends to find you.
 
 ## Badge
 *Notifications icons*
@@ -755,6 +757,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [3DGraph](https://github.com/greglecki/3DGraph) - An interactive Swift 3D Graph.
+* [AAChartKit-Swift](https://github.com/AAChartModel/AAChartKit-Swift) - An elegant and friendly chart library for iOS developer who use Swift.
 * [AnimatedGraph](https://github.com/AlKhokhlov/AnimatedGraph) - Animated Graph which you can include in your application to show information in more attractive way.
 * [APLineChart](https://github.com/tylyo/APLineChart)
 * [Attabench](https://github.com/lorentey/Attabench) - Microbenchmarking app for Swift with nice log-log plots.
@@ -1956,6 +1959,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ETSegmentedView](https://github.com/ersentekin/ETSegmentedView)
 * [HHSlideView](https://github.com/Herbert77/HHSlideView) - A custom segment control view with flat style.
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) - A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents and various other Google products.
+* [RubberIndicator](https://github.com/mayqiyue/RubberIndicator) - This is a simple but nice iOS segmentControl.
 
 #### 🔸*Swift*
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - BetterSegmentedControl is an easy to use, customizable replacement for UISegmentedControl and UISwitch written in Swift.
@@ -2500,6 +2504,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS.
 * [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
 * [RNNotificationView](https://github.com/souzainf3/RNNotificationView) - Emulates the native Notification Banner UI for any alert.
+* [SHSnackBarView](https://github.com/iamshezad/SHSnackBarView)
 * [Snackbar-iOS](https://github.com/JastAir/Snackbar-iOS) - Simple snackbar for ios from android platform.
 * [SpaceView](https://github.com/Xopoko/SpaceView)
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
@@ -2681,6 +2686,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView) - A generic stretchy header for UITableView and UICollectionView.
 * [HATransparentView](https://github.com/hebertialmeida/HATransparentView) - UIView subclass based on Rdio stations menu.
 * [HATransparentView](https://github.com/hebertialmeida/HATransparentView)
+* [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.
 * [IQFeedbackView](https://github.com/hackiftekhar/IQFeedbackView) - Feedback/BugReport iOS control.
 * [JSWheelView](https://github.com/l2eshock/JSWheelView) - Wheel Control View.
 * [JTFadingInfoView](https://github.com/JunichiT/JTFadingInfoView) - JTFadingInfoView is google's material design like notification view with smooth fade in/out animation features, based on UIButton subclass.
@@ -2797,6 +2803,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CarbonKitSwift](https://github.com/melieskubrick/CarbonKitSwift) - CarbonKit is an OpenSource iOS library that includes powerful and beauty UI controllers.
 * [DrawerKit](https://github.com/Babylonpartners/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController)
+* [GTSheet](https://github.com/gametimesf/GTSheet) - An easy to integrate solution for presenting UIViewControllers in a bottom sheet.
 * [Instagram-Feed-View](https://github.com/sagarshirbhate/Instagram-Feed-View) - It is a demo view to show feeds as shown in Instagram.All actions(Like,comment,share,follow,etc..) are managed by blocks.
 * [interactiveplayerview](https://github.com/AhmettKeskin/InteractivePlayerView) - Custom iOS music player view.
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control.
