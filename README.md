@@ -421,6 +421,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Sentiments](https://github.com/kyleweiner/Sentiments) - Sentiments is an iOS app written in Swift that analyzes text for positive or negative sentiment.
 * [sismicapp-ios](https://github.com/jbeleno/sismicapp-ios) - Sismicapp app for iOS, developed in swift using MVVM with RXSwift.
 * [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift) - SoundCloud client written on Swift.
+* [Swift Evolution](https://github.com/swift-evolution/ios) - An iOS version of Swift Evolution.
 * [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - Swift Radio is an open source radio station app with robust and professional features.
 * [SwiftHN](https://github.com/Dimillian/SwiftHN) - A Hacker News reader in Swift.
 * [Swiflytics](https://github.com/aciidb0mb3r/Swiflytics) - Live Google Analytics.
