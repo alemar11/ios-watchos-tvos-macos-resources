@@ -423,6 +423,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - Swift Radio is an open source radio station app with robust and professional features.
 * [SwiftHN](https://github.com/Dimillian/SwiftHN) - A Hacker News reader in Swift.
 * [Swiflytics](https://github.com/aciidb0mb3r/Swiflytics) - Live Google Analytics.
+* [terminal](https://github.com/louisdh/terminal) - A sandboxed command line interface for iOS.
 * [TodayMind](https://github.com/cyanzhong/TodayMind) - Make Reminder Great Again.
 * [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
 * [TSWeChat](https://github.com/hilen/TSWeChat) - A WeChat alternative. Written in Swift.
