@@ -258,6 +258,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [ScrollableDisclaimerAlert](https://github.com/kubacizek/ScrollableDisclaimerAlert) - Simple lightweight DisclaimerAlertView.
 * [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your iOS app is available, and prompt them with the App Store link.
+* [StatusAlert](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts. It is well suited for notifying user without interrupting user flow in iOS-like way.
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
 * [SwiftyPickerPopover](https://github.com/hsylife/SwiftyPickerPopover) - Popover with Picker by Swift 3/2.3 for iPhone/iPad, iOS9+.
@@ -318,6 +319,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DCExplosion](https://github.com/Tangdixi/DCExplosion)
 * [DDViewSwitcher](https://github.com/DingdingKim/DDViewSwitcher) - With DDViewSwitcher, you can simply implement the effect of scrolling the view with just two lines. Like android TextSwitcher.
 * [DoneHud](https://github.com/beryu/DoneHUD) - Done animation on HUD.
+* [Ease](https://github.com/roberthein/Ease) - Animate everything with Ease.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A UIKit custom transition that simulates an elastic drag.
 * [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - A collection of iOS animation repos.
@@ -461,6 +463,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Clipinio](https://github.com/benjohnde/Clipinio) - Lightweight clipboard manager for OSX. `macOS`
 * [Clipy](https://github.com/Clipy/Clipy) Clipboard extension app for Mac OSX. `macOS`
 * [cloudy](https://github.com/calebd/cloudy) - Simple Overcast app for OS X. `macOS`
+* [CoinPriceBar](https://github.com/T-Pham/CoinPriceBar) - Cryptocurrency prices on MacBook Touch Bar. `macOS`
 * [CopyPasta](https://github.com/alltheflow/CopyPasta) - Pasteboard feed Mac app. `macOS`
 * [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift. `macOS`
 * [Evergreen](https://github.com/brentsimmons/Evergreen) - It’s a feed reader for MacOS. `macOS`
@@ -808,6 +811,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ASJCollectionViewFillLayout](https://github.com/sudeepjaiswal/ASJCollectionViewFillLayout) - A flow layout style UICollectionViewLayout that fills the full width of the collection view.
 * [AWCollectionViewDialLayout](https://github.com/awdigital/AWCollectionViewDialLayout) - UICollectionViewLayout for displaying cells in a semi-circle with a nice fish eye effect.
 * [CollectionViewParallaxScrolling](https://github.com/ole/CollectionViewParallaxScrolling) - An implementation of a custom UICollectionViewLayout that demonstrates WhatsApp-style parallax scrolling in a collection view.
+* [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) - CollectionViewSlantedLayout is a subclass of UICollectionViewLayout allowing the display of slanted content on UICollectionView.
 * [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) - Parallax, Sticky Headers, Growing image heading, done right in one UICollectionViewLayout.
 * [DMDynamicWaterfall](https://github.com/malcommac/DMDynamicWaterfall) -  UICollectionView Waterfall Layout with UIKit Dynamics.
 * [DynamicHeightForCollectionView)](https://github.com/sagarshirbhate/DynamicHeightForCollectionView) - Simple solution for Dynamically adjust view as a blocks.Dynamically adjust height of collection view. No more White spaces.
@@ -1080,6 +1084,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ShakeToChange](https://github.com/freeskys/ShakeToChange) - Change environment using shake.
 * [SHFSignature](https://github.com/felipesantolim/SHFSignature) - It's a simple class that provide to draw a signature and result in UIImage.
 * [Signature-Capture](https://github.com/vigneshuvi/iOS-Signature-Capture) - iOS-Signature-Capture is helps to capture the user signature with name and signed date in iOS and supports both Objective-c and Swift languages.
+* [SRScratchView](https://github.com/shamshiranees/SRScratchView) - A mask imageView class which can be used a scratchView.
 * [Standard-Template-Protocols](https://github.com/cconeil/Standard-Template-Protocols) - Protocols for your every day iOS needs.
 * [Tactile](https://github.com/delba/Tactile) - The Swift way to add UIGestureRecognizer and to react to UIControlEvents.
 * [TouchesWindow](https://github.com/dmoroz0v/TouchesWindow) - Show touch and force-touch indicators for your iOS app. Have swift and obj-c versions.
@@ -1393,6 +1398,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MLCameraDemo](https://github.com/stringcode86/MLCameraDemo) - Demonstrates using Vision with Core ML to preprocess AVCaptureVideoDataOutput and perform image classification.
 * [TvOSScribble](https://github.com/dcordero/TvOSScribble) - Handwriting numbers recognizer for Siri Remote.
 * [UnsplashExplorer-CoreML](https://github.com/ahmetws/UnsplashExplorer-CoreML) - Core ML demo app with Unsplash API.
+* [WhatDog](https://github.com/isflump/WhatDog) - An simple iOS Dog type recognition app built with CoreML and MobileNet Model.
 
 ## Map
 *Maps and Location Managers*
@@ -1680,6 +1686,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [card.io](https://github.com/card-io/card.io-iOS-SDK) - card.io provides fast, easy credit card scanning in mobile apps.
 * [caishen](https://github.com/prolificinteractive/caishen) - A Payment Card UI & Validator for iOS.
 * [CreditCardForm](https://github.com/orazz/CreditCardForm-iOS) - CreditCardForm-iOS is an iOS demo app that allows developers to create the UI which replicates an actual Credit Card.
+* [ThinCreditCard](https://github.com/tsarikovskiy/ThinCreditCard) -  Simple way to add a credit card.
 
 ## PickerView
 
@@ -2049,6 +2056,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Orbit7](https://github.com/Mav3r1ck/Orbit7) - Open Source iOS Game created in SpriteKit with Swift.
 * [SKTiled](https://github.com/mfessenden/SKTiled) - Swift framework for working with Tiled assets in SpriteKit.
 * [SKTiledMap](https://github.com/wbcyclist/SKTiledMap) - A TMX TileMap framework for SpriteKit.
+* [SpriteKitWithUIKitSample](https://github.com/ymmtshny/SpriteKitWithUIKitSample)
 
 ## Statusbar
 
@@ -2309,6 +2317,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GravityTagCloudView](https://github.com/billypchan/GravityTagCloudView) - A tag cloud view with gravity.
 * [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view, in Swift.
 * [RRTagController](https://github.com/remirobert/RRTagController) - RRTagController allows user to select tag and create new one.
+* [SSCTaglistView](https://github.com/sanjaysinh-Chauhan/SSCTaglistView) - Customizable iOS tag list view, in Swift.
 * [UITags](https://github.com/gtsif21/UITags)
 * [WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
 * [YNSearch](https://github.com/younatics/YNSearch) -  Awesome fully customize search view like Pinterest written in Swift 3.
@@ -2745,6 +2754,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [jmcrainbow](https://www.cocoacontrols.com/controls/jmcrainbow)
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
+* [LPThumbnailView](https://github.com/luispadron/LPThumbnailView) - A thumbnail view for iOS to give context to multiple images/videos using thumbnails and counter.
 * [MaterialCardView](https://github.com/cemolcay/MaterialCardView)
 * [MDGroupAvatarView](https://github.com/ttmdung203/MDGroupAvatarView) - This library provides a custom UIView with support for showing group of avatars. It’s used for group chat. The images list can be loaded from local or web url.
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift.
