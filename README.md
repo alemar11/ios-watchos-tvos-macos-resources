@@ -54,7 +54,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [Alert](#alert)
 - [Animation](#animation)
 - [App](#app)
-- [App OSX](#app-osx)
+- [App macOS](#app-macos)
 - [Architecture](#architecture) 
 - [Asset Picker](#asset-picker)
 - [Audio](#audio)
