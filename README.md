@@ -224,6 +224,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ZHPopupView](https://github.com/zhhlmr/ZHPopupView) - A simple iOS Pop up View to display alert or dialog.
 
 #### 🔸*Swift*
+* [Alerts-Pickers](https://github.com/dillidon/Alerts-Pickers) - Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
 * [Alertift](https://github.com/sgr-ksmt/Alertift) - Swifty, modern UIAlertController wrapper.
 * [AlertViewController](https://github.com/stringcode86/AlertViewController) - UIAlertController subclass to show image above the alert title.
 * [AMTooltip](https://github.com/amirdew/AMTooltip) - Simple and easy library to show tooltip in iOS.
@@ -359,6 +360,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
 * [spruce-ios](https://github.com/willowtreeapps/spruce-ios) - Swift library for choreographing animations on the screen.
 * [springdamping](https://github.com/mortenjust/springdamping) - Realtime experimentation with duration, spring and damping for UIView animations.
+* [SRFacebookAnimation](https://github.com/shamshiranees/SRFacebookAnimation) - Facebook live streaming emoji animation which can be fully customised.
 * [Stellar](https://github.com/AugustRush/Stellar) - A fantastic Physical animation library for swift.
 * [UIViewXXYBoom](https://github.com/xxycode/UIViewXXYBoom)
 * [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator is a library for building complex iOS UIView animations in an easy way. It provides one line animations for any view included the ones which contain other views like UITableView and UICollectionView with its cells or UIStackView with its arrangedSubviews.
@@ -856,6 +858,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
 * [AppleNews-CollectionView](https://github.com/mhlangagc/AppleNews-CollectionView) - An example on how to use nested Collection Views through implementing the Apple News App Collection View Layout.
 * [appstore-clone](https://github.com/phillfarrugia/appstore-clone) - An experimental clone of the new iOS 11 App Store app.
+* [AZCollectionView](https://github.com/AfrozZaheer/AZCollectionViewController)
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce.
 * [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - A custom View with two level chained collection views and fancy transition animation.
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
@@ -1248,7 +1251,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)
 
 #### 🔸*Swift*
-* [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
+* [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift.
+* [AGTypewriterLabel](https://github.com/aivantg/AGTypewriterLabel) - Simple UILabel that displays text character by character as it would be typed by a typewriter.
 * [ASAttributedLabelNode](https://github.com/alex-alex/ASAttributedLabelNode)
 * [EFAutoScrollLabel](https://github.com/EyreFree/EFAutoScrollLabel) - A label which can scroll when text length beyond the width of label.
 * [GlitchLabel](https://github.com/kciter/GlitchLabel) - glitch effect
@@ -1623,6 +1627,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
+* [ImageInNavigationBarDemo](https://github.com/tungfam/ImageInNavigationBarDemo) - Demo project that shows a resizable image in right top corner of Navigation Bar with Large Title (iOS11).
 * [KJNavigationViewAnimation](https://github.com/KiranJasvanee/KJNavigationViewAnimation)
 * [MTCoordinatorView](https://github.com/mittsuu/MTCoordinatorView) - The view coordinate arranged to the scrolling is adjusted.
 * [navigation-stack](https://github.com/Ramotion/navigation-stack) - NavigationStack is a stack-modeled navigation controller.
@@ -2209,6 +2214,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RRNCollapsableSectionTableView](https://github.com/rob-nash/RRNCollapsableSectionTableView)
 * [SJDataTableView](https://github.com/leesungju/SJDataTableView) - It moves vertically and horizontally Table.
 * [SKStatefulTableViewController](https://github.com/shiki/SKStatefulTableViewController) - UITableviewController subclass that supports pull-to-refresh, load-more, initial-load, and empty states.
+* [SSCustomTabMenu](https://github.com/simformsolutions/SSCustomTabMenu) - Customisable iOS bottom menu works like Tabbar.
 * [StackTableView](https://github.com/noppefoxwolf/StackTableView) - UITableView with stack animation.
 * [StickyHeaderView](https://github.com/freshking/StickyHeaderView) - TableView HeaderView which sticks to the top and stretches when you pull down.
 * [StretchTableHeaderViewDemo](https://github.com/yonglam/StretchTableHeaderViewDemo) - Provide a stretch table header view on which you can put a grid of buttons. Perform subtle animations when scrolling.
@@ -2446,6 +2452,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - A small and lightweight library written in Swift that allows you to easily create forms.
 * [TextFieldCounter](https://github.com/serralvo/TextFieldCounter) - UITextField character counter with lovable UX.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift.
+* [TweeTextField](https://github.com/oleghnidets/TweeTextField) - Lightweight set of text fields with nice animation and functionality.
 * [UITextField-Navigation](https://github.com/T-Pham/UITextField-Navigation) - UITextField-Navigation make it easier to navigate between UITextFields.
 * [VKAfterTimeTextField](https://github.com/vladislav-k/VKAfterTimeTextField) - VKAfterTimeTextField is a sub-class of UITextField which allows you to know when user edited it last time during current use session. Also it allows to notify after specific time interval when user ends editing. This is gives you a some kind of "setContinouos:false" feature like UISlider has.
 * [VMFloatLabel](https://github.com/varshylmobile/VMFloatLabel) - Swift based UITextField subclass with floating labels.
