@@ -399,7 +399,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FileExplorer](https://github.com/augustyniak/FileExplorer) - FileExplorer is a powerful iOS file browser that allows its users to choose and remove files and/or directories.
 * [Files](https://github.com/JohnSundell/Files) - A nicer way to handle files & folders in Swift.
 * [furni-ios](https://github.com/twitterdev/furni-ios) - Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform.
-* [GIOVANNI](https://github.com/gabrieloc/GIOVANNI) - A Gameboy Emulator for the Apple Watch. ⌚️
+* [Giovanni](https://github.com/gabrieloc/GIOVANNI) - A Gameboy Emulator for the Apple Watch. ⌚️
 * [GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard) - Hang a TV in your open space or team room to show everyone what's up and get them up to speed. 📺
 * [gulps](https://github.com/FancyPixel/gulps) - Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
 * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - This repository contains an example Highstreet WatchKit app. ⌚️
@@ -1230,7 +1230,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KBKit](https://github.com/edekhayser/KBKit) - Classes to extend UIKit navigation using key commands.
 * [KeyboardAvoidance](https://github.com/radu-costea/KeyboardAvoidance) - Keyboard avoiding kit. The minimal setup you need to make sure that your app can handle easily the appearence / dismissal of the keyboard.
 * [Keyboardy](https://github.com/podkovyrin/Keyboardy) - UIViewController extension for convenient keyboard management.
-* [https://github.com/Kofktu/KUIKeyboard](https://github.com/Kofktu/KUIKeyboard) - Keyboard Handler in iOS.
+* [KUIKeyboard](https://github.com/Kofktu/KUIKeyboard) - Keyboard Handler in iOS.
 * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
 * [PANumberKeyboard](https://github.com/AlexeyYuPopkov/PANumberKeyboard) - Custom Decimal Number Keyboard.
 * [RFCalculatorKeyboard](https://github.com/sprint84/RFCalculatorKeyboard)
