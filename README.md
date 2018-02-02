@@ -314,6 +314,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Anima](https://github.com/satoshin21/Anima#)
 * [AnimateBlurRadius](https://github.com/fichek/AnimateBlurRadius) - An example of how to interactively animate blur radius on iOS 10.
 * [ATScrollingNumbers](https://github.com/anooptomar1/ATScrollingNumbers) - Scrolling number control with circular progress.
+* [BLEPrgressView](https://github.com/ymmtshny/BLEPrgressView) - I am making an animation view for Bluetooth connection.
 * [Bubble](https://github.com/goldmoment/Bubble)
 * [ConfettiView](https://github.com/OrRon/ConfettiView) - Confetti View lets you create a magnificent confetti view in your app.
 * [Dance](https://github.com/saoudrizwan/Dance) - A radical & elegant animation library built for iOS.
@@ -1578,6 +1579,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ListPlaceholder](https://github.com/malkouz/ListPlaceholder) - ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views.
 * [MessageBalloon](https://github.com/caiobzen/MessageBalloon) - A message balloon animation made with CoreAnimation.
 * [MessageProgressView](https://github.com/Tueno/MessageProgressView) - Simple loading animation for Swift.
+* [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement written in Swift for the iPhone X.
 * [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
 * [MMTextureChat](https://github.com/mukyasa/MMTextureChat) AsyncDisplayKit(Texture) Smooth Scroll Chat Simulation.
 * [NMessenger](https://github.com/eBay/NMessenger) - A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift.
@@ -2155,6 +2157,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [AHCategoryView](https://github.com/ivsall2012/AHCategoryView)
+* [AMPagerTabs](https://github.com/Abedalkareem/AMPagerTabs) - Pager tabs for iOS.
 * [AnimateTabbarBadgeView](https://github.com/AliAdam/AnimateTabbarBadgeView) - UITabBarController Extention to make badge View animated.
 * [Animated-Tab-Bar](https://github.com/Ramotion/animated-tab-bar)
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 3.0.
@@ -2174,7 +2177,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
 * [TabbarControllerHideable](https://github.com/ezefranca/TabbarControllerHideable) - A drop in UITabbarController with show and hide options.
 * [TabDrawer](https://github.com/winslowdibona/TabDrawer) - TabDrawer is a customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, or display a customizable drawer.
+* [TiltedTabView](https://github.com/IMcD23/TiltedTabView) - iOS control to replicate the tab switcher in Safari for iOS.
 * [TransitionableTab](https://github.com/Interactive-Studio/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
+* [TTabBarViewController](https://github.com/msalah1193/TTabBarViewController) - Custom UITabBarController class which draw line indicator with custom color above or below the selected tab bar item using 'selectionIndicatorImage' property on the UITabBar class.
 * [WBSegmentControl](https://github.com/xiongxiong/WBSegmentControl) - An easy to use, customizable segment control, can be used to show tabs.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 
@@ -2228,6 +2233,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AccordionTableViewController](https://github.com/klevison/KMAccordionTableViewController) - Accordion UITableViewController component based on Apples's example.
 * [APSGroupedTableView](https://github.com/AishPratap/APSGroupedTableView)
 * [CascadingTableDelegate](https://github.com/edopelawi/CascadingTableDelegate) - A no-nonsense way to write cleaner UITableViewDelegate and UITableViewDataSource in Swift.
+* [CITreeView](https://github.com/cenksk/CITreeView) - CITreeView created to implement and maintain that wanted TreeView structures for IOS platforms easy way.
 * [COBezierTableView](https://github.com/knutigro/COBezierTableView) - UITableView modification written in Swift where cells are scrolling in an arc defined by a BezierPath.
 * [ConfigurableTableViewController](https://github.com/fastred/ConfigurableTableViewController) - Typed, yet Flexible Table View Controller.
 * [elongation-preview](https://github.com/Ramotion/elongation-preview) - ElongationPreview is an elegant push-pop style view controller.
@@ -2501,6 +2507,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [AANotifier](https://github.com/EngrAhsanAli/AANotifier) - AANotifier allows you to create UIView based fragments to be appear on screen at runtime in iOS, written in Swift.
+* [alerts-and-pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...
 * [ASToast)](https://github.com/abdullahselek/ASToast) - A Swift extension for using Android style Toast notifications.
 * [AZNotification-Swift](https://github.com/azamsharp/AZNotification-Swift)
 * [BRYXBanner](https://github.com/bryx-inc/BRYXBanner)
@@ -2756,6 +2763,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FloatingView](https://github.com/PersianDevelopers/FloatingView)
 * [FNReactionsView](https://github.com/fabiosoft/FNReactionsView) - FNReactionsView is a customizable control (based on UIView) to give people a way to show floating emoji like facebook does during live stream, easy way.
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A fancy hexagonal layout for displaying data like your Apple Watch.
+* [HGRippleRadarView](https://github.com/HamzaGhazouani/HGRippleRadarView) - A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
 * [iCard](https://github.com/eliakorkmaz/iCard) - Bank Card Generator with Swift using SnapKit DSL.
 * [iOSAlignmentIndicatorViews](https://github.com/gbmiranda/iOSAlignmentIndicatorViews) - This is an iOS component to assist in aligning Views by creating lines similar to image editing programs such as Photoshop and Sketch.
@@ -2927,6 +2935,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)
 * [StatefulViewController](https://github.com/aschuch/StatefulViewController) - Placeholder views based on content, loading, error or empty states.
 * [SwiftPagingNav](https://github.com/aubrey/SwiftPagingNav) - A Twitter-like navigation bar and page viewer written in Swift.
+* [SwipeTransition](https://github.com/tattn/SwipeTransition) - Allows trendy transitions using swipe gesture such as "swipe back".
 * [Transition](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions.
 * [TransitionManager](https://github.com/cemolcay/TransitionManager) - Painless custom transitioning. Easy extend, easy setup, just focus on animations.
 * [View2ViewTransition](https://github.com/naru-jpn/View2ViewTransition) - Custom interactive view controller transition from one view to another view.
