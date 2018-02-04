@@ -1558,6 +1558,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GenericSocialApp - On Boarding](Generic Social App: App for sharing a social board) - Generic Social App: App for sharing a social board.
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - An elegant messages UI library for iOS.
 * [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, with audio/video calls and realtime chat conversations (full offline support).
+* [q-municate-ios](https://github.com/QuickBlox/q-municate-ios)
 * [RCMessageKit](https://github.com/relatedcode/RCMessageKit) - RCMessageKit is a light-weight and easy-to-use Chat user interface framework for iOS.
 * [RRMessageController](https://github.com/remirobert/RRMessageController) - RRMessageController is a UIViewController, allows you to write a message with photos as attachment. A messages UI for iPhone. Support text && image. Works with all custom Keyboard for iOS 8.
 * [SOMessaging](https://github.com/SocialObjects-Software/SOMessaging) - Messaging library for iOS 7.
