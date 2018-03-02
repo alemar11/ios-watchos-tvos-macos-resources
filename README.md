@@ -157,6 +157,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KUIActionSheet](https://github.com/Kofktu/KUIActionSheet) - Custom UIActionSheet.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
 * [PCRapidSelectionView](https://github.com/mmackh/PCRapidSelectionView) - Interactive, beautiful & fast UIActionSheet replacement, supports continuous hold & select.
+* [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet) - Sheeeeeeeeet is a Swift library for custom action sheets.
 
 ## AddressBook
 *Address Book implementations*
@@ -763,6 +764,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [VBPieChart](https://github.com/sakrist/VBPieChart)
 * [VKBarChartView](https://github.com/Valentin-Kalchev/VKBarChartView)
 * [ZFPlotChart](https://github.com/zerbfra/ZFPlotChart/tree/master/ZFPlotChart)
+* [ZMJGanttChart](https://github.com/keshiim/ZMJGanttChart) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.
 
 #### 🔸*Swift*
 * [3DGraph](https://github.com/greglecki/3DGraph) - An interactive Swift 3D Graph.
@@ -2105,6 +2107,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KWStepper](https://github.com/kyleweiner/KWStepper) - A stepper control with flexible UI and tailored UX.
 * [MultiStepSlider](https://github.com/hsusmita/MultiStepSlider) - A custom UIControl which functions like UISlider where you can set multiple intervals with different step values for each interval.
 * [SnappingStepper](https://github.com/yannickl/SnappingStepper) - An elegant alternative to the UIStepper written in Swift.
+* [Stepperier](https://github.com/NSDavidObject/Stepperier) - Interactive snapping stepper.
 * [StepSlider](https://github.com/spromicky/StepSlider)
 
 ## Switch Control
