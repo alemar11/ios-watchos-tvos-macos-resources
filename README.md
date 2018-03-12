@@ -371,6 +371,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## App
 *Apps and tutorials*
 
+* [open-source-ios-apps)](https://github.com/dkhamsing/open-source-ios-apps) - 📱 Collaborative List of Open-Source iOS Apps.
+
 #### 🔹*Obj-C*
 * [Animoji](https://github.com/efremidze/Animoji)
 * [Blear](https://github.com/sindresorhus/blear) - iOS app that transforms your photos into stunning blurry wallpapers for your device.
