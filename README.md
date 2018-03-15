@@ -437,6 +437,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TodayMind](https://github.com/cyanzhong/TodayMind) - Make Reminder Great Again.
 * [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
 * [TSWeChat](https://github.com/hilen/TSWeChat) - A WeChat alternative. Written in Swift.
+* [TVVLCPlayer](https://github.com/kodlian/TVVLCPlayer) - TVVLCPlayer lets you integrate easily a powerfull video player with playback control views to your tvOS apps. 📺
 * [v2ex](https://github.com/darkerk/v2ex) - The unofficial V2EX app for iOS.
 * [VKMusic](https://github.com/ilyahal/VKMusic) - The app is designed for listening to music from vk.com.
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. ⌚️
@@ -2049,6 +2050,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
 * [SpringySlider](https://github.com/josephlord/SpringySlider) - Custom UISlider with thumb animation.
 * [SSSlider](https://github.com/ngodacdu/SSSlider) - A customisable Slider which will show a tooltip when dragging the slider.
+* [TGPControls](https://github.com/SwiftArchitect/TGPControls) - Drop-in replacement for UISlider with ticks, images & animated labels.
 * [TNAnimateSlider](https://github.com/nguyentrai2011/TNAnimateSlider)
 * [TNSlider](https://github.com/tiennth/TNSlider) - A custom iOS slider that show current value on the thumb.
 * [KJCurveSlider](https://github.com/KiranJasvanee/KJCurveSlider)
