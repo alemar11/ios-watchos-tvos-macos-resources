@@ -474,10 +474,12 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CoinPriceBar](https://github.com/T-Pham/CoinPriceBar) - Cryptocurrency prices on MacBook Touch Bar. `macOS`
 * [CopyPasta](https://github.com/alltheflow/CopyPasta) - Pasteboard feed Mac app. `macOS`
 * [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. `macOS`
+* [DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon. `macOS`
 * [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift. `macOS`
 * [Evergreen](https://github.com/brentsimmons/Evergreen) - It’s a feed reader for MacOS. `macOS`
 * [EventfulMac](https://github.com/JacobCho/EventfulMac) - OSX application that searches for events within an area using the Eventful API. `macOS`
 * [FBSnapshotsViewer](https://github.com/Antondomashnev/FBSnapshotsViewer) - A mac os application that shows the failing snapshot tests from FBSnapshotTestCase.
+* [gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs on your Mac. `macOS`
 * [Gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github. `macOS`
 * [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). `macOS`
 * [localizations](https://github.com/athiercelin/localizations) - OS X app that manages localizations of Xcode projects. `macOS`
