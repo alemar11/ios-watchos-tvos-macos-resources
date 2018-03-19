@@ -404,6 +404,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Files](https://github.com/JohnSundell/Files) - A nicer way to handle files & folders in Swift.
 * [furni-ios](https://github.com/twitterdev/furni-ios) - Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform.
 * [Giovanni](https://github.com/gabrieloc/GIOVANNI) - A Gameboy Emulator for the Apple Watch. ⌚️
+* [GitHawk](https://github.com/GitHawkApp/GitHawk) - A GitHub project manager app for iOS.
 * [GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard) - Hang a TV in your open space or team room to show everyone what's up and get them up to speed. 📺
 * [gulps](https://github.com/FancyPixel/gulps) - Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
 * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - This repository contains an example Highstreet WatchKit app. ⌚️
