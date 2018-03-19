@@ -1442,7 +1442,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ARCarMovement](https://github.com/antonyraphel/ARCarMovement) - This is navigation example on google map. Here Marker move as vehicles moves with turns as uber does in their app. Using old and new coordinates animating bearing value the markers are moving. 
 * [asmaplauncher](https://www.cocoacontrols.com/controls/asmaplauncher) - ASMapLauncher is a library for iOS written in Swift that helps navigation with various mapping applications.
 * [DistancePicker](https://github.com/qmathe/DistancePicker) - Custom UIKit control to select a distance with a pan gesture, written in Swift.
-* [DynamicBubble](https://github.com/vladaverin24/DynamicBubble) - Interactive Speech Balloon/Bubble view with rich customization UI for app user..
+* [DynamicBubble](https://github.com/vladaverin24/DynamicBubble) - Interactive Speech Balloon/Bubble view with rich customization UI for app user.
+* [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - 360° flyover on an MKMapView.
 * [GooglePlacesClone](https://github.com/VishalNandoriya/GooglePlacesClone) - This repository aims for a tutorial on how to use the Google Places API in conjunction with Google Maps iOS SDK.
 * [GpxLocationManager](https://github.com/vermont42/GpxLocationManager) - GpxLocationManager is a replacement for CLLocationManager that allows the developer to use GPS data from GPX files or CLLocation arrays for testing.
 * [JDSwiftHeatMap](https://github.com/jamesdouble/JDSwiftHeatMap) - JDSwiftMap is an IOS Native MapKit Library. You can easily make a highly customized HeatMap.
@@ -1520,6 +1521,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AirBar](https://github.com/uptechteam/AirBar) - UIScrollView driven expandable menu.
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title.
 * [circle-menu)](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant menu with a circular layout.
+* [ContextMenu](https://github.com/GitHawkApp/ContextMenu) - An iOS context menu UI inspired by Things 3.
 * [DPEdgeMenu-Swift](https://github.com/HongliYu/DPEdgeMenu-Swift) - Simple menu appear from four directions of screen edge.
 * [DropDown](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS.
 * [DropDownMenuKit](https://github.com/qmathe/DropDownMenuKit) - UIKit drop down menu, simple yet flexible and written in Swift.
