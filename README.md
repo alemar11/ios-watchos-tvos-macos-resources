@@ -449,6 +449,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 ## App macOS
 
+* [Open source macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps) - List of open source applications for macOS.
+
 #### 🔹*Obj-C*
 * [Armchair](https://github.com/UrbanApps/Armchair) - A simple yet powerful App Review Manager for iOS and OSX in Swift. `macOS`
 * [GIFs](https://github.com/orta/GIFs) - A Mac App for finding GIFs. `macOS`
