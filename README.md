@@ -2151,6 +2151,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔹*Obj-C*
 * [AHTabBarController](https://github.com/ArthurDevNL/AHTabBarController) - A traditional UITabBarController with possibilities of adding multiple items behind every tab.
 * [AXSideButtonTabBarController](https://github.com/akiroom/AXSideButtonTabBarController) - Simple tab bar controller with side buttons.
+* [BATabBarController](https://github.com/antiguab/BATabBarController) A TabBarController with a unique animation for selection.
 * [BFPaperTabBarController](https://github.com/bfeher/BFPaperTabBarController)
 * [BKSegmentedViewController](https://github.com/bhavya-kothari/BKSegmented-OR-TabbarViewController)
 * [BROptionsButton](https://github.com/BasheerSience/BROptionsButton)
@@ -2174,6 +2175,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RSCustomTabbarController](https://github.com/ratulSharker/RSCustomTabbarController)
 * [SWGradientTabBar](https://github.com/satheeshwaran/SWGradientTabBar)
 * [VMTabbarCustomize](https://github.com/VuMai/VMTabbarCustomize)
+* [WXTabBarController](https://github.com/leichunfeng/WXTabBarController)
 * [ZRScrollableTabBar](https://github.com/raihan/ZRScrollableTabBar)
 
 #### 🔸*Swift*
@@ -2194,10 +2196,12 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MiniTabBar](https://github.com/D-32/MiniTabBar) - A minimal tab bar alternative.
 * [ScrollPager](https://github.com/aryaxt/ScrollPager)
 * [Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control written in Swift.
+* [SMSwipeableTabView](https://github.com/smahajan28/SMSwipeableTabView) - Swipeable Views with Tabs (Like Android SwipeView With Tabs Layout).
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
 * [SwiftPrefs](https://github.com/emiscience/SwiftPrefs) - A Yosemite-only demo app showing a preferences window using Swift, storyboards and NSTabViewController. `macOS`
 * [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
 * [TabbarControllerHideable](https://github.com/ezefranca/TabbarControllerHideable) - A drop in UITabbarController with show and hide options.
+* [Tabby](https://github.com/hyperoslo/Tabby) - A fancy tabbar.
 * [TabDrawer](https://github.com/winslowdibona/TabDrawer) - TabDrawer is a customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, or display a customizable drawer.
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view.
 * [TiltedTabView](https://github.com/IMcD23/TiltedTabView) - iOS control to replicate the tab switcher in Safari for iOS.
