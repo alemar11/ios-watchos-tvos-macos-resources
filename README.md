@@ -2184,7 +2184,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Animated-Tab-Bar](https://github.com/Ramotion/animated-tab-bar)
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 3.0.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)
-* [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar)
+* [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar.
 * [HHTabBarView](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tabbar view.
 * [KPSmartTabBar](https://github.com/KrishnaPatell/KPSmartTabBar) - A fully customisable and flexible tab bar controller.
 * [LXPageViewWithButtonsViewController](https://github.com/lxian/LXPageViewWithButtonsViewController) - Combines UIPageViewController and highly customisable page selection tabs.
@@ -2199,10 +2199,12 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
 * [TabbarControllerHideable](https://github.com/ezefranca/TabbarControllerHideable) - A drop in UITabbarController with show and hide options.
 * [TabDrawer](https://github.com/winslowdibona/TabDrawer) - TabDrawer is a customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, or display a customizable drawer.
+* [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view.
 * [TiltedTabView](https://github.com/IMcD23/TiltedTabView) - iOS control to replicate the tab switcher in Safari for iOS.
 * [TransitionableTab](https://github.com/Interactive-Studio/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
 * [TTabBarViewController](https://github.com/msalah1193/TTabBarViewController) - Custom UITabBarController class which draw line indicator with custom color above or below the selected tab bar item using 'selectionIndicatorImage' property on the UITabBar class.
 * [WBSegmentControl](https://github.com/xiongxiong/WBSegmentControl) - An easy to use, customizable segment control, can be used to show tabs.
+* [WormTabStrip](https://github.com/EzimetYusup/WormTabStrip) - Worm TabStrip Android ViewPager for iOS written in Swift, built from other view controllers placed inside a scroll view.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 
 ## TableView
