@@ -1923,6 +1923,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 ## Script
 
+* [Swift-For-Scripting](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative Swift Scripting materials.
+
 #### 🔸*Swift*
 * [AppIcon](https://github.com/Nonchalant/AppIcon) - AppIcon generates *.appiconset contains each resolution image for iOS.
 * [Marathon](https://github.com/JohnSundell/Marathon) - Marathon makes it easy to write, run and manage your Swift scripts.
