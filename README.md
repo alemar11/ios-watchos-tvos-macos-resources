@@ -1267,6 +1267,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift.
 * [AGTypewriterLabel](https://github.com/aivantg/AGTypewriterLabel) - Simple UILabel that displays text character by character as it would be typed by a typewriter.
+* [AnimatedMaskLabel](https://github.com/imjog/AnimatedMaskLabel) - Animated Mask Label is a nice gradient animated label. This is an easy way to add a shimmering effect to any view in your app. It is useful as an unobtrusive loading indicator.
 * [ASAttributedLabelNode](https://github.com/alex-alex/ASAttributedLabelNode)
 * [EFAutoScrollLabel](https://github.com/EyreFree/EFAutoScrollLabel) - A label which can scroll when text length beyond the width of label.
 * [GlitchLabel](https://github.com/kciter/GlitchLabel) - glitch effect
@@ -2176,6 +2177,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ZRScrollableTabBar](https://github.com/raihan/ZRScrollableTabBar)
 
 #### 🔸*Swift*
+* [Adaptive TabBar](https://github.com/Ramotion/adaptive-tab-bar) - AdaptiveController is a 'Progressive Reduction' Swift UI module for adding custom states to Native or Custom iOS UI elements.
 * [AHCategoryView](https://github.com/ivsall2012/AHCategoryView)
 * [AMPagerTabs](https://github.com/Abedalkareem/AMPagerTabs) - Pager tabs for iOS.
 * [AnimateTabbarBadgeView](https://github.com/AliAdam/AnimateTabbarBadgeView) - UITabBarController Extention to make badge View animated.
