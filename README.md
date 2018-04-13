@@ -879,6 +879,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CardsStack](https://github.com/priteshrnandgaonkar/CardsStack) - An awesome set of cards at your disposal 
 * [CollectionViewCustom](https://github.com/damienromito/CollectionViewCustom) - Custom CollectionViewLayout with a custom paging size by overriding scrollViewWillEndDragging.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
+* [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - Reimagining UICollectionView.
 * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts.
 * [DragDropCollection](https://github.com/runrunrun/DragDropCollection) - Custom UICollectionView allowing cells to be dragged and dropped.
 * [FadingEdgesCollectionView](https://github.com/alexandre-g/FadingEdgesCollectionView) - A UICollectionView that fades it's edges to hint about more content.
@@ -2157,6 +2158,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [BROptionsButton](https://github.com/BasheerSience/BROptionsButton)
 * [CMTabbarView](https://github.com/moyunmo/CMTabbarView) - CMTabbarView is a scrolling tab bar,provides a simple to implement view like NetEase News.
 * [DMTabBarController](https://github.com/danieljmac/DMTabBarController)
+* [ESTabBarController](https://github.com/ezescaruli/ESTabBarController) - A custom tab bar controller for iOS.
 * [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) - Folding tab bar
 * [GGTabBar](https://github.com/Goles/GGTabBar)
 * [GUITabPagerViewController](https://github.com/guilhermearaujo/GUITabPagerViewController)
@@ -2173,6 +2175,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController)
 * [RKTabView](https://github.com/RafaelKayumov/RKTabView) - This is super flexible Custom tab bar controller implementation.
 * [RSCustomTabbarController](https://github.com/ratulSharker/RSCustomTabbarController)
+* [STColorfulTabBar](https://github.com/saitjr/STColorfulTabBar)
 * [SWGradientTabBar](https://github.com/satheeshwaran/SWGradientTabBar)
 * [VMTabbarCustomize](https://github.com/VuMai/VMTabbarCustomize)
 * [WXTabBarController](https://github.com/leichunfeng/WXTabBarController)
