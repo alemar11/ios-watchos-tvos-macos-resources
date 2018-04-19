@@ -314,6 +314,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Advance](https://github.com/storehouse/Advance) - A powerful animation framework for iOS.
 * [Anima](https://github.com/satoshin21/Anima#)
 * [AnimateBlurRadius](https://github.com/fichek/AnimateBlurRadius) - An example of how to interactively animate blur radius on iOS 10.
+* [AnimatedWaveView](https://github.com/j-wilkin/AnimatedWaveView) - An interactive wave animation view built in Swift.
 * [ATScrollingNumbers](https://github.com/anooptomar1/ATScrollingNumbers) - Scrolling number control with circular progress.
 * [BLEPrgressView](https://github.com/ymmtshny/BLEPrgressView) - I am making an animation view for Bluetooth connection.
 * [Bubble](https://github.com/goldmoment/Bubble)
@@ -474,6 +475,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Clipy](https://github.com/Clipy/Clipy) Clipboard extension app for Mac OSX. `macOS`
 * [cloudy](https://github.com/calebd/cloudy) - Simple Overcast app for OS X. `macOS`
 * [CoinPriceBar](https://github.com/T-Pham/CoinPriceBar) - Cryptocurrency prices on MacBook Touch Bar. `macOS`
+* [convertappicon](https://github.com/kreait/convertappicon) - Converts a pdf into multiple app icons for iOS and watchOS. `macOS`
 * [CopyPasta](https://github.com/alltheflow/CopyPasta) - Pasteboard feed Mac app. `macOS`
 * [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. `macOS`
 * [DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon. `macOS`
@@ -880,6 +882,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CollectionViewCustom](https://github.com/damienromito/CollectionViewCustom) - Custom CollectionViewLayout with a custom paging size by overriding scrollViewWillEndDragging.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - Reimagining UICollectionView.
+* [cvvm](https://github.com/theswiftdev/cvvm) - Ultimate UICollectionView guide with iOS examples written in Swift.
 * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts.
 * [DragDropCollection](https://github.com/runrunrun/DragDropCollection) - Custom UICollectionView allowing cells to be dragged and dropped.
 * [FadingEdgesCollectionView](https://github.com/alexandre-g/FadingEdgesCollectionView) - A UICollectionView that fades it's edges to hint about more content.
