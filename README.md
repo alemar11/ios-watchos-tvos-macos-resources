@@ -6,6 +6,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects.](https://github.com/vsouza/awesome-ios)
 - [A collaborative list of awesome swift resources](https://github.com/matteocrippa/awesome-swift)
 - [A curated list of awesome Swift frameworks](https://github.com/Wolg/awesome-swift)
+- [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS. `macOS`
 - [Awesome OSX](https://github.com/iCHAIT/awesome-osx) - A curated list of awesome applications, softwares, tools and shiny things for OSX. `macOS`
 - [Awesome Open Source Mac Apps](https://github.com/jeffreyjackson/mac-apps)
 - [Awesome Server Side Swift](https://github.com/Awesome-Server-Side-Swift/TheList)
@@ -368,6 +369,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [UIViewXXYBoom](https://github.com/xxycode/UIViewXXYBoom)
 * [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator is a library for building complex iOS UIView animations in an easy way. It provides one line animations for any view included the ones which contain other views like UITableView and UICollectionView with its cells or UIStackView with its arrangedSubviews.
 * [WVCheckMark](https://github.com/wvabrinskas/WVCheckMark) - Animated checkmark made with CoreAnimation.
+* [WWDC-2017-Session-230-Advance-Animations-with-UIKit](https://github.com/cgoldsby/WWDC-2017-Session-230-Advance-Animations-with-UIKit)
 
 ## App
 *Apps and tutorials*
@@ -597,6 +599,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 ## Augmented Reality
 
+* [Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources.
+
 #### 🔸*Swift*
 * [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR) - Well known game Snake written in Swift using ARKit.
 * [ARCharts](https://github.com/Boris-Em/ARCharts) - Lovely Augmented Reality Charts for iOS - Built with ARKit.
@@ -786,6 +790,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Attabench](https://github.com/lorentey/Attabench) - Microbenchmarking app for Swift with nice log-log plots.
 * [BarChart](https://github.com/nhatminh12369/BarChart) - This code demonstrate a way to build your own bar chart without using any third-party library. I don't recommend you to import BasicBarChart.swift and BeautifulBarChart.swift directly into your project. However, you should modify it according to your needs.
 * [ChartLegends](https://github.com/i-schuetz/ChartLegends) - Convenient and flexible legends for all kind of charts.
+* [CoreCharts](https://github.com/cagricolak/CoreCharts) - CoreCharts is a simple powerfull yet Charts library for apple products.
 * [CSPieChart](https://github.com/youkchansim/CSPieChart) - This is pie chart that is very easy to use and customizable design.
 * [DDSpiderChart](dadalar/DDSpiderChart) - Easy to use Spider (Radar) Chart library for iOS written in Swift.
 * [Graphs](https://github.com/recruit-mtl/Graphs) - Light weight charts view generater for iOS. Written in Swift.
@@ -1412,6 +1417,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number.
 
 ## Machine Learning
+
+- [fantastic-machine-learning](https://github.com/onmyway133/fantastic-machine-learning) - A curated list of machine learning resources, preferably CoreML.
 
 #### 🔸*Swift*
 * [Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
@@ -2880,6 +2887,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PictureInPicture](https://github.com/malt03/PictureInPicture)
 * [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
 * [SandboxBrowser](https://github.com/Joe0708/SandboxBrowser) - A simple iOS sandbox file browser, you can share files through AirDrop.
+* [ScrollingStackViewController](https://github.com/justeat/ScrollingStackViewController) - A view controller that uses root views of child view controllers as views in a UIStackView.
 * [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
 * [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - SIFloatingCollection is a component that provides logic similar to Apple Music genres selection.
 * [SJSegmentedViewController](https://github.com/subinspathilettu/SJSegmentedViewController) - SJSegmentedScrollView is a light weight generic controller written in Swift 2.3. Its a simple customizable controller were you can integrate any number of ViewControllers into a segmented controller with a header view controller.
