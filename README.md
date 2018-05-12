@@ -263,6 +263,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your iOS app is available, and prompt them with the App Store link.
 * [StatusAlert](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts. It is well suited for notifying user without interrupting user flow in iOS-like way.
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
+* [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a banner presenter library for iOS.
 * [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
 * [SwiftyPickerPopover](https://github.com/hsylife/SwiftyPickerPopover) - Popover with Picker by Swift 3/2.3 for iPhone/iPad, iOS9+.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
