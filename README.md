@@ -2744,6 +2744,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SGPlayer](https://github.com/libobjc/SGPlayer) - A powerful media player framework for iOS, macOS, and tvOS. Support 360° panorama video, VR video. RTMP streaming.
 * [Periscope-VideoViewController](https://github.com/gontovnik/Periscope-VideoViewController) - Video view controller with Periscope fast rewind control.
 * [PryntTrimmerView](https://github.com/prynt/PryntTrimmerView) - A set of tools to trim, crop and select frames inside a video.
+* [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - Framework to Play a Video in the Background of any UIView.
 * [Swifty360Player](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
 * [VRDemo-Swift](https://github.com/Huanhoo/VRDemo-Swift) - RDemo-Swift is a 360-degree video player demo which achieved use Swift3.0 and OpenGL ES.
 
@@ -2988,6 +2989,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwipeTransition](https://github.com/tattn/SwipeTransition) - Allows trendy transitions using swipe gesture such as "swipe back".
 * [Transition](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions.
 * [TransitionManager](https://github.com/cemolcay/TransitionManager) - Painless custom transitioning. Easy extend, easy setup, just focus on animations.
+* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line.
 * [View2ViewTransition](https://github.com/naru-jpn/View2ViewTransition) - Custom interactive view controller transition from one view to another view.
 * [VLCircularTransition](https://github.com/Vigneshlakshminarayanan/VLCircularTransition) - Circular ViewController Transition - Replacement to Apple's boring Push/Present Transitions.
 * [ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning) - ZoomTransitioning provides a custom transition with image zooming animation.
