@@ -179,6 +179,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔹*Obj-C*
 * [WLActivityViewController](https://github.com/an0/WLActivityViewController)
 
+#### 🔸*Swift*
+* [VisualActivityViewController](https://github.com/naturaln0va/VisualActivityViewController) - A way to represent what you’re sharing.
+
 ## AI
 
 #### 🔸*Swift*
