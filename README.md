@@ -2227,6 +2227,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TransitionableTab](https://github.com/Interactive-Studio/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
 * [TTabBarViewController](https://github.com/msalah1193/TTabBarViewController) - Custom UITabBarController class which draw line indicator with custom color above or below the selected tab bar item using 'selectionIndicatorImage' property on the UITabBar class.
 * [WBSegmentControl](https://github.com/xiongxiong/WBSegmentControl) - An easy to use, customizable segment control, can be used to show tabs.
+* [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
 * [WormTabStrip](https://github.com/EzimetYusup/WormTabStrip) - Worm TabStrip Android ViewPager for iOS written in Swift, built from other view controllers placed inside a scroll view.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 
