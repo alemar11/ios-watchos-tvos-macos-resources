@@ -1927,6 +1927,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Appz](https://github.com/SwiftKitz/Appz) - Launch external apps, and deeplink, with ease using Swift!
 * [branch deep linking](https://github.com/BranchMetrics/ios-branch-deep-linking)
 * [Compass](https://github.com/hyperoslo/Compass) - Compass helps you setup a central navigation system for your application.
+* [Crossroad](https://github.com/giginet/Crossroad) - Crossroad
 * [FeatherweightRouter](https://github.com/featherweightlabs/FeatherweightRouter) - Swift based Application State Router.
 * [IKRouter](https://github.com/IanKeen/IKRouter) - URLScheme router than supports auto creation of UIViewControllers for associated url parameters to allow creation of navigation stacks.
 * [Wayfaring](https://github.com/terut/Wayfaring) - Routing library for Swift.
