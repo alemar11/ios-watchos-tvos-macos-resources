@@ -720,6 +720,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SFlatButton](https://github.com/alexmeji/SFlatButton)
 * [SparkButtonDemo](https://github.com/saravananImaginea/SparkButtonDemo) - Demonstrates the SparkButton Animations that reflects the FB's Paper App's Like button animation.
 * [SquishButton](https://github.com/BalestraPatrick/SquishButton) - A button that squishes when pressed. As seen in the Clips app.
+* [SSSpinnerButton](https://github.com/simformsolutions/SSSpinnerButton) - Forget about typical stereotypic loading, It's time to change. SSSpinnerButton is an elegant button with a diffrent spinner animations.
 * [TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation.
 * [TKAnimatedCheckButton](https://github.com/entotsu/TKAnimatedCheckButton)
 * [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition)
