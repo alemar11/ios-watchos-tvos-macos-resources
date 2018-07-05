@@ -1151,6 +1151,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DPImageCache](https://github.com/dphans/DPImageCache) - Swift extension for UIImageView. Help loading image asynchronously and store local file cache.
 * [DPImageGenerator](https://github.com/dwipp/DPImageGenerator) - It's an image generator for default image.
 * [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate quick response code in Swift.
+* [FaceAware](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image.
 * [FlexibleImage](https://github.com/Kawoou/FlexibleImage) - A simple way to play with image!
 * [fog-machin](https://github.com/ngageoint/fog-machine) - The Fog Machine framework is a research and development effort to harness the computing power of multiple, locally connected iOS devices.
 * [Gifu](https://github.com/kaishin/Gifu) - High-performance animated GIF support for iOS in Swift.
@@ -2497,6 +2498,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ElValidator](https://github.com/dk53/ElValidator) - A simple plugin to help you validate textfield entries.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields)
 * [FluidValidator](https://github.com/frograin/FluidValidator) - General purpose validation system for objects, nested objects, enumerables written in Swift.
+* [Form](https://github.com/iZettle/Form) - Form is an iOS Swift library for building and styling UIs.
 * [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating UITableView based form.
 * [FormToolbar](https://github.com/sgr-ksmt/FormToolbar) - Simple, movable and powerful toolbar for UITextField and UITextView.
 * [formvalidator-swift](https://github.com/ustwo/formvalidator-swift) - A framework to validate inputs of text fields and text views in a convenient way.
