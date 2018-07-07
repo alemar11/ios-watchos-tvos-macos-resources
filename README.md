@@ -476,6 +476,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift* 
 * [AppWage](https://github.com/hankinsoft/AppWage) - iTunes connect reporting tool.
 * [BatteryNotifier](https://github.com/Kalvin126/BatteryNotifier) - OS X tool that warns you if your iOS devices needs a charge. `macOS`
+* [brisk](https://github.com/br1sk/brisk) - A macOS app for submitting radars. `macOS`
 * [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - A text editor that only allows the top 1000 most common words in English. `macOS`
 * [Clipinio](https://github.com/benjohnde/Clipinio) - Lightweight clipboard manager for OSX. `macOS`
 * [Clipy](https://github.com/Clipy/Clipy) Clipboard extension app for Mac OSX. `macOS`
