@@ -418,6 +418,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Hoopy](https://github.com/danielinoa/Hoopy) - Hoopy is a lightweight and minimal Dribbble client.
 * [iCopyPasta](https://github.com/alltheflow/iCopyPasta) - iOS app for your pasteboard feed, demo app for experimenting with RxSwift.
 * [insights-for-instagram](https://github.com/adimango/insights-for-instagram) - A simple iOS Instagram's media insights App written in Swift 4.
+* [ladybug](https://github.com/ethanhuang13/ladybug) - Handle rdar:// links gracefully.
 * [kickstarter](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 * [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) - JBWatchActivityIndicator - An easy way to generate activity indicator images for Apple Watch. ⌚️
