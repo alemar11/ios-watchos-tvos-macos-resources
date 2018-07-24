@@ -18,6 +18,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [List of awesome snippets, plugins, and extras for Xcode](https://github.com/jeffreyjackson/awesome-xcode) 
 - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS, watchOS and tvOS apps.
 - [The best FRP in iOS links.](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
+- [Top App Developers](https://github.com/app-developers/top)
 - [Swift Community Best Practices](https://github.com/schwa/Swift-Community-Best-Practices)
 - [SwiftKitz](https://github.com/SwiftKitz) - Collection of quality Swift kits (Appz, Storez, Datez, Notificationz, UIKitz, Graphicz).
 - [WWDC Students](https://github.com/wwdc) - This repository features the lists of WWDC scholarship entrants from each year, beginning in 2014.
@@ -415,6 +416,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GitHawk](https://github.com/GitHawkApp/GitHawk) - A GitHub project manager app for iOS.
 * [GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard) - Hang a TV in your open space or team room to show everyone what's up and get them up to speed. 📺
 * [gulps](https://github.com/FancyPixel/gulps) - Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
+* [headlines-iOS](https://github.com/Canillitapp/headlines-iOS)
 * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - This repository contains an example Highstreet WatchKit app. ⌚️
 * [Hoopy](https://github.com/danielinoa/Hoopy) - Hoopy is a lightweight and minimal Dribbble client.
 * [iCopyPasta](https://github.com/alltheflow/iCopyPasta) - iOS app for your pasteboard feed, demo app for experimenting with RxSwift.
