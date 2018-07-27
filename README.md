@@ -397,6 +397,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift* 
 * [AppStoreLikeExampleSwift3](https://github.com/IosPower/AppStoreLikeExampleSwift3) - Using CollectionView, UITableView, ScrollView, Such As AppStore.
+* [AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne) - AudioKit Synth One: Open-Source iOS Synthesizer App.
 * [bitbar](https://github.com/matryer/bitbar) - BitBar lets you put the output from any script/program in your Mac OS X Menu Bar.
 * [breadwallet](https://github.com/breadwallet/breadwallet-ios) - The iOS version of the Bread bitcoin wallet.
 * [Charter](https://github.com/matthewpalmer/Charter) - A Swift mailing list client for iPhone and iPad.
