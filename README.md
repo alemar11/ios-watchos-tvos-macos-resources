@@ -512,6 +512,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Twig](https://github.com/lukakerr/twig) A modern macOS markdown editor. `macOS`
 * [Up-Down](https://github.com/gjiazhe/Up-Down) - A menu bar widget for OS X that monitors upload and download speeds. `macOS`
 * [WWDC](https://github.com/insidegui/WWDC) - WWDC app for OS X. `macOS`
+* [xcode-dev-cleaner](https://github.com/vashpan/xcode-dev-cleaner) - If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you! `macOS`
 
 ## Architecture
 
