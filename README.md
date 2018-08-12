@@ -126,7 +126,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [TableViewCell](#tableviewcell)
 - [Testing](#testing)
 - [Text](#text)
-- [Textfield](#textfield)
+- [Textfield](#textfield-and-label)
 - [Timer](#timer)
 - [Toast Notification](#toast-notification)
 - [Toolbar](#toolbar)
@@ -451,6 +451,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
 * [TSWeChat](https://github.com/hilen/TSWeChat) - A WeChat alternative. Written in Swift.
 * [TVVLCPlayer](https://github.com/kodlian/TVVLCPlayer) - TVVLCPlayer lets you integrate easily a powerfull video player with playback control views to your tvOS apps. 📺
+* [Unwrap](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone.
 * [v2ex](https://github.com/darkerk/v2ex) - The unofficial V2EX app for iOS.
 * [VKMusic](https://github.com/ilyahal/VKMusic) - The app is designed for listening to music from vk.com.
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. ⌚️
@@ -1857,6 +1858,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MHProgressButton](https://github.com/emadhegab/MHProgressButton) - See the loading progress on your UIButton.
 * [OGCircularBar](https://github.com/OskarGroth/OGCircularBar) - Circular progress bar for macOS. `macOS`
 * [SRCountdownTimer](https://github.com/rsrbk/SRCountdownTimer) - This is the simple circle countdown with a configurable timer for iOS.
+* [TYProgressBar](https://github.com/yashthaker7/TYProgressBar) - Custom animating gradient progress bar.
 
 ## Pull To Refresh
 
@@ -1886,13 +1888,13 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [ADChromePullToRefresh](https://github.com/Antondomashnev/ADChromePullToRefresh)
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh compontent developed in Swift.
+* [FlippingNotch](https://github.com/quickbirdstudios/FlippingNotch) - Flipping Notch.
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl)
 * [GearRefreshControl](https://github.com/andreamazz/GearRefreshControl)
 * [JZSpringRefresh](https://github.com/newbdez33/JZSpringRefresh) - All around Unread.app like pull to refresh library.
 * [MAGearRefreshControl](https://github.com/micazeve/MAGearRefreshControl)
 * [PeriscopyPullToRefresh](https://github.com/anaglik/PeriscopyPullToRefresh)
 * [PZPullToRefresh](https://github.com/pixyzehn/PZPullToRefresh)
-* [PocketRefreshControl](https://github.com/wojteklukaszuk/articles) - tutorial [here](http://wojteklukaszuk.com/blog/2014/07/14/pocket-on-steroids)
 * [PullRefresh](https://github.com/zhaokaiyuan99/PullRefresh)
 * [PullToBounce](https://github.com/entotsu/PullToBounce)
 * [PullToMakeFlight](https://github.com/Yalantis/PullToMakeFlight) - Custom animated pull-to-refresh that can be easily added to UIScrollView
@@ -2240,6 +2242,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TiltedTabView](https://github.com/IMcD23/TiltedTabView) - iOS control to replicate the tab switcher in Safari for iOS.
 * [TransitionableTab](https://github.com/Interactive-Studio/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
 * [TTabBarViewController](https://github.com/msalah1193/TTabBarViewController) - Custom UITabBarController class which draw line indicator with custom color above or below the selected tab bar item using 'selectionIndicatorImage' property on the UITabBar class.
+* [VBRRollingPit](https://github.com/v-braun/VBRRollingPit) - Simple, beatiful and interactive UITabBar.
 * [WBSegmentControl](https://github.com/xiongxiong/WBSegmentControl) - An easy to use, customizable segment control, can be used to show tabs.
 * [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
 * [WormTabStrip](https://github.com/EzimetYusup/WormTabStrip) - Worm TabStrip Android ViewPager for iOS written in Swift, built from other view controllers placed inside a scroll view.
@@ -2462,8 +2465,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Typographizer](https://github.com/frankrausch/Typographizer) - Fix dumb quotation marks and apostrophes in Swift.
 * [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
 
-## Textfield
-*Textfields and Forms*
+## Textfield and Label
+*Textfields, labels and Forms*
 
 #### 🔹*Obj-C*
 * [AFViewShaker](https://github.com/ArtFeel/AFViewShaker)
@@ -2502,6 +2505,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AutocompleteField](https://github.com/filipstefansson/AutocompleteField) - Add word completion to your UITextFields.
 * [DateTextField](https://github.com/BeauNouvelle/DateTextField) - A Swift UITextField subclass designed to make entering dates easier, faster and more flexible than the standard UIDatePicker.
 * [DossyTextLabel](https://github.com/joeynelson42/DossyTextLabel) - A subclass of UILabel reminiscent of Strong Bad's faithful Tandy 400.
+* [DWAnimatedLabel](https://github.com/Dywane/DWAnimatedLabel) - An UILabel subclass that lets you animate text with different types.
 * [EGFloatingTextField](https://github.com/enisgayretli/EGFloatingTextField) - Implementation of Google's "Floating labels" of Material design.
 * [ElValidator](https://github.com/dk53/ElValidator) - A simple plugin to help you validate textfield entries.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields)
@@ -2659,6 +2663,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Bleu](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U.
 * [Buffer](https://github.com/alexdrone/Buffer) - Swift μ-framework for efficient array diffs, collection observation and cell configuration.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating feedback module.
+* [Cabbage](https://github.com/VideoFlint/Cabbage) - A video composition framework build on top of AVFoundation. It's simple to use and easy to extend.
 * [Caramel](https://github.com/CaramelForSwift/Caramel) - A portable I/O framework for Swift.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
 * [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities.
@@ -2667,6 +2672,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DCDirectoryWatcher](https://github.com/dcvz/DCDirectoryWatcher) - A lightweight class for monitoring directory changes on iOS.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Diamond](https://github.com/johnno1962/Diamond) - Swift scripting made easy.
+* [DifferenceKit](https://github.com/ra1028/DifferenceKit) - A fast and flexible O(n) difference algorithm framework for Swift collection.
 * [Differific](https://github.com/zenangst/Differific) - Differific - a fast and convenient diffing framework.
 * [Dollar](https://github.com/ankurp/Dollar) - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript.
 * [EmojiIntelligence](https://github.com/Luubra/EmojiIntelligence) - Neural Network built in Apple Playground using Swift.
@@ -2945,7 +2951,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [LHMaterialDesign](https://github.com/leostc/LHMaterialDesign)
 * [LicensingViewController](https://github.com/tiagomnh/LicensingViewController) - UIViewController subclass with a simple API for displaying licensing information.
 * [LoginKit](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
-* [LTSlidingViewController](https://github.com/ltebean/LTSlidingViewController) - Sliding ViewController allowing custom transition
+* [LTSlidingViewController](https://github.com/ltebean/LTSlidingViewController) - Sliding ViewController allowing custom transition.
+* [LZViewPager](https://github.com/ladmini/LZViewPager) - A powerful paging view with tab bar.
 * [MRFlipTransition](https://github.com/mrcrow/MRFlipTransition)
 * [MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController)
 * [octagonTransitioning](https://github.com/Oleksandren/octagonTransitioning)
