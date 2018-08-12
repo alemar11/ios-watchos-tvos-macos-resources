@@ -2990,6 +2990,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS 10 Apple Music now playing transition.
 * [DeckTransition](https://github.com/tungvoduc/DTContainerController) - A Swift container view controller to handle transitioning to a different child view controller.
+* [EasyTransitions](https://github.com/marcosgriselli/EasyTransitions) - A simple way to create custom interactive UIViewController transitions.
 * [Elastic](https://github.com/lkzhao/Elastic) - Fancy elastic transition powered by Metal, UIKit Dynamics, & Hero.
 * [ExpandingViewTransition](https://github.com/tomkowz/ExpandingViewTransition-Demo) - Example of how to create custom view controllers transition.
 * [Hero](https://github.com/lkzhao/Hero) - Supercharged transition engine for iOS.
