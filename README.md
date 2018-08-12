@@ -1026,6 +1026,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [timeLineiOS](https://github.com/romaHerman/timeLineiOS)
 
 #### 🔸*Swift*
+* [ADDatePicker](https://github.com/abhiperry/ADDatePicker) - A fully customizable iOS Horizontal PickerView library, written in pure swift.
 * [ASCalendar](https://github.com/scamps88/ASCalendar) - A calendar control for iOS written in swift with mvvm pattern.
 * [CalendarPopUp](https://github.com/orazz/CalendarPopUp)
 * [CalendarView](https://github.com/mmick66/CalendarView) - This is a calendar component for iOS written in Swift.
