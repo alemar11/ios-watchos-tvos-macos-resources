@@ -605,6 +605,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AudioKit](https://github.com/audiokit/AudioKit) - Open-source audio synthesis, processing, & analysis platform.
 * [Jukebox](https://github.com/teodorpatras/Jukebox) - Player for streaming local and remote audio files. Written in Swift.
 * [InstaBars](https://github.com/vaibhavxyz/InstaBars) - InstaBars is a simple animation for iOS applications inspired by equaliser in instagram application.
+* [Piano](https://github.com/saoudrizwan/Piano) - Easily play combinations of sound effects and Taptic Engine vibrations on iOS.
 * [SwiftySound](https://github.com/adamcichy/SwiftySound) - Swifty Sound is a simple library that lets you play sounds with a single line of code.
 * [TempiBeatDetection](https://github.com/jscalo/TempiBeatDetection) - Swift library that performs real-time or static beat detection on audio.
 * [TuningFork](https://github.com/comyarzaheri/TuningFork) - TuningFork is a simple utility for processing microphone input and interpreting pitch, frequency, amplitude, etc.
@@ -2005,6 +2006,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CMLazyScrollViewController](https://github.com/Mycose/CMLazyScrollViewController) - Lazy ScrollView with support for infinite scroll (using a paging system with UIViewControllers and not UIViews).
 * [CrossNavigation](https://github.com/artemstepanenko/CrossNavigation) - Any side navigation.
 * [Image-Carousel](https://github.com/robertrr61/Image-Carousel) - Add an array of images to a view and scroll them.
+* [Infinite-Grid-Swift](https://github.com/freshcode/Infinite-Grid-Swift) - Implementing an infinite grid using UIScrollview on iOS.
 * [LoopedContentsView](https://github.com/naru-jpn/LoopedContentsView) - View to display looped contents.
 * [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) - Simple parallax header for UIScrollView.
 * [ParallaxCarousel](https://github.com/taglia3/ParallaxCarousel) - A lightweight 3D Linear Carousel with parallax effect.
@@ -2532,6 +2534,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TLFloatLabelTextField](https://github.com/TekysLabPvtLtd/TLFloatLabelTextField) - A Beautiful and flexible text field control(along with the bottom line) implementation of "Float Label Pattern". 
 * [TweeTextField](https://github.com/oleghnidets/TweeTextField) - Lightweight set of text fields with nice animation and functionality.
 * [UITextField-Navigation](https://github.com/T-Pham/UITextField-Navigation) - UITextField-Navigation make it easier to navigate between UITextFields.
+* [UnderLineTextField](https://github.com/mohammadalijf/UnderLineTextField) - Simple UITextfield Subclass with state.
 * [VKAfterTimeTextField](https://github.com/vladislav-k/VKAfterTimeTextField) - VKAfterTimeTextField is a sub-class of UITextField which allows you to know when user edited it last time during current use session. Also it allows to notify after specific time interval when user ends editing. This is gives you a some kind of "setContinouos:false" feature like UISlider has.
 * [VMFloatLabel](https://github.com/varshylmobile/VMFloatLabel) - Swift based UITextField subclass with floating labels.
 
