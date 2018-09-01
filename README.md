@@ -421,6 +421,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - This repository contains an example Highstreet WatchKit app. ⌚️
 * [Hoopy](https://github.com/danielinoa/Hoopy) - Hoopy is a lightweight and minimal Dribbble client.
 * [iCopyPasta](https://github.com/alltheflow/iCopyPasta) - iOS app for your pasteboard feed, demo app for experimenting with RxSwift.
+* [Icro](https://github.com/hartlco/Icro) - Icro, a third-party micro.blog client.
 * [insights-for-instagram](https://github.com/adimango/insights-for-instagram) - A simple iOS Instagram's media insights App written in Swift 4.
 * [ladybug](https://github.com/ethanhuang13/ladybug) - Handle rdar:// links gracefully.
 * [kickstarter](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
@@ -451,6 +452,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
 * [TSWeChat](https://github.com/hilen/TSWeChat) - A WeChat alternative. Written in Swift.
 * [TVVLCPlayer](https://github.com/kodlian/TVVLCPlayer) - TVVLCPlayer lets you integrate easily a powerfull video player with playback control views to your tvOS apps. 📺
+* [Tweetometer](https://github.com/BalestraPatrick/Tweetometer) - An app to see who is tweeting in your timeline.
 * [Unwrap](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone.
 * [v2ex](https://github.com/darkerk/v2ex) - The unofficial V2EX app for iOS.
 * [VKMusic](https://github.com/ilyahal/VKMusic) - The app is designed for listening to music from vk.com.
