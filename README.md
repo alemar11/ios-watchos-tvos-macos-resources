@@ -398,6 +398,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift* 
 * [AppStoreLikeExampleSwift3](https://github.com/IosPower/AppStoreLikeExampleSwift3) - Using CollectionView, UITableView, ScrollView, Such As AppStore.
 * [AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne) - AudioKit Synth One: Open-Source iOS Synthesizer App.
+* [Beam for Reddit](https://github.com/PowerMobileTeam/NewsApp) - An open source Reddit client for iOS.
 * [bitbar](https://github.com/matryer/bitbar) - BitBar lets you put the output from any script/program in your Mac OS X Menu Bar.
 * [breadwallet](https://github.com/breadwallet/breadwallet-ios) - The iOS version of the Bread bitcoin wallet.
 * [Charter](https://github.com/matthewpalmer/Charter) - A Swift mailing list client for iPhone and iPad.
@@ -564,6 +565,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [YangMingShan](https://github.com/yahoo/YangMingShan) - YangMingShan is a collection of iOS UI components that we created while building Yahoo apps.
 
 #### 🔸*Swift*
+* [ATGMediaBrowser](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, with ability to create new transitions with ease.
 * [AGImageControls](https://github.com/agilie/AGImageControls) - cool tools for image edition.
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)
 * [AssetsPickerViewController](https://github.com/DragonCherry/AssetsPickerViewController) - Multiple Photo & Video Picker Controller by Swift.
@@ -1230,6 +1232,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JTSplashView](https://github.com/kubatru/JTSplashView) - Create the beautiful splash view with JTSplashView.
 * [KJOverlayTutorial](https://github.com/tranquan/KJOverlayTutorial) - A Tutorial for iOS.
 * [LaunchScreenSnapshot](https://github.com/alexruperez/LaunchScreenSnapshot) - Protects sensitive data in your app snapshot.
+* [material-showcase-ios](https://github.com/aromajoin/material-showcase-ios) - An elegant way to guide your beloved users in iOS apps - Material Showcase. 
 * [OnboardingKit](https://github.com/Athlee/OnboardingKit) - A simple and interactive framework for making iOS onboarding experience easy and fun.
 * [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design slider.
 * [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by Twitter splash.
@@ -1606,6 +1609,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GenericSocialApp - On Boarding](Generic Social App: App for sharing a social board) - Generic Social App: App for sharing a social board.
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - An elegant messages UI library for iOS.
 * [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, with audio/video calls and realtime chat conversations (full offline support).
+* [NoChat](https://github.com/little2s/NoChat) - A lightweight chat UI framework for iOS.
 * [q-municate-ios](https://github.com/QuickBlox/q-municate-ios)
 * [RCMessageKit](https://github.com/relatedcode/RCMessageKit) - RCMessageKit is a light-weight and easy-to-use Chat user interface framework for iOS.
 * [RRMessageController](https://github.com/remirobert/RRMessageController) - RRMessageController is a UIViewController, allows you to write a message with photos as attachment. A messages UI for iPhone. Support text && image. Works with all custom Keyboard for iOS 8.
@@ -1952,6 +1956,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Wayfaring](https://github.com/terut/Wayfaring) - Routing library for Swift.
 * [Yukina](https://github.com/charlesmwang/Yukina) - In App URL Router (Deep-Linking Framework for Swift).
 * [RFShortURL](https://github.com/rfunk82/RFShortURL) - RFShortURL provides free URL redirection service.
+* [route-composer](https://github.com/saksdirect/route-composer) - Protocol oriented, Cocoa UI abstractions based library that helps to handle view controllers composition, routing and deep linking tasks in the iOS application.
 * [Routing](https://github.com/jwalapr/Routing) - A Swift router implementation.
 * [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing for Swift.
 
@@ -2526,6 +2531,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ParkedTextField](https://github.com/gmertk/ParkedTextField) - A text field with a constant text/placeholder.
 * [PinCodeTextField](https://github.com/tkach/PinCodeTextField) - Simple pin code text input with underlined space for characters.
 * [PRGValidationField](https://github.com/ispiropoulos/PRGValidationField) - A Better way to make registration forms.
+* [RYFloatingInput](https://github.com/ChengRayYu/RYFloatingInput) - Floating label textfield component written in Swift.
 * [RSFloatInputView](https://github.com/roytornado/RSFloatInputView) - A Float Input View with smooth animation and supporting icon and seperator written with Swift.
 * [SelectableTextView](https://github.com/jhurray/SelectableTextView) - A text view that supports selection and expansion.
 * [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift. As used in the Skyscanner TravelPro iOS app.
@@ -2533,6 +2539,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - A small and lightweight library written in Swift that allows you to easily create forms.
 * [TextFieldCounter](https://github.com/serralvo/TextFieldCounter) - UITextField character counter with lovable UX.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift.
+* [TKFormTextField](https://github.com/hlung/TKFormTextField) - A nice UITextField subclass with built-in error label, floating label while editing, and underline.
 * [TLFloatLabelTextField](https://github.com/TekysLabPvtLtd/TLFloatLabelTextField) - A Beautiful and flexible text field control(along with the bottom line) implementation of "Float Label Pattern". 
 * [TweeTextField](https://github.com/oleghnidets/TweeTextField) - Lightweight set of text fields with nice animation and functionality.
 * [UITextField-Navigation](https://github.com/T-Pham/UITextField-Navigation) - UITextField-Navigation make it easier to navigate between UITextFields.
@@ -2685,7 +2692,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [EnigmaKit](https://github.com/mikaoj/EnigmaKit) - Enigma encryption in Swift.
 * [FeedKit](https://github.com/nmdias/FeedKit) - An RSS, Atom and JSON Feed parser written in Swift.
 * [FileBrowser](https://github.com/marmelroy/FileBrowser) - Finder-style iOS file browser written in Swift.
-* [FileKit](https://github.com/Dschee/FileKit) - Simple and expressive file management in Swift.
+* [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift.
 * [FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - A Swift ePub reader and parser framework for iOS.
 * [Format](https://github.com/marmelroy/format) - A Swift 2 formatter kit. Simple formatting syntax for decimal numbers, currency, addresses, ordinal numbers and hexadecimal colors.
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift that makes your life easier.
@@ -2720,6 +2727,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Run](https://github.com/khoiln/Run) - A Swift Wrapper for Grand Central Dispatch (GCD) Framework that supports method chaining.
 * [Runner](https://github.com/lucianomarisi/Runner) - Execute a block at specific time intervals.
 * [SCWebPreview](https://github.com/myoungsc/SCWebPreview) - Preview content in website.
+* [Schedule](https://github.com/jianstm/Schedule) -  Lightweight timed task scheduler for Swift.
 * [Send-It-for-Slack](https://github.com/MoralAlberto/Send-It-for-Slack) - Add Slack functionality with this Safari Extension.
 * [Serpent](https://github.com/nodes-ios/Serpent) - A protocol to serialize Swift structs and classes for encoding and decoding.
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps.
