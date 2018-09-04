@@ -1008,6 +1008,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AGVolumeControlView](https://github.com/agilie/AGVolumeControlView) - Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic.
 * [Counter](https://github.com/Juanpe/Counter) - Counter is powerful and multipurpose counter.
 * [padcontrol](https://github.com/gabrieloc/padcontrol) - A UIControl subclass for two-dimension directional input.
+* [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - Replace the system volume popup with a more subtle indicator.
 * [VolumeControlView](https://github.com/agilie/VolumeControlView) - Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic much easier.
 
 ## Date
@@ -1568,6 +1569,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DropDown](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS.
 * [DropDownMenuKit](https://github.com/qmathe/DropDownMenuKit) - UIKit drop down menu, simple yet flexible and written in Swift.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - A lightweight flyover side menu component for iOS with the UIDynamic's bouncing animation, UIGestures and UIBlurEffect. 
+* [ExpandingMenu](https://github.com/monoqlo/ExpandingMenu) - ExpandingMenu is menu button for iOS written in Swift.
 * [FAPanels](https://github.com/fahidattique55/FAPanels) - FAPanels - Swift.
 * [FatSidebar](https://github.com/CleanCocoa/FatSidebar) - Custom vertical button toolbar for macOS. `macOS`
 * [FlowingMenu](https://github.com/YannickL/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects in Swift.
