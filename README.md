@@ -1006,8 +1006,10 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter.
 * [AGVolumeControlView](https://github.com/agilie/AGVolumeControlView) - Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic.
+* [CircleControl](https://github.com/ChristianMoler/CircleControl)
 * [Counter](https://github.com/Juanpe/Counter) - Counter is powerful and multipurpose counter.
 * [padcontrol](https://github.com/gabrieloc/padcontrol) - A UIControl subclass for two-dimension directional input.
+* [RulerControl](https://github.com/philmitchell/RulerControl) - RulerControl is a draggable, resizable UIControl that provides real world length measurement.
 * [SpinWheelControl](https://github.com/joshdhenry/SpinWheelControl) - An inertial spinning wheel UI control that allows selection of an item. Cocoapod written in Swift.
 * [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - Replace the system volume popup with a more subtle indicator.
 * [VolumeControlView](https://github.com/agilie/VolumeControlView) - Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic much easier.
