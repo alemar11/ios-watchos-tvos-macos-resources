@@ -413,6 +413,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [EventBlankApp](https://github.com/icanzilb/EventBlankApp) - A free open source iOS app for events or conferences.
 * [FileExplorer](https://github.com/augustyniak/FileExplorer) - FileExplorer is a powerful iOS file browser that allows its users to choose and remove files and/or directories.
 * [Files](https://github.com/JohnSundell/Files) - A nicer way to handle files & folders in Swift.
+* [flappy-fly-bird](https://github.com/jVirus/flappy-fly-bird) - Flappy Fly-Bird is an iOS/SpriteKit game written using the latest verion of Swift programming language and GameplayKit.
 * [furni-ios](https://github.com/twitterdev/furni-ios) - Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform.
 * [Giovanni](https://github.com/gabrieloc/GIOVANNI) - A Gameboy Emulator for the Apple Watch. ⌚️
 * [GitHawk](https://github.com/GitHawkApp/GitHawk) - A GitHub project manager app for iOS.
@@ -424,7 +425,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [iCopyPasta](https://github.com/alltheflow/iCopyPasta) - iOS app for your pasteboard feed, demo app for experimenting with RxSwift.
 * [Icro](https://github.com/hartlco/Icro) - Icro, a third-party micro.blog client.
 * [insights-for-instagram](https://github.com/adimango/insights-for-instagram) - A simple iOS Instagram's media insights App written in Swift 4.
+* [ios-spritekit-tic-tac-toe](https://github.com/jVirus/ios-spritekit-tic-tac-toe) - Class Tic Tac Toe reincarnation with AI and state machines. The app is ready-made, using Sprite and Gameplay Kits.
 * [ladybug](https://github.com/ethanhuang13/ladybug) - Handle rdar:// links gracefully.
+* [Llitgi](https://github.com/xmollv/Llitgi) - A simple & lightweight Pocket client for iOS.
 * [kickstarter](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 * [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) - JBWatchActivityIndicator - An easy way to generate activity indicator images for Apple Watch. ⌚️
@@ -441,9 +444,11 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [pokemon-weakness-ios](https://github.com/pokeweak/pokemon-weakness-ios) - Source code for Pokemon Weakness iOS application. 
 * [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan) - Open Source Weather App created with Swift.
 * [ReviewTime](https://github.com/nthegedus/ReviewTime) - Review Time is an open source app for iOS written in Swift that show the average review times for iOS and the Mac Apps using data crowdsourced from AppReviewTime.
+* [Rival](https://github.com/victorchu8/Rival) - A fitness iOS application that allows users to track, view and compete against friends. Built with Swift and Firebase.
 * [Sentiments](https://github.com/kyleweiner/Sentiments) - Sentiments is an iOS app written in Swift that analyzes text for positive or negative sentiment.
 * [sismicapp-ios](https://github.com/jbeleno/sismicapp-ios) - Sismicapp app for iOS, developed in swift using MVVM with RXSwift.
 * [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift) - SoundCloud client written on Swift.
+* [summon](https://github.com/eonist/summon) - Summon a person to your exact location in a building.
 * [Swift Evolution](https://github.com/swift-evolution/ios) - An iOS version of Swift Evolution.
 * [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - Swift Radio is an open source radio station app with robust and professional features.
 * [SwiftHN](https://github.com/Dimillian/SwiftHN) - A Hacker News reader in Swift.
@@ -1635,6 +1640,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ForceBlur](https://github.com/Yalantis/ForceBlur) - ForceBlur Animation for iOS Messaging Apps.
 * [FTChatMessageDemoProject](https://github.com/liufengting/FTChatMessageDemoProject) - FTChatMessageDemoProject, a chat message ui framework written in swift. Not quite finished.
 * [InAppNotify](https://github.com/lucabecchetti/InAppNotify) - Swift library to manage in app notification in swift language, like WhatsApp, Telegram, Frind, etc.
+* [InitialsImageView](https://github.com/bachonk/InitialsImageView) - A simple UIImageView extension for using initials as a profile image, written in swift.
 * [ListPlaceholder](https://github.com/malkouz/ListPlaceholder) - ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views.
 * [MessageBalloon](https://github.com/caiobzen/MessageBalloon) - A message balloon animation made with CoreAnimation.
 * [MessageProgressView](https://github.com/Tueno/MessageProgressView) - Simple loading animation for Swift.
