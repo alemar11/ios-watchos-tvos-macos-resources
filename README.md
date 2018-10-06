@@ -354,6 +354,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MountainView](https://github.com/KyoheiG3/MountainView) - The animation curve looks like Mountain View.
 * [MTPrivateTrainerAnimation](https://github.com/MartinRGB/MTPrivateTrainerAnimation)
 * [MTRipple](https://github.com/manekdilip/MTRipple) - Repository for Ripple Effect.
+* [NaughtyImageView](https://github.com/kevinzhow/NaughtyImageView) - UIImageView Can Animate Sprite Image.
 * [Pastel](https://github.com/cruisediary/Pastel) - Instagram like Gradient background animation.
 * [PIRipple](https://github.com/pixel-ink/PIRipple) - Ripple Effect for iOS (swift)
 * [PowerUpYourAnimations](https://github.com/icanzilb/PowerUpYourAnimations) - Sample code from talks on advanced animations: [link](https://realm.io/news/altconf-marin-todorov-animations/).
@@ -400,6 +401,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne) - AudioKit Synth One: Open-Source iOS Synthesizer App.
 * [Beam for Reddit](https://github.com/PowerMobileTeam/NewsApp) - An open source Reddit client for iOS.
 * [bitbar](https://github.com/matryer/bitbar) - BitBar lets you put the output from any script/program in your Mac OS X Menu Bar.
+* [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Player for your DRM-free audiobooks.
 * [breadwallet](https://github.com/breadwallet/breadwallet-ios) - The iOS version of the Bread bitcoin wallet.
 * [Charter](https://github.com/matthewpalmer/Charter) - A Swift mailing list client for iPhone and iPad.
 * [Cherry](https://github.com/kenshin03/Cherry) - Mini Pomodoro Timer app designed for the  Watch. Written in Swift. ⌚️
@@ -413,6 +415,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [EventBlankApp](https://github.com/icanzilb/EventBlankApp) - A free open source iOS app for events or conferences.
 * [FileExplorer](https://github.com/augustyniak/FileExplorer) - FileExplorer is a powerful iOS file browser that allows its users to choose and remove files and/or directories.
 * [Files](https://github.com/JohnSundell/Files) - A nicer way to handle files & folders in Swift.
+* [fireworks](https://github.com/tomkowz/fireworks) - Fireworks for UIView.
 * [flappy-fly-bird](https://github.com/jVirus/flappy-fly-bird) - Flappy Fly-Bird is an iOS/SpriteKit game written using the latest verion of Swift programming language and GameplayKit.
 * [furni-ios](https://github.com/twitterdev/furni-ios) - Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform.
 * [Giovanni](https://github.com/gabrieloc/GIOVANNI) - A Gameboy Emulator for the Apple Watch. ⌚️
@@ -424,6 +427,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Hoopy](https://github.com/danielinoa/Hoopy) - Hoopy is a lightweight and minimal Dribbble client.
 * [iCopyPasta](https://github.com/alltheflow/iCopyPasta) - iOS app for your pasteboard feed, demo app for experimenting with RxSwift.
 * [Icro](https://github.com/hartlco/Icro) - Icro, a third-party micro.blog client.
+* [Image-to-Ascii-Art](https://github.com/liamrosenfeld/Image-to-Ascii-Art) - An iOS app that can turn any image into ascii art.
 * [insights-for-instagram](https://github.com/adimango/insights-for-instagram) - A simple iOS Instagram's media insights App written in Swift 4.
 * [ios-spritekit-tic-tac-toe](https://github.com/jVirus/ios-spritekit-tic-tac-toe) - Class Tic Tac Toe reincarnation with AI and state machines. The app is ready-made, using Sprite and Gameplay Kits.
 * [ladybug](https://github.com/ethanhuang13/ladybug) - Handle rdar:// links gracefully.
@@ -715,6 +719,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FlatButton](https://github.com/OskarGroth/FlatButton) - Layer based NSButton with Interface Builder styling options. `macOS`
 * [GNTickerButton](https://github.com/gonzalonunez/GNTickerButton)
 * [Hamburger Menu Button](https://github.com/toannt/Hamburger-Menu-Button)
+* [HapticButton](https://github.com/BalestraPatrick/HapticButton) - A button that is triggered based on the 3D Touch pressure, similar to the iOS 11 control center.
 * [iOS-camera-button](https://github.com/otusweb/iOS-camera-button) - A button that behave the same way as the video camera button in the iOS camera.
 * [JDJellyButton](https://github.com/jamesdouble/JDJellyButton) - JDJellyButton is a high-cutomization navigation Button.
 * [JOEmojiableBtn](https://github.com/lojals/JOEmojiableBtn) - Emoji selector like Facebook Reactions.
@@ -900,6 +905,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [ADMozaicCollectionViewLayout](https://github.com/Antondomashnev/ADMozaicCollectionViewLayout) - ADMozaicCollectionViewLayout is yet another UICollectionViewLayout subclass that implements "brick" or "mozaic" layout.
+* [AlignedCollectionViewFlowLayout](https://github.com/mischa-hildebrand/AlignedCollectionViewFlowLayout) - A collection view layout that gives you control over the horizontal and vertical alignment of the cells.
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
 * [AppleNews-CollectionView](https://github.com/mhlangagc/AppleNews-CollectionView) - An example on how to use nested Collection Views through implementing the Apple News App Collection View Layout.
 * [appstore-clone](https://github.com/phillfarrugia/appstore-clone) - An experimental clone of the new iOS 11 App Store app.
@@ -1245,6 +1251,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [material-showcase-ios](https://github.com/aromajoin/material-showcase-ios) - An elegant way to guide your beloved users in iOS apps - Material Showcase. 
 * [OnboardingKit](https://github.com/Athlee/OnboardingKit) - A simple and interactive framework for making iOS onboarding experience easy and fun.
 * [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design slider.
+* [Presentation](https://github.com/hyperoslo/Presentation) - Presentation helps you to make tutorials, release notes and animated pages.
 * [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by Twitter splash.
 * [RMParallax](https://github.com/michaelbabiy/RMParallax) - The way to impress users on the first app launch.
 * [SoundCloudTransition](https://github.com/xxxAIRINxxx/SoundCloudTransition) - Custom interactive transition like SoundCloud iOS App.
@@ -2121,6 +2128,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KJCurveSlider](https://github.com/KiranJasvanee/KJCurveSlider)
 * [WESlider](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management.
 * [WOWMarkSlider](https://github.com/zhouhao27/WOWMarkSlider) - A customisable UISlider.
+* [ZMSwiftRangeSlider](https://github.com/nanjingboy/ZMSwiftRangeSlider) - A simple Range Slider library by Swift.
 
 ## Snippet
 
@@ -2865,6 +2873,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FAQView](https://github.com/mukeshthawani/FAQView) - An easy to use FAQ view for iOS written in Swift.
 * [FloatingView](https://github.com/PersianDevelopers/FloatingView)
 * [FNReactionsView](https://github.com/fabiosoft/FNReactionsView) - FNReactionsView is a customizable control (based on UIView) to give people a way to show floating emoji like facebook does during live stream, easy way.
+* [GDPerformanceView](https://github.com/dani-gavrilov/GDPerformanceView-Swift) - Shows FPS, CPU usage, app and iOS versions above the status bar and report FPS and CPU usage via delegate.
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A fancy hexagonal layout for displaying data like your Apple Watch.
 * [HGRippleRadarView](https://github.com/HamzaGhazouani/HGRippleRadarView) - A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
