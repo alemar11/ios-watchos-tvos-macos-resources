@@ -1575,6 +1575,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ContextMenu](https://github.com/GitHawkApp/ContextMenu) - An iOS context menu UI inspired by Things 3.
 * [DPEdgeMenu-Swift](https://github.com/HongliYu/DPEdgeMenu-Swift) - Simple menu appear from four directions of screen edge.
 * [DropDown](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS.
+* [Dropdowns](https://github.com/hyperoslo/Dropdowns) - Dropdown in Swift.
 * [DropDownMenuKit](https://github.com/qmathe/DropDownMenuKit) - UIKit drop down menu, simple yet flexible and written in Swift.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - A lightweight flyover side menu component for iOS with the UIDynamic's bouncing animation, UIGestures and UIBlurEffect. 
 * [ExpandingMenu](https://github.com/monoqlo/ExpandingMenu) - ExpandingMenu is menu button for iOS written in Swift.
@@ -2380,6 +2381,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [ActionCell](https://github.com/xiongxiong/ActionCell) - Easy to use UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 * [BWSwipeRevealCell](https://github.com/bitwit/BWSwipeRevealCell) - A Swift library for swipeable table cells.
+* [ExpandableCell](https://github.com/younatics/ExpandableCell) - Awesome expandable, collapsible tableview cell for iOS written in Swift 4.
 * [ExpandableTableView](https://github.com/rondinellimorais/ExpandableTableView)  
 * [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - Expanding table view cells using `UIStackView in iOS 9.
 * [EVSlidingTableViewCell](https://github.com/epv44/EVSlidingTableViewCell) - Custom UITableViewCell that can be swiped either way to reveal a "drawer" with between 1 and 4 customizable action buttons. These action buttons fade and grow into view as the drawer is swiped. This cell works on all orientations and all devices.
