@@ -878,6 +878,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JCCollectionViewWaterfallLayout](https://github.com/lijingcheng/JCCollectionViewWaterfallLayout) - Support multiple section, and can add headerView and footerView.
 * [JMCFlexibleLayout](https://github.com/izotx/JMCFlexibleLayout) - Self-sizable Collection View.
 * [JGTransitionCollectionView](https://github.com/JayGajjar/JGTransitionCollectionView)
+* [LiveCollections](https://github.com/scribd/LiveCollections) - Automatically perform UITableView and UICollectionView animations between two sets of immutable data. It supports generic data types and is fully thread-safe.
 * [MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts) - An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.
 * [MJParallaxCollectionView](https://github.com/mayuur/MJParallaxCollectionView)
 * [MONUniformFlowLayout](https://github.com/mownier/MONUniformFlowLayout) - A simple flow layout the handles the arrangement of the items in a collection view.
@@ -1706,6 +1707,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 * [Bartinter](https://github.com/MaximKotliar/Bartinter) - Changes your status bar depending on content behind it.
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
+* [DropdownTitleView](https://github.com/GitHawkApp/DropdownTitleView) - A UINavigationItem.titleView compatible UIControl with a title, subtitle, and dropdown.
 * [ImageInNavigationBarDemo](https://github.com/tungfam/ImageInNavigationBarDemo) - Demo project that shows a resizable image in right top corner of Navigation Bar with Large Title (iOS11).
 * [KJNavigationViewAnimation](https://github.com/KiranJasvanee/KJNavigationViewAnimation)
 * [MTCoordinatorView](https://github.com/mittsuu/MTCoordinatorView) - The view coordinate arranged to the scrolling is adjusted.
@@ -2641,6 +2643,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SHSnackBarView](https://github.com/iamshezad/SHSnackBarView)
 * [Snackbar-iOS](https://github.com/JastAir/Snackbar-iOS) - Simple snackbar for ios from android platform.
 * [SpaceView](https://github.com/Xopoko/SpaceView)
+* [Squawk](https://github.com/GitHawkApp/Squawk) - Quick & interactive iOS alerts in Swift.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - A Swift extension that adds toast notifications to the UIView object class.
 * [TTGSnackbar](https://github.com/zekunyan/TTGSnackbar) - TTGSnackbar shows simple message and action button on the bottom or top of the screen with multi kinds of animation.
@@ -2810,6 +2813,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PryntTrimmerView](https://github.com/prynt/PryntTrimmerView) - A set of tools to trim, crop and select frames inside a video.
 * [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - Framework to Play a Video in the Background of any UIView.
 * [Swifty360Player](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
+* [VersaPlayer](https://github.com/josejuanqm/VersaPlayer) - Versatile Video Player implementation for iOS.
 * [VRDemo-Swift](https://github.com/Huanhoo/VRDemo-Swift) - RDemo-Swift is a 360-degree video player demo which achieved use Swift3.0 and OpenGL ES.
 
 ## View
