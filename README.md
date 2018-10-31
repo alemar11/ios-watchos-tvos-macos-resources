@@ -1332,10 +1332,12 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftyScrollingLabel](https://github.com/Sahilberi/SwiftyScrollingLabel) - SwiftScrollingLabel is a subclass of UIView and it adds a label on it with scrolling marquee effect.
 
 ## Layout
+
 #### 🔸*Swift*
 * [LayoutKit](https://github.com/linkedin/LayoutKit) - LayoutKit is a fast view layout library for iOS.
 * [Nori](https://github.com/yukiasai/Nori) - Easier to apply code based style guide to storyboard.
-* [SizeClasser](https://github.com/cemolcay/SizeClasser)- Device specific UITraitCollection helper with split view detection for iOS.
+* [SizeClasser](https://github.com/cemolcay/SizeClasser) - Device specific UITraitCollection helper with split view detection for iOS.
+* [texture](https://github.com/texturegroup/texture) - Smooth asynchronous user interfaces for iOS apps.
 * [TinyConstraints](https://github.com/roberthein/TinyConstraints)
 
 ## Loader
