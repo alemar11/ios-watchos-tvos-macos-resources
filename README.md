@@ -98,6 +98,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [PageControl](#pagecontrol)
 - [Pager](#pager)
 - [Payment](#payment)
+- [Panel](#panel)
 - [Permission](#permission)
 - [Persistance](#persistance)
 - [PickerView](#pickerview)
@@ -1774,6 +1775,13 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [caishen](https://github.com/prolificinteractive/caishen) - A Payment Card UI & Validator for iOS.
 * [CreditCardForm](https://github.com/orazz/CreditCardForm-iOS) - CreditCardForm-iOS is an iOS demo app that allows developers to create the UI which replicates an actual Credit Card.
 * [ThinCreditCard](https://github.com/tsarikovskiy/ThinCreditCard) -  Simple way to add a credit card.
+
+## Panel
+
+#### 🔸*Swift*
+* [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS.
+- [InteractiveCardViewAnimation](https://github.com/brianadvent/InteractiveCardViewAnimation)
+* [Panels](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
 
 ## PickerView
 
