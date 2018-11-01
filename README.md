@@ -137,6 +137,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [View](#view)
 - [ViewController](#viewcontroller)
 - [ViewController Transition](#viewcontroller-transition)
+- [WatchFace](#watchface)
 - [WebView](#webview)
 - [Window](#window)
 - [Xcode Extension](#xcode-extension)
@@ -224,6 +225,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NYAlertViewController](https://github.com/nealyoung/NYAlertViewController)
 * [OpinionzAlertView](https://github.com/Opinionz/OpinionzAlertView)
 * [RFRateMe](https://github.com/rfunk82/RFRateMe) - RFRateMe will help you promote your iPhone/iPad app without irritating your users.
+* [SexyTooltip](https://github.com/calm/SexyTooltip) - The tooltip that has all the right moves.
 * [STPopup](https://github.com/kevin0571/STPopup)
 * [SWBufferedToast](https://github.com/sfwalsh/SWBufferedToast)
 * [TAOverlay](https://github.com/TaimurAyaz/TAOverlay)
@@ -509,6 +511,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Evergreen](https://github.com/brentsimmons/Evergreen) - It’s a feed reader for MacOS. `macOS`
 * [EventfulMac](https://github.com/JacobCho/EventfulMac) - OSX application that searches for events within an area using the Eventful API. `macOS`
 * [FBSnapshotsViewer](https://github.com/Antondomashnev/FBSnapshotsViewer) - A mac os application that shows the failing snapshot tests from FBSnapshotTestCase.
+* [fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS. `macOS`
 * [gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs on your Mac. `macOS`
 * [Gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github. `macOS`
 * [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). `macOS`
@@ -1888,6 +1891,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [VAProgressCircle](https://github.com/MitchellMalleo/VAProgressCircle)
 
 #### 🔸*Swift*
+* [CircularProgress](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app. `macOS`
 * [Download-Indicator](https://github.com/MaheshRS/Download-Indicator)
 * [DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView) - A simple animated progress bar in Swift.
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders)
@@ -2559,6 +2563,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating UITableView based form.
 * [FormToolbar](https://github.com/sgr-ksmt/FormToolbar) - Simple, movable and powerful toolbar for UITextField and UITextView.
 * [formvalidator-swift](https://github.com/ustwo/formvalidator-swift) - A framework to validate inputs of text fields and text views in a convenient way.
+* [KAPinField](https://github.com/kirualex/KAPinField) - Lightweight Pin Code Field library for iOS, written in Swift.
 * [ImageTextField](https://github.com/Sahilberi/ImageTextField) - A Designable Textfield For adding textfield leftview and rightview images in storyboard for swift 3.0.
 * [LTBouncyPlaceholder](https://github.com/lexrus/LTBouncyPlaceholder)
 * [MPGTextField](https://github.com/gaurvw/MPGTextField) - An autocomplete textfield for iOS which provides suggestions as you type.
@@ -2886,6 +2891,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DottedLineView](https://github.com/STAR-ZERO/DottedLineView) - Draw horizontal or vertical dotted line for iOS.
 * [EZYGradientView](https://github.com/shashankpali/EZYGradientView) - Create gradients and blur gradients without a single line of code.
 * [FAQView](https://github.com/mukeshthawani/FAQView) - An easy to use FAQ view for iOS written in Swift.
+* [FAShimmerViews](https://github.com/fahidattique55/FAShimmerViews) - Custom Shimmer UI Effects.
 * [FloatingView](https://github.com/PersianDevelopers/FloatingView)
 * [FNReactionsView](https://github.com/fabiosoft/FNReactionsView) - FNReactionsView is a customizable control (based on UIView) to give people a way to show floating emoji like facebook does during live stream, easy way.
 * [GDPerformanceView](https://github.com/dani-gavrilov/GDPerformanceView-Swift) - Shows FPS, CPU usage, app and iOS versions above the status bar and report FPS and CPU usage via delegate.
@@ -2917,6 +2923,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SVGSpriteView](https://github.com/rondinellimorais/SVGSpriteView) - Subclass of UIView where is possible render SVG Sprites.
 * [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full * [tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
 * [Translucid](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background. Written in swift.
+* [Triangulation](https://github.com/younatics/Triangulation) - Triangulation effect in iOS.
 * [TvOSPinKeyboard](https://github.com/zattoo/TvOSPinKeyboard) - PIN keyboard for tvOS. 📺
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
 * [UIView-Borders-Swift](https://github.com/aaronn/UIView-Borders-Swift) - One sided borders on any side of a UIView. Now available in Swift 3.
@@ -3036,6 +3043,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AAPopUp](https://github.com/EngrAhsanAli/AAPopUp) - AAPopUp is a simple and easy-to-use popup view controller designed to present customizable storyboard based view controller as a modal alert, written in Swift..
 * [AICustomViewControllerTransition](https://github.com/cocoatoucher/AICustomViewControllerTransition) - Easy and tidy way for creating custom UIViewController transitions for iOS.
 * [AZTransitions](https://github.com/azimin/AZTransitions) - API to make great custom transitions in one method.
+* [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions.
 * [CardSlider](https://github.com/saoudrizwan/CardSlider) - Innovative twist to Tinder cards for iOS.
 * [CustomSegue](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects (NSViewControllerTransitionOptions). `macOS`
 * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
@@ -3073,6 +3081,15 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [View2ViewTransition](https://github.com/naru-jpn/View2ViewTransition) - Custom interactive view controller transition from one view to another view.
 * [VLCircularTransition](https://github.com/Vigneshlakshminarayanan/VLCircularTransition) - Circular ViewController Transition - Replacement to Apple's boring Push/Present Transitions.
 * [ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning) - ZoomTransitioning provides a custom transition with image zooming animation.
+
+## WatchFace
+
+#### 🔹*Obj-C*
+- [SpriteKitWatchFace](https://github.com/steventroughtonsmith/SpriteKitWatchFace) - SpriteKit-based faux analog watch face example for watchOS.
+
+#### 🔸*Swift*
+- [SpriteKitWatchFacePlaygroundBook](https://github.com/steventroughtonsmith/SpriteKitWatchFacePlaygroundBook) - Swift Playgrounds port of SpriteKitWatchFace.
+- [TimeBoard](https://github.com/guisua/TimeBoard)
 
 ## WebView
 
