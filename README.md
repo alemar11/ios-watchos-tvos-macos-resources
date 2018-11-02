@@ -1136,9 +1136,10 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SlingshotColorGradient](https://github.com/n6xej/SlingshotColorGradient) - Select a Pen and Color similar to the way SlingShot does.
 
 #### 🔸*Swift*
-* * [AASignatureView)](https://github.com/EngrAhsanAli/AASignatureView) - AASignatureView is a UIView to capture digital signature by drawing it on screen easily in iOS, written in Swift.
+* [AASignatureView)](https://github.com/EngrAhsanAli/AASignatureView) - AASignatureView is a UIView to capture digital signature by drawing it on screen easily in iOS, written in Swift.
 * [CTSlidingUpPanel](https://github.com/hoomazoid/CTSlidingUpPanel) - Transforms any view to sliding panel.
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool [Swift / iOS].
+* [Drawsana](https://github.com/Asana/Drawsana) - An open source library that lets your users draw on things - mark up images with text, shapes, etc.
 * [EPSignature](https://github.com/ipraba/EPSignature) - Signature component for iOS in Swift.
 * [GestureLockView](https://github.com/778477/GestureLockView) - User Gesture lock & unlock View.
 * [InceptionTouch](https://github.com/richzertuche/InceptionTouch) - Who needs 3DTouch when you can have InceptionTouch.
@@ -1147,6 +1148,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NXDrawKit](https://github.com/Nicejinux/NXDrawKit) - NXDrawKit is a simple and easy but useful drawing kit for iPhone.
 * [RPModalGestureTransition](https://github.com/naoyashiga/RPModalGestureTransition)
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
+* [Pixel](https://github.com/muukii/Pixel) - An image editor and engine using CoreImage.
 * [Sensitive](https://github.com/igormatyushkin014/Sensitive) - Fresh look at work with gestures in Swift.
 * [ShakeToChange](https://github.com/freeskys/ShakeToChange) - Change environment using shake.
 * [SHFSignature](https://github.com/felipesantolim/SHFSignature) - It's a simple class that provide to draw a signature and result in UIImage.
@@ -1404,6 +1406,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DTIActivityIndicatorView-Swift](https://github.com/dtissera/DTIActivityIndicatorView-Swift)
 * [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit.
 * [FliudLoadingIndicator](https://github.com/vinit5320/FliudLoadingIndicator)
+* [Fluky](https://github.com/pedrommcarrasco/Fluky) - Loading based on random icons.
 * [HexLoader](https://github.com/Kesava-Jawaharlal/HexLoader) - This is a open source library which shows a hexagon shaped loading indictor, developed CAShapeLayer and CABasicAnimation.
 * [InstagramActivityIndicator](https://github.com/jmmanos/InstagramActivityIndicator) - Activity Indicator similar to Instagram's.
 * [ITActivityIndicator](https://github.com/iluuu1994/ITActivityIndicator) - A very simple alternative to UIActivityIndicatorView.
