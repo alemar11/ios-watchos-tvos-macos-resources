@@ -403,10 +403,12 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift* 
 * [AppStoreLikeExampleSwift3](https://github.com/IosPower/AppStoreLikeExampleSwift3) - Using CollectionView, UITableView, ScrollView, Such As AppStore.
 * [AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne) - AudioKit Synth One: Open-Source iOS Synthesizer App.
+* [bank-wallet-ios](https://github.com/horizontalsystems/bank-wallet-ios) - A secure and fully decentralized crypto currency wallet app for iOS users. This wallet uses SPV protocol.
 * [Beam for Reddit](https://github.com/PowerMobileTeam/NewsApp) - An open source Reddit client for iOS.
 * [bitbar](https://github.com/matryer/bitbar) - BitBar lets you put the output from any script/program in your Mac OS X Menu Bar.
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Player for your DRM-free audiobooks.
 * [breadwallet](https://github.com/breadwallet/breadwallet-ios) - The iOS version of the Bread bitcoin wallet.
+* [Celestial](https://github.com/eonist/Celestial) - A delightful weather app.
 * [Charter](https://github.com/matthewpalmer/Charter) - A Swift mailing list client for iPhone and iPad.
 * [Cherry](https://github.com/kenshin03/Cherry) - Mini Pomodoro Timer app designed for the  Watch. Written in Swift. ⌚️
 * [Coderpursue](https://github.com/wenghengcong/Coderpursue) - Github client for iOS in Swift.
@@ -1808,6 +1810,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Panel
 
 #### 🔹*Obj-C*
+* [ContainerView](https://github.com/mrustaa/ContainerView) - ContainerView is designed to add a cool swim from the bottom to the animation with the effect of scale, controlled by the help of a gesture, scrollView also takes control.
 * [ISHPullUp](https://github.com/iosphere/ISHPullUp) - Vertical split view controller with pull up gesture as seen in the iOS 10 Maps app.
 * [LNPopupController](https://github.com/LeoNatan/LNPopupController) - LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
 
@@ -2809,6 +2812,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [StringFormatter](https://github.com/orucanil/StringFormatter) - Simple Text Formetter (Credit Card Number, Phone Number, Serial Number etc.) Can be used in all text inputs according to the format pattern. If desired, large minor character restrictions can be made in the format pattern.
 * [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - Replace the system volume popup with a more subtle indicator.
 * [Sugar](https://github.com/hyperoslo/Sugar) - Sugar is a sweetener for your Cocoa implementations.
+* [SupportEmail](https://github.com/schayes04/SupportEmail) - Prepopulates emails with support information in iOS apps.
 * [SwCrypt](https://github.com/soyersoyer/SwCrypt) - RSA public/private key generation, RSA, AES encryption/decryption, SEM encryption in Swift with CommonCrypto in iOS and OS X.
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!.
 * [SwiftCGRectExtensions](https://github.com/nschum/SwiftCGRectExtensions) - A collection of CGRect, CGPoint and CGSize convenience functions for Swift.
@@ -3078,6 +3082,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MMTransition](https://github.com/MillmanY/MMTransition) - Custom UIPresentationController with (menu/dialog).
 * [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - MIBlurPopup let you create amazing popups with a blurred background.
 * [Motion](https://github.com/CosmicMind/Motion) - Seamless animations and transitions in Swift.
+* [Movin](https://github.com/xxxAIRINxxx/Movin) - UIViewPropertyAnimator based View Transition Animator.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition)
 * [Kaeru](https://github.com/bannzai/Kaeru) - Kaeru can switch ViewController in NavigationController like iOS task manager UI (after iOS 9).
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
