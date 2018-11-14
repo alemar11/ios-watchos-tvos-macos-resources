@@ -1542,7 +1542,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MBMapPulseAnimation)](https://github.com/ManickB/MBMapPulseAnimation)
 * [NearBy](https://github.com/VishalNandoriya/NearBy) - iOS app to find nearby places using MapKit.
 * [PRGLocationSearchBar](https://github.com/ispiropoulos/PRGLocationSearchBar) - Control used to show a search bar which can fetch your location as well as geocode a search string.
-* [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI.
 * [SKMapsCenter](https://github.com/asklausen/SKMapsCenter) -  Maintain center while zooming.
 * [SnapLocation](https://github.com/ziligy/SnapLocation) - Swift micro-app that snaps your current location and writes it to pasteboard, it also optionally saves a map image in photos.
 * [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - UIViewController-Extension which is used to request the User-Location, at the very first time, in a simple and elegent way written in Swift.
@@ -1808,10 +1807,17 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 ## Panel
 
+#### 🔹*Obj-C*
+* [ISHPullUp](https://github.com/iosphere/ISHPullUp) - Vertical split view controller with pull up gesture as seen in the iOS 10 Maps app.
+* [LNPopupController](https://github.com/LeoNatan/LNPopupController) - LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
+
 #### 🔸*Swift*
+* [DrawerKit](https://github.com/Babylonpartners/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS.
-- [InteractiveCardViewAnimation](https://github.com/brianadvent/InteractiveCardViewAnimation)
+* [InteractiveCardViewAnimation](https://github.com/brianadvent/InteractiveCardViewAnimation)
 * [Panels](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
+* [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI.
+* [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
 * [shortcuts-drawer-view)](https://github.com/phillfarrugia/shortcuts-drawer-view) - An experimental re-creation of Siri Shortcut's Drawer View component.
 
 ## PickerView
@@ -2984,7 +2990,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AMLoginSignup](https://github.com/amirdew/AMLoginSignup) - Login/Signup ViewController for iOS.
 * [AppStoreiOS11](https://github.com/aliumujib/AppStoreiOS11) - iOS 11 Appstore clone.. practise of laying out views purely programatically.
 * [CarbonKitSwift](https://github.com/melieskubrick/CarbonKitSwift) - CarbonKit is an OpenSource iOS library that includes powerful and beauty UI controllers.
-* [DrawerKit](https://github.com/Babylonpartners/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController)
 * [GTSheet](https://github.com/gametimesf/GTSheet) - An easy to integrate solution for presenting UIViewControllers in a bottom sheet.
 * [Instagram-Feed-View](https://github.com/sagarshirbhate/Instagram-Feed-View) - It is a demo view to show feeds as shown in Instagram.All actions(Like,comment,share,follow,etc..) are managed by blocks.
@@ -2992,7 +2997,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control.
 * [MRArticleViewController](https://github.com/mrigdon/MRArticleViewController) - Easily create UIViewControllers for news articles similar to those in the News app.
 * [PictureInPicture](https://github.com/malt03/PictureInPicture)
-* [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
 * [SandboxBrowser](https://github.com/Joe0708/SandboxBrowser) - A simple iOS sandbox file browser, you can share files through AirDrop.
 * [ScrollingStackViewController](https://github.com/justeat/ScrollingStackViewController) - A view controller that uses root views of child view controllers as views in a UIStackView.
 * [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
@@ -3021,7 +3025,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GRPushSegue](https://github.com/insidegui/GRPushSegue) - A custom NSStoryboardSegue to make a nice iOS-like push transition. `macOS`
 * [HYAwesomeTransition](https://github.com/nathanwhy/HYAwesomeTransition)
 * [ICSDrawerController](https://github.com/icecreamstudios/ICSDrawerController)
-* [ISHPullUp](https://github.com/iosphere/ISHPullUp) - Vertical split view controller with pull up gesture as seen in the iOS 10 Maps app.
 * [Jelly](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions in iOS with just a few lines of code.
 * [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition)
 * [JVTransitionAnimator](https://github.com/JV17/JVTransitionAnimator)
@@ -3071,7 +3074,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images written in Swift.
 * [inbox-replica](https://github.com/RabbitMC/inbox-replica) - Recreated the expanding cells effect from `Inbox` by Google in Swift.
 * [ISScrollViewPageSwift](https://github.com/Ilhasoft/ISScrollViewPageSwift) ScollView with UIViewController.
-* [LNPopupController](https://github.com/LeoNatan/LNPopupController) - LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - MCMHeaderAnimated allows you to add an animation between list and detail views.
 * [MMTransition](https://github.com/MillmanY/MMTransition) - Custom UIPresentationController with (menu/dialog).
 * [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - MIBlurPopup let you create amazing popups with a blurred background.
