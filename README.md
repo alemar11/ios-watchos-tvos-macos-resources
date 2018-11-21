@@ -1815,6 +1815,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [LNPopupController](https://github.com/LeoNatan/LNPopupController) - LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
 
 #### 🔸*Swift*
+* [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition.
 * [DrawerKit](https://github.com/Babylonpartners/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS.
 * [InteractiveCardViewAnimation](https://github.com/brianadvent/InteractiveCardViewAnimation)
