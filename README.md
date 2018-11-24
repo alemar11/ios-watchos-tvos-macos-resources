@@ -65,6 +65,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [Beacon](#beacon)
 - [Button](#button)
 - [Camera](#camera)
+- [Cards](#cards)
 - [Charts](#charts)
 - [Checkbox](#checkbox)
 - [CollectionView](#collectionview)
@@ -402,10 +403,12 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift* 
 * [AppStoreLikeExampleSwift3](https://github.com/IosPower/AppStoreLikeExampleSwift3) - Using CollectionView, UITableView, ScrollView, Such As AppStore.
 * [AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne) - AudioKit Synth One: Open-Source iOS Synthesizer App.
+* [bank-wallet-ios](https://github.com/horizontalsystems/bank-wallet-ios) - A secure and fully decentralized crypto currency wallet app for iOS users. This wallet uses SPV protocol.
 * [Beam for Reddit](https://github.com/PowerMobileTeam/NewsApp) - An open source Reddit client for iOS.
 * [bitbar](https://github.com/matryer/bitbar) - BitBar lets you put the output from any script/program in your Mac OS X Menu Bar.
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Player for your DRM-free audiobooks.
 * [breadwallet](https://github.com/breadwallet/breadwallet-ios) - The iOS version of the Bread bitcoin wallet.
+* [Celestial](https://github.com/eonist/Celestial) - A delightful weather app.
 * [Charter](https://github.com/matthewpalmer/Charter) - A Swift mailing list client for iPhone and iPad.
 * [Cherry](https://github.com/kenshin03/Cherry) - Mini Pomodoro Timer app designed for the  Watch. Written in Swift. ⌚️
 * [Coderpursue](https://github.com/wenghengcong/Coderpursue) - Github client for iOS in Swift.
@@ -786,6 +789,35 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TGLAugmentedRealityView](https://github.com/gleue/TGLAugmentedRealityView) - Augmented Reality made easy -- place overlays on a camera preview and adjust their position depending on device attitude.
 * [TLStoryCamera](https://github.com/timelessg/TLStoryCamera)
 
+## Cards
+
+#### 🔹*Obj-C*
+* [DMSwipeCards](https://github.com/D-32/DMSwipeCards) - Tinder like card interface.
+* [EBCardCollectionViewLayout](https://github.com/betzerra/EBCardCollectionViewLayout) - Horizzontal UICollectionView.
+* [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller.
+* [JFCardSelectionViewController](https://github.com/atljeremy/JFCardSelectionViewController)
+* [MCCardPickerCollectionViewController](https://github.com/yuhua-chen/MCCardPickerCollectionViewController) - A card collection view controller inspired by Facebook People you may know.
+* [MTCardLayout](https://github.com/minhntran/MTCardLayout) - Mimicking the behavior of the Passbooks apps in iOS using a custom UICollectionViewLayout.
+* [RGCardViewLayout](https://github.com/terminatorover/RGCardViewLayout)
+* [Swiper](https://github.com/gkye/Swiper) - UIView sublass for creating Tinder like swipe cards, with a peek view.
+* [tispr-card-stack](https://github.com/tispr/tispr-card-stack) - Card Stack in Swift for iOS8+.
+* [YFCardTransitions](https://github.com/yuriferretti/YFCardTransitions)
+*  [ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableView) - A simple view for building card like interface like Tinder and Potluck.
+
+#### 🔸*Swift*
+* [Cards](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 appstore cards in swift 4.
+* [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions.
+* [CardSlider](https://github.com/saoudrizwan/CardSlider) - Innovative twist to Tinder cards for iOS.
+* [CardsStack](https://github.com/priteshrnandgaonkar/CardsStack) - An awesome set of cards at your disposal 
+* [HFCardCollectionViewLayout](https://github.com/hfrahmann/HFCardCollectionViewLayout) - The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet.
+* [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
+* [iCard](https://github.com/eliakorkmaz/iCard) - Bank Card Generator with Swift using SnapKit DSL.
+* [MaterialCardView](https://github.com/cemolcay/MaterialCardView)
+* [MMCardView](https://github.com/MillmanY/MMCardView) - Custom CollectionView like Wallet App.
+* [SCCardView](https://github.com/myoungsc/SCCardView) - Select Card Change View Content.
+* [ScrollingCardView](https://github.com/mozilla-mobile/ScrollingCardView) - A card view widget for iOS that will grow with its content, enabling scrolling when the content is larger than the view.
+* [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
+
 ## Charts
 
 #### 🔹*Obj-C*
@@ -873,9 +905,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) - Parallax, Sticky Headers, Growing image heading, done right in one UICollectionViewLayout.
 * [DMDynamicWaterfall](https://github.com/malcommac/DMDynamicWaterfall) -  UICollectionView Waterfall Layout with UIKit Dynamics.
 * [DynamicHeightForCollectionView)](https://github.com/sagarshirbhate/DynamicHeightForCollectionView) - Simple solution for Dynamically adjust view as a blocks.Dynamically adjust height of collection view. No more White spaces.
-* [EBCardCollectionViewLayout](https://github.com/betzerra/EBCardCollectionViewLayout) - Horizzontal UICollectionView.
 * [ERJustifiedFlowLayout](https://github.com/eroth/ERJustifiedFlowLayout) - A subclass of UICollectionViewFlowLayout for iOS that supports different types of cell justification and inter-cell spacing.
-* [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller.
 * [FBLikeLayout](https://github.com/gringoireDM/FBLikeLayout) - This is an UICollectionView layout inspired by the photo section of facebook. This layout loads squared items with randomic full size items.
 * [Greedo](https://github.com/500px/greedo-layout-for-ios) - Full aspect ratio grid layout for iOS.
 * [HTKDragAndDropCollectionViewLayout](https://github.com/henrytkirk/HTKDragAndDropCollectionViewLayout) UICollectionViewLayout subclass that works together with a custom UICollectionViewCell to provide drag and drop for a UICollectionView.
@@ -887,7 +917,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts) - An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.
 * [MJParallaxCollectionView](https://github.com/mayuur/MJParallaxCollectionView)
 * [MONUniformFlowLayout](https://github.com/mownier/MONUniformFlowLayout) - A simple flow layout the handles the arrangement of the items in a collection view.
-* [MTCardLayout](https://github.com/minhntran/MTCardLayout) - Mimicking the behavior of the Passbooks apps in iOS using a custom UICollectionViewLayout.
 * [MYNStickyFlowLayout](https://github.com/myntra/MYNStickyFlowLayout) - Drop-in sticky headers and footers for UICollectionView.
 * [NHBalancedFlowLayout](https://github.com/njdehoog/NHBalancedFlowLayout) - UICollectionViewLayout subclass for displaying items of different sizes in a grid without wasting any visual space.
 * [NVBnbCollectionView](https://github.com/ninjaprox/NVBnbCollectionView) - A Airbnb-inspired collection view (parallax).
@@ -920,7 +949,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - A custom View with two level chained collection views and fancy transition animation.
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
-* [CardsStack](https://github.com/priteshrnandgaonkar/CardsStack) - An awesome set of cards at your disposal 
+
 * [CollectionViewCustom](https://github.com/damienromito/CollectionViewCustom) - Custom CollectionViewLayout with a custom paging size by overriding scrollViewWillEndDragging.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - Reimagining UICollectionView.
@@ -933,14 +962,12 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Hanabi](https://github.com/kshin/Hanabi) - UICollectionViewLayout subclass with a focus on UICollectionViewCell content.
 * [FlowLayout](https://github.com/avdyushin/FlowLayout) - UICollectionViewFlowLayout with alignment modes.
 * [FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library implemented primarily with UICollectionView. It is extremely helpful for making Banner, Product Show, Welcome/Guide Pages, Screen/ViewController Sliders.
-* [HFCardCollectionViewLayout](https://github.com/hfrahmann/HFCardCollectionViewLayout) - The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet.
 * [KRLCollectionViewGridLayout](https://github.com/JayGajjar/JGTransitionCollectionView/tree/master/JGTransitionCollectionView) - A iOS swift base collectionview with unique animation feature inspired from behance made using UICollectionView.
 * [KDDragAndDropCollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
 * [KSImageCarousel](https://github.com/LeeKahSeng/KSImageCarousel) - Lightweight image carousel which can easily adapt to different type of image source.
 * [InfiniteScrolling](https://github.com/Vishal-Singh-Panwar/InfiniteScrolling) - Add infinite scrolling to collection view.
 * [IOStickyHeader](https://github.com/BenjaminPrieur/IOStickyHeader) - Parallax and Sticky header done right using UICollectionViewLayout.
 * [LNZCollectionLayouts](https://github.com/gringoireDM/LNZCollectionLayouts) - A collection of CollectionViewLayout.
-* [MMCardView](https://github.com/MillmanY/MMCardView) - Custom CollectionView like Wallet App.
 * [MHPinterestLayout](https://github.com/michaelhenry/MHPinterestLayout) - Customized dynamic cell - Pinterest layout with custom header.
 * [PopupCollectionViewController](https://github.com/corin8823/PopupCollectionViewController) - PopupCollectionViewController is a collectionView in Popup view.
 * [PinterestLayout](https://github.com/MagicLab-team/PinterestLayout) - Custom collection view layout inspired by Pinterest layout. Written in Swift.
@@ -970,7 +997,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [BeanTransitionManager](https://github.com/sfwalsh/BeanTransitionManager) - A Pinterest style segue for expanding UIImageViews into detail views.
 * [CollectionViewCell-Mover-Demo](https://github.com/Darktt/CollectionViewCell-Mover-Demo) - UICollectionView move cell module.
 * [JCBannerView](https://github.com/lijingcheng/JCBannerView) - A fancy collection style view controller.
-* [JFCardSelectionViewController](https://github.com/atljeremy/JFCardSelectionViewController)
 * [UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell) - Automatically UICollectionViewCell size calculating.
 
 #### 🔸*Swift*
@@ -1519,7 +1545,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MBMapPulseAnimation)](https://github.com/ManickB/MBMapPulseAnimation)
 * [NearBy](https://github.com/VishalNandoriya/NearBy) - iOS app to find nearby places using MapKit.
 * [PRGLocationSearchBar](https://github.com/ispiropoulos/PRGLocationSearchBar) - Control used to show a search bar which can fetch your location as well as geocode a search string.
-* [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI.
 * [SKMapsCenter](https://github.com/asklausen/SKMapsCenter) -  Maintain center while zooming.
 * [SnapLocation](https://github.com/ziligy/SnapLocation) - Swift micro-app that snaps your current location and writes it to pasteboard, it also optionally saves a map image in photos.
 * [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - UIViewController-Extension which is used to request the User-Location, at the very first time, in a simple and elegent way written in Swift.
@@ -1785,10 +1810,19 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 ## Panel
 
+#### 🔹*Obj-C*
+* [ContainerView](https://github.com/mrustaa/ContainerView) - ContainerView is designed to add a cool swim from the bottom to the animation with the effect of scale, controlled by the help of a gesture, scrollView also takes control.
+* [ISHPullUp](https://github.com/iosphere/ISHPullUp) - Vertical split view controller with pull up gesture as seen in the iOS 10 Maps app.
+* [LNPopupController](https://github.com/LeoNatan/LNPopupController) - LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
+
 #### 🔸*Swift*
+* [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition.
+* [DrawerKit](https://github.com/Babylonpartners/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS.
-- [InteractiveCardViewAnimation](https://github.com/brianadvent/InteractiveCardViewAnimation)
+* [InteractiveCardViewAnimation](https://github.com/brianadvent/InteractiveCardViewAnimation)
 * [Panels](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
+* [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI.
+* [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
 * [shortcuts-drawer-view)](https://github.com/phillfarrugia/shortcuts-drawer-view) - An experimental re-creation of Siri Shortcut's Drawer View component.
 
 ## PickerView
@@ -2020,7 +2054,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [BTInfiniteScrollView](https://github.com/bteapot/BTInfiniteScrollView)* 
 * [CustomScrollIndicator](https://github.com/leverdeterre/CustomScrollIndicator) - iOS custom ScrollIView indicator.
 * [DARecycledScrollView](https://github.com/daria-kopaliani/DARecycledScrollView) - UIScrollView subclass that reuses its tile views.
-* [DMSwipeCards](https://github.com/D-32/DMSwipeCards) - Tinder like card interface.
 * [DroppyScrollView](https://github.com/cemolcay/DroppyScrollView) - Vertical scroll view with abilty to inserting and removing subviews top or any index with stylish dropping animations.
 * [DRPageScrollView](https://github.com/DavdRoman/DRPageScrollView) - Block-driven paginated scroll view.
 * [EHHorizontalSelectionView](https://github.com/josshad/EHHorizontalSelectionView) - Horizontal table view style controller.
@@ -2043,10 +2076,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PHPageScrollView](https://github.com/TaPhuocHai/PHPageScrollView)
 * [SMScrollView](https://github.com/smnh/SMScrollView)
 * [StrechyParallaxScrollView](https://github.com/cemolcay/StrechyParallaxScrollView)
-* [Swiper](https://github.com/gkye/Swiper) - UIView sublass for creating Tinder like swipe cards, with a peek view.
 * [TAPageControl](https://github.com/TanguyAladenise/TAPageControl)
 * [TOScrollBar](https://github.com/TimOliver/TOScrollBar) - An interactive scroll bar for traversing comically massive scroll views.
-* [ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableView) - A simple view for building card like interface like Tinder and Potluck.
 * [ZSeatSelector](https://github.com/richzertuche/ZSeatSelector) - Create a cinema seat map Layout.
 
 #### 🔸*Swift*
@@ -2061,7 +2092,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController)
 * [PSFadingScrollView](https://github.com/Vugla/PSFadingScrollView) - 
 * [RMSquarePageControl](https://github.com/rupammitra/RMSquarePageControl) - A custom page control having square indicators works both vertically and horizontally.
-* [ScrollingCardView](https://github.com/mozilla-mobile/ScrollingCardView) - A card view widget for iOS that will grow with its content, enabling scrolling when the content is larger than the view.
 * [ZKCarousel](https://github.com/ZacharyKhan/ZKCarousel) - A simple carousel implementation written in Swift.
 
 ## Security
@@ -2137,6 +2167,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
 * [MBDoubleSliderExample](https://github.com/c-Viorel/MBDoubleSliderExample) - CustomDoubleSlider for macOs written in swift 3.0.
 * [NHRangeSlider](https://github.com/thehung111/NHRangeSlider) - A custom range slider in Swift.
+* [PageController](https://github.com/hirohisa/PageController) - PageController is infinite paging controller, scrolling through contents and title bar scrolls with a delay. Then it provide user interaction to smoothly and effortlessly moving. It is for iOS written in Swift.
 * [PRGRoundSlider](https://github.com/ispiropoulos/PRGRoundSlider) - A fully customizable circular slider.
 * [RangeSlider](https://github.com/matthewreagan/RangeSlider) - Simple, clean, and customizable range-based slider control for macOS. `macOS`
 * [SlideTo](https://github.com/ChristianMoler/SlideTo) - Simple slide controller is fully customizable via interface builder.
@@ -2778,10 +2809,12 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 * [Solid](https://github.com/igormatyushkin014/Solid) - New way to work with arrays in Swift.
+* [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
 * [StatusProvider](https://github.com/mariohahn/StatusProvider) - Protocol to handle initial Loadings, Empty Views and Error Handling in a ViewController & views.
 * [StringFormatter](https://github.com/orucanil/StringFormatter) - Simple Text Formetter (Credit Card Number, Phone Number, Serial Number etc.) Can be used in all text inputs according to the format pattern. If desired, large minor character restrictions can be made in the format pattern.
 * [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - Replace the system volume popup with a more subtle indicator.
 * [Sugar](https://github.com/hyperoslo/Sugar) - Sugar is a sweetener for your Cocoa implementations.
+* [SupportEmail](https://github.com/schayes04/SupportEmail) - Prepopulates emails with support information in iOS apps.
 * [SwCrypt](https://github.com/soyersoyer/SwCrypt) - RSA public/private key generation, RSA, AES encryption/decryption, SEM encryption in Swift with CommonCrypto in iOS and OS X.
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!.
 * [SwiftCGRectExtensions](https://github.com/nschum/SwiftCGRectExtensions) - A collection of CGRect, CGPoint and CGSize convenience functions for Swift.
@@ -2798,7 +2831,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftySwift](https://github.com/adeca/SwiftySwift) - Collection of useful extensions for Swift types and Cocoa objects.
 * [Swiftz](https://github.com/typelift/swiftz) - Functional programming in Swift.
 * [TPPDF](https://github.com/Techprimate/TPPDF) - TPPDF is a simple-to-use PDF builder for iOS.
-* [Transporter](https://github.com/DenHeadless/Transporter) - Transporter is a modern finite-state machine implemented in pure Swift.* [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
+* [Transporter](https://github.com/DenHeadless/Transporter) - Transporter is a modern finite-state machine implemented in pure Swift.
 * [UIDeviceComplete](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
 * [UnchainedString](https://github.com/dunkelstern/UnchainedString) - Extensions for Swift Strings on Linux until the Foundation classes are up to speed.
 * [URLPreview](https://github.com/itsmeichigo/URLPreview) - An NSURL extension for showing preview info of webpages.
@@ -2886,7 +2919,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AvatarView](https://github.com/chrene/AvatarView/)
 * [AZEmptyState](https://github.com/Minitour/AZEmptyState) - A UIControl subclass that makes it easy to create empty states.
 * [Blurable](https://github.com/FlexMonkey/Blurable)
-* [Cards](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 appstore cards in swift 4.
 * [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) - Waves of the radar
 * [ClapsView](https://github.com/hemangshah/ClapsView) - Implemented the functionality of Medium.com Claps.
 * [ColorDebugView](https://github.com/jonhull/ColorDebugView) - Simple NS/UIView which can be used to quickly get a view on the screen when roughing out layouts/animations.
@@ -2902,22 +2934,18 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A fancy hexagonal layout for displaying data like your Apple Watch.
 * [HGRippleRadarView](https://github.com/HamzaGhazouani/HGRippleRadarView) - A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
-* [iCard](https://github.com/eliakorkmaz/iCard) - Bank Card Generator with Swift using SnapKit DSL.
 * [iOSAlignmentIndicatorViews](https://github.com/gbmiranda/iOSAlignmentIndicatorViews) - This is an iOS component to assist in aligning Views by creating lines similar to image editing programs such as Photoshop and Sketch.
 * [JDMechanicWatch](https://github.com/jamesdouble/JDMechanicWatch) - JDMechanicWatch can show time in a MechanicWatch look.
 * [jmcrainbow](https://www.cocoacontrols.com/controls/jmcrainbow)
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
-* [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
 * [KRTournamentView](https://github.com/krimpedance/KRTournamentView) - KRTournamentView is a flexible tournament bracket that can respond to the various structure on iOS.
 * [LPThumbnailView](https://github.com/luispadron/LPThumbnailView) - A thumbnail view for iOS to give context to multiple images/videos using thumbnails and counter.
-* [MaterialCardView](https://github.com/cemolcay/MaterialCardView)
 * [MDGroupAvatarView](https://github.com/ttmdung203/MDGroupAvatarView) - This library provides a custom UIView with support for showing group of avatars. It’s used for group chat. The images list can be loaded from local or web url.
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift.
 * [NightView](https://github.com/Boris-Em/NightView) - Dazzling Nights on iOS.
 * [OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - A source of circular pictures, currently supports horizontal overlapping or separate pictures with great layout flexibility.
 * [OTResizableView](https://github.com/PKPK-Carnage/OTResizableView) - OTResizableView is a UIView library that can be resized with fingers.
 * [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.
-* [SCCardView](https://github.com/myoungsc/SCCardView) - Select Card Change View Content.
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
 * [Skeleton](https://github.com/gonzalonunez/Skeleton) - An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content.
@@ -2925,9 +2953,10 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Smile-Lock](https://github.com/liu044100/Smile-Lock) - A library for make a beautiful Passcode Lock View.
 * [SSHoneyCombView](https://github.com/SamehSalama/SSHoneyCombView) - A honey comb View that looks like a collection view with hexagon shaped items.
 * [SVGSpriteView](https://github.com/rondinellimorais/SVGSpriteView) - Subclass of UIView where is possible render SVG Sprites.
-* [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full * [tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
+* [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full 
 * [Translucid](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background. Written in swift.
 * [Triangulation](https://github.com/younatics/Triangulation) - Triangulation effect in iOS.
+* [tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
 * [TvOSPinKeyboard](https://github.com/zattoo/TvOSPinKeyboard) - PIN keyboard for tvOS. 📺
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
 * [UIView-Borders-Swift](https://github.com/aaronn/UIView-Borders-Swift) - One sided borders on any side of a UIView. Now available in Swift 3.
@@ -2952,14 +2981,12 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JMModalOverlay](https://github.com/kodlian/JMModalOverlay) - Create easily and display an animated modal . `macOS`
 * [JRSplitVC](https://github.com/tommypeps/JRSplitVC) - UISplitViewController with adaptative layouts.
 * [LGSemiModalNavController](https://github.com/lukegeiger/LGSemiModalNavController) - Show a view controller a dynamically set height over another view controller.
-* [MCCardPickerCollectionViewController](https://github.com/yuhua-chen/MCCardPickerCollectionViewController) - A card collection view controller inspired by Facebook People you may know.
 * [RDGliderViewController](https://github.com/gelemias/RDGliderViewController) - Control for a floating view gliding over a ViewController.
 * [PlusExtended](https://github.com/souvickcse/PlusExtended)
 * [SSStackedPageView](https://github.com/PlenipotentSS/SSStackedPageView) - Stacked Views paged on top of each other, inspired by iOS 7 Reminders and iOS 7 Passport.
 * [SemiModalNavigationController](https://github.com/hughbe/semi-modal-controller)
 * [SCPinViewController](https://github.com/SugarAndCandy/SCPinViewController)
 * [SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation) - An iOS native implementation of a Trello Animated Navagation.
-* [tispr-card-stack](https://github.com/tispr/tispr-card-stack) - Card Stack in Swift for iOS8+.
 * [VisibleFormViewController](https://github.com/damienromito/VisibleFormViewController) - An extended UIViewController allowing to not hide the content behind the keyboard opened.
 * [VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation) - A simple way to present a view controller with keeping the blurred previous one.
 * [XLSlidingContainer](https://github.com/xmartlabs/XLSlidingContainer) 
@@ -2969,7 +2996,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AMLoginSignup](https://github.com/amirdew/AMLoginSignup) - Login/Signup ViewController for iOS.
 * [AppStoreiOS11](https://github.com/aliumujib/AppStoreiOS11) - iOS 11 Appstore clone.. practise of laying out views purely programatically.
 * [CarbonKitSwift](https://github.com/melieskubrick/CarbonKitSwift) - CarbonKit is an OpenSource iOS library that includes powerful and beauty UI controllers.
-* [DrawerKit](https://github.com/Babylonpartners/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController)
 * [GTSheet](https://github.com/gametimesf/GTSheet) - An easy to integrate solution for presenting UIViewControllers in a bottom sheet.
 * [Instagram-Feed-View](https://github.com/sagarshirbhate/Instagram-Feed-View) - It is a demo view to show feeds as shown in Instagram.All actions(Like,comment,share,follow,etc..) are managed by blocks.
@@ -2977,7 +3003,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MCPanelViewController](https://github.com/matthewcheok/MCPanelViewController) - Drop-in panel control.
 * [MRArticleViewController](https://github.com/mrigdon/MRArticleViewController) - Easily create UIViewControllers for news articles similar to those in the News app.
 * [PictureInPicture](https://github.com/malt03/PictureInPicture)
-* [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
 * [SandboxBrowser](https://github.com/Joe0708/SandboxBrowser) - A simple iOS sandbox file browser, you can share files through AirDrop.
 * [ScrollingStackViewController](https://github.com/justeat/ScrollingStackViewController) - A view controller that uses root views of child view controllers as views in a UIStackView.
 * [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
@@ -3006,7 +3031,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GRPushSegue](https://github.com/insidegui/GRPushSegue) - A custom NSStoryboardSegue to make a nice iOS-like push transition. `macOS`
 * [HYAwesomeTransition](https://github.com/nathanwhy/HYAwesomeTransition)
 * [ICSDrawerController](https://github.com/icecreamstudios/ICSDrawerController)
-* [ISHPullUp](https://github.com/iosphere/ISHPullUp) - Vertical split view controller with pull up gesture as seen in the iOS 10 Maps app.
 * [Jelly](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions in iOS with just a few lines of code.
 * [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition)
 * [JVTransitionAnimator](https://github.com/JV17/JVTransitionAnimator)
@@ -3022,7 +3046,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PanToBack](https://github.com/soleaf/PanToBack)
 * [RASlideInViewController](https://github.com/ra1028/RASlideInViewController)
 * [REFrostedViewController](https://github.com/romaonthego/REFrostedViewController)
-* [RGCardViewLayout](https://github.com/terminatorover/RGCardViewLayout)
 * [RMStepsController](https://github.com/CooperRS/RMStepsController)
 * [RNBlurredSideViewController](https://github.com/cwenboshi/RNBlurredSideViewController)
 * [SAInboxViewController](https://github.com/szk-atmosphere/SAInboxViewController) - UIViewController subclass inspired by "Inbox by google" animated transitioning.
@@ -3037,7 +3060,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TB_InteractiveTransitions](https://github.com/ariok/TB_InteractiveTransitions)
 * [TWTSideMenuViewController](https://github.com/twotoasters/TWTSideMenuViewController)
 * [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) - A collection of iOS7 animation controllers and interaction controllers, providing flip, fold and all kinds of other transitions.
-* [YFCardTransitions](https://github.com/yuriferretti/YFCardTransitions)
 * [YSLContainerViewController](https://github.com/y-hryk/YSLContainerViewController)
 * [YSLTransitionAnimator](https://github.com/y-hryk/YSLTransitionAnimator)
 * [ZFDragableModalTransition](https://github.com/zoonooz/ZFDragableModalTransition) - Custom animation transition for present modal view controller.
@@ -3047,8 +3069,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AAPopUp](https://github.com/EngrAhsanAli/AAPopUp) - AAPopUp is a simple and easy-to-use popup view controller designed to present customizable storyboard based view controller as a modal alert, written in Swift..
 * [AICustomViewControllerTransition](https://github.com/cocoatoucher/AICustomViewControllerTransition) - Easy and tidy way for creating custom UIViewController transitions for iOS.
 * [AZTransitions](https://github.com/azimin/AZTransitions) - API to make great custom transitions in one method.
-* [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions.
-* [CardSlider](https://github.com/saoudrizwan/CardSlider) - Innovative twist to Tinder cards for iOS.
 * [CustomSegue](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects (NSViewControllerTransitionOptions). `macOS`
 * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS 10 Apple Music now playing transition.
@@ -3060,11 +3080,11 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images written in Swift.
 * [inbox-replica](https://github.com/RabbitMC/inbox-replica) - Recreated the expanding cells effect from `Inbox` by Google in Swift.
 * [ISScrollViewPageSwift](https://github.com/Ilhasoft/ISScrollViewPageSwift) ScollView with UIViewController.
-* [LNPopupController](https://github.com/LeoNatan/LNPopupController) - LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - MCMHeaderAnimated allows you to add an animation between list and detail views.
 * [MMTransition](https://github.com/MillmanY/MMTransition) - Custom UIPresentationController with (menu/dialog).
 * [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - MIBlurPopup let you create amazing popups with a blurred background.
 * [Motion](https://github.com/CosmicMind/Motion) - Seamless animations and transitions in Swift.
+* [Movin](https://github.com/xxxAIRINxxx/Movin) - UIViewPropertyAnimator based View Transition Animator.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition)
 * [Kaeru](https://github.com/bannzai/Kaeru) - Kaeru can switch ViewController in NavigationController like iOS task manager UI (after iOS 9).
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
