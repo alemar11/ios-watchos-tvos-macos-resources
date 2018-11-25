@@ -590,6 +590,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Collage](https://github.com/sohamb1390/Collage) - A simple photo collage app with predefined collage frames.
 * [CSPhotoGallery](https://github.com/youkchansim/CSPhotoGallery) - This is very simple and light photo gallery.
 * [DSFacebookImagePicker](https://github.com/sanche21/DSFacebookImagePicker)
+* [EFColorPicker](https://github.com/EFPrefix/EFColorPicker) - EFColorPicker is a lightweight color picker in Swift.
 * [FAImageCropper](https://github.com/fahidattique55/FAImageCropper) - Image Cropper like Instagram.
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature with a few line of code in Swift.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
@@ -813,6 +814,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
 * [iCard](https://github.com/eliakorkmaz/iCard) - Bank Card Generator with Swift using SnapKit DSL.
 * [MaterialCardView](https://github.com/cemolcay/MaterialCardView)
+* [MGSwipeCards](https://github.com/mac-gallagher/MGSwipeCards) - A flexible, multi-directional card swiping framework inspired by Tinder.
 * [MMCardView](https://github.com/MillmanY/MMCardView) - Custom CollectionView like Wallet App.
 * [SCCardView](https://github.com/myoungsc/SCCardView) - Select Card Change View Content.
 * [ScrollingCardView](https://github.com/mozilla-mobile/ScrollingCardView) - A card view widget for iOS that will grow with its content, enabling scrolling when the content is larger than the view.
@@ -949,7 +951,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - A custom View with two level chained collection views and fancy transition animation.
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
-
 * [CollectionViewCustom](https://github.com/damienromito/CollectionViewCustom) - Custom CollectionViewLayout with a custom paging size by overriding scrollViewWillEndDragging.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - Reimagining UICollectionView.
@@ -981,6 +982,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ScalingCarousel](https://github.com/superpeteblaze/ScalingCarousel) - A super simple carousel view with scaling transitions written in Swift.
 * [SectionScrubber](https://github.com/bakkenbaeck/SectionScrubber) - A component to quickly scroll between collection view sections.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)
+* [SquareFlowLayout](https://github.com/ChernyshenkoTaras/SquareFlowLayout) - SquareFlowLayout is another UICollectionViewLayout subclass that implements Instagram style layout.
 * [StickyCollectionView](https://github.com/matbeich/StickyCollectionView) - UICollectionView layout for presenting of the overlapping cells.
 * [SwiftyCollectionView](https://github.com/vinit5320/SwiftyCollectionView) - Tutorial(https://swiftyos.wordpress.com/2015/08/01/animated-wave-transition-collectionview-ckwavecollectionviewtransition/)
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - Spreadsheet CollectionViewLayout in Swift. Fully customizable.
@@ -1229,6 +1231,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ImageLoaderSwift](https://github.com/hirohisa/ImageLoaderSwift)
 * [ImageViewer](https://github.com/MailOnline/ImageViewer) - An image viewer à la Twitter.
 * [LetterAvatarKit](https://github.com/vpeschenkov/LetterAvatarKit) - UIImage extension that generates letter-based avatars written in Swift.
+* [LPThumbnailView](https://github.com/luispadron/LPThumbnailView) - A thumbnail view for iOS to give context to multiple images/videos using thumbnails and counter.
 * [Nuke](https://github.com/kean/Nuke) - Advanced pure Swift framework for loading, caching, processing, displaying and preheating images.
 * [Panorama](https://github.com/robbykraft/Panorama) - 360° panorama view, iOS-
 * [Panoramic](https://github.com/iSame7/Panoramic) - Swift implementation of the photo tilt gesture/UX found in Facebook's Paper app.
@@ -1290,6 +1293,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RMParallax](https://github.com/michaelbabiy/RMParallax) - The way to impress users on the first app launch.
 * [SoundCloudTransition](https://github.com/xxxAIRINxxx/SoundCloudTransition) - Custom interactive transition like SoundCloud iOS App.
 * [SplashWindow](https://github.com/BabyShung/SplashWindow) - An UIWindow-based TouchID authentication control.
+* [Spotlight](https://github.com/lekshmiraveendranath/Spotlight) - Introductory walkthrough framework for iOS Apps.
 * [Swift-Intro](https://github.com/sidharthsankh/Swift-Intro) - Swift auto layout with basic animation.
 * [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps, powered by Swift.
 * [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) - A swifty iOS framework that allows developers to create beautiful onboarding experiences.
@@ -1813,6 +1817,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔹*Obj-C*
 * [ContainerView](https://github.com/mrustaa/ContainerView) - ContainerView is designed to add a cool swim from the bottom to the animation with the effect of scale, controlled by the help of a gesture, scrollView also takes control.
+* [CustomPresentation](https://github.com/rajdhakate/CustomPresentation) - iOS Mail/Music app like Presentation animation. Written in Objective-C.
 * [ISHPullUp](https://github.com/iosphere/ISHPullUp) - Vertical split view controller with pull up gesture as seen in the iOS 10 Maps app.
 * [LNPopupController](https://github.com/LeoNatan/LNPopupController) - LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
 
@@ -2688,6 +2693,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [LPSnackbar](https://github.com/luispadron/LPSnackbar) - A flexible and easy to use Snackbar control for iOS.
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
 * [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
+* [NotificationView](https://github.com/pikachu987/NotificationView) - iOS Basic Notification screens.
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS.
 * [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
 * [RNNotificationView](https://github.com/souzainf3/RNNotificationView) - Emulates the native Notification Banner UI for any alert.
@@ -2955,6 +2961,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Smile-Lock](https://github.com/liu044100/Smile-Lock) - A library for make a beautiful Passcode Lock View.
 * [SSHoneyCombView](https://github.com/SamehSalama/SSHoneyCombView) - A honey comb View that looks like a collection view with hexagon shaped items.
 * [SVGSpriteView](https://github.com/rondinellimorais/SVGSpriteView) - Subclass of UIView where is possible render SVG Sprites.
+* [SwiftTickerView](https://github.com/EMart86/SwiftTickerView) - A news ticker view written entirely in swift.
 * [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full 
 * [Translucid](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background. Written in swift.
 * [Triangulation](https://github.com/younatics/Triangulation) - Triangulation effect in iOS.
