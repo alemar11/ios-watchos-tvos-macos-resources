@@ -2492,6 +2492,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [automatic-height-tagcells](https://github.com/weijentu/automatic-height-tagcells) - This is a sample project to implement features with dynamic height of UITableViewCell based on autolayout, tags aligned automatically and clickable tags.
 * [DPColorfulTags](https://github.com/HongliYu/DPColorfulTags-Swift) - tags with different colors.
 * [GravityTagCloudView](https://github.com/billypchan/GravityTagCloudView) - A tag cloud view with gravity.
+* [Hashtags](https://github.com/scaraux/Hashtags) - A Swift library to display and manipulate Hashtags as a list.
 * [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view, in Swift.
 * [RRTagController](https://github.com/remirobert/RRTagController) - RRTagController allows user to select tag and create new one.
 * [SSCTaglistView](https://github.com/sanjaysinh-Chauhan/SSCTaglistView) - Customizable iOS tag list view, in Swift.
