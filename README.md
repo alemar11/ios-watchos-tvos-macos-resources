@@ -376,6 +376,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [springdamping](https://github.com/mortenjust/springdamping) - Realtime experimentation with duration, spring and damping for UIView animations.
 * [SRFacebookAnimation](https://github.com/shamshiranees/SRFacebookAnimation) - Facebook live streaming emoji animation which can be fully customised.
 * [Stellar](https://github.com/AugustRush/Stellar) - A fantastic Physical animation library for swift.
+* [SwiftAnimations](https://github.com/AbsolutRenal/SwiftAnimations) - Try CALayer Animations in Swift.
 * [UIViewXXYBoom](https://github.com/xxycode/UIViewXXYBoom)
 * [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator is a library for building complex iOS UIView animations in an easy way. It provides one line animations for any view included the ones which contain other views like UITableView and UICollectionView with its cells or UIStackView with its arrangedSubviews.
 * [WVCheckMark](https://github.com/wvabrinskas/WVCheckMark) - Animated checkmark made with CoreAnimation.
@@ -453,6 +454,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PotterPics](https://github.com/surayashivji/PotterPics) - Harry Potter themed social network similar to Instagram.
 * [pokemon-weakness-ios](https://github.com/pokeweak/pokemon-weakness-ios) - Source code for Pokemon Weakness iOS application. 
 * [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan) - Open Source Weather App created with Swift.
+* [Pisth](https://github.com/ColdGrub1384/Pisth) - SSH and SFTP client for iOS.
 * [ReviewTime](https://github.com/nthegedus/ReviewTime) - Review Time is an open source app for iOS written in Swift that show the average review times for iOS and the Mac Apps using data crowdsourced from AppReviewTime.
 * [Rival](https://github.com/victorchu8/Rival) - A fitness iOS application that allows users to track, view and compete against friends. Built with Swift and Firebase.
 * [Sentiments](https://github.com/kyleweiner/Sentiments) - Sentiments is an iOS app written in Swift that analyzes text for positive or negative sentiment.
@@ -474,6 +476,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [VKMusic](https://github.com/ilyahal/VKMusic) - The app is designed for listening to music from vk.com.
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. ⌚️
 * [WatchNote](https://github.com/ezefranca/WatchNote) - Controlling your Keynote using Apple Watch. ⌚️
+* [weight-tracker](https://github.com/Jackson-S/weight-tracker) - iOS and watchOS weight entry app for HealthKit. ️️⌚️
 * [Wire](https://github.com/wireapp/wire-ios) - Wire iOS client (iPhone and iPad).
 * [Yep](https://github.com/CatchChat/Yep) - A community where geniuses meet.
 * [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) - youtube iOS app template written in swift 3.
@@ -582,6 +585,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [YangMingShan](https://github.com/yahoo/YangMingShan) - YangMingShan is a collection of iOS UI components that we created while building Yahoo apps.
 
 #### 🔸*Swift*
+* [AssetsPickerViewController](https://github.com/DragonCherry/AssetsPickerViewController) - Powerfully Customizable - Multiple Photo & Video Picker Controller.
 * [ATGMediaBrowser](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, with ability to create new transitions with ease.
 * [AGImageControls](https://github.com/agilie/AGImageControls) - cool tools for image edition.
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)
@@ -1053,6 +1057,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AGVolumeControlView](https://github.com/agilie/AGVolumeControlView) - Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic.
 * [CircleControl](https://github.com/ChristianMoler/CircleControl)
 * [Counter](https://github.com/Juanpe/Counter) - Counter is powerful and multipurpose counter.
+* [CrownControl](https://github.com/huri000/CrownControl) - CrownControl is a tiny accessory that makes scrolling through scrollable content possible without lifting your thumb.
 * [padcontrol](https://github.com/gabrieloc/padcontrol) - A UIControl subclass for two-dimension directional input.
 * [RulerControl](https://github.com/philmitchell/RulerControl) - RulerControl is a draggable, resizable UIControl that provides real world length measurement.
 * [SpinWheelControl](https://github.com/joshdhenry/SpinWheelControl) - An inertial spinning wheel UI control that allows selection of an item. Cocoapod written in Swift.
@@ -1099,6 +1104,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [sambag](https://github.com/mownier/sambag) - Android Time, Month-Year, and Date pickers implemented in Swift for iOS development.
 * [ScrollableDatepicker](https://github.com/noxt/ScrollableDatepicker) - Yet another datepicker for iOS.
 * [sscalendar](https://github.com/StevenPreston/sscalendar) - A Swift and Objective-C compatible iOS calendar UI library that can be used to display a calendar of events within your app. Note that this calendar is not designed as a picker but rather to display an existing set of events.
+* [Swift-Calendar](https://github.com/samirpdl/Swift-Calendar)
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive date handling in Swift.
 * [TKCalendarView](https://github.com/powhu/TKCalendarView) - The page curl animation calendar.
 * [VNOfficeHourPicker](https://github.com/varun-naharia/VNOfficeHourPicker)
@@ -1276,12 +1282,12 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [VXWalkthroughViewController](https://github.com/swiftmanagementag/VXWalkthroughViewController) - Simple way to add an intro to your app.
 
 #### 🔸*Swift*
-
 * [Ajimi](https://github.com/nakajijapan/Ajimi) - Ajimi means tasting. In Japanese, 味見. Ajimi is the feedback tool, which anyone can easily feedback to project team any time.
 * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - BWWalkthrough is a class to build custom walkthroughs for your iOS App.
 * [Gecco](https://github.com/yukiasai/Gecco) - Simply highlight items for your tutorial walkthrough, written in Swift.
 * [HAPlayerView](https://github.com/litoarias/HAPlayerView) - Easy-to-use class for inserting videos as a wallpaper without a single line of code, all managed by Interface Builder.
 * [Instructions](https://github.com/ephread/Instructions)
+* [IntroScreen](https://github.com/P1xelfehler/IntroScreen) - A beautiful intro screen for iOS written in Swift.
 * [JTSplashView](https://github.com/kubatru/JTSplashView) - Create the beautiful splash view with JTSplashView.
 * [KJOverlayTutorial](https://github.com/tranquan/KJOverlayTutorial) - A Tutorial for iOS.
 * [LaunchScreenSnapshot](https://github.com/alexruperez/LaunchScreenSnapshot) - Protects sensitive data in your app snapshot.
@@ -1830,6 +1836,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI.
 * [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
 * [shortcuts-drawer-view)](https://github.com/phillfarrugia/shortcuts-drawer-view) - An experimental re-creation of Siri Shortcut's Drawer View component.
+* [UBottomSheet](https://github.com/OfTheWolf/UBottomSheet) - Bottom sheet that mimics the behaviours and UI of iPhone Maps app.
 
 ## PickerView
 
@@ -2803,6 +2810,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Proposer](https://github.com/nixzhu/Proposer) - Proposer provides a simple API to request permission for access Camera, Photos, Microphone, Contacts, Location.
 * [Queuer](https://github.com/FabrizioBrancati/Queuer) - Queuer is a queue manager, built on top of OperationQueue and Dispatch (aka GCD).
 * [QuickActions](https://github.com/ricardopereira/QuickActions) - Swift wrapper for iOS Home Screen Quick Actions (App Icon Shortcuts).
+* [FRadioPlayer](https://github.com/fethica/FRadioPlayer) - A simple radio player framework for iOS, macOS, tvOS.
 * [RateLimit](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
 * [Reachability](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures.
 * [ReadabilityKit](https://github.com/exyte/ReadabilityKit) - Preview extractor for news, articles and full-texts in Swift.
