@@ -2545,6 +2545,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Mustard](https://github.com/mathewsanders/Mustard) - Mustard is a Swift library for tokenizing strings when splitting by whitespace doesn't cut it.
 * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 * [NSJFontResizingUITextView](https://github.com/NSJoker/NSJFontResizingUITextView) - UITextField adjusts its font size dynamicaly with respect to is content.
+* [PlaceholderUITextView](https://github.com/hoangtaiki/PlaceholderUITextView) - A missing placeholder for UITextView.
 * [PTPPlaceholderTextView](https://github.com/pitiphong-p/PTPPlaceholderTextView) - A simple naive implementation of UITextView subclass to support placeholder text rendering in UITextView.
 * [RaisePlaceholder](https://github.com/najanda89/RaisePlaceholder)
 * [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Gradient Text in Real.
