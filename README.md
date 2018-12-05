@@ -988,6 +988,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SectionScrubber](https://github.com/bakkenbaeck/SectionScrubber) - A component to quickly scroll between collection view sections.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)
 * [SquareFlowLayout](https://github.com/ChernyshenkoTaras/SquareFlowLayout) - SquareFlowLayout is another UICollectionViewLayout subclass that implements Instagram style layout.
+* [StackedCollectionView](https://github.com/oakstudios/StackedCollectionView) - Swift library to drag, drop, and stack items within a UICollectionView.
 * [StickyCollectionView](https://github.com/matbeich/StickyCollectionView) - UICollectionView layout for presenting of the overlapping cells.
 * [SwiftyCollectionView](https://github.com/vinit5320/SwiftyCollectionView) - Tutorial(https://swiftyos.wordpress.com/2015/08/01/animated-wave-transition-collectionview-ckwavecollectionviewtransition/)
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - Spreadsheet CollectionViewLayout in Swift. Fully customizable.
@@ -1244,6 +1245,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Swift implementation of the photo tilt gesture/UX found in Facebook's Paper app.
 * [Panorific](https://github.com/ndmeiri/Panorific) - An immersive, intuitive, motion-based way to explore high quality panoramas and photos on an iOS device. Panorific is implemented in Swift.
 * [PASImageView](https://github.com/abiaad/PASImageView) - Rounded async imageview downloader lightly cached and written in Swift.
+* [PuzzleMaker](https://github.com/PGSSoft/PuzzleMaker) - Swift framework responsible for generating puzzles from the image.
 * [ShadowImageView](https://github.com/olddonkey/ShadowImageView) - An apple music cover picture shadow style image library.
 * [Sharaku](https://github.com/makomori/Sharaku) - Image filtering UI library like Instagram.
 * [Snowflake](https://github.com/onmyway133/Snowflake) - SVG in Swift.
@@ -2539,6 +2541,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Down](https://github.com/iwasrobbed/Down) - Blazing fast Markdown rendering in Swift, built upon cmark.
 * [EmojiTextView](https://github.com/fastred/EmojiTextView) - Tap to swap out words with emojis. Inspired by Messages.app on iOS 10.
 * [HandyText](https://github.com/mmrmmlrr/HandyText) - HandyText is a helper library that allows to create and manage text styles in a clear declarative manner.
+* [input-mask-ios](https://github.com/RedMadRobot/input-mask-ios) - User input masking library repo.
 * [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - add text(multiple line support) to imageView, edit, rotate or resize them as you want, then render the text on image.
 * [HighlightTextView](https://github.com/yusayusa/HighlightTextView)
 * [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - Markdown View for iOS.
@@ -2553,6 +2556,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Gradient Text in Real.
 * [Reductio](https://github.com/fdzsergio/Reductio) - Reductio is a tool used to extract keywords and phrases using an implementation of the algorithm TextRank.
 * [RegeributedTextView](https://github.com/rinov/RegeributedTextView) - RegeributedTextView is a subclass of UITextView that supports fully attribute string based on regular expression.
+* [RichTextView](https://github.com/tophat/RichTextView) - iOS Text View (UIView) that Properly Displays LaTeX, HTML, Markdown, and YouTube/Vimeo Links.
 * [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks.
 * [Splitflap](https://github.com/YannickL/Splitflap) - A simple split-flap display for your Swift applications.
 * [styled-text](https://github.com/blueapron/styled-text) - Declarative text styles and streamlined Dynamic Type support for iOS.
@@ -2859,6 +2863,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
 * [Warehouse](https://github.com/muukii/Warehouse) - You can use easily NSFileManager.
 * [WatchShaker](https://github.com/ezefranca/WatchShaker) Simple motion detector for watchOS shake gesture. ⌚️
+* [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS.
 * [WikipediaKit](https://github.com/Raureif/WikipediaKit) - API Client Framework for Swift 3 on macOS, iOS, watchOS, and tvOS.
 * [Zip](https://github.com/marmelroy/Zip) - Swift framework for zipping and unzipping files.
 
