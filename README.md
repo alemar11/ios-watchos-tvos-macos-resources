@@ -631,6 +631,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AudioKit](https://github.com/audiokit/AudioKit) - Open-source audio synthesis, processing, & analysis platform.
 * [Jukebox](https://github.com/teodorpatras/Jukebox) - Player for streaming local and remote audio files. Written in Swift.
 * [InstaBars](https://github.com/vaibhavxyz/InstaBars) - InstaBars is a simple animation for iOS applications inspired by equaliser in instagram application.
+* [MLAudioPlayer](https://github.com/micheltlutz/MLAudioPlayer) - AudioPlayer for Swift projects.
 * [Piano](https://github.com/saoudrizwan/Piano) - Easily play combinations of sound effects and Taptic Engine vibrations on iOS.
 * [SwiftySound](https://github.com/adamcichy/SwiftySound) - Swifty Sound is a simple library that lets you play sounds with a single line of code.
 * [TempiBeatDetection](https://github.com/jscalo/TempiBeatDetection) - Swift library that performs real-time or static beat detection on audio.
