@@ -345,6 +345,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework for iOS, written in Swift.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [ImageSwapper](https://github.com/tsarikovskiy/ImageSwapper) - Nice iOS animations for swapping images. In progress.
+* [ImageTransition](https://github.com/shtnkgm/ImageTransition) - Library for smooth animation of images during transitions.
 * [Interpolate](https://github.com/marmelroy/Interpolate) - Swift interpolation for gesture-driven animations.
 * [JellyAnimationView](https://github.com/malt03/JellyAnimationView)
 * [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit) - Animate easy and with less code with Swift.
@@ -1186,6 +1187,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RPModalGestureTransition](https://github.com/naoyashiga/RPModalGestureTransition)
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
 * [Pixel](https://github.com/muukii/Pixel) - An image editor and engine using CoreImage.
+* [ProcreateUndoGesture](https://github.com/SavageSource/ProcreateUndoGesture) - This is an example of Procreate's Undo and Redo gestures.
 * [Sensitive](https://github.com/igormatyushkin014/Sensitive) - Fresh look at work with gestures in Swift.
 * [ShakeToChange](https://github.com/freeskys/ShakeToChange) - Change environment using shake.
 * [SHFSignature](https://github.com/felipesantolim/SHFSignature) - It's a simple class that provide to draw a signature and result in UIImage.
@@ -1553,6 +1555,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DistancePicker](https://github.com/qmathe/DistancePicker) - Custom UIKit control to select a distance with a pan gesture, written in Swift.
 * [DynamicBubble](https://github.com/vladaverin24/DynamicBubble) - Interactive Speech Balloon/Bubble view with rich customization UI for app user.
 * [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - 360° flyover on an MKMapView.
+* [GeoTrackKit](https://github.com/intere/GeoTrackKit) - A Cocoapod for Geo Tracking.
 * [GooglePlacesClone](https://github.com/VishalNandoriya/GooglePlacesClone) - This repository aims for a tutorial on how to use the Google Places API in conjunction with Google Maps iOS SDK.
 * [GpxLocationManager](https://github.com/vermont42/GpxLocationManager) - GpxLocationManager is a replacement for CLLocationManager that allows the developer to use GPS data from GPX files or CLLocation arrays for testing.
 * [JDSwiftHeatMap](https://github.com/jamesdouble/JDSwiftHeatMap) - JDSwiftMap is an IOS Native MapKit Library. You can easily make a highly customized HeatMap.
@@ -2779,6 +2782,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
 * [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities.
 * [CTFeedbackSwift](https://github.com/rizumita/CTFeedbackSwift) - Feedback mail composer for iOS re-written in Swift of CTFeedback.
+* [CubicEquationSolver](https://github.com/dnpp73/CubicEquationSolver) - Cubic Equation Solver written in Swift for iOS, macOS.
 * [DAFileMonitor](https://github.com/dagostini/DAFileMonitor) - A simple wrapper around dispatch sources.
 * [DCDirectoryWatcher](https://github.com/dcvz/DCDirectoryWatcher) - A lightweight class for monitoring directory changes on iOS.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
@@ -2832,6 +2836,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 * [Solid](https://github.com/igormatyushkin014/Solid) - New way to work with arrays in Swift.
+* [SpotlightLyrics](https://github.com/jayasme/SpotlightLyrics) - An LRC file parser for iOS.
 * [StampIcon](https://github.com/jorystiefel/stampicon) - Mac command line tool to imprint a text banner over a PNG icon, written in Swift.
 * [StatusProvider](https://github.com/mariohahn/StatusProvider) - Protocol to handle initial Loadings, Empty Views and Error Handling in a ViewController & views.
 * [StringFormatter](https://github.com/orucanil/StringFormatter) - Simple Text Formetter (Credit Card Number, Phone Number, Serial Number etc.) Can be used in all text inputs according to the format pattern. If desired, large minor character restrictions can be made in the format pattern.
@@ -3162,5 +3167,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Xcode Extension
 
 #### 🔸*Swift*
+* [Comment-Spell-Checker](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto-correcting code comments.
 * [Import](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code.
 * [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers.
