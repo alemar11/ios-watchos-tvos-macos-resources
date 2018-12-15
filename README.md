@@ -1093,6 +1093,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ASCalendar](https://github.com/scamps88/ASCalendar) - A calendar control for iOS written in swift with mvvm pattern.
 * [CalendarPopUp](https://github.com/orazz/CalendarPopUp)
 * [CalendarView](https://github.com/mmick66/CalendarView) - This is a calendar component for iOS written in Swift.
+* [CrispyCalendar](https://github.com/CleverPumpkin/CrispyCalendar)
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
 * [D2PDatePicker](https://github.com/di2pra/D2PDatePicker) - Elegant and Easy-to-Use iOS Swift Date Picker.
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
