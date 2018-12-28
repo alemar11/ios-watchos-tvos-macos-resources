@@ -975,6 +975,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [InfiniteScrolling](https://github.com/Vishal-Singh-Panwar/InfiniteScrolling) - Add infinite scrolling to collection view.
 * [IOStickyHeader](https://github.com/BenjaminPrieur/IOStickyHeader) - Parallax and Sticky header done right using UICollectionViewLayout.
 * [LNZCollectionLayouts](https://github.com/gringoireDM/LNZCollectionLayouts) - A collection of CollectionViewLayout.
+* [MagazineLayout](https://github.com/airbnb/MagazineLayout) - A collection view layout capable of laying out views in vertically scrolling grids and lists.
 * [MHPinterestLayout](https://github.com/michaelhenry/MHPinterestLayout) - Customized dynamic cell - Pinterest layout with custom header.
 * [PopupCollectionViewController](https://github.com/corin8823/PopupCollectionViewController) - PopupCollectionViewController is a collectionView in Popup view.
 * [PinterestLayout](https://github.com/MagicLab-team/PinterestLayout) - Custom collection view layout inspired by Pinterest layout. Written in Swift.
@@ -988,6 +989,8 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ScalingCarousel](https://github.com/superpeteblaze/ScalingCarousel) - A super simple carousel view with scaling transitions written in Swift.
 * [SectionScrubber](https://github.com/bakkenbaeck/SectionScrubber) - A component to quickly scroll between collection view sections.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)
+* [SnapLikeCollectionView](https://github.com/kboy-silvergym/SnapLikeCollectionView) - The collectionView library which is scaling, scrolling and stopping comfortably like Snapchat and Instagram.
+* [SNCollectionViewLayout](https://github.com/ahmedAlmasri/SNCollectionViewLayout) - Collection View Layouts is a set of custom flow layouts for iOS which imitate general data grid approaches for mobile apps.
 * [SquareFlowLayout](https://github.com/ChernyshenkoTaras/SquareFlowLayout) - SquareFlowLayout is another UICollectionViewLayout subclass that implements Instagram style layout.
 * [StackedCollectionView](https://github.com/oakstudios/StackedCollectionView) - Swift library to drag, drop, and stack items within a UICollectionView.
 * [StickyCollectionView](https://github.com/matbeich/StickyCollectionView) - UICollectionView layout for presenting of the overlapping cells.
@@ -1160,7 +1163,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Geometry
 
 #### 🔸*Swift*
-* [CGGeometry](https://github.com/andyyhope/Blog_CGGeometry) - Swift: CGRect, CGSize, CGPoint.
+* [Euclid](https://github.com/nicklockwood/Euclid) - A Swift library for creating and manipulating 3D geometry
 * [Iconic](https://github.com/dzenbot/Iconic) - Auto-generated icon font library for iOS & tvOS.
 * [InkKit](https://github.com/shaps80/InkKit) - Drawing and Geometry made easy for iOS.
 
@@ -1723,6 +1726,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [fireworks](https://github.com/kjpgit/fireworks) - Fireworks Graphics Demo (OSX/Metal/Swift). `macOS`
 * [Metalbrot](https://github.com/jtbandes/Metalbrot.playground) - An interactive playground showing how to use Metal compute kernels.
+* [MetalFilters](https://github.com/alexiscn/MetalFilters) - Instagram filters implemented in Metal.
 * [MetalScope](https://github.com/ejeinc/MetalScope) - Metal-backed 360° panorama view for iOS.
 
 ## NavigationBar
@@ -1835,7 +1839,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [LNPopupController](https://github.com/LeoNatan/LNPopupController) - LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
 
 #### 🔸*Swift*
+* [ADOverlayContainer](https://github.com/applidium/ADOverlayContainer) - iOS UI library to implement overlay based interfaces.
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition.
+* [drawer-view](https://github.com/jVirus/drawer-view) - Drawer View is a custom UI component replication of Apple's Apple Music player and Shortcuts components view.
 * [DrawerKit](https://github.com/Babylonpartners/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS.
 * [InteractiveCardViewAnimation](https://github.com/brianadvent/InteractiveCardViewAnimation)
@@ -2325,6 +2331,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 3.0.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)
 * [CustomTabBarShape](https://github.com/Monntay/CustomTabBarShape) - Draw a Custom iOS TabBar shape [tutorial](https://medium.com/@philipp307/draw-a-custom-ios-tabbar-shape-27d298a7f4fa)
+* [flashy-tabbar](https://github.com/Cuberto/flashy-tabbar) - One another nice animated tabbar.
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar.
 * [HHTabBarView](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tabbar view.
 * [KPSmartTabBar](https://github.com/KrishnaPatell/KPSmartTabBar) - A fully customisable and flexible tab bar controller.
@@ -3100,6 +3107,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AAPopUp](https://github.com/EngrAhsanAli/AAPopUp) - AAPopUp is a simple and easy-to-use popup view controller designed to present customizable storyboard based view controller as a modal alert, written in Swift..
 * [AICustomViewControllerTransition](https://github.com/cocoatoucher/AICustomViewControllerTransition) - Easy and tidy way for creating custom UIViewController transitions for iOS.
 * [AZTransitions](https://github.com/azimin/AZTransitions) - API to make great custom transitions in one method.
+* [CardPresentationController](https://github.com/radianttap/CardPresentationController) - Custom UIPresentationController which mimics the behavior of Apple Music UI.
 * [CustomSegue](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects (NSViewControllerTransitionOptions). `macOS`
 * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS 10 Apple Music now playing transition.
@@ -3127,6 +3135,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RDGliderViewController-Swift](https://github.com/gelemias/RDGliderViewController-Swift) - Control for a floating view gliding over a ViewController Edit.
 * [SamuraiTransition](https://github.com/hachinobu/SamuraiTransition) - a ViewController transition framework in Swift.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)
+* [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Modal controller as in mail or Apple music application.
 * [StatefulViewController](https://github.com/aschuch/StatefulViewController) - Placeholder views based on content, loading, error or empty states.
 * [SwiftPagingNav](https://github.com/aubrey/SwiftPagingNav) - A Twitter-like navigation bar and page viewer written in Swift.
 * [SwipeTransition](https://github.com/tattn/SwipeTransition) - Allows trendy transitions using swipe gesture such as "swipe back".
