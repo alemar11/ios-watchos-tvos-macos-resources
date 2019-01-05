@@ -351,6 +351,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit) - Animate easy and with less code with Swift.
 * [JingRound](https://github.com/isaced/JingRound/tree/swift)
 * [KFWatchKitAnimations](https://github.com/kiavashfaisali/KFWatchKitAnimations) - KFWatchKitAnimations creates beautiful 60 FPS animations for  Watch by recording animations from the iOS. ⌚️
+* [LockAnimationTest](https://github.com/warpling/LockAnimationTest) - The iPhone X lock animation …unlocked.
 * [lottie](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations.
 * [MarchingLayer](https://github.com/cemolcay/MarchingLayer) - domly fills layer with sprites and move them in any direction and speed you want.
 * [material-motion-swift](https://github.com/material-motion/material-motion-swift) - Reactive motion for iOS.
@@ -448,6 +449,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Minamo](https://github.com/yukiasai/Minamo) - Simple coach mark library written in Swift.
 * [NKWatchActivityIndicator](https://github.com/NilStack/NKWatchActivityIndicator) - An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2. ⌚️
 * [Notepad](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
+* [ODEON](https://github.com/Sherlouk/ODEON)
 * [OneHourWalker](https://github.com/appcoda/OneHourWalker) - HealthKit demo app.
 * [photostream](https://github.com/mownier/photostream) - A photo sharing iOS app that uses Firebase and is being driven by VIPER architecture.
 * [PixPic](https://github.com/Yalantis/PixPic) - PixPic, a Photo Editing App.
@@ -503,6 +505,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift* 
 * [AppWage](https://github.com/hankinsoft/AppWage) - iTunes connect reporting tool.
+* [aural-player](https://github.com/maculateConception/aural-player) - Aural Player is an audio player application for the macOS platform, that was inspired by the classic Winamp player for Windows.
 * [BatteryNotifier](https://github.com/Kalvin126/BatteryNotifier) - OS X tool that warns you if your iOS devices needs a charge. `macOS`
 * [brisk](https://github.com/br1sk/brisk) - A macOS app for submitting radars. `macOS`
 * [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - A text editor that only allows the top 1000 most common words in English. `macOS`
@@ -653,6 +656,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ARuler](https://github.com/duzexu/ARuler) - Mesure distance using apple ARKit.
 * [ARViewer](https://github.com/farice/ARShooter/tree/master/ARViewer)
 * [Findme](https://github.com/mmoaay/Findme) - An ARKit App that can help your friends to find you.
+* [Morse-Vision](https://github.com/acotilla91/Morse-Vision) - More Vision is a simple app that utilizes ARKit to interpret blinks as morse code which are then transcribed to text.
 
 ## Badge
 *Notifications icons*
@@ -989,6 +993,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ScalingCarousel](https://github.com/superpeteblaze/ScalingCarousel) - A super simple carousel view with scaling transitions written in Swift.
 * [SectionScrubber](https://github.com/bakkenbaeck/SectionScrubber) - A component to quickly scroll between collection view sections.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)
+* [smooth-scroll](https://github.com/Cuberto/smooth-scroll) - Smooth collection scrolling.
 * [SnapLikeCollectionView](https://github.com/kboy-silvergym/SnapLikeCollectionView) - The collectionView library which is scaling, scrolling and stopping comfortably like Snapchat and Instagram.
 * [SNCollectionViewLayout](https://github.com/ahmedAlmasri/SNCollectionViewLayout) - Collection View Layouts is a set of custom flow layouts for iOS which imitate general data grid approaches for mobile apps.
 * [SquareFlowLayout](https://github.com/ChernyshenkoTaras/SquareFlowLayout) - SquareFlowLayout is another UICollectionViewLayout subclass that implements Instagram style layout.
@@ -1656,6 +1661,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MarkingMenu](https://github.com/FlexMonkey/MarkingMenu)
 * [MaterialTapTargetPrompt](https://github.com/Abedalkareem/MaterialTapTargetPrompt-iOS) - A iOS version of Material Tap Target Prompt.
 * [MediumMenu](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app.
+* [Menu](https://github.com/TwoLivesLeft/Menu) - The iOS Menu.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - MenuItemKit provides image and block(closure) support for UIMenuItem.
 * [MTSideMenubar](https://github.com/manekdilip/MTSideMenubar) - Side menu bar creating easily left and right side.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A fully customizable and flexible paging menu controller built from other view controllers placed inside a scroll view
