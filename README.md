@@ -264,6 +264,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PMAlertController](https://github.com/Codeido/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
 * [PokeModal](https://github.com/lborgav/PokeModal) - Simple Modal View inspired Pokémon GO written in Swift.
 * [Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift.
+* [Popover-label](https://github.com/eonist/Popover-label) - Popover label for iOS.
 * [PopUp](https://github.com/mhlangagc/PopUp) - A simple way to implement a Pop up from the bottom informing the user of any changes within the app or some action they need to do. It Pops up in the KeyWindow and hence over all views, tableViews or collectionViews.
 * [PopupDialog](https://github.com/Orderella/PopupDialog) - A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertControllers alert style.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
@@ -506,6 +507,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift* 
 * [AppWage](https://github.com/hankinsoft/AppWage) - iTunes connect reporting tool.
 * [aural-player](https://github.com/maculateConception/aural-player) - Aural Player is an audio player application for the macOS platform, that was inspired by the classic Winamp player for Windows.
+* [Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS.
 * [BatteryNotifier](https://github.com/Kalvin126/BatteryNotifier) - OS X tool that warns you if your iOS devices needs a charge. `macOS`
 * [brisk](https://github.com/br1sk/brisk) - A macOS app for submitting radars. `macOS`
 * [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - A text editor that only allows the top 1000 most common words in English. `macOS`
@@ -595,6 +597,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)
 * [AssetsPickerViewController](https://github.com/DragonCherry/AssetsPickerViewController) - Multiple Photo & Video Picker Controller by Swift.
 * [BRNImagePickerSheet](https://github.com/jacklevin74/BRNImagePickerSheet/tree/master)
+* [BSImagePicker](https://github.com/mikaoj/BSImagePicker) - A multiple image picker for iOS.
 * [Collage](https://github.com/sohamb1390/Collage) - A simple photo collage app with predefined collage frames.
 * [CSPhotoGallery](https://github.com/youkchansim/CSPhotoGallery) - This is very simple and light photo gallery.
 * [DSFacebookImagePicker](https://github.com/sanche21/DSFacebookImagePicker)
@@ -649,8 +652,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR) - Well known game Snake written in Swift using ARKit.
 * [ARCharts](https://github.com/Boris-Em/ARCharts) - Lovely Augmented Reality Charts for iOS - Built with ARKit.
-* [ARDominoes](https://github.com/kkorouei/ARDominoes)
+* [ARDominoes](https://github.com/kkorouei/ARDominoes) - Create paths for your Augmented Reality environments using just points to represent the centre of the path.
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
+* [ARKit-SCNPath](https://github.com/maxxfrazer/ARKit-SCNPath)
 * [ARPaint](https://github.com/oabdelkarim/ARPaint) - Draw with bare fingers in the air using ARKit.
 * [ARSolar](https://github.com/emadhegab/ARSolar) - Solar System with ARKit on Swift.
 * [ARuler](https://github.com/duzexu/ARuler) - Mesure distance using apple ARKit.
@@ -958,6 +962,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [appstore-clone](https://github.com/phillfarrugia/appstore-clone) - An experimental clone of the new iOS 11 App Store app.
 * [AZCollectionView](https://github.com/AfrozZaheer/AZCollectionViewController)
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce.
+* [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout) - An easy-to-use Collection View Layout for card-like animation.
 * [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - A custom View with two level chained collection views and fancy transition animation.
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
@@ -1192,6 +1197,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [InceptionTouch](https://github.com/richzertuche/InceptionTouch) - Who needs 3DTouch when you can have InceptionTouch.
 * [Knock](https://github.com/Headtalk/Knock) - A simple detector for physical knocks on the back or front of an iPhone.
 * [LimSignatureView](https://github.com/limhowe/LimSignatureView) - Signature View in Swift.
+* [liquid-swipe](https://github.com/Cuberto/liquid-swipe)
 * [NXDrawKit](https://github.com/Nicejinux/NXDrawKit) - NXDrawKit is a simple and easy but useful drawing kit for iPhone.
 * [RPModalGestureTransition](https://github.com/naoyashiga/RPModalGestureTransition)
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
@@ -1966,6 +1972,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView) - A simple animated progress bar in Swift.
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders)
 * [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)
+* [GradientProgressBar](https://github.com/fxm90/GradientProgressBar) - A customizable gradient progress bar (UIProgressView).
 * [GTProgressBar](https://github.com/gregttn/GTProgressBar) - Customisable progress bar written in Swift 3.
 * [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress)
 * [KDLoadingView](https://github.com/KaiqueDamato/KDLoadingView) - A beautiful loading indicator. Written in Swift.
