@@ -659,6 +659,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ARSolar](https://github.com/emadhegab/ARSolar) - Solar System with ARKit on Swift.
 * [ARuler](https://github.com/duzexu/ARuler) - Mesure distance using apple ARKit.
 * [ARViewer](https://github.com/farice/ARShooter/tree/master/ARViewer)
+* [augmented-card](https://github.com/vigetlabs/augmented-card)
 * [Findme](https://github.com/mmoaay/Findme) - An ARKit App that can help your friends to find you.
 * [Morse-Vision](https://github.com/acotilla91/Morse-Vision) - More Vision is a simple app that utilizes ARKit to interpret blinks as morse code which are then transcribed to text.
 
@@ -1852,6 +1853,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 #### 🔸*Swift*
 * [ADOverlayContainer](https://github.com/applidium/ADOverlayContainer) - iOS UI library to implement overlay based interfaces.
+* [Aiolos](https://github.com/IdeasOnCanvas/Aiolos) - A floating panel for your iOS Apps.
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition.
 * [drawer-view](https://github.com/jVirus/drawer-view) - Drawer View is a custom UI component replication of Apple's Apple Music player and Shortcuts components view.
 * [DrawerKit](https://github.com/Babylonpartners/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
