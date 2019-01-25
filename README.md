@@ -478,6 +478,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Unwrap](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone.
 * [v2ex](https://github.com/darkerk/v2ex) - The unofficial V2EX app for iOS.
 * [VKMusic](https://github.com/ilyahal/VKMusic) - The app is designed for listening to music from vk.com.
+* [VoiceMemosClone](https://github.com/HassanElDesouky/VoiceMemosClone) - A clone for Apple's Voice Memos app.
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. ⌚️
 * [WatchNote](https://github.com/ezefranca/WatchNote) - Controlling your Keynote using Apple Watch. ⌚️
 * [weight-tracker](https://github.com/Jackson-S/weight-tracker) - iOS and watchOS weight entry app for HealthKit. ️️⌚️
