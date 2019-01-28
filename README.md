@@ -244,6 +244,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces on iOS.
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup written in Swift 3.
 * [CFNotify](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable views.
+* [CleanyModal](https://github.com/loryhuz/CleanyModal) - Swift UI Kit to present clean modal/alert.
 * [CPAlertViewController](https://github.com/katafo/CPAlertViewController) - A way to create a custom alert view with animation.
 * [DCAlertController](https://github.com/noppefoxwolf/DCAlertController)
 * [DOAlertController](https://github.com/okmr-d/DOAlertController)
