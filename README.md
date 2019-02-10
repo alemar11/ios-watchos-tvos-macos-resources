@@ -1862,6 +1862,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS.
 * [InteractiveCardViewAnimation](https://github.com/brianadvent/InteractiveCardViewAnimation)
 * [Panels](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
+* [PresentationControllerBlog](https://github.com/kylebshr/PresentationControllerBlog)
 * [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI.
 * [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
 * [shortcuts-drawer-view)](https://github.com/phillfarrugia/shortcuts-drawer-view) - An experimental re-creation of Siri Shortcut's Drawer View component.
