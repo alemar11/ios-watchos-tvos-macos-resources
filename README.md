@@ -742,6 +742,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 * [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
 * [DynamicButton](https://github.com/yannickl/DynamicButton)
+* [fave-button](https://github.com/xhamr/fave-button) - FaveButton is an iOS cute animated like button written in Swift.
 * [FlatButton](https://github.com/OskarGroth/FlatButton) - Layer based NSButton with Interface Builder styling options. `macOS`
 * [GNTickerButton](https://github.com/gonzalonunez/GNTickerButton)
 * [Hamburger Menu Button](https://github.com/toannt/Hamburger-Menu-Button)
@@ -882,6 +883,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Graphs](https://github.com/recruit-mtl/Graphs) - Light weight charts view generater for iOS. Written in Swift.
 * [HeartRate](https://github.com/liamscofield/HeartRate) - Chart for Decibel.
 * [HSStockChart](https://github.com/zyphs21/HSStockChart) - Stock Chart include CandleStickChart,TimeLineChart.
+* [ILG](https://github.com/joeynelson42/ILG)
 * [ios-charts](https://github.com/danielgindi/ios-charts) - Beautiful charts for iOS/tvOS/OSX.
 * [LineChart](https://github.com/nhatminh12369/LineChart)
 * [PieCharts](https://github.com/i-schuetz/PieCharts) - Easy to use and highly customizable pie charts library for iOS.
@@ -2214,6 +2216,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PageController](https://github.com/hirohisa/PageController) - PageController is infinite paging controller, scrolling through contents and title bar scrolls with a delay. Then it provide user interaction to smoothly and effortlessly moving. It is for iOS written in Swift.
 * [PRGRoundSlider](https://github.com/ispiropoulos/PRGRoundSlider) - A fully customizable circular slider.
 * [RangeSlider](https://github.com/matthewreagan/RangeSlider) - Simple, clean, and customizable range-based slider control for macOS. `macOS`
+* [SHSliderSwitch](https://github.com/iamshezad/SHSliderSwitch) - SHSliderSwitch is a simple lightweight library to implement an animated slider switch.
 * [SlideTo](https://github.com/ChristianMoler/SlideTo) - Simple slide controller is fully customizable via interface builder.
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
 * [SpringySlider](https://github.com/josephlord/SpringySlider) - Custom UISlider with thumb animation.
