@@ -2351,6 +2351,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AMPagerTabs](https://github.com/Abedalkareem/AMPagerTabs) - Pager tabs for iOS.
 * [AnimateTabbarBadgeView](https://github.com/AliAdam/AnimateTabbarBadgeView) - UITabBarController Extention to make badge View animated.
 * [Animated-Tab-Bar](https://github.com/Ramotion/animated-tab-bar)
+* [AnimatedTabBar](https://github.com/AlbGarciam/AnimatedTabBar) - AnimatedTabBar is a Swift UI module library for adding animation to iOS tabBar items and icons.
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 3.0.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)
 * [CustomTabBarShape](https://github.com/Monntay/CustomTabBarShape) - Draw a Custom iOS TabBar shape [tutorial](https://medium.com/@philipp307/draw-a-custom-ios-tabbar-shape-27d298a7f4fa)
@@ -2674,6 +2675,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TweeTextField](https://github.com/oleghnidets/TweeTextField) - Lightweight set of text fields with nice animation and functionality.
 * [UITextField-Navigation](https://github.com/T-Pham/UITextField-Navigation) - UITextField-Navigation make it easier to navigate between UITextFields.
 * [UnderLineTextField](https://github.com/mohammadalijf/UnderLineTextField) - Simple UITextfield Subclass with state.
+* [VEditorKit](https://github.com/GeekTree0101/VEditorKit) - Lightweight and Powerful Editor Kit.
 * [VKAfterTimeTextField](https://github.com/vladislav-k/VKAfterTimeTextField) - VKAfterTimeTextField is a sub-class of UITextField which allows you to know when user edited it last time during current use session. Also it allows to notify after specific time interval when user ends editing. This is gives you a some kind of "setContinouos:false" feature like UISlider has.
 * [VMFloatLabel](https://github.com/varshylmobile/VMFloatLabel) - Swift based UITextField subclass with floating labels.
 
