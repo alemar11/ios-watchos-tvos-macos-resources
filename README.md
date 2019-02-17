@@ -766,6 +766,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [OnOffButton](https://github.com/rakaramos/OnOffButton) - Custom On/Off Animated UIButton, written in Swift.
 * [PlayPauseAnimation](https://github.com/kNeerajPro/PlayPauseAnimation)
 * [QuickRippleButton](https://github.com/ansonyao/QuickRippleButton) - Custom UIButton which has ripple animation effect when clicked.
+* [RadioGroup](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
 * [Reactions](https://github.com/yannickl/Reactions) - Fully customizable Facebook reactions control.
 * [recordbutton](https://github.com/samuelbeek/recordbutton)
 * [RNLoadingButton](https://github.com/souzainf3/RNLoadingButton-Swift)
@@ -1027,6 +1028,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell) - Automatically UICollectionViewCell size calculating.
 
 #### 🔸*Swift*
+* [CheckmarkCollectionViewCell](https://github.com/yonat/CheckmarkCollectionViewCell) - UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app "Select" mode.
 * [SwipeCollectionViewCell](https://github.com/anishparajuli555/SwipeCollectionViewCell) - This project illustrates how to implement swipe to delete functionality in UICollectionViewCell.
 
 ## Color
@@ -2976,6 +2978,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AvatarImageView](https://github.com/ayushn21/AvatarImageView) - AvatarImageView is a UIImageView subclass designed to show a user's profile picture, falling back to their initials when a picture is unavailable.
 * [AvatarView](https://github.com/chrene/AvatarView/)
 * [AZEmptyState](https://github.com/Minitour/AZEmptyState) - A UIControl subclass that makes it easy to create empty states.
+* [BatteryView](https://github.com/yonat/BatteryView) - Simple battery shaped UIView.
 * [Blurable](https://github.com/FlexMonkey/Blurable)
 * [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) - Waves of the radar
 * [ClapsView](https://github.com/hemangshah/ClapsView) - Implemented the functionality of Medium.com Claps.
