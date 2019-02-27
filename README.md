@@ -1397,6 +1397,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [MAGlowingLabel](https://github.com/Marwan8/MAGlowingLabel) - A UILabel with an animated glowing effect written in Swift.
 * [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text will not fit inside the specified frame.
+* [Nantes](https://github.com/instacart/Nantes) - TTTAttributedLabel replacement.
 * [NumericAnimatedLabel](https://github.com/javalnanda/NumericAnimatedLabel) - Animate numeric value while setting new value to label.
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.
 * [ODMultiColumnLabel](https://github.com/Sephiroth87/ODMultiColumnLabel) - A UILabel replacement that renders text on multiple columns.
