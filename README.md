@@ -495,6 +495,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Armchair](https://github.com/UrbanApps/Armchair) - A simple yet powerful App Review Manager for iOS and OSX in Swift. `macOS`
 * [GIFs](https://github.com/orta/GIFs) - A Mac App for finding GIFs. `macOS`
 * [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. `macOS`
+* [iOSLocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side.
 * [IP-Menu](https://github.com/Barbayar/IP-Menu) - A small app that shows IP location on the Mac OS X status bar. `macOS`
 * [lumen](https://github.com/anishathalye/lumen) - Magic auto brightness based on screen contents. `macOS`
 * [ModernLook-OSX](https://github.com/gyetvan-andras/ModernLook-OSX) - OSX Moder Look UI. `macOS`
