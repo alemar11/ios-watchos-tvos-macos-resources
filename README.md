@@ -16,6 +16,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [iOS architecture](https://github.com/onmyway133/fantastic-ios-architecture) -  Better ways to structure apps.
 - [iOS Cookies: A hand curated collection of iOS libraries written in Swift](http://www.ioscookies.com)
 - [List of awesome snippets, plugins, and extras for Xcode](https://github.com/jeffreyjackson/awesome-xcode) 
+- [Open-Source macOS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
 - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS, watchOS and tvOS apps.
 - [The best FRP in iOS links.](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 - [Top App Developers](https://github.com/app-developers/top)
