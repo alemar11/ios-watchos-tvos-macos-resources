@@ -27,7 +27,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ---
 
 ### Code Examples
-
 * [Reusable apps code written in Swift](https://github.com/carlbutron/Swift)
 
 ### iOS 11
@@ -457,6 +456,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [OneHourWalker](https://github.com/appcoda/OneHourWalker) - HealthKit demo app.
 * [photostream](https://github.com/mownier/photostream) - A photo sharing iOS app that uses Firebase and is being driven by VIPER architecture.
 * [PixPic](https://github.com/Yalantis/PixPic) - PixPic, a Photo Editing App.
+* [Portrait-without-Depth-ios](https://github.com/koooootake/Portrait-without-Depth-ios) - try! Swift 2019 demo app that converts Depth-less 2D images into Portrait mode.
 * [PostManager](https://github.com/TomekB/PostManager) - iOS Swift + Node.js app to manage and schedule twitter posts (like buffer).
 * [PotterPics](https://github.com/surayashivji/PotterPics) - Harry Potter themed social network similar to Instagram.
 * [pokemon-weakness-ios](https://github.com/pokeweak/pokemon-weakness-ios) - Source code for Pokemon Weakness iOS application. 
@@ -653,6 +653,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 ## Augmented Reality
 
+* [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) - Code examples for ARKit.
 * [Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources.
 
 #### 🔸*Swift*
@@ -1874,6 +1875,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS.
 * [InteractiveCardViewAnimation](https://github.com/brianadvent/InteractiveCardViewAnimation)
 * [Panels](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
+* [PanModal](https://github.com/slackhq/PanModal) - An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.
 * [PresentationControllerBlog](https://github.com/kylebshr/PresentationControllerBlog)
 * [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI.
 * [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
@@ -2579,6 +2581,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [YALField](https://github.com/Yalantis/YALField) - Custom Field component with validation for creating easier form-like UI from interface builder.
 
 #### 🔸*Swift*
+* [AnimatedField](https://github.com/alberdev/AnimatedField) - Animated UITextField with check & filter for default types (email, url, password, price, date...) for iOS.
 * [AOR](https://github.com/xxxAIRINxxx/AOR) - Wrapper of NSAttributedString and Text Kit. written in Swift.
 * [Apodimark](https://github.com/loiclec/Apodimark) - Fast, flexible markdown parser written in Swift.
 * [AttributedTextView](https://github.com/evermeer/AttributedTextView) - Easiest way to create an attributed UITextView with support for multiple links.
@@ -2736,6 +2739,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AANotifier](https://github.com/EngrAhsanAli/AANotifier) - AANotifier allows you to create UIView based fragments to be appear on screen at runtime in iOS, written in Swift.
 * [alerts-and-pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...
 * [ASToast)](https://github.com/abdullahselek/ASToast) - A Swift extension for using Android style Toast notifications.
+* [AwaitToast](https://github.com/k-lpmg/AwaitToast) - Basic toast as well as async waiting toast. Inspired by facebook posting toast.
 * [AZNotification-Swift](https://github.com/azamsharp/AZNotification-Swift)
 * [BisKit](https://github.com/ho0t/BisKit) - BisKit is an iOS library to generate beautiful popups as the one featured when Apple Pencil is attached to the new iPad Pro.
 * [BRYXBanner](https://github.com/bryx-inc/BRYXBanner)
@@ -2765,6 +2769,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Snackbar-iOS](https://github.com/JastAir/Snackbar-iOS) - Simple snackbar for ios from android platform.
 * [SpaceView](https://github.com/Xopoko/SpaceView)
 * [Squawk](https://github.com/GitHawkApp/Squawk) - Quick & interactive iOS alerts in Swift.
+* [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a banner presenter library for iOS. It can be used to easily display pop-ups and notification-like views within your iOS apps.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - A Swift extension that adds toast notifications to the UIView object class.
 * [TTGSnackbar](https://github.com/zekunyan/TTGSnackbar) - TTGSnackbar shows simple message and action button on the bottom or top of the screen with multi kinds of animation.
@@ -3174,6 +3179,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [QZCircleSegue](https://github.com/alextarrago/QZCircleSegue) -  Beatiful transition between circular-shapped buttons and your View Controller.
 * [RadialTransition_swift](https://github.com/apadalko/RadialTransition_swift) - Great iOS radial (circle) animation transition for navigation controller, with custom back swipe. (swift).
 * [RDGliderViewController-Swift](https://github.com/gelemias/RDGliderViewController-Swift) - Control for a floating view gliding over a ViewController Edit.
+* [RetroTransition](https://github.com/wcgray/RetroTransition) - Fun implementations of UIViewControllerAnimatedTransitioning for 90s inspired transitions between view controllers.
 * [SamuraiTransition](https://github.com/hachinobu/SamuraiTransition) - a ViewController transition framework in Swift.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)
 * [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Modal controller as in mail or Apple music application.
