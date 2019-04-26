@@ -1695,6 +1695,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SphereMenuSwift](https://github.com/caamorales/SphereMenuSwift)
 * [Summflower](https://github.com/iSame7/Summflower) - Swift implementation to the sexiest sharing icon based on Summly app.
 * [SvpplyTable](https://github.com/liuminqian/SvpplyTable) - Expandable and collapsable Menu, like Svpply.
+* [SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - Drop down menu for iOS.
 * [SwiftySideMenu](https://github.com/hossamghareeb/SwiftySideMenu)
 * [VTSwiftySlideMenu](https://github.com/whatsltd4us/VTSwiftySlideMenu) - An iOS navigation menu with Split-View supported on iPad and iPhone XS Max.
 * [YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) - Awesome iOS drop down menu with Swift 3.
@@ -2476,6 +2477,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TableView-PullToRefresh](https://github.com/vinit5320/TableView---PullToRefresh)
 * [UITableViewPushAnimation](https://github.com/pal2tapas/UITableViewPushAnimation) - Push a UIViewController with a attractable animation from UITableView.
 * [WCSTimeline](https://github.com/WrightsCS/WCSTimeline) - Simple timeline with data model.
+* [WLEmptyState](https://github.com/wizeline/WLEmptyState) - WLEmptyState is an iOS based component that lets you customize the view when the dataset of UITableView is empty.
 * [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - a TableView have thumbnail cell only, and you can use gesture let it expands other expansionView, all diy.
 
 ## TableViewCell
