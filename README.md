@@ -1539,6 +1539,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Machine Learning
 
 - [fantastic-machine-learning](https://github.com/onmyway133/fantastic-machine-learning) - A curated list of machine learning resources, preferably CoreML.
+- [Awesome Mobile Machine Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 
 #### 🔸*Swift*
 * [Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
