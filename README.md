@@ -3019,6 +3019,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A fancy hexagonal layout for displaying data like your Apple Watch.
 * [HGRippleRadarView](https://github.com/HamzaGhazouani/HGRippleRadarView) - A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
+* [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging.
 * [iOSAlignmentIndicatorViews](https://github.com/gbmiranda/iOSAlignmentIndicatorViews) - This is an iOS component to assist in aligning Views by creating lines similar to image editing programs such as Photoshop and Sketch.
 * [JDMechanicWatch](https://github.com/jamesdouble/JDMechanicWatch) - JDMechanicWatch can show time in a MechanicWatch look.
 * [jmcrainbow](https://www.cocoacontrols.com/controls/jmcrainbow)
