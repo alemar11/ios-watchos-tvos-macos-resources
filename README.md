@@ -271,6 +271,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [ScrollableDisclaimerAlert](https://github.com/kubacizek/ScrollableDisclaimerAlert) - Simple lightweight DisclaimerAlertView.
 * [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your iOS app is available, and prompt them with the App Store link.
+* [SPAlert](https://github.com/IvanVorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
 * [StatusAlert](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts. It is well suited for notifying user without interrupting user flow in iOS-like way.
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a banner presenter library for iOS.
@@ -588,6 +589,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RPMultipleImagePicker](https://github.com/renatopeterman/RPMultipleImagePicker)
 * [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper)
 * [Reader](https://github.com/vfr/Reader) - pdf
+* [SheetyColors](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
 * [SRPictureBrowser](https://github.com/guowilling/SRPictureBrowser) - A concise and elegant easy-to-use picture browser, the code is clear and easy to extend.
 * [SRVideoPlayer](https://github.com/guowilling/SRVideoPlayer) - AVFoundation based video player, custom UI and easy to extend.
 * [SWImageRotation](https://github.com/SurpriseWave/SWImageRotation)
@@ -1215,6 +1217,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
 * [Pixel](https://github.com/muukii/Pixel) - An image editor and engine using CoreImage.
 * [ProcreateUndoGesture](https://github.com/SavageSource/ProcreateUndoGesture) - This is an example of Procreate's Undo and Redo gestures.
+* [sensor-visualizer-kit](https://github.com/joeblau/sensor-visualizer-kit) - Visualize iOS sensors for live presentations, iOS AppStore demos, Apple Store prototypes, design reviews.
 * [Sensitive](https://github.com/igormatyushkin014/Sensitive) - Fresh look at work with gestures in Swift.
 * [ShakeToChange](https://github.com/freeskys/ShakeToChange) - Change environment using shake.
 * [SHFSignature](https://github.com/felipesantolim/SHFSignature) - It's a simple class that provide to draw a signature and result in UIImage.
@@ -1397,6 +1400,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [EFAutoScrollLabel](https://github.com/EyreFree/EFAutoScrollLabel) - A label which can scroll when text length beyond the width of label.
 * [GlitchLabel](https://github.com/kciter/GlitchLabel) - glitch effect
 * [GlowingLabel](https://github.com/RajChanchal/GlowingLabel) - A label with an outer glow.
+* [GranibleLabel](https://github.com/dokgi88/GranibleLabel) - Veeeeeeeeeeeeeeeery easy to use and simple gradation animate Label.
 * [IHTypeWriterLabel](https://github.com/Ibrahimhass/IHTypeWriterLabel) - A simple, UILabel subclass which poulates itself as if being typed.
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - UILabel subclass that saves you from refreshing it when using 'time ago' format.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
@@ -1882,6 +1886,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI.
 * [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
 * [shortcuts-drawer-view)](https://github.com/phillfarrugia/shortcuts-drawer-view) - An experimental re-creation of Siri Shortcut's Drawer View component.
+* [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
 * [UBottomSheet](https://github.com/OfTheWolf/UBottomSheet) - Bottom sheet that mimics the behaviours and UI of iPhone Maps app.
 
 ## PickerView
@@ -2042,9 +2047,10 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PullToBounce](https://github.com/entotsu/PullToBounce)
 * [PullToMakeFlight](https://github.com/Yalantis/PullToMakeFlight) - Custom animated pull-to-refresh that can be easily added to UIScrollView
 * [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - Custom animated pull-to-refresh that can be easily added to UIScrollView
+* [PullToReach](https://github.com/quickbirdstudios/PullToReach)
 * [PullToRefresh](https://github.com/Yalantis/PullToRefresh) - This component implements pure pull-to-refresh logic and you can use it for developing your own pull-to-refresh animations.
 * [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl)
-* [Refresher](https://github.com/jcavar/refresher)
+* [Refresher](https://github.com/jcavar/refresher) - PullToReach is a simple drag-and-drop solution for adding pull-to-reach functionality to your app.
 * [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - Implementation of [Zee Young's Dribbble animation](https://dribbble.com/shots/2067564-Replace)
 * [TB_PeriscopePTR](https://github.com/ariok/TB_PeriscopePTR) - tutorial [here](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/)
 
@@ -2353,6 +2359,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController)
 * [RKTabView](https://github.com/RafaelKayumov/RKTabView) - This is super flexible Custom tab bar controller implementation.
 * [RSCustomTabbarController](https://github.com/ratulSharker/RSCustomTabbarController)
+* [SSCustomTabbar](https://github.com/simformsolutions/SSCustomTabbar) - Simple Animated tabbar with native control.
 * [STColorfulTabBar](https://github.com/saitjr/STColorfulTabBar)
 * [SWGradientTabBar](https://github.com/satheeshwaran/SWGradientTabBar)
 * [VMTabbarCustomize](https://github.com/VuMai/VMTabbarCustomize)
@@ -2372,6 +2379,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [flashy-tabbar](https://github.com/Cuberto/flashy-tabbar) - One another nice animated tabbar.
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar.
 * [HHTabBarView](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tabbar view.
+* [JBTabBarAnimation](https://github.com/jithinpala/JBTabBarAnimation) - A custom TabBarController animation.
 * [KPSmartTabBar](https://github.com/KrishnaPatell/KPSmartTabBar) - A fully customisable and flexible tab bar controller.
 * [LXPageViewWithButtonsViewController](https://github.com/lxian/LXPageViewWithButtonsViewController) - Combines UIPageViewController and highly customisable page selection tabs.
 * [MHImageTabBar](https://github.com/mho000/MHImageTabBar)
@@ -2476,6 +2484,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Tabman](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar for iOS.
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of UITableView can be rearranged by drag and drop.
 * [TableView-PullToRefresh](https://github.com/vinit5320/TableView---PullToRefresh)
+* [TanibleView](https://github.com/dokgi88/TanibleView)Veeeeeeeeeeeeeeeery easy to use and simple animate TableView
 * [UITableViewPushAnimation](https://github.com/pal2tapas/UITableViewPushAnimation) - Push a UIViewController with a attractable animation from UITableView.
 * [WCSTimeline](https://github.com/WrightsCS/WCSTimeline) - Simple timeline with data model.
 * [WLEmptyState](https://github.com/wizeline/WLEmptyState) - WLEmptyState is an iOS based component that lets you customize the view when the dataset of UITableView is empty.
@@ -3046,6 +3055,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Triangulation](https://github.com/younatics/Triangulation) - Triangulation effect in iOS.
 * [tutorial](http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable)
 * [TvOSPinKeyboard](https://github.com/zattoo/TvOSPinKeyboard) - PIN keyboard for tvOS. 📺
+* [TZSpeedometer](https://github.com/tahseen0amin/TZSpeedometer)
 * [Twinkle](https://github.com/piemonte/Twinkle) - Twinkle is a Swift and easy way to make any UIView in your iOS app twinkle.
 * [UIView-Borders-Swift](https://github.com/aaronn/UIView-Borders-Swift) - One sided borders on any side of a UIView. Now available in Swift 3.
 * [URWeatherView](https://github.com/jegumhon/URWeatherView) - Show the weather effects onto view written in Swift3.
