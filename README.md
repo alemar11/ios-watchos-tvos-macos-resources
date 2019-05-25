@@ -110,6 +110,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [Routing](#routing)
 - [Resource](#resource)
 - [Script](#script)
+- [Screensaver](#screensaver)
 - [ScrollView](#scrollview)
 - [Security](#security)
 - [Segmented Control](#segmented-control)
@@ -451,9 +452,10 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [kickstarter App](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 * [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 * [Minamo](https://github.com/yukiasai/Minamo) - Simple coach mark library written in Swift.
+* [NewsApp](https://github.com/PowerMobileWeb/NewsApp)
 * [NKWatchActivityIndicator](https://github.com/NilStack/NKWatchActivityIndicator) - An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2. ⌚️
 * [Notepad](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
-* [ODEON](https://github.com/Sherlouk/ODEON)
+* [ODEON](https://github.com/Sherlouk/ODEON) - Beam for Reddit.
 * [OneHourWalker](https://github.com/appcoda/OneHourWalker) - HealthKit demo app.
 * [photostream](https://github.com/mownier/photostream) - A photo sharing iOS app that uses Firebase and is being driven by VIPER architecture.
 * [PixPic](https://github.com/Yalantis/PixPic) - PixPic, a Photo Editing App.
@@ -482,6 +484,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Tweetometer](https://github.com/BalestraPatrick/Tweetometer) - An app to see who is tweeting in your timeline.
 * [Unwrap](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone.
 * [v2ex](https://github.com/darkerk/v2ex) - The unofficial V2EX app for iOS.
+* [VersaPlayer](https://github.com/josejuanqm/VersaPlayer) - Versatile Video Player implementation for iOS, macOS, and tvOS.
 * [VKMusic](https://github.com/ilyahal/VKMusic) - The app is designed for listening to music from vk.com.
 * [VoiceMemosClone](https://github.com/HassanElDesouky/VoiceMemosClone) - A clone for Apple's Voice Memos app.
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. ⌚️
@@ -552,6 +555,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Up-Down](https://github.com/gjiazhe/Up-Down) - A menu bar widget for OS X that monitors upload and download speeds. `macOS`
 * [WWDC](https://github.com/insidegui/WWDC) - WWDC app for OS X. `macOS`
 * [xcode-dev-cleaner](https://github.com/vashpan/xcode-dev-cleaner) - If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you! `macOS`
+* [xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
 
 ## Architecture
 
@@ -628,6 +632,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift.
 * [TLPhotoPicker](https://github.com/tilltue/TLPhotoPicker) - Multiple phassets picker for iOS lib. like a facebook.
 * [Videoshader](https://github.com/snakajima/videoshader) - Script-based real-time video processing technology for OpenGL/iOS
+* [YPImagePicker](https://github.com/Yummypets/YPImagePicker) - Instagram-like image picker & filters for iOS.
 
 ## Audio
 
@@ -2110,6 +2115,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AppIcon](https://github.com/Nonchalant/AppIcon) - AppIcon generates *.appiconset contains each resolution image for iOS.
 * [Marathon](https://github.com/JohnSundell/Marathon) - Marathon makes it easy to write, run and manage your Swift scripts.
 * [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool for formatting Swift code.
+
+## Screensaver
+* [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - Screensaver inspired by Apple's Event on October 30, 2018.
 
 ## ScrollView
 *Scrollviews and PageControllers*
