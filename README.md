@@ -1,4 +1,4 @@
-iOS, macOS, tvOS and watchOS resources
+#iOS, macOS, tvOS and watchOS resources
 ======
 Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
@@ -3051,6 +3051,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - A source of circular pictures, currently supports horizontal overlapping or separate pictures with great layout flexibility.
 * [OTResizableView](https://github.com/PKPK-Carnage/OTResizableView) - OTResizableView is a UIView library that can be resized with fingers.
 * [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.
+* [PVView](https://github.com/toannt/PVView) - A small library that helps you to make an amazing parallax view.
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
 * [Skeleton](https://github.com/gonzalonunez/Skeleton) - An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content.
