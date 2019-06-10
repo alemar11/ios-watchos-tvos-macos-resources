@@ -691,6 +691,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [WZLBadge](https://github.com/weng1250/WZLBadge)
 
 #### 🔸*Swift*
+* [BadgeHub](https://github.com/jogendra/BadgeHub) - A way to quickly add a notification badge icon to any view. Make any UIView a full fledged animated notification center.
 * [DNFlyingBadge](https://github.com/normand1/DNFlyingBadge)
 
 ## Beacon
@@ -986,6 +987,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
 * [CollectionViewCustom](https://github.com/damienromito/CollectionViewCustom) - Custom CollectionViewLayout with a custom paging size by overriding scrollViewWillEndDragging.
+* [CollectionLayouts](https://github.com/Oni-zerone/CollectionLayouts) - This is a UICollectionViewLayout that reproduce the Instagram Stories experience, just use StoriesCollectionViewLayout in your UICollectionView and subclass your cells from StoriesCollectionViewCell!.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - Reimagining UICollectionView.
 * [cvvm](https://github.com/theswiftdev/cvvm) - Ultimate UICollectionView guide with iOS examples written in Swift.
@@ -1485,6 +1487,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DRPLoadingSpinner](https://github.com/justindhill/DRPLoadingSpinner) - A customizable loading spinner and refresh control for iOS that's strikingly Material-like.
 * [DTIActivityIndicatorView-Swift](https://github.com/dtissera/DTIActivityIndicatorView-Swift)
 * [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit.
+* [FillableLoaders](https://github.com/polqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom CGPaths written in Swift.
 * [FliudLoadingIndicator](https://github.com/vinit5320/FliudLoadingIndicator)
 * [Fluky](https://github.com/pedrommcarrasco/Fluky) - Loading based on random icons.
 * [HexLoader](https://github.com/Kesava-Jawaharlal/HexLoader) - This is a open source library which shows a hexagon shaped loading indictor, developed CAShapeLayer and CABasicAnimation.
@@ -1492,6 +1495,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ITActivityIndicator](https://github.com/iluuu1994/ITActivityIndicator) - A very simple alternative to UIActivityIndicatorView.
 * [JDGamesLoading](https://github.com/jamesdouble/JDGamesLoading) - Let User Play Game When Loading.
 * [JDProgressRoundView](https://github.com/jamesdouble/JDProgressRoundView)
+* [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress) - A circular progress view with gradients written in Swift.
 * [KOActivityIndicator](https://github.com/kohtenko/KOActivityIndicator)
 * [KRActivityIndicatorView](https://github.com/Henryforce/KRActivityIndicatorView) - An activity indicator view for OSX written in Swift. `macOS`
 * [KVSpinnerView](https://github.com/kuznetsovVladislav/KVSpinnerView) - KVSpinnerView is highly customizable progress HUD.
@@ -2777,6 +2781,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HJToast](https://github.com/himanshujoshi47/HJToast) - Toast messages for iOS.
 * [iOSNotificationBanner](https://github.com/loconsolutions/iOSNotificationBanner)
 * [iPopUp](https://github.com/BlueWonders/iPopUp) - iPopUp uses custom view, not UIPopover or AlertView. UIView contains a tableview. The project is simple, clean and easy to implement.
+* [KCustomAlert](https://github.com/krishnads/KCustomAlert) - Simple and easy alerts to use instead of default AlertController. Separate Xib is provided to customize as pr your need. Callbacks are easily handled by using Closures.
 * [KRAlertController](https://github.com/krimpedance/KRAlertController) - A colored alert view for your iOS.
 * [Loaf](https://github.com/schmidyy/Loaf) - A Swifty Framework for Easy iOS Toasts.
 * [LPSnackbar](https://github.com/luispadron/LPSnackbar) - A flexible and easy to use Snackbar control for iOS.
@@ -3028,6 +3033,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView) - Create complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js.
 * [ContactImageView](https://github.com/gkye/ContactImageView) - UIImageView subclass which generates text as the placeholder for an ImageView, supports IBDesignable and code.
 * [DottedLineView](https://github.com/STAR-ZERO/DottedLineView) - Draw horizontal or vertical dotted line for iOS.
+* [Elephant](https://github.com/kzumu/Elephant) - Elegant SVG animation kit for swift.
 * [EZYGradientView](https://github.com/shashankpali/EZYGradientView) - Create gradients and blur gradients without a single line of code.
 * [FAQView](https://github.com/mukeshthawani/FAQView) - An easy to use FAQ view for iOS written in Swift.
 * [FAShimmerViews](https://github.com/fahidattique55/FAShimmerViews) - Custom Shimmer UI Effects.
