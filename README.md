@@ -2911,6 +2911,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Schedule](https://github.com/jianstm/Schedule) -  Lightweight timed task scheduler for Swift.
 * [Send-It-for-Slack](https://github.com/MoralAlberto/Send-It-for-Slack) - Add Slack functionality with this Safari Extension.
 * [Serpent](https://github.com/nodes-ios/Serpent) - A protocol to serialize Swift structs and classes for encoding and decoding.
+* [SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols/) - A safe way to access Apple's SF System Symbols using static typing.
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 * [Solid](https://github.com/igormatyushkin014/Solid) - New way to work with arrays in Swift.
