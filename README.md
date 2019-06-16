@@ -122,6 +122,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [Statusbar](#statusbar)
 - [StatusItem](#statusitem)
 - [Stepper](#stepper)
+- [SwiftUI](#swiftui)
 - [Switch Control](#switch-control)
 - [Tag](#tag)
 - [TabBar](#tabbar)
@@ -986,6 +987,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - A custom View with two level chained collection views and fancy transition animation.
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
+* [circular-carousel](http://github.com/Ramotion/circular-carousel) - List a collection of items in a horizontally scrolling view.
 * [CollectionViewCustom](https://github.com/damienromito/CollectionViewCustom) - Custom CollectionViewLayout with a custom paging size by overriding scrollViewWillEndDragging.
 * [CollectionLayouts](https://github.com/Oni-zerone/CollectionLayouts) - This is a UICollectionViewLayout that reproduce the Instagram Stories experience, just use StoriesCollectionViewLayout in your UICollectionView and subclass your cells from StoriesCollectionViewCell!.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
@@ -1222,6 +1224,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [liquid-swipe](https://github.com/Cuberto/liquid-swipe)
 * [NXDrawKit](https://github.com/Nicejinux/NXDrawKit) - NXDrawKit is a simple and easy but useful drawing kit for iPhone.
 * [RPModalGestureTransition](https://github.com/naoyashiga/RPModalGestureTransition)
+* [PanSlip](http://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView.
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
 * [Pixel](https://github.com/muukii/Pixel) - An image editor and engine using CoreImage.
 * [ProcreateUndoGesture](https://github.com/SavageSource/ProcreateUndoGesture) - This is an example of Procreate's Undo and Redo gestures.
@@ -2323,6 +2326,10 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Stepperier](https://github.com/NSDavidObject/Stepperier) - Interactive snapping stepper.
 * [StepSlider](https://github.com/spromicky/StepSlider)
 
+## SwiftUI
+
+- [SwiftUI-by-Examples](https://github.com/artemnovichkov/SwiftUI-by-Examples) - Examples of new SwiftUI framework.
+
 ## Switch Control
 
 #### 🔹*Obj-C*
@@ -2396,6 +2403,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KPSmartTabBar](https://github.com/KrishnaPatell/KPSmartTabBar) - A fully customisable and flexible tab bar controller.
 * [LXPageViewWithButtonsViewController](https://github.com/lxian/LXPageViewWithButtonsViewController) - Combines UIPageViewController and highly customisable page selection tabs.
 * [MHImageTabBar](https://github.com/mho000/MHImageTabBar)
+* [MightyTabBar](https://github.com/timshim/MightyTabBar) - MightyTabBar is a customizable tab bar that doubles as a menu drawer. Instead of being limited to 5 tab bar items, MightyTabBar allows your app to have many more tab bar items, all positioned within the thumb zone and easily accessible via swipe up.
 * [MIPivotPageController](https://github.com/MarioIannotta/MIPivotPageController) - MIPivotPageController allows switching viewcontroller with an horizontal swipe.
 * [MMTabBarAnimation](https://github.com/MillmanY/MMTabBarAnimation) - Custom Animation on tabbar Item.
 * [MiniTabBar](https://github.com/D-32/MiniTabBar) - A minimal tab bar alternative.
@@ -2434,6 +2442,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CRPaddyTableView](https://github.com/croath/CRPaddyTableView) - A TableView with animations like the Message App.
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display.
 * [Doppelganger](https://github.com/Wondermall/Doppelganger) Array diffs as collection view wants it.
+* [EmptyStateKit](https://github.com/alberdev/EmptyStateKit) - Beautiful, animated & fully customizable empty state view. A great way to engage and keep users whenever the view has no content to display.
 * [ENFooterActivityIndicatorView](https://github.com/evnaz/ENFooterActivityIndicatorView) UITableView's `footer activity indicator`.
 * [FTFoldingTableView](https://github.com/liufengting/FTFoldingTableView) - FTFoldingTableView. Folding cells with simple delegates, and change UI looks in a few lines of code.
 * [FSParallaxTableView](https://github.com/fernandospr/FSParallaxTableView) - Parallax effect for images in table view cells.
@@ -2641,6 +2650,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TvOSTextViewer](https://github.com/dcordero/TvOSTextViewer) - Light and scrollable view controller for tvOS to present blocks of text. 📺
 * [TweetTextView](https://github.com/KarlZeo/TweetTextView) - This is a custom NSTextView to heighlight username hashtag and link. `macOS`
 * [Typographizer](https://github.com/frankrausch/Typographizer) - Fix dumb quotation marks and apostrophes in Swift.
+* [VisibleText](https://github.com/LeBzul/VisibleText) - Automatically determine the text color according to the background.
 * [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
 
 ## Textfield and Label
@@ -3208,7 +3218,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [preview-transition](https://github.com/Ramotion/preview-transition) - PreviewTransition is a simple preview gallery controller.
 * [PullToDismiss](https://github.com/sgr-ksmt/PullToDismiss) - Dismiss ViewController by pulling scroll view or navigation bar in Swift.
 * [QZCircleSegue](https://github.com/alextarrago/QZCircleSegue) -  Beatiful transition between circular-shapped buttons and your View Controller.
-* [RadialTransition_swift](https://github.com/apadalko/RadialTransition_swift) - Great iOS radial (circle) animation transition for navigation controller, with custom back swipe. (swift).
+* [RadialTransition_swift](https://github.com/apadalko/RadialTransition_swift) - Great iOS radial (circle) animation transition for navigation controller, with custom back swipe. (swift)
 * [RDGliderViewController-Swift](https://github.com/gelemias/RDGliderViewController-Swift) - Control for a floating view gliding over a ViewController Edit.
 * [RetroTransition](https://github.com/wcgray/RetroTransition) - Fun implementations of UIViewControllerAnimatedTransitioning for 90s inspired transitions between view controllers.
 * [SamuraiTransition](https://github.com/hachinobu/SamuraiTransition) - a ViewController transition framework in Swift.
@@ -3218,6 +3228,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftPagingNav](https://github.com/aubrey/SwiftPagingNav) - A Twitter-like navigation bar and page viewer written in Swift.
 * [SwipeTransition](https://github.com/tattn/SwipeTransition) - Allows trendy transitions using swipe gesture such as "swipe back".
 * [Transition](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions.
+* [TransitionController](http://github.com/pikachu987/TransitionController) - You can dismiss transition and present transition between UIViewController, UINavigationController, UITabBarController, UICollectionViewController, and UITableViewController.
 * [TransitionManager](https://github.com/cemolcay/TransitionManager) - Painless custom transitioning. Easy extend, easy setup, just focus on animations.
 * [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line.
 * [View2ViewTransition](https://github.com/naru-jpn/View2ViewTransition) - Custom interactive view controller transition from one view to another view.
