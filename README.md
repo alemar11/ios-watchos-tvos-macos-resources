@@ -1923,10 +1923,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 # Permission
 #### 🔸*Swift*
 * [Arek](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
-
-# Permission
-#### 🔸*Swift*
-* [Arek](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
 * [Permission](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API.
 * [PAPermissions](https://github.com/pascalbros/PAPermissions) - A unified API to ask for permissions on iOS.
