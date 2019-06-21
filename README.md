@@ -318,6 +318,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PortalTransition](https://github.com/machackx/PortalTransition) - Inspired by Apple's keynote portal animation, it is an iOS implementation of Portal like UIViewController transition.
 * [PulsingHalo](https://github.com/shu223/PulsingHalo) - iOS Component For Creating A Pulsing Animation. It allows you to create single halo or multiple halos.
 * [RFRotate](https://github.com/ruddfawcett/RFRotate)
+* [](https://github.com/sudeepag/SAConfettiView)
 * [ShootingStars](https://github.com/ryang1428/ShootingStars) - Some fun Shooting Star animations built with both SpriteKit and CAEmitterLayer.
 * [UIRotatableView](https://github.com/faviomob/UIRotatableView)
 * [VENSnowOverlayView](https://github.com/chrismaddern/VENSnowOverlayView) - A snowy UIView overlay to make your apps Christmassy!
@@ -1892,6 +1893,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition.
 * [drawer-view](https://github.com/jVirus/drawer-view) - Drawer View is a custom UI component replication of Apple's Apple Music player and Shortcuts components view.
 * [DrawerKit](https://github.com/Babylonpartners/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
+* [DTOverlayController](https://github.com/tungvoduc/DTOverlayController) - A customizable and easy-to-use overlay view controller container.
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS.
 * [InteractiveCardViewAnimation](https://github.com/brianadvent/InteractiveCardViewAnimation)
 * [Panels](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
@@ -1971,7 +1973,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [swift-summary](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language written on Playgrounds.
 
-
 ## Progress Bar
 
 #### 🔹*Obj-C*
@@ -2020,6 +2021,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MHProgressButton](https://github.com/emadhegab/MHProgressButton) - See the loading progress on your UIButton.
 * [OGCircularBar](https://github.com/OskarGroth/OGCircularBar) - Circular progress bar for macOS. `macOS`
 * [SRCountdownTimer](https://github.com/rsrbk/SRCountdownTimer) - This is the simple circle countdown with a configurable timer for iOS.
+* [tripleBar-swift](https://github.com/Ku6ep/tripleBar-swift) - Swift arc triple progress bar.
 * [TYProgressBar](https://github.com/yashthaker7/TYProgressBar) - Custom animating gradient progress bar.
 
 ## Pull To Refresh
@@ -2706,6 +2708,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KAPinField](https://github.com/kirualex/KAPinField) - Lightweight Pin Code Field library for iOS, written in Swift.
 * [ImageTextField](https://github.com/Sahilberi/ImageTextField) - A Designable Textfield For adding textfield leftview and rightview images in storyboard for swift 3.0.
 * [LTBouncyPlaceholder](https://github.com/lexrus/LTBouncyPlaceholder)
+* [MMText](http://github.com/MillmanY/MMText) - Text Edit with error and title string.
 * [MPGTextField](https://github.com/gaurvw/MPGTextField) - An autocomplete textfield for iOS which provides suggestions as you type.
 * [NSJTextField](https://github.com/NSJoker/NSJTextField) - A custom textfield with the placeholder displayed on top when text entered.
 * [ParkedTextField](https://github.com/gmertk/ParkedTextField) - A text field with a constant text/placeholder.
@@ -3153,6 +3156,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CBStoreHouseTransition](https://github.com/coolbeet/CBStoreHouseTransition) - A custom transition inspired by Storehouse iOS app, also support pop gesture.
 * [CRPageViewController](https://github.com/Cleveroad/CRPageViewController) - While a standard page view allows you to navigate between pages by using simple gestures, our component goes further.
 * [CircleTransition](https://github.com/kukat/CircleTransition)
+* [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool wave like transition between two or more UICollectionView.
 * [FGDynamicsTransition](https://github.com/finngaida/FGDynamicsTransition) 
 * [GRPushSegue](https://github.com/insidegui/GRPushSegue) - A custom NSStoryboardSegue to make a nice iOS-like push transition. `macOS`
 * [HYAwesomeTransition](https://github.com/nathanwhy/HYAwesomeTransition)
