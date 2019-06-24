@@ -3265,6 +3265,9 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [WAYSourceListWindow](https://github.com/weAreYeah/WAYSourceListWindow) - The WAYSourceListWindow is a NSWindow subclass, which splits the window space vertically into the master view on the left, and the detail view on the right side as known from apps like Reminders or Notes. `macOS`
 * [appresizer](https://www.cocoacontrols.com/controls/appresizer) - AppResizer allows you to change the width of the main window, thereby checking if your app renders correctly on all devices.
 
+#### 🔸*Swift*
+* [Welcome2ProjectKit](https://github.com/HsiangHo/Welcome2ProjectKit) - Create a Xcode-like welcome window. `macOS`
+
 ## Xcode Extension
 
 #### 🔸*Swift*
