@@ -132,7 +132,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [Text](#text)
 - [Textfield](#textfield-and-label)
 - [Timer](#timer)
-- [Toast Notification](#toast-notification)
 - [Toolbar](#toolbar)
 - [UI Frameworks](ui-frameworks)
 - [Utils](#utils)
@@ -236,30 +235,58 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ZHPopupView](https://github.com/zhhlmr/ZHPopupView) - A simple iOS Pop up View to display alert or dialog.
 
 #### 🔸*Swift*
+* [AANotifier](https://github.com/EngrAhsanAli/AANotifier) - AANotifier allows you to create UIView based fragments to be appear on screen at runtime in iOS, written in Swift.
+* [alerts-and-pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...
+* [ASToast)](https://github.com/abdullahselek/ASToast) - A Swift extension for using Android style Toast notifications.
+* [AwaitToast](https://github.com/k-lpmg/AwaitToast) - Basic toast as well as async waiting toast. Inspired by facebook posting toast.
+* [AZNotification-Swift](https://github.com/azamsharp/AZNotification-Swift)
 * [Alerts-Pickers](https://github.com/dillidon/Alerts-Pickers) - Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
 * [Alertift](https://github.com/sgr-ksmt/Alertift) - Swifty, modern UIAlertController wrapper.
 * [AlertViewController](https://github.com/stringcode86/AlertViewController) - UIAlertController subclass to show image above the alert title.
 * [AMTooltip](https://github.com/amirdew/AMTooltip) - Simple and easy library to show tooltip in iOS.
 * [App-Rating-Alert](https://github.com/pablojotaguardiola/App-Rating-Alert) - Show an alert to rate your APP.
 * [AZDialogViewController](https://github.com/Minitour/AZDialogViewController) - A highly customizable alert dialog controller that mimics Snapchat's alert dialog.
+* [BisKit](https://github.com/ho0t/BisKit) - BisKit is an iOS library to generate beautiful popups as the one featured when Apple Pencil is attached to the new iPad Pro.
 * [BMInputBox](https://github.com/blackmirror-media/BMInputBox)
+* [BRYXBanner](https://github.com/bryx-inc/BRYXBanner)
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces on iOS.
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup written in Swift 3.
 * [CFNotify](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable views.
 * [CleanyModal](https://github.com/loryhuz/CleanyModal) - Swift UI Kit to present clean modal/alert.
 * [CPAlertViewController](https://github.com/katafo/CPAlertViewController) - A way to create a custom alert view with animation.
+* [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) - It is a highly configurable iOS library which allows easy styling with built in styles as well as extra header and footer views so that you can make extremely unique alerts and action sheets.
+* [CRNotifications](https://github.com/dkcas11/CRNotifications) - Custom in-app notifications.
+* [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)
+* [DPNotify](https://github.com/dphans/DPNotify) - DPNotify used to send short notifications on screen simple & quickly for iOS developing using Swift.
+* [DTLocalNotification](https://github.com/tungvoduc/DTLocalNotification) - Custom control that makes displaying in-app notifications easier, cleaner and more efficient.
+* [Dodo](https://github.com/exchangegroup/Dodo)
 * [DCAlertController](https://github.com/noppefoxwolf/DCAlertController)
 * [DOAlertController](https://github.com/okmr-d/DOAlertController)
 * [DTIToastCenter-Swift](https://github.com/dtissera/DTIToastCenter-Swift)
 * [EasyTipView](https://github.com/teodorpatras/EasyTipView)
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController.
+* [EFInternetIndicator](https://github.com/ezefranca/EFInternetIndicator)
+* [EVWDropDownNotification](https://github.com/cre8it/EVWDropDownNotification) - A little swift Internet error status indicator using ReachabilitySwift.
 * [FTPopOverMenu_Swift](https://github.com/liufengting/FTPopOverMenu_Swift) - FTPopOverMenu_Swift, swift version of FTPopOverMenu.
+* [GLNotificationBar](https://github.com/gokulgovind/GLNotificationBar) - GLNotificationBar is a ios10 style notification bar, can be used to handle push notification in active state.
+* [Hermes](https://github.com/Imgur/Hermes)
+* [HJToast](https://github.com/himanshujoshi47/HJToast) - Toast messages for iOS.
 * [HYAlertController](https://github.com/castial/HYAlertController) - A Simple And Minimalist iOS AlertController.
+* [iOSNotificationBanner](https://github.com/loconsolutions/iOSNotificationBanner)
+* [iPopUp](https://github.com/BlueWonders/iPopUp) - iPopUp uses custom view, not UIPopover or AlertView. UIView contains a tableview. The project is simple, clean and easy to implement.
 * [JHTAlertController](https://github.com/jjessel/JHTAlertController) - A custom iOS alert that replaces the stock UIAlertController. Easily style the alert to match your app. Written in Swift for iOS.
 * [KUIPopOver](https://github.com/Kofktu/KUIPopOver) - Easy to use PopOver in iOS.
+* [KCustomAlert](https://github.com/krishnads/KCustomAlert) - Simple and easy alerts to use instead of default AlertController. Separate Xib is provided to customize as pr your need. Callbacks are easily handled by using Closures.
+* [KRAlertController](https://github.com/krimpedance/KRAlertController) - A colored alert view for your iOS.
+* [Loaf](https://github.com/schmidyy/Loaf) - A Swifty Framework for Easy iOS Toasts.
+* [LPSnackbar](https://github.com/luispadron/LPSnackbar) - A flexible and easy to use Snackbar control for iOS.
 * [Malert](https://github.com/vitormesquita/Malert) - Custom alert View to iOS applications.
 * [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - MIBlurPopup let you create amazing popups with a blurred background.
 * [MIAlertController](https://github.com/MarioIannotta/MIAlertController) - A simple fully customizable alert controller.
+* [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
+* [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
+* [NotificationView](https://github.com/pikachu987/NotificationView) - iOS Basic Notification screens.
+* [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS.
 * [Notification-AlertView](https://github.com/alexey-kubas-appus/Notification-AlertView)
 * [Panelkit](https://github.com/louisdh/panelkit) - A UI framework that enables panels on iOS.
 * [PathDynamicModal](https://github.com/ra1028/PathDynamicModal)
@@ -270,10 +297,17 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Popover-label](https://github.com/eonist/Popover-label) - Popover label for iOS.
 * [PopUp](https://github.com/mhlangagc/PopUp) - A simple way to implement a Pop up from the bottom informing the user of any changes within the app or some action they need to do. It Pops up in the KeyWindow and hence over all views, tableViews or collectionViews.
 * [PopupDialog](https://github.com/Orderella/PopupDialog) - A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertControllers alert style.
+* [RNNotificationView](https://github.com/souzainf3/RNNotificationView) - Emulates the native Notification Banner UI for any alert.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [ScrollableDisclaimerAlert](https://github.com/kubacizek/ScrollableDisclaimerAlert) - Simple lightweight DisclaimerAlertView.
 * [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your iOS app is available, and prompt them with the App Store link.
 * [SPAlert](https://github.com/IvanVorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
+* [SHSnackBarView](https://github.com/iamshezad/SHSnackBarView)
+* [Snackbar-iOS](https://github.com/JastAir/Snackbar-iOS) - Simple snackbar for ios from android platform.
+* [SpaceView](https://github.com/Xopoko/SpaceView)
+* [Squawk](https://github.com/GitHawkApp/Squawk) - Quick & interactive iOS alerts in Swift.
+* [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a banner presenter library for iOS. It can be used to easily display pop-ups and notification-like views within your iOS apps.
+* [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
 * [StatusAlert](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts. It is well suited for notifying user without interrupting user flow in iOS-like way.
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a banner presenter library for iOS.
@@ -281,9 +315,14 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftyPickerPopover](https://github.com/hsylife/SwiftyPickerPopover) - Popover with Picker by Swift 3/2.3 for iPhone/iPad, iOS9+.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
 * [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert)
+* [Toast-Swift](https://github.com/scalessec/Toast-Swift) - A Swift extension that adds toast notifications to the UIView object class.
+* [TTGSnackbar](https://github.com/zekunyan/TTGSnackbar) - TTGSnackbar shows simple message and action button on the bottom or top of the screen with multi kinds of animation.
 * [UNAlertView](https://github.com/ytakzk/UNAlertView)
 * [VKPopupView](https://github.com/vladislav-k/VKPopupView) - Lightweight and easy to use blurred popup view written in Swift. You will find it very similar to your iOS folders at Springboard (Home screen).
 * [Whisper](https://github.com/hyperoslo/Whisper) - Whisper is a component that will make the task of display messages and in-app notifications simple.
+* [Whisper](https://github.com/hyperoslo/Whisper) - Whisper is a component that will make the task of display messages and in-app notifications simple. It has three different views inside.
+* [Xia](https://github.com/iTofu/Xia) - Naughty flexible alert view above the navigation bar.
+* [ZKNavigationController](https://github.com/ZacharyKhan/ZKNavigationController) - iOS Navigation Controller Alert.
 
 ## Animation
 
@@ -2745,74 +2784,6 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [10Clock](https://github.com/joedaniels29/10Clock) - This Control is a beautiful time-of-day picker heavily inspired by the iOS 10 "Bedtime" timer.
 * [SnapTimer](https://github.com/andresinaka/SnapTimer) - Implementation of Snapchat's stories timer.
 * [TimeZonePicker](https://github.com/gligorkot/TimeZonePicker) - A TimeZonePicker UIViewController similar to the iOS Settings app. Search and select from a range of cities and countries to find your most suitable time zone.
-
-## Toast Notification
-*Toast Notifications, alerts, snackbars and message bars*
-
-#### 🔹*Obj-C*
-* [APToast](https://github.com/podkovyrin/APToast)
-* [Alert](https://github.com/miscavage/Alert)
-* [CRToast](https://github.com/cruffenach/CRToast)
-* [CSNotificationView](https://github.com/problame/CSNotificationView)
-* [GSMessages](https://github.com/wxxsw/GSMessages)
-* [HDNotificationView](https://github.com/nhdang103/HDNotificationView)
-* [HMAMessageViewManager](https://github.com/xjki/HMAMessageViewManager)
-* [IIShortNotificationPresenter](https://github.com/Inferis/IIShortNotificationPresenter)
-* [ISMessages](https://github.com/ilyainyushin/ISMessages) - This is simple extension for presenting system-wide notifications from top/bottom of device screen.
-* [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications)
-* [KODropdownNotification](https://github.com/kohtenko/KODropdownNotification)
-* [KSToastView](https://github.com/c0ming/KSToastView)
-* [LNNotificationsUI](https://github.com/LeoNatan/LNNotificationsUI)
-* [MGFashionMenuView](https://github.com/matteogobbi/MGFashionMenuView)
-* [MPGNotification](https://github.com/MPGNotification/MPGNotification)
-* [NgNotificationProxy](https://github.com/meiwin/NgNotificationProxy)
-* [SAWaveToast](https://github.com/szk-atmosphere/SAWaveToast) - Show text with wave animated background and floating animation.
-* [SlideInView](https://github.com/mrdrozdov/SlideInView)
-* [TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager)
-* [UIUserNotificationSettings-Extension](https://github.com/alexruperez/UIUserNotificationSettings-Extension)
-
-#### 🔸*Swift*
-* [AANotifier](https://github.com/EngrAhsanAli/AANotifier) - AANotifier allows you to create UIView based fragments to be appear on screen at runtime in iOS, written in Swift.
-* [alerts-and-pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...
-* [ASToast)](https://github.com/abdullahselek/ASToast) - A Swift extension for using Android style Toast notifications.
-* [AwaitToast](https://github.com/k-lpmg/AwaitToast) - Basic toast as well as async waiting toast. Inspired by facebook posting toast.
-* [AZNotification-Swift](https://github.com/azamsharp/AZNotification-Swift)
-* [BisKit](https://github.com/ho0t/BisKit) - BisKit is an iOS library to generate beautiful popups as the one featured when Apple Pencil is attached to the new iPad Pro.
-* [BRYXBanner](https://github.com/bryx-inc/BRYXBanner)
-* [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) - It is a highly configurable iOS library which allows easy styling with built in styles as well as extra header and footer views so that you can make extremely unique alerts and action sheets.
-* [CRNotifications](https://github.com/dkcas11/CRNotifications) - Custom in-app notifications.
-* [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)
-* [DPNotify](https://github.com/dphans/DPNotify) - DPNotify used to send short notifications on screen simple & quickly for iOS developing using Swift.
-* [DTLocalNotification](https://github.com/tungvoduc/DTLocalNotification) - Custom control that makes displaying in-app notifications easier, cleaner and more efficient.
-* [Dodo](https://github.com/exchangegroup/Dodo)
-* [EFInternetIndicator](https://github.com/ezefranca/EFInternetIndicator)
-* [EVWDropDownNotification](https://github.com/cre8it/EVWDropDownNotification) - A little swift Internet error status indicator using ReachabilitySwift.
-* [GLNotificationBar](https://github.com/gokulgovind/GLNotificationBar) - GLNotificationBar is a ios10 style notification bar, can be used to handle push notification in active state.
-* [Hermes](https://github.com/Imgur/Hermes)
-* [HJToast](https://github.com/himanshujoshi47/HJToast) - Toast messages for iOS.
-* [iOSNotificationBanner](https://github.com/loconsolutions/iOSNotificationBanner)
-* [iPopUp](https://github.com/BlueWonders/iPopUp) - iPopUp uses custom view, not UIPopover or AlertView. UIView contains a tableview. The project is simple, clean and easy to implement.
-* [KCustomAlert](https://github.com/krishnads/KCustomAlert) - Simple and easy alerts to use instead of default AlertController. Separate Xib is provided to customize as pr your need. Callbacks are easily handled by using Closures.
-* [KRAlertController](https://github.com/krimpedance/KRAlertController) - A colored alert view for your iOS.
-* [Loaf](https://github.com/schmidyy/Loaf) - A Swifty Framework for Easy iOS Toasts.
-* [LPSnackbar](https://github.com/luispadron/LPSnackbar) - A flexible and easy to use Snackbar control for iOS.
-* [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
-* [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
-* [NotificationView](https://github.com/pikachu987/NotificationView) - iOS Basic Notification screens.
-* [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS.
-* [PeriscommentView](https://github.com/yoavlt/PeriscommentView) - Showing comments like Periscope.
-* [RNNotificationView](https://github.com/souzainf3/RNNotificationView) - Emulates the native Notification Banner UI for any alert.
-* [SHSnackBarView](https://github.com/iamshezad/SHSnackBarView)
-* [Snackbar-iOS](https://github.com/JastAir/Snackbar-iOS) - Simple snackbar for ios from android platform.
-* [SpaceView](https://github.com/Xopoko/SpaceView)
-* [Squawk](https://github.com/GitHawkApp/Squawk) - Quick & interactive iOS alerts in Swift.
-* [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a banner presenter library for iOS. It can be used to easily display pop-ups and notification-like views within your iOS apps.
-* [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
-* [Toast-Swift](https://github.com/scalessec/Toast-Swift) - A Swift extension that adds toast notifications to the UIView object class.
-* [TTGSnackbar](https://github.com/zekunyan/TTGSnackbar) - TTGSnackbar shows simple message and action button on the bottom or top of the screen with multi kinds of animation.
-* [Whisper](https://github.com/hyperoslo/Whisper) - Whisper is a component that will make the task of display messages and in-app notifications simple. It has three different views inside.
-* [Xia](https://github.com/iTofu/Xia) - Naughty flexible alert view above the navigation bar.
-* [ZKNavigationController](https://github.com/ZacharyKhan/ZKNavigationController) - iOS Navigation Controller Alert.
 
 ## ToolBar
 
