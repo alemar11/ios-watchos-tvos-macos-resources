@@ -2175,7 +2175,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [BTInfiniteScrollView](https://github.com/bteapot/BTInfiniteScrollView)* 
 * [CustomScrollIndicator](https://github.com/leverdeterre/CustomScrollIndicator) - iOS custom ScrollIView indicator.
 * [DARecycledScrollView](https://github.com/daria-kopaliani/DARecycledScrollView) - UIScrollView subclass that reuses its tile views.
-* [DroppyScrollView](https://github.com/cemolcay/DroppyScrollView) - Vertical scroll view with abilty to inserting and removing subviews top or any index with stylish dropping animations.
+* [DroppyScrollView](https://github.com/cemolcay/DroppyScrollView) - Vertical scroll view with ability to inserting and removing subviews top or any index with stylish dropping animations.
 * [DRPageScrollView](https://github.com/DavdRoman/DRPageScrollView) - Block-driven paginated scroll view.
 * [EHHorizontalSelectionView](https://github.com/josshad/EHHorizontalSelectionView) - Horizontal table view style controller.
 * [EMCarousel](https://github.com/emadrazo/EMCarousel)
