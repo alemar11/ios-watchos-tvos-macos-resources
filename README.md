@@ -1450,6 +1450,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AnimatedMaskLabel](https://github.com/imjog/AnimatedMaskLabel) - Animated Mask Label is a nice gradient animated label. This is an easy way to add a shimmering effect to any view in your app. It is useful as an unobtrusive loading indicator.
 * [ASAttributedLabelNode](https://github.com/alex-alex/ASAttributedLabelNode)
 * [EFAutoScrollLabel](https://github.com/EyreFree/EFAutoScrollLabel) - A label which can scroll when text length beyond the width of label.
+* [FlashingLabel](https://github.com/dokgi88/FlashingLabel) - Veeeeeeeeeeeeeeeery easy to use and simple Flashing Label.
 * [GlitchLabel](https://github.com/kciter/GlitchLabel) - glitch effect
 * [GlowingLabel](https://github.com/RajChanchal/GlowingLabel) - A label with an outer glow.
 * [GranibleLabel](https://github.com/dokgi88/GranibleLabel) - Veeeeeeeeeeeeeeeery easy to use and simple gradation animate Label.
