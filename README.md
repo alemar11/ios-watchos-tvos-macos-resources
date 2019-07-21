@@ -793,6 +793,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AMChoice](https://github.com/Abedalkareem/AMChoice) - Radio Button and check box for iOS.
 * [ANLongTapButton](https://github.com/antrix1989/ANLongTapButton) - Long tap button with animated progress bar.
 * [ButtonSelectionAnimation](https://github.com/tungfam/ButtonSelectionAnimation) - UIButton subclass which performs animation on selection.
+* [ButtonProgressBar-iO](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible (well documented) UIButton subclass with animated loading progress, and completion animation.
 * [ButtonStyleKit](https://github.com/keygx/ButtonStyleKit) - ButtonStyleKit is helper library for UIButton custom styles.
 * [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Send Bu#tton for iOS.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
@@ -1798,6 +1799,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MessageProgressView](https://github.com/Tueno/MessageProgressView) - Simple loading animation for Swift.
 * [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement written in Swift for the iPhone X.
 * [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
+* [MessengerBubbles](http://github.com/RpX974/MessengerBubbles) - Create ImageView for User or Group like Messenger app.
 * [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces on iOS.
 * [MMTextureChat](https://github.com/mukyasa/MMTextureChat) AsyncDisplayKit(Texture) Smooth Scroll Chat Simulation.
 * [NMessenger](https://github.com/eBay/NMessenger) - A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift.
@@ -1856,6 +1858,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [navigation-stack](https://github.com/Ramotion/navigation-stack) - NavigationStack is a stack-modeled navigation controller.
 * [PagingKit](https://github.com/kazuhiro4949/PagingKit) - PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries.
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller. Support 3D Touch.
+* [SPFakeBar](https://github.com/ivanvorobei/SPFakeBar) - Very similar to original Navigation Bar. Full customisable.
 * [Tamamushi](https://github.com/makomori/Tamamushi) - Gradient NavigationBar library written in Swift.
 * [TB_TwitterUI](https://github.com/ariok/TB_TwitterUI) 
 * [TinderNavDemo](https://github.com/imaccallum/TinderNavDemo) - Tinder-style parallax paging navigation implementation.
@@ -2607,6 +2610,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [iOS-Stepper-UI](https://github.com/soumalya/iOS-Stepper-UI) - This is a custom stepper control for iOS apps. This has been written with Objective-C.
 * [JCTagListView](https://github.com/lijingcheng/JCTagListView) - Support delete tags and settings tags color.
 * [PARTagPicker](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
+* [ResizingTokenField](https://github.com/tadejr/ResizingTokenField) - A token field implementation for iOS.
 * [RKTagsView](https://github.com/kuler90/RKTagsView) - Highly customizable iOS tags view.
 * [TimelineTableViewCell](https://github.com/kf99916/TimelineTableViewCell) - Simple timeline view implemented by UITableViewCell written in Swift 3.0.
 * [WATokenFieldView](https://github.com/wendyabrantes/WATokenFieldView) - TokenFieldView is used to search and and tag in a text view.
