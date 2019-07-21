@@ -193,7 +193,7 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Swift-AI](https://github.com/collinhundley/Swift-AI)
 
 ## Alert
-*UIAlertViewControllers, PopUps, PopOvers and ToolTips*
+*UIAlertViewControllers, PopUps, PopOvers, Toasts and ToolTips*
 
 #### 🔹*Obj-C*
 * [ATAppUpdater](https://github.com/apptality/ATAppUpdater) - Checks if there is a newer version of your app in the AppStore and alerts the user to update.
@@ -237,15 +237,15 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 #### 🔸*Swift*
 * [AANotifier](https://github.com/EngrAhsanAli/AANotifier) - AANotifier allows you to create UIView based fragments to be appear on screen at runtime in iOS, written in Swift.
 * [alerts-and-pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...
-* [ASToast)](https://github.com/abdullahselek/ASToast) - A Swift extension for using Android style Toast notifications.
-* [AwaitToast](https://github.com/k-lpmg/AwaitToast) - Basic toast as well as async waiting toast. Inspired by facebook posting toast.
-* [AZNotification-Swift](https://github.com/azamsharp/AZNotification-Swift)
 * [Alerts-Pickers](https://github.com/dillidon/Alerts-Pickers) - Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
 * [Alertift](https://github.com/sgr-ksmt/Alertift) - Swifty, modern UIAlertController wrapper.
 * [AlertViewController](https://github.com/stringcode86/AlertViewController) - UIAlertController subclass to show image above the alert title.
 * [AMTooltip](https://github.com/amirdew/AMTooltip) - Simple and easy library to show tooltip in iOS.
 * [App-Rating-Alert](https://github.com/pablojotaguardiola/App-Rating-Alert) - Show an alert to rate your APP.
+* [ASToast)](https://github.com/abdullahselek/ASToast) - A Swift extension for using Android style Toast notifications.
 * [AZDialogViewController](https://github.com/Minitour/AZDialogViewController) - A highly customizable alert dialog controller that mimics Snapchat's alert dialog.
+* [AZNotification-Swift](https://github.com/azamsharp/AZNotification-Swift)
+* [AwaitToast](https://github.com/k-lpmg/AwaitToast) - Basic toast as well as async waiting toast. Inspired by facebook posting toast.
 * [BisKit](https://github.com/ho0t/BisKit) - BisKit is an iOS library to generate beautiful popups as the one featured when Apple Pencil is attached to the new iPad Pro.
 * [BMInputBox](https://github.com/blackmirror-media/BMInputBox)
 * [BRYXBanner](https://github.com/bryx-inc/BRYXBanner)
@@ -257,11 +257,11 @@ Updated list of frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) - It is a highly configurable iOS library which allows easy styling with built in styles as well as extra header and footer views so that you can make extremely unique alerts and action sheets.
 * [CRNotifications](https://github.com/dkcas11/CRNotifications) - Custom in-app notifications.
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)
-* [DPNotify](https://github.com/dphans/DPNotify) - DPNotify used to send short notifications on screen simple & quickly for iOS developing using Swift.
-* [DTLocalNotification](https://github.com/tungvoduc/DTLocalNotification) - Custom control that makes displaying in-app notifications easier, cleaner and more efficient.
-* [Dodo](https://github.com/exchangegroup/Dodo)
 * [DCAlertController](https://github.com/noppefoxwolf/DCAlertController)
 * [DOAlertController](https://github.com/okmr-d/DOAlertController)
+* [Dodo](https://github.com/exchangegroup/Dodo)
+* [DPNotify](https://github.com/dphans/DPNotify) - DPNotify used to send short notifications on screen simple & quickly for iOS developing using Swift.
+* [DTLocalNotification](https://github.com/tungvoduc/DTLocalNotification) - Custom control that makes displaying in-app notifications easier, cleaner and more efficient.
 * [DTIToastCenter-Swift](https://github.com/dtissera/DTIToastCenter-Swift)
 * [EasyTipView](https://github.com/teodorpatras/EasyTipView)
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController.
