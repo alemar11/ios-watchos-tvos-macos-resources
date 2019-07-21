@@ -119,7 +119,6 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [Speech Recognition](#speech-recognition)
 - [Sprite](#sprite)
 - [Statusbar](#statusbar)
-- [StatusItem](#statusitem)
 - [Stepper](#stepper)
 - [SwiftUI](#swiftui)
 - [Switch Control](#switch-control)
