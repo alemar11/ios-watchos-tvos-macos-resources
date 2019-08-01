@@ -26,28 +26,6 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 ---
 
-### Code Examples
-* [Reusable apps code written in Swift](https://github.com/carlbutron/Swift)
-
-### iOS 11
-* [iOS 11 by Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) - Examples of new iOS 11 APIs.
-
-#### iOS 10
-* [iOS 10 day by day](https://github.com/shinobicontrols/iOS10-day-by-day) - Projects to accompany the iOS 10 Day by Day blog series.
-* [iOS 10 Sampler](https://github.com/shu223/iOS-10-Sampler) - Code examples for new APIs of iOS 10.
-
-#### iOS 9
-* [iOS 9 day by day](https://github.com/shinobicontrols/iOS9-day-by-day) - Selection of projects accompanying the iOS9-Day-by-Day blog series.
-* [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler) - Code examples for the new features of iOS 9.
-* [Programming iOS Book Example](https://github.com/alemar11/Programming-iOS-Book-Examples) - Downloadable code examples for my books, "iOS 9 Programming Fundamentals With Swift" (bk1) and "Programming iOS 9" (bk2). 
-
-#### iOS 8
-* [iOS8 day by day](https://github.com/shinobicontrols/iOS8-day-by-day) - Selection of projects accompanying the iOS8-Day-by-Day blog series.
-* [iOS8 LevellingUp](https://github.com/shinobicontrols/iOS8-LevellingUp) - A collection of the lesser-known cool things in iOS 8.
-* [iOS8 Sampler](https://github.com/shu223/iOS8-Sampler) - Code examples for the new features of iOS 8.
-
----
-
 ### Contents
 - [ActivityViewController](#activityviewcontroller)
 - [ActionSheet](#actionsheet)
@@ -380,13 +358,14 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [OneHourWalker](https://github.com/appcoda/OneHourWalker) - HealthKit demo app.
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - 📱 Collaborative List of Open-Source iOS Apps.
 * [photostream](https://github.com/mownier/photostream) - A photo sharing iOS app that uses Firebase and is being driven by VIPER architecture.
+* [photostickers](https://github.com/jjochen/photostickers) - iOS Photo Stickers App.
+* [Pisth](https://github.com/ColdGrub1384/Pisth) - SSH and SFTP client for iOS.
 * [PixPic](https://github.com/Yalantis/PixPic) - PixPic, a Photo Editing App.
 * [Portrait-without-Depth-ios](https://github.com/koooootake/Portrait-without-Depth-ios) - try! Swift 2019 demo app that converts Depth-less 2D images into Portrait mode.
 * [PostManager](https://github.com/TomekB/PostManager) - iOS Swift + Node.js app to manage and schedule twitter posts (like buffer).
 * [PotterPics](https://github.com/surayashivji/PotterPics) - Harry Potter themed social network similar to Instagram.
 * [pokemon-weakness-ios](https://github.com/pokeweak/pokemon-weakness-ios) - Source code for Pokemon Weakness iOS application. 
 * [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan) - Open Source Weather App created with Swift.
-* [Pisth](https://github.com/ColdGrub1384/Pisth) - SSH and SFTP client for iOS.
 * [ReviewTime](https://github.com/nthegedus/ReviewTime) - Review Time is an open source app for iOS written in Swift that show the average review times for iOS and the Mac Apps using data crowdsourced from AppReviewTime.
 * [Rival](https://github.com/victorchu8/Rival) - A fitness iOS application that allows users to track, view and compete against friends. Built with Swift and Firebase.
 * [Science Journal by Google](https://github.com/google/science-journal-ios)
