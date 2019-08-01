@@ -165,7 +165,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces on iOS.
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup written in Swift 3.
 * [CFNotify](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable views.
-* [CleanyModal](https://github.com/loryhuz/CleanyModal) - Swift UI Kit to present clean modal/alert.
+* [CleanyModal](https://github.com/loryhuz/CleanyModal) - Swift Kit to present clean modal/alert.
 * [CPAlertViewController](https://github.com/katafo/CPAlertViewController) - A way to create a custom alert view with animation.
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) - It is a highly configurable iOS library which allows easy styling with built in styles as well as extra header and footer views so that you can make extremely unique alerts and action sheets.
 * [CRNotifications](https://github.com/dkcas11/CRNotifications) - Custom in-app notifications.
@@ -762,6 +762,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final Apple calendar you will ever try. Built for iOS in Swift.
 * [Koyomi](https://github.com/shoheiyokoyama/Koyomi) - Koyomi is a simple calendar view framework for iOS, written in Swift.
 * [MIDatePicker](https://github.com/MarioIannotta/MIDatePicker) - A lightweight, non-invasive, fully customizable DatePicker.
+* [RKCalendar](https://github.com/RaffiKian/RKCalendar) - SwiftUI Simple Calendar / Date Picker for iOS.
 * [SCPopDatePicker](https://github.com/scrainie/SCPopDatePicker)
 * [sambag](https://github.com/mownier/sambag) - Android Time, Month-Year, and Date pickers implemented in Swift for iOS development.
 * [ScrollableDatepicker](https://github.com/noxt/ScrollableDatepicker) - Yet another datepicker for iOS.
@@ -1208,6 +1209,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TinyCreditCard](https://github.com/bestwnh/TinyCreditCard) - A clear and animated credit card input workflow implement.
 
 ## Panel
+*panels and drawers*
 
 * [ADOverlayContainer](https://github.com/applidium/ADOverlayContainer) - iOS UI library to implement overlay based interfaces.
 * [Aiolos](https://github.com/IdeasOnCanvas/Aiolos) - A floating panel for your iOS Apps.
@@ -1225,6 +1227,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
 * [shortcuts-drawer-view)](https://github.com/phillfarrugia/shortcuts-drawer-view) - An experimental re-creation of Siri Shortcut's Drawer View component.
 * [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
+* [TopDrawer](http://github.com/JUSTINMKAUFMAN/TopDrawer) - A top drawer that can be pulled up/down over the screen.
 * [UBottomSheet](https://github.com/OfTheWolf/UBottomSheet) - Bottom sheet that mimics the behaviours and UI of iPhone Maps app.
 
 ## PickerView
@@ -1485,13 +1488,14 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 ## TabBar
 
-* [Adaptive TabBar](https://github.com/Ramotion/adaptive-tab-bar) - AdaptiveController is a 'Progressive Reduction' Swift UI module for adding custom states to Native or Custom iOS UI elements.
+* [Adaptive TabBar](https://github.com/Ramotion/adaptive-tab-bar) - AdaptiveController is a 'Progressive Reduction' Swift module for adding custom states to Native or Custom iOS UI elements.
 * [AHCategoryView](https://github.com/ivsall2012/AHCategoryView)
 * [AMPagerTabs](https://github.com/Abedalkareem/AMPagerTabs) - Pager tabs for iOS.
 * [AnimateTabbarBadgeView](https://github.com/AliAdam/AnimateTabbarBadgeView) - UITabBarController Extention to make badge View animated.
 * [Animated-Tab-Bar](https://github.com/Ramotion/animated-tab-bar)
-* [AnimatedTabBar](https://github.com/AlbGarciam/AnimatedTabBar) - AnimatedTabBar is a Swift UI module library for adding animation to iOS tabBar items and icons.
+* [AnimatedTabBar](https://github.com/AlbGarciam/AnimatedTabBar) - AnimatedTabBar is a Swift module library for adding animation to iOS tabBar items and icons.
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 3.0.
+* [CircleBar](http://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)
 * [CustomTabBarShape](https://github.com/Monntay/CustomTabBarShape) - Draw a Custom iOS TabBar shape [tutorial](https://medium.com/@philipp307/draw-a-custom-ios-tabbar-shape-27d298a7f4fa)
 * [flashy-tabbar](https://github.com/Cuberto/flashy-tabbar) - One another nice animated tabbar.
