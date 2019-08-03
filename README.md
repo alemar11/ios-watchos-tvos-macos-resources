@@ -1052,6 +1052,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [fritz-createml-examples](https://github.com/fritzlabs/fritz-createml-examples) - A collection of examples using Create ML to train Core ML models.
 * [Lumina](https://github.com/dokun1/Lumina) - A camera designed in Swift that can use any CoreML model for object recognition, as well as streaming video, images, and qr/bar codes.
 * [MLCameraDemo](https://github.com/stringcode86/MLCameraDemo) - Demonstrates using Vision with Core ML to preprocess AVCaptureVideoDataOutput and perform image classification.
+* [pose](https://github.com/rdv0011/pose) - Estimates a human pose on an image.
 * [TvOSScribble](https://github.com/dcordero/TvOSScribble) - Handwriting numbers recognizer for Siri Remote.
 * [UnsplashExplorer-CoreML](https://github.com/ahmetws/UnsplashExplorer-CoreML) - Core ML demo app with Unsplash API.
 * [WhatDog](https://github.com/isflump/WhatDog) - An simple iOS Dog type recognition app built with CoreML and MobileNet Model.
