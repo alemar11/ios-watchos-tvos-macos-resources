@@ -366,6 +366,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PotterPics](https://github.com/surayashivji/PotterPics) - Harry Potter themed social network similar to Instagram.
 * [pokemon-weakness-ios](https://github.com/pokeweak/pokemon-weakness-ios) - Source code for Pokemon Weakness iOS application. 
 * [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan) - Open Source Weather App created with Swift.
+* [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI.
 * [ReviewTime](https://github.com/nthegedus/ReviewTime) - Review Time is an open source app for iOS written in Swift that show the average review times for iOS and the Mac Apps using data crowdsourced from AppReviewTime.
 * [Rival](https://github.com/victorchu8/Rival) - A fitness iOS application that allows users to track, view and compete against friends. Built with Swift and Firebase.
 * [Science Journal by Google](https://github.com/google/science-journal-ios)
@@ -469,6 +470,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [IVColorPicker](https://github.com/irilka/IVColorPicker)
 * [PrismaSimpleImagePicker](https://github.com/Roylee-ML/PrismaSimpleImagePicker) - This is a copy of the Prisma APP. Reproduce Prisma custom camera, image picker and picture editor.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
+* [Mantis](https://github.com/guoyingtao/Mantis) - A photo cropping tool which mimics Photo.app.
 * [NextLevel](https://github.com/NextLevel/NextLevel) - Rad Media Capture in Swift.
 * [NKVPhonePicker](https://github.com/NikKovIos/NKVPhonePicker) - An UITextField subclass to simplify country code's picking.
 * [PhotoCropEditor](https://github.com/sprint84/PhotoCropEditor) - Framework written in Swift for Cropping Images easily.
@@ -932,6 +934,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
 * [PANumberKeyboard](https://github.com/AlexeyYuPopkov/PANumberKeyboard) - Custom Decimal Number Keyboard.
 * [RFCalculatorKeyboard](https://github.com/sprint84/RFCalculatorKeyboard)
+* [Ribbon](https://github.com/chriszielinski/Ribbon) - A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
 * [TKKeyboardControl](https://github.com/cztatsumi-keisuke/TKKeyboardControl) - TKKeyboardControl adds keyboard awareness and scrolling dismissal (like iMessages app) to any view with only 1 line of code for Swift.
 * [Typist](https://github.com/totocaster/Typist) - Small Swift UIKit keyboard manager for iOS apps.
 
@@ -1245,6 +1248,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API.
 * [PAPermissions](https://github.com/pascalbros/PAPermissions) - A unified API to ask for permissions on iOS.
 * [RequestPermission](https://github.com/IvanVorobei/RequestPermission) - simple permission request with beautiful UI.
+* [Send-App-Usage-Permissio](https://github.com/snake302/Send-App-Usage-Permission) - App Usage Permission Alert to comply with the new App Store Guidelines.
 
 ## Persistance
 *CoreData, SQLite, NSUserDefaults, Caching*
@@ -1298,6 +1302,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Pull To Refresh
 
 * [ADChromePullToRefresh](https://github.com/Antondomashnev/ADChromePullToRefresh)
+* [AMRefresher](https://github.com/arturdev/AMRefresher) - Super easy way to use "Pull To Refresh" and "Infinite Scrolling" with 1 line of code.
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh compontent developed in Swift.
 * [FlippingNotch](https://github.com/quickbirdstudios/FlippingNotch) - Flipping Notch.
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl)
