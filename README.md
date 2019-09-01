@@ -551,6 +551,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KSFacebookButton](https://github.com/LeeKahSeng/KSFacebookButton) - Customizable button which look exactly the same as FBSDKLoginButton.
 * [LGButton](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)
+* [loading-buttons-ios](https://github.com/twho/loading-buttons-ios) - A collection of loading buttons and their stylings written in Swift.
 * [LoadingButton](https://github.com/SeptiyanAndika/LoadingButton) - UIButton subclass with an activity indicator and loading text.
 * [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 * [MaterialView](https://github.com/karticodes/MaterialView) - Material Floating Button for iOS.
