@@ -248,6 +248,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ATScrollingNumbers](https://github.com/anooptomar1/ATScrollingNumbers) - Scrolling number control with circular progress.
 * [BLEPrgressView](https://github.com/ymmtshny/BLEPrgressView) - I am making an animation view for Bluetooth connection.
 * [Bubble](https://github.com/goldmoment/Bubble)
+* [ConfettiView](https://github.com/NSHipster/ConfettiView) - A view that emits confetti.
 * [ConfettiView](https://github.com/OrRon/ConfettiView) - Confetti View lets you create a magnificent confetti view in your app.
 * [CPConfettiView](https://github.com/phuongvnc/CPConfettiView) - CPConfettiView is fun animation when user input keyword.
 * [Dance](https://github.com/saoudrizwan/Dance) - A radical & elegant animation library built for iOS.
@@ -335,6 +336,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GitHawk](https://github.com/GitHawkApp/GitHawk) - A GitHub project manager app for iOS.
 * [GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard) - Hang a TV in your open space or team room to show everyone what's up and get them up to speed. 📺
 * [gulps](https://github.com/FancyPixel/gulps) - Gulps is an open source app for iOS and Apple Watch that lets you keep track of your daily water consumption.
+* [Hackery](https://github.com/timshim/Hackery) - A HackerNews client made using SwiftUI. `SwiftUI`
 * [headlines-iOS](https://github.com/Canillitapp/headlines-iOS)
 * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - This repository contains an example Highstreet WatchKit app. ⌚️
 * [Hoopy](https://github.com/danielinoa/Hoopy) - Hoopy is a lightweight and minimal Dribbble client.
@@ -492,6 +494,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [InstaBars](https://github.com/vaibhavxyz/InstaBars) - InstaBars is a simple animation for iOS applications inspired by equaliser in instagram application.
 * [MLAudioPlayer](https://github.com/micheltlutz/MLAudioPlayer) - AudioPlayer for Swift projects.
 * [Piano](https://github.com/saoudrizwan/Piano) - Easily play combinations of sound effects and Taptic Engine vibrations on iOS.
+* [SwiftAudio](https://github.com/jorgenhenrichsen/SwiftAudio) - Audio player for iOS.
 * [SwiftySound](https://github.com/adamcichy/SwiftySound) - Swifty Sound is a simple library that lets you play sounds with a single line of code.
 * [TempiBeatDetection](https://github.com/jscalo/TempiBeatDetection) - Swift library that performs real-time or static beat detection on audio.
 * [TuningFork](https://github.com/comyarzaheri/TuningFork) - TuningFork is a simple utility for processing microphone input and interpreting pitch, frequency, amplitude, etc.
@@ -666,6 +669,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts.
 * [DragDropCollection](https://github.com/runrunrun/DragDropCollection) - Custom UICollectionView allowing cells to be dragged and dropped.
 * [FadingEdgesCollectionView](https://github.com/alexandre-g/FadingEdgesCollectionView) - A UICollectionView that fades it's edges to hint about more content.
+* [flexiblerowheightgridlayout](https://github.com/rwbutler/flexiblerowheightgridlayout) - A UICollectionView grid layout designed to support Dynamic Type by allowing the height of each row to size to fit content.
 * [gliding-collection](https://github.com/Ramotion/gliding-collection) - Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller.
 * [GooglePlayTransition](https://github.com/xxxAIRINxxx/GooglePlayTransition) - Custom transition like Google Play Store Android App. written in Swift.
 * [Hanabi](https://github.com/kshin/Hanabi) - UICollectionViewLayout subclass with a focus on UICollectionViewCell content.
@@ -1216,6 +1220,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Panel
 *panels and drawers*
 
+* [ActionPicker](https://github.com/Krivoblotsky/ActionPicker) - My humble effort to mimic iOS setup sheets.
 * [ADOverlayContainer](https://github.com/applidium/ADOverlayContainer) - iOS UI library to implement overlay based interfaces.
 * [Aiolos](https://github.com/IdeasOnCanvas/Aiolos) - A floating panel for your iOS Apps.
 * [Arrows](https://github.com/antoniocasero/Arrows) - Arrows is an animated custom view to give feedback about your UI sliding panels.
@@ -1372,6 +1377,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view.
 * [CMLazyScrollViewController](https://github.com/Mycose/CMLazyScrollViewController) - Lazy ScrollView with support for infinite scroll (using a paging system with UIViewControllers and not UIViews).
 * [CrossNavigation](https://github.com/artemstepanenko/CrossNavigation) - Any side navigation.
+* [FlexibleHeader](https://github.com/k-lpmg/FlexibleHeader) - A container view that responds to scrolling of UIScrollView.
 * [Image-Carousel](https://github.com/robertrr61/Image-Carousel) - Add an array of images to a view and scroll them.
 * [Infinite-Grid-Swift](https://github.com/freshcode/Infinite-Grid-Swift) - Implementing an infinite grid using UIScrollview on iOS.
 * [LoopedContentsView](https://github.com/naru-jpn/LoopedContentsView) - View to display looped contents.
@@ -1432,6 +1438,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PRGRoundSlider](https://github.com/ispiropoulos/PRGRoundSlider) - A fully customizable circular slider.
 * [RangeSlider](https://github.com/matthewreagan/RangeSlider) - Simple, clean, and customizable range-based slider control for macOS. `macOS`
 * [SHSliderSwitch](https://github.com/iamshezad/SHSliderSwitch) - SHSliderSwitch is a simple lightweight library to implement an animated slider switch.
+* [sliders](https://github.com/spacenation/sliders) - SwiftUI Sliders with custom styles. `SwiftUI`
 * [SlideTo](https://github.com/ChristianMoler/SlideTo) - Simple slide controller is fully customizable via interface builder.
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
 * [SpringySlider](https://github.com/josephlord/SpringySlider) - Custom UISlider with thumb animation.
@@ -1885,6 +1892,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
 * [Skeleton](https://github.com/gonzalonunez/Skeleton) - An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content.
 * [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
+* [SlidingNumberView](https://github.com/bupstan/SlidingNumberView) - A custom view for animating though initial number and final number with sliding animation.
 * [Smile-Lock](https://github.com/liu044100/Smile-Lock) - A library for make a beautiful Passcode Lock View.
 * [SSHoneyCombView](https://github.com/SamehSalama/SSHoneyCombView) - A honey comb View that looks like a collection view with hexagon shaped items.
 * [SVGSpriteView](https://github.com/rondinellimorais/SVGSpriteView) - Subclass of UIView where is possible render SVG Sprites.
@@ -1973,8 +1981,9 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Transition](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions.
 * [TransitionController](http://github.com/pikachu987/TransitionController) - You can dismiss transition and present transition between UIViewController, UINavigationController, UITabBarController, UICollectionViewController, and UITableViewController.
 * [TransitionManager](https://github.com/cemolcay/TransitionManager) - Painless custom transitioning. Easy extend, easy setup, just focus on animations.
-* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line.
 * [View2ViewTransition](https://github.com/naru-jpn/View2ViewTransition) - Custom interactive view controller transition from one view to another view.
+* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line.
+* [ViewControllerPresentation](https://github.com/an0/ViewControllerPresentation) - Playground for trying out all presentation styles. Seeing them live gives a much better understanding than reading the documentation.
 * [VLCircularTransition](https://github.com/Vigneshlakshminarayanan/VLCircularTransition) - Circular ViewController Transition - Replacement to Apple's boring Push/Present Transitions.
 * [ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning) - ZoomTransitioning provides a custom transition with image zooming animation.
 
