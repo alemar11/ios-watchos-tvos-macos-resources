@@ -374,6 +374,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Science Journal by Google](https://github.com/google/science-journal-ios)
 * [Sentiments](https://github.com/kyleweiner/Sentiments) - Sentiments is an iOS app written in Swift that analyzes text for positive or negative sentiment.
 * [sismicapp-ios](https://github.com/jbeleno/sismicapp-ios) - Sismicapp app for iOS, developed in swift using MVVM with RXSwift.
+* [siskin-im](https://github.com/tigase/siskin-im) - Public Project of Tigase Messenger for iOS devices based on Tigase Swift XMPP library.
 * [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift) - SoundCloud client written on Swift.
 * [summon](https://github.com/eonist/summon) - Summon a person to your exact location in a building.
 * [Swift Evolution](https://github.com/swift-evolution/ios) - An iOS version of Swift Evolution.
@@ -855,6 +856,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ARNZoomImageTransition](https://github.com/xxxAIRINxxx/ARNZoomImageTransition)
 * [BitmapCanvas](https://github.com/nst/BitmapCanvas) - Bitmap offscreen drawing in Swift for OS X. `macOS`
 * [cocoa-close-pixelate](https://github.com/bmaslakov/cocoa-close-pixelate)
+* [cyborg](https://github.com/uber/cyborg) - Display Android Vectordrawables on iOS.
 * [DPImageCache](https://github.com/dphans/DPImageCache) - Swift extension for UIImageView. Help loading image asynchronously and store local file cache.
 * [DPImageGenerator](https://github.com/dwipp/DPImageGenerator) - It's an image generator for default image.
 * [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate quick response code in Swift.
@@ -1014,6 +1016,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) - A customizable SpriteKit particles animation on the border of a view.
 * [ProgressButton](https://github.com/AlKhokhlov/ProgressButton) - Custom ProgressButton.
 * [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX. `macOS`
+* [ProgressMaskView](https://github.com/eytyet/ProgressMaskView) - Progress view which masks the entire screen.
 * [RSDotsView](https://github.com/Kemcake/RSDotsView)
 * [SegmentedProgressView](https://github.com/iSapozhnik/SegmentedProgressView) - Simple Instagram-like segmented progress view with completion handler and different time interval for each segment.
 * [SemiCircular-Scale](https://github.com/ankits16/SemiCircular-Scale) - A simple component to show circular scale, gauge etc.
@@ -1433,6 +1436,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
 * [iOS-Tactile-Slider)](https://github.com/daprice/iOS-Tactile-Slider) - UIControl slider that can be dragged from any point within its bounds, similar to those in Control Center and Home.app.
 * [MBDoubleSliderExample](https://github.com/c-Viorel/MBDoubleSliderExample) - CustomDoubleSlider for macOs written in swift 3.0.
+* [MTSlideToOpen-SwiftUI](https://github.com/lemanhtien/MTSlideToOpen-SwiftUI) - A simple SlideToUnlock iOS UI component written in SwiftUI. `SwiftUI`
 * [NHRangeSlider](https://github.com/thehung111/NHRangeSlider) - A custom range slider in Swift.
 * [PageController](https://github.com/hirohisa/PageController) - PageController is infinite paging controller, scrolling through contents and title bar scrolls with a delay. Then it provide user interaction to smoothly and effortlessly moving. It is for iOS written in Swift.
 * [PRGRoundSlider](https://github.com/ispiropoulos/PRGRoundSlider) - A fully customizable circular slider.
@@ -1523,6 +1527,8 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MIPivotPageController](https://github.com/MarioIannotta/MIPivotPageController) - MIPivotPageController allows switching viewcontroller with an horizontal swipe.
 * [MMTabBarAnimation](https://github.com/MillmanY/MMTabBarAnimation) - Custom Animation on tabbar Item.
 * [MiniTabBar](https://github.com/D-32/MiniTabBar) - A minimal tab bar alternative.
+* [PolioPager](https://github.com/YuigaWada/PolioPager) - A flexible tabBar library with search tab like SNKRS. Written in pure swift.
+* [PTCardTabBar](https://github.com/hussc/PTCardTabBar) - Card-Style TabBarController for iOS.
 * [ScrollPager](https://github.com/aryaxt/ScrollPager)
 * [Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control written in Swift.
 * [SMSwipeableTabView](https://github.com/smahajan28/SMSwipeableTabView) - Swipeable Views with Tabs (Like Android SwipeView With Tabs Layout).
@@ -1774,6 +1780,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NSData-GZIP](https://github.com/1024jp/NSData-GZIP) - NSData+GZIP.swift is an extension of NSData written in Swift 2.0. It enables compress/decompress gzip using zlib.
 * [OCR-Demo-with-IDOL-OnDemand](https://github.com/bpolat/Swift-OCR-Demo-with-IDOL-OnDemand) - Converting Images into text by using HP's IDOL OnDemand service - iOS app which is written with Swift.
 * [Overdrive](https://github.com/arikis/Overdrive) - Fast async task based API in Swift with focus on type safety, concurrency and multi threading.
+* [Palette](https://github.com/galandezzz/Palette) - Color palette generation from image written in Swift.
 * [peekpop](https://github.com/marmelroy/peekpop) - Peek and Pop with backwards-compatibility.
 * [phonenumberkit](https://github.com/marmelroy/phonenumberkit)
 * [Postal](https://github.com/snipsco/Postal) - A swift framework for working with emails.
