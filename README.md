@@ -395,6 +395,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [VoiceMemosClone](https://github.com/HassanElDesouky/VoiceMemosClone) - A clone for Apple's Voice Memos app.
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit. ⌚️
 * [WatchNote](https://github.com/ezefranca/WatchNote) - Controlling your Keynote using Apple Watch. ⌚️
+* [water-reminder-swiftui](https://github.com/caiobzen/water-reminder-swiftui) - A simple Apple Watch app to remind you to drink water! ⌚️ `SwiftUI`
 * [weight-tracker](https://github.com/Jackson-S/weight-tracker) - iOS and watchOS weight entry app for HealthKit. ️️⌚️
 * [Wire](https://github.com/wireapp/wire-ios) - Wire iOS client (iPhone and iPad).
 * [Yep](https://github.com/CatchChat/Yep) - A community where geniuses meet.
