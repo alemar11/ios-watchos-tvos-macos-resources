@@ -388,6 +388,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TSWeChat](https://github.com/hilen/TSWeChat) - A WeChat alternative. Written in Swift.
 * [TVVLCPlayer](https://github.com/kodlian/TVVLCPlayer) - TVVLCPlayer lets you integrate easily a powerfull video player with playback control views to your tvOS apps. 📺
 * [Tweetometer](https://github.com/BalestraPatrick/Tweetometer) - An app to see who is tweeting in your timeline.
+* [typestyle](https://github.com/ebelinski/typestyle)
 * [Unwrap](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone.
 * [v2ex](https://github.com/darkerk/v2ex) - The unofficial V2EX app for iOS.
 * [VersaPlayer](https://github.com/josejuanqm/VersaPlayer) - Versatile Video Player implementation for iOS, macOS, and tvOS.
@@ -637,8 +638,9 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ROStorageBar](https://github.com/prine/ROStorageBar)
 * [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
 * [SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.
+* [swift-linechart](https://github.com/zemirco/swift-linechart) - SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.
 * [SwiftCharts](https://github.com/i-schuetz/SwiftCharts)
-* [swift-linechart](https://github.com/zemirco/swift-linechart)
+* [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram) - SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart. `SwiftUI`
 * [WYChart](https://github.com/GeorgeWang03/WYChart) - A simple and elegant Chart library with rich animations.
 
 ## Checkbox
@@ -772,6 +774,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ISTimeline](https://github.com/instant-solutions/ISTimeline) - Simple timeline view written in Swift 2.2.
 * [JBDatePicker](https://github.com/Tuslareb/JBDatePicker) - A customizable calendar field in which the user can select a date.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final Apple calendar you will ever try. Built for iOS in Swift.
+* [KVKCalendar](https://github.com/kvyatkovskys/KVKCalendar) - A most fully customization calendar library.
 * [Koyomi](https://github.com/shoheiyokoyama/Koyomi) - Koyomi is a simple calendar view framework for iOS, written in Swift.
 * [MIDatePicker](https://github.com/MarioIannotta/MIDatePicker) - A lightweight, non-invasive, fully customizable DatePicker.
 * [PopOverDatePicker](https://github.com/tichise/PopOverDatePicker) - PopOverDatePicker is a PopOver style DatePicker view.
@@ -1079,6 +1082,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 * [ARCarMovement](https://github.com/antonyraphel/ARCarMovement) - This is navigation example on google map. Here Marker move as vehicles moves with turns as uber does in their app. Using old and new coordinates animating bearing value the markers are moving. 
 * [asmaplauncher](https://www.cocoacontrols.com/controls/asmaplauncher) - ASMapLauncher is a library for iOS written in Swift that helps navigation with various mapping applications.
+* [curvyRoute](https://github.com/metrolab/curvyRoute) - Drawing curvy routes with MapKit.
 * [DistancePicker](https://github.com/qmathe/DistancePicker) - Custom UIKit control to select a distance with a pan gesture, written in Swift.
 * [DynamicBubble](https://github.com/vladaverin24/DynamicBubble) - Interactive Speech Balloon/Bubble view with rich customization UI for app user.
 * [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - 360° flyover on an MKMapView.
@@ -1232,6 +1236,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ActionPicker](https://github.com/Krivoblotsky/ActionPicker) - My humble effort to mimic iOS setup sheets.
 * [ADOverlayContainer](https://github.com/applidium/ADOverlayContainer) - iOS UI library to implement overlay based interfaces.
 * [Aiolos](https://github.com/IdeasOnCanvas/Aiolos) - A floating panel for your iOS Apps.
+* [AYPullBoard](https://github.com/bananaRanger/AYPullBoard) - Сustomized pull board based on your view.
 * [Arrows](https://github.com/antoniocasero/Arrows) - Arrows is an animated custom view to give feedback about your UI sliding panels.
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition.
 * [drawer-view](https://github.com/jVirus/drawer-view) - Drawer View is a custom UI component replication of Apple's Apple Music player and Shortcuts components view.
@@ -1885,6 +1890,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FloatingView](https://github.com/PersianDevelopers/FloatingView)
 * [FNReactionsView](https://github.com/fabiosoft/FNReactionsView) - FNReactionsView is a customizable control (based on UIView) to give people a way to show floating emoji like facebook does during live stream, easy way.
 * [GDPerformanceView](https://github.com/dani-gavrilov/GDPerformanceView-Swift) - Shows FPS, CPU usage, app and iOS versions above the status bar and report FPS and CPU usage via delegate.
+* [GLScratchCard](https://github.com/gokulgovind/GLScratchCard) - scratch card effect.
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A fancy hexagonal layout for displaying data like your Apple Watch.
 * [HGRippleRadarView](https://github.com/HamzaGhazouani/HGRippleRadarView) - A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable.
 * [HolyView](https://github.com/Frexas/HolyView) - Custom view with transparent circle hole and title/button subview.
