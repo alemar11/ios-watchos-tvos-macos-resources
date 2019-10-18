@@ -129,6 +129,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
 * [PCRapidSelectionView](https://github.com/mmackh/PCRapidSelectionView) - Interactive, beautiful & fast UIActionSheet replacement, supports continuous hold & select.
 * [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet) - Sheeeeeeeeet is a Swift library for custom action sheets.
+* [SheetViewController](http://github.com/bananaRanger/SheetViewController) - SheetViewController - is a customizable native-like sheet alert controller.
 
 ## AddressBook
 *Address Book implementations*
@@ -638,6 +639,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ROStorageBar](https://github.com/prine/ROStorageBar)
 * [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
 * [SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.
+* [StackViewBarChart](http://github.com/haojianzong/StackViewBarChart) - A simple yet beautiful bar chart view for iOS powered by UIStackView. Written in Swift.
 * [swift-linechart](https://github.com/zemirco/swift-linechart) - SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.
 * [SwiftCharts](https://github.com/i-schuetz/SwiftCharts)
 * [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram) - SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart. `SwiftUI`
