@@ -675,6 +675,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [cvvm](https://github.com/theswiftdev/cvvm) - Ultimate UICollectionView guide with iOS examples written in Swift.
 * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts.
 * [DragDropCollection](https://github.com/runrunrun/DragDropCollection) - Custom UICollectionView allowing cells to be dragged and dropped.
+* [expandable-collection-view-kit](https://github.com/jVirus/expandable-collection-view-kit) - Expandable, hierarchical, flexible, declarative UICollectionView with diffable data sources & SwiftUI-like tree items builder.
 * [FadingEdgesCollectionView](https://github.com/alexandre-g/FadingEdgesCollectionView) - A UICollectionView that fades it's edges to hint about more content.
 * [flexiblerowheightgridlayout](https://github.com/rwbutler/flexiblerowheightgridlayout) - A UICollectionView grid layout designed to support Dynamic Type by allowing the height of each row to size to fit content.
 * [gliding-collection](https://github.com/Ramotion/gliding-collection) - Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller.
