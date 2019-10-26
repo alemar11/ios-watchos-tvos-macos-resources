@@ -1969,6 +1969,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 * [AAPopUp](https://github.com/EngrAhsanAli/AAPopUp) - AAPopUp is a simple and easy-to-use popup view controller designed to present customizable storyboard based view controller as a modal alert, written in Swift..
 * [AICustomViewControllerTransition](https://github.com/cocoatoucher/AICustomViewControllerTransition) - Easy and tidy way for creating custom UIViewController transitions for iOS.
+* [animation-transition-viewcontroller-advanced](https://github.com/franobarrio/animation-transition-viewcontroller-advanced) - (Tutorial)[https://medium.com/flawless-app-stories/cool-custom-view-controller-transitions-advanced-df2d0ca08029]
 * [AZTransitions](https://github.com/azimin/AZTransitions) - API to make great custom transitions in one method.
 * [CardPresentationController](https://github.com/radianttap/CardPresentationController) - Custom UIPresentationController which mimics the behavior of Apple Music UI.
 * [CustomSegue](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects (NSViewControllerTransitionOptions). `macOS`
