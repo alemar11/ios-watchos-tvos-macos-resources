@@ -354,6 +354,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [kickstarter App](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 * [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 * [Minamo](https://github.com/yukiasai/Minamo) - Simple coach mark library written in Swift.
+* [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - MovieSwiftUI is an application that uses the MovieDB API and is built with SwiftUI. It demos some SwiftUI (& Combine) concepts. `SwiftUI`
 * [NewsApp](https://github.com/PowerMobileWeb/NewsApp)
 * [NKWatchActivityIndicator](https://github.com/NilStack/NKWatchActivityIndicator) - An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2. ⌚️
 * [Notepad](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
@@ -1247,6 +1248,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DTOverlayController](https://github.com/tungvoduc/DTOverlayController) - A customizable and easy-to-use overlay view controller container.
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS.
 * [InteractiveCardViewAnimation](https://github.com/brianadvent/InteractiveCardViewAnimation)
+* [OverlayContainer](https://github.com/applidium/OverlayContainer) - Non-intrusive iOS UI library to implement overlay based interfaces - [Blog post](https://gaetanzanella.github.io//2018/replicate-apple-maps-overlay/)
 * [Panels](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
 * [PanModal](https://github.com/slackhq/PanModal) - An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.
 * [PresentationControllerBlog](https://github.com/kylebshr/PresentationControllerBlog)
@@ -1459,6 +1461,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SHSliderSwitch](https://github.com/iamshezad/SHSliderSwitch) - SHSliderSwitch is a simple lightweight library to implement an animated slider switch.
 * [sliders](https://github.com/spacenation/sliders) - SwiftUI Sliders with custom styles. `SwiftUI`
 * [SlideTo](https://github.com/ChristianMoler/SlideTo) - Simple slide controller is fully customizable via interface builder.
+* [SlideToUnlock](https://github.com/alemar11/SlideToUnlock) - Sample code for the FrenchKit 2019 session of the same name.
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
 * [SpringySlider](https://github.com/josephlord/SpringySlider) - Custom UISlider with thumb animation.
 * [SSSlider](https://github.com/ngodacdu/SSSlider) - A customisable Slider which will show a tooltip when dragging the slider.
