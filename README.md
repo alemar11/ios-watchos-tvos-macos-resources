@@ -1975,6 +1975,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [animation-transition-viewcontroller-advanced](https://github.com/franobarrio/animation-transition-viewcontroller-advanced) - (Tutorial)[https://medium.com/flawless-app-stories/cool-custom-view-controller-transitions-advanced-df2d0ca08029]
 * [AZTransitions](https://github.com/azimin/AZTransitions) - API to make great custom transitions in one method.
 * [CardPresentationController](https://github.com/radianttap/CardPresentationController) - Custom UIPresentationController which mimics the behavior of Apple Music UI.
+* [CardTransitionWithViewControllers-Example](https://github.com/wibosco/CardTransitionWithViewControllers-Example) - An example project looking at producing a view transition similar to the App Store card transition by using child view controllers.
 * [CustomSegue](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects (NSViewControllerTransitionOptions). `macOS`
 * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS 10 Apple Music now playing transition.
