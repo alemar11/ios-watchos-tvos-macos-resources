@@ -345,6 +345,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Icro](https://github.com/hartlco/Icro) - Icro, a third-party micro.blog client.
 * [Image-to-Ascii-Art](https://github.com/liamrosenfeld/Image-to-Ascii-Art) - An iOS app that can turn any image into ascii art.
 * [insights-for-instagram](https://github.com/adimango/insights-for-instagram) - A simple iOS Instagram's media insights App written in Swift 4.
+* [ios-mail](https://github.com/ProtonMail/ios-mail)
 * [ios-spritekit-tic-tac-toe](https://github.com/jVirus/ios-spritekit-tic-tac-toe) - Class Tic Tac Toe reincarnation with AI and state machines. The app is ready-made, using Sprite and Gameplay Kits.
 * [ladybug](https://github.com/ethanhuang13/ladybug) - Handle rdar:// links gracefully.
 * [Llitgi](https://github.com/xmollv/Llitgi) - A simple & lightweight Pocket client for iOS.
