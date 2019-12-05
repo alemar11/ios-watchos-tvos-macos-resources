@@ -1474,6 +1474,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RangeSlider](https://github.com/matthewreagan/RangeSlider) - Simple, clean, and customizable range-based slider control for macOS. `macOS`
 * [SHSliderSwitch](https://github.com/iamshezad/SHSliderSwitch) - SHSliderSwitch is a simple lightweight library to implement an animated slider switch.
 * [sliders](https://github.com/spacenation/sliders) - SwiftUI Sliders with custom styles. `SwiftUI`
+* [Sliders](http://github.com/SwiftUIExtensions/Sliders) - SwiftUI Sliders with custom styles.
 * [SlideTo](https://github.com/ChristianMoler/SlideTo) - Simple slide controller is fully customizable via interface builder.
 * [SlideToUnlock](https://github.com/alemar11/SlideToUnlock) - Sample code for the FrenchKit 2019 session of the same name.
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
