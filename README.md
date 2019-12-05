@@ -469,6 +469,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AssetsPickerViewController](https://github.com/DragonCherry/AssetsPickerViewController) - Multiple Photo & Video Picker Controller by Swift.
 * [BRNImagePickerSheet](https://github.com/jacklevin74/BRNImagePickerSheet/tree/master)
 * [BSImagePicker](https://github.com/mikaoj/BSImagePicker) - A multiple image picker for iOS.
+* [BSZoomGridScrollView](https://github.com/boraseoksoon/BSZoomGridScrollView) - BSZoomGridScrollView is a powerful, pure swift iOS UI framework that provides the awesome grid scrollview containing your image array that are able to zoom, tracking your touch area.
 * [Collage](https://github.com/sohamb1390/Collage) - A simple photo collage app with predefined collage frames.
 * [ConvenientImagePicker](https://github.com/CLOXnu/ConvenientImagePicker) - the new iOS image picker. Beautiful, delicate, and customizable.
 * [CSPhotoGallery](https://github.com/youkchansim/CSPhotoGallery) - This is very simple and light photo gallery.
@@ -630,6 +631,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Attabench](https://github.com/lorentey/Attabench) - Microbenchmarking app for Swift with nice log-log plots.
 * [BarChart](https://github.com/nhatminh12369/BarChart) - This code demonstrate a way to build your own bar chart without using any third-party library. I don't recommend you to import BasicBarChart.swift and BeautifulBarChart.swift directly into your project. However, you should modify it according to your needs.
 * [ChartLegends](https://github.com/i-schuetz/ChartLegends) - Convenient and flexible legends for all kind of charts.
+* [ChartView](http://github.com/AppPear/ChartView) - ChartView made in SwiftUI. `SwiftUI`
 * [CoreCharts](https://github.com/cagricolak/CoreCharts) - CoreCharts is a simple powerfull yet Charts library for apple products.
 * [CSPieChart](https://github.com/youkchansim/CSPieChart) - This is pie chart that is very easy to use and customizable design.
 * [DDSpiderChart](dadalar/DDSpiderChart) - Easy to use Spider (Radar) Chart library for iOS written in Swift.
@@ -777,10 +779,12 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CrispyCalendar](https://github.com/CleverPumpkin/CrispyCalendar)
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
 * [D2PDatePicker](https://github.com/di2pra/D2PDatePicker) - Elegant and Easy-to-Use iOS Swift Date Picker.
+* [DateScrollPicker](https://github.com/alberdev/DateScrollPicker) - Fully customizable date scroll view with picker feature for iOS written in Swift 5.
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
 * [DPTimePicker](https://github.com/dariopellegrini/DPTimePicker) 
 * [EPCalendarPicker](https://github.com/ipraba/EPCalendarPicker) - Colourful calendar for iOS written in Swift.
 * [ISTimeline](https://github.com/instant-solutions/ISTimeline) - Simple timeline view written in Swift 2.2.
+* [JBCalendarDatePicker](https://github.com/joshbirnholz/JBCalendarDatePicker) - A replacement for UIDatePicker made for Catalyst.
 * [JBDatePicker](https://github.com/Tuslareb/JBDatePicker) - A customizable calendar field in which the user can select a date.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final Apple calendar you will ever try. Built for iOS in Swift.
 * [KVKCalendar](https://github.com/kvyatkovskys/KVKCalendar) - A most fully customization calendar library.
@@ -917,6 +921,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions. `SwiftUI`
 * [Gecco](https://github.com/yukiasai/Gecco) - Simply highlight items for your tutorial walkthrough, written in Swift.
 * [HAPlayerView](https://github.com/litoarias/HAPlayerView) - Easy-to-use class for inserting videos as a wallpaper without a single line of code, all managed by Interface Builder.
+* [ImageBlur](https://github.com/yogesh07-ios/ImageBlur) - Blur out the image portion were user drag his/her finger.
 * [Instructions](https://github.com/ephread/Instructions)
 * [IntroScreen](https://github.com/P1xelfehler/IntroScreen) - A beautiful intro screen for iOS written in Swift.
 * [JTSplashView](https://github.com/kubatru/JTSplashView) - Create the beautiful splash view with JTSplashView.
@@ -1257,6 +1262,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [OverlayContainer](https://github.com/applidium/OverlayContainer) - Non-intrusive iOS UI library to implement overlay based interfaces - [Blog post](https://gaetanzanella.github.io//2018/replicate-apple-maps-overlay/)
 * [Panels](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
 * [PanModal](https://github.com/slackhq/PanModal) - An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.
+* [PartialSheet](http://github.com/AndreaMiotto/PartialSheet) - A custom SwiftUI modifier to present a Partial Modal Sheet. `SwiftUI`
 * [PresentationControllerBlog](https://github.com/kylebshr/PresentationControllerBlog)
 * [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI.
 * [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
@@ -1321,6 +1327,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)
 * [GradientProgressBar](https://github.com/fxm90/GradientProgressBar) - A customizable gradient progress bar (UIProgressView).
 * [GTProgressBar](https://github.com/gregttn/GTProgressBar) - Customisable progress bar written in Swift 3.
+* [JCGGProgressBar](https://github.com/jacquesCedric/JCGGProgressBar) - macOS custom progress bar UI component. `macOS`
 * [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress)
 * [KDLoadingView](https://github.com/KaiqueDamato/KDLoadingView) - A beautiful loading indicator. Written in Swift.
 * [KYCircularProgress](https://github.com/kentya6/KYCircularProgress)
@@ -1553,6 +1560,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MIPivotPageController](https://github.com/MarioIannotta/MIPivotPageController) - MIPivotPageController allows switching viewcontroller with an horizontal swipe.
 * [MMTabBarAnimation](https://github.com/MillmanY/MMTabBarAnimation) - Custom Animation on tabbar Item.
 * [MiniTabBar](https://github.com/D-32/MiniTabBar) - A minimal tab bar alternative.
+* [Parchment](http://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu.
 * [PolioPager](https://github.com/YuigaWada/PolioPager) - A flexible tabBar library with search tab like SNKRS. Written in pure swift.
 * [PTCardTabBar](https://github.com/hussc/PTCardTabBar) - Card-Style TabBarController for iOS.
 * [ScrollPager](https://github.com/aryaxt/ScrollPager)
@@ -1810,7 +1818,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Overdrive](https://github.com/arikis/Overdrive) - Fast async task based API in Swift with focus on type safety, concurrency and multi threading.
 * [Palette](https://github.com/galandezzz/Palette) - Color palette generation from image written in Swift.
 * [peekpop](https://github.com/marmelroy/peekpop) - Peek and Pop with backwards-compatibility.
-* [phonenumberkit](https://github.com/marmelroy/phonenumberkit)
+* [phonenumberkit](https://github.com/marmelroy/phonenumberkit) - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
 * [Postal](https://github.com/snipsco/Postal) - A swift framework for working with emails.
 * [Proposer](https://github.com/nixzhu/Proposer) - Proposer provides a simple API to request permission for access Camera, Photos, Microphone, Contacts, Location.
 * [Queuer](https://github.com/FabrizioBrancati/Queuer) - Queuer is a queue manager, built on top of OperationQueue and Dispatch (aka GCD).
@@ -1923,6 +1931,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NightView](https://github.com/Boris-Em/NightView) - Dazzling Nights on iOS.
 * [OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - A source of circular pictures, currently supports horizontal overlapping or separate pictures with great layout flexibility.
 * [OTResizableView](https://github.com/PKPK-Carnage/OTResizableView) - OTResizableView is a UIView library that can be resized with fingers.
+* [PartitionKit](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content. `SwiftUI`
 * [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.
 * [PVView](https://github.com/toannt/PVView) - A small library that helps you to make an amazing parallax view.
 * [Shimmer](https://github.com/facebook/Shimmer)
