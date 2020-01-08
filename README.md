@@ -379,6 +379,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Rival](https://github.com/victorchu8/Rival) - A fitness iOS application that allows users to track, view and compete against friends. Built with Swift and Firebase.
 * [Science Journal by Google](https://github.com/google/science-journal-ios)
 * [Sentiments](https://github.com/kyleweiner/Sentiments) - Sentiments is an iOS app written in Swift that analyzes text for positive or negative sentiment.
+* [SF-Viewer](https://github.com/aaronpearce/SF-Viewer) - SF Viewer is the best way to view, compare and export SF Symbols on your iOS device.
 * [sismicapp-ios](https://github.com/jbeleno/sismicapp-ios) - Sismicapp app for iOS, developed in swift using MVVM with RXSwift.
 * [siskin-im](https://github.com/tigase/siskin-im) - Public Project of Tigase Messenger for iOS devices based on Tigase Swift XMPP library.
 * [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift) - SoundCloud client written on Swift.
@@ -431,6 +432,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS. `macOS`
 * [gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs on your Mac. `macOS`
 * [Gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github. `macOS`
+* [hidden](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. `macOS`
 * [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). `macOS`
 * [localizations](https://github.com/athiercelin/localizations) - OS X app that manages localizations of Xcode projects. `macOS`
 * [MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS!
@@ -478,6 +480,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FAImageCropper](https://github.com/fahidattique55/FAImageCropper) - Image Cropper like Instagram.
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature with a few line of code in Swift.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
+* [ImageViewer.swift](https://github.com/michaelhenry/ImageViewer.swift) - An easy to use Image Viewer that is inspired by Facebook.
 * [INSPhotoGallery](https://github.com/inspace-io/INSPhotoGallery) - INSPhotoGallery is a modern looking photo gallery written in Swift for iOS.
 * [iOS-swift-MSCrop](https://github.com/chetanpanchal94/iOS-swift-MSCrop) - A view which can be moved and scaled, that allows user to select the cropping area in an image.
 * [IVColorPicker](https://github.com/irilka/IVColorPicker)
@@ -650,6 +653,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [StackViewBarChart](http://github.com/haojianzong/StackViewBarChart) - A simple yet beautiful bar chart view for iOS powered by UIStackView. Written in Swift.
 * [swift-linechart](https://github.com/zemirco/swift-linechart) - SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.
 * [SwiftCharts](https://github.com/i-schuetz/SwiftCharts)
+* [swiftplot](https://github.com/KarthikRIyer/swiftplot) - Swift library for Data Visualization.
 * [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram) - SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart. `SwiftUI`
 * [WYChart](https://github.com/GeorgeWang03/WYChart) - A simple and elegant Chart library with rich animations.
 
@@ -678,6 +682,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [circular-carousel](http://github.com/Ramotion/circular-carousel) - List a collection of items in a horizontally scrolling view.
 * [CollectionViewCustom](https://github.com/damienromito/CollectionViewCustom) - Custom CollectionViewLayout with a custom paging size by overriding scrollViewWillEndDragging.
 * [CollectionLayouts](https://github.com/Oni-zerone/CollectionLayouts) - This is a UICollectionViewLayout that reproduce the Instagram Stories experience, just use StoriesCollectionViewLayout in your UICollectionView and subclass your cells from StoriesCollectionViewCell!.
+* [CollectionViewPagingLayout](https://github.com/amirdew/CollectionViewPagingLayout) - Simple layout for make paging with UICollectionView.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - Reimagining UICollectionView.
 * [cvvm](https://github.com/theswiftdev/cvvm) - Ultimate UICollectionView guide with iOS examples written in Swift.
@@ -1127,6 +1132,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FAPanels](https://github.com/fahidattique55/FAPanels) - FAPanels - Swift.
 * [FatSidebar](https://github.com/CleanCocoa/FatSidebar) - Custom vertical button toolbar for macOS. `macOS`
 * [FlowingMenu](https://github.com/YannickL/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects in Swift.
+* [gmenu](https://github.com/amirdew/gmenu) - A redesigned menu for Gmail iOS app, implemented using SwiftUI.
 * [GNAContextMenu](https://github.com/gridNA/GNAContextMenu) - Long press context menu (like in Pintrest for iOS app).
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
 * [Hamburger-DropMenu](https://github.com/vinit5320/Hamburger-DropMenu)
@@ -1267,6 +1273,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI.
 * [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
 * [shortcuts-drawer-view)](https://github.com/phillfarrugia/shortcuts-drawer-view) - An experimental re-creation of Siri Shortcut's Drawer View component.
+* [SOPullUpView](https://github.com/Ahmadalsofi/SOPullUpView) - SOPullUpView library for iOS, with pull up gesture.
 * [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
 * [TopDrawer](http://github.com/JUSTINMKAUFMAN/TopDrawer) - A top drawer that can be pulled up/down over the screen.
 * [UBottomSheet](https://github.com/OfTheWolf/UBottomSheet) - Bottom sheet that mimics the behaviours and UI of iPhone Maps app.
@@ -1466,6 +1473,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GradientSlider](https://github.com/jonhull/GradientSlider)
 * [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
 * [iOS-Tactile-Slider)](https://github.com/daprice/iOS-Tactile-Slider) - UIControl slider that can be dragged from any point within its bounds, similar to those in Control Center and Home.app.
+* [JCGGColorSlider](https://github.com/jacquesCedric/JCGGColorSlider) - Colorful NSSlider subclass. `macOS`
 * [MBDoubleSliderExample](https://github.com/c-Viorel/MBDoubleSliderExample) - CustomDoubleSlider for macOs written in swift 3.0.
 * [MTSlideToOpen-SwiftUI](https://github.com/lemanhtien/MTSlideToOpen-SwiftUI) - A simple SlideToUnlock iOS UI component written in SwiftUI. `SwiftUI`
 * [NHRangeSlider](https://github.com/thehung111/NHRangeSlider) - A custom range slider in Swift.
@@ -1703,6 +1711,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [TweetTextView](https://github.com/KarlZeo/TweetTextView) - This is a custom NSTextView to heighlight username hashtag and link. `macOS`
 * [Typographizer](https://github.com/frankrausch/Typographizer) - Fix dumb quotation marks and apostrophes in Swift.
 * [VisibleText](https://github.com/LeBzul/VisibleText) - Automatically determine the text color according to the background.
+* [YanagiText](https://github.com/YuigaWada/YanagiText) - A lightweight TextView where can be attached any UIView.
 * [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
 
 ## Textfield and Label
@@ -1880,6 +1889,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - A library that displays spherical or cylindrical panoramas with touch or motion based controls.
 * [HTY360Player](https://github.com/hanton/HTY360Player) - A 360° video player for iOS.
+* [MBVideoPlayer](https://github.com/mwaqasbhati/MBVideoPlayer) - A video player on top of AVQueuePlayer with custom header, playlist items, play, pause, seek to slider, time, resize to fullscreen, forward, backward horizontal, vertical capabilities.
 * [MMPlayerView](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like youtube and facebook.
 * [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 * [SGPlayer](https://github.com/libobjc/SGPlayer) - A powerful media player framework for iOS, macOS, and tvOS. Support 360° panorama video, VR video. RTMP streaming.
