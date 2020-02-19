@@ -555,6 +555,8 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 * [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
 * [DynamicButton](https://github.com/yannickl/DynamicButton)
+* [EMTNeumorphicView](http://github.com/hirokimu/EMTNeumorphicView) - UIKit views with Neumorphism style design.
+* [FacebookLikeReaction](http://github.com/11Shraddha/FacebookLikeReaction) - FacebookLikeReaction is a customizable view which provides more options to share your reactions on any post like Facebook Reactions.
 * [fave-button](https://github.com/xhamr/fave-button) - FaveButton is an iOS cute animated like button written in Swift.
 * [FlatButton](https://github.com/OskarGroth/FlatButton) - Layer based NSButton with Interface Builder styling options. `macOS`
 * [GNTickerButton](https://github.com/gonzalonunez/GNTickerButton)
@@ -575,6 +577,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - Ring progress view similar to Activity app on Apple Watch.
 * [MMLoadingButton](https://github.com/MillmanY/MMLoadingButton) - Custom Loading Button With Animation.
 * [Newly](https://github.com/dhirajjadhao/Newly) - Newly is a drop in solution to add Twitter/Facebook/Linkedin style, new updates/tweets/posts available button. It can be used to notify user about new content availability and can other actions can be triggers using its delegate method.
+* [neumorphic-style](https://github.com/hallee/neumorphic-style) - Simple SwiftUI ‘neumorphic’ button style. `SwiftUI`
 * [NFFlatButton](https://github.com/norfred/NFFlatButton) - Custom flat button 'à la Letterpress' written in Swift.
 * [NKButton](https://github.com/kennic/NKButton) - A fully customizable UIButton.
 * [NPFlipButton](https://github.com/neopixl/NPFlipButton)
@@ -584,6 +587,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [RadioGroup](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
 * [Reactions](https://github.com/yannickl/Reactions) - Fully customizable Facebook reactions control.
 * [recordbutton](https://github.com/samuelbeek/recordbutton)
+* [RecordButton](http://github.com/pablogsIO/RecordButton) - A simple iOS record button.
 * [RNLoadingButton](https://github.com/souzainf3/RNLoadingButton-Swift)
 * [SFlatButton](https://github.com/alexmeji/SFlatButton)
 * [SparkButtonDemo](https://github.com/saravananImaginea/SparkButtonDemo) - Demonstrates the SparkButton Animations that reflects the FB's Paper App's Like button animation.
@@ -1109,6 +1113,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [GeoTrackKit](https://github.com/intere/GeoTrackKit) - A Cocoapod for Geo Tracking.
 * [GooglePlacesClone](https://github.com/VishalNandoriya/GooglePlacesClone) - This repository aims for a tutorial on how to use the Google Places API in conjunction with Google Maps iOS SDK.
 * [GpxLocationManager](https://github.com/vermont42/GpxLocationManager) - GpxLocationManager is a replacement for CLLocationManager that allows the developer to use GPS data from GPX files or CLLocation arrays for testing.
+* [HHMarker](http://github.com/HilalAH/HHMarker) - using a .dae model as a marker in google maps
 * [JDSwiftHeatMap](https://github.com/jamesdouble/JDSwiftHeatMap) - JDSwiftMap is an IOS Native MapKit Library. You can easily make a highly customized HeatMap.
 * [MBMapPulseAnimation)](https://github.com/ManickB/MBMapPulseAnimation)
 * [NearBy](https://github.com/VishalNandoriya/NearBy) - iOS app to find nearby places using MapKit.
@@ -1200,6 +1205,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 ## NavigationBar
 
+* [ADNavigationBarExtension](http://github.com/applidium/ADNavigationBarExtension) - iOS UI library to show and hide an extension to your UINavigationBar.
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 * [Bartinter](https://github.com/MaximKotliar/Bartinter) - Changes your status bar depending on content behind it.
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
@@ -1945,6 +1951,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - A source of circular pictures, currently supports horizontal overlapping or separate pictures with great layout flexibility.
 * [OTResizableView](https://github.com/PKPK-Carnage/OTResizableView) - OTResizableView is a UIView library that can be resized with fingers.
 * [PartitionKit](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content. `SwiftUI`
+* [PlayIndicator](http://github.com/docterd/PlayIndicator) - Animated PlayIndicator written in SwiftUI. Inspired by Apple's Music Player. `SwiftUI`
 * [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.
 * [PVView](https://github.com/toannt/PVView) - A small library that helps you to make an amazing parallax view.
 * [Shimmer](https://github.com/facebook/Shimmer)
