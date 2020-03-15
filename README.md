@@ -324,6 +324,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Coderpursue](https://github.com/wenghengcong/Coderpursue) - Github client for iOS in Swift.
 * [compass](https://github.com/zntfdr/Compass/tree/master/compass)
 * [ConvertCurrency](https://github.com/gkye/ConvertCurrency) - An iOS app for converting currencies written in Swift3.
+* [CoronaTracker](https://github.com/MhdHejazi/CoronaTracker) - Coronavirus tracker app for iOS & macOS with maps & charts.
 * [CoronaVirusTracker](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI) - Corona Virus Tracker & Advices iOS App with SwiftUI.
 * [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) - Build a Swift App as a designer.
 * [Doro](https://github.com/codeOfRobin/doro) - Pomodoro app.
@@ -346,6 +347,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [iCopyPasta](https://github.com/alltheflow/iCopyPasta) - iOS app for your pasteboard feed, demo app for experimenting with RxSwift.
 * [Icro](https://github.com/hartlco/Icro) - Icro, a third-party micro.blog client.
 * [Image-to-Ascii-Art](https://github.com/liamrosenfeld/Image-to-Ascii-Art) - An iOS app that can turn any image into ascii art.
+* [ImageGallery](https://github.com/ashishbl86/ImageGallery) - This is an iPad only app, where you can drag in images from other apps and save them into image galleries. This app uses UIKit's UIDocument to store the image galleries as documents.
 * [insights-for-instagram](https://github.com/adimango/insights-for-instagram) - A simple iOS Instagram's media insights App written in Swift 4.
 * [ios-mail](https://github.com/ProtonMail/ios-mail)
 * [ios-spritekit-tic-tac-toe](https://github.com/jVirus/ios-spritekit-tic-tac-toe) - Class Tic Tac Toe reincarnation with AI and state machines. The app is ready-made, using Sprite and Gameplay Kits.
@@ -480,6 +482,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ConvenientImagePicker](https://github.com/CLOXnu/ConvenientImagePicker) - the new iOS image picker. Beautiful, delicate, and customizable.
 * [CSPhotoGallery](https://github.com/youkchansim/CSPhotoGallery) - This is very simple and light photo gallery.
 * [DSFacebookImagePicker](https://github.com/sanche21/DSFacebookImagePicker)
+* [DKImagePickerController](https://github.com/zhangao0086/DKImagePickerController) - Image Picker Controller for iOS.
 * [EFColorPicker](https://github.com/EFPrefix/EFColorPicker) - EFColorPicker is a lightweight color picker in Swift.
 * [FAImageCropper](https://github.com/fahidattique55/FAImageCropper) - Image Cropper like Instagram.
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature with a few line of code in Swift.
@@ -512,6 +515,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [InstaBars](https://github.com/vaibhavxyz/InstaBars) - InstaBars is a simple animation for iOS applications inspired by equaliser in instagram application.
 * [MLAudioPlayer](https://github.com/micheltlutz/MLAudioPlayer) - AudioPlayer for Swift projects.
 * [Piano](https://github.com/saoudrizwan/Piano) - Easily play combinations of sound effects and Taptic Engine vibrations on iOS.
+* [SoundFonts](https://github.com/bradhowes/SoundFonts) - Simple iOS synthesizer that uses sound fonts for sound generation.
 * [SwiftAudio](https://github.com/jorgenhenrichsen/SwiftAudio) - Audio player for iOS.
 * [SwiftySound](https://github.com/adamcichy/SwiftySound) - Swifty Sound is a simple library that lets you play sounds with a single line of code.
 * [TempiBeatDetection](https://github.com/jscalo/TempiBeatDetection) - Swift library that performs real-time or static beat detection on audio.
@@ -519,10 +523,11 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [VKMusic](https://github.com/yarodevuci/VKMusic) - VK Player.
 
 ## Augmented Reality
+*ARKit*
 
+* [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR) - Well known game Snake written in Swift using ARKit.
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) - Code examples for ARKit.
 * [Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources.
-* [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR) - Well known game Snake written in Swift using ARKit.
 * [ARCharts](https://github.com/Boris-Em/ARCharts) - Lovely Augmented Reality Charts for iOS - Built with ARKit.
 * [ARDominoes](https://github.com/kkorouei/ARDominoes) - Create paths for your Augmented Reality environments using just points to represent the centre of the path.
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
@@ -533,6 +538,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ARuler](https://github.com/duzexu/ARuler) - Mesure distance using apple ARKit.
 * [ARViewer](https://github.com/farice/ARShooter/tree/master/ARViewer)
 * [augmented-card](https://github.com/vigetlabs/augmented-card)
+* [baraba](https://github.com/nsoojin/baraba) - Make your UIScrollView scroll automatically when user is looking 👀 by tracking face using ARKit and AVFoundation.
 * [Findme](https://github.com/mmoaay/Findme) - An ARKit App that can help your friends to find you.
 * [Morse-Vision](https://github.com/acotilla91/Morse-Vision) - More Vision is a simple app that utilizes ARKit to interpret blinks as morse code which are then transcribed to text.
 * [RealityKit-CardFli](https://github.com/maxxfrazer/RealityKit-CardFlip) - An example app using Apple's new RealityKit framework.
@@ -679,6 +685,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## CollectionView
 
 * [ADMozaicCollectionViewLayout](https://github.com/Antondomashnev/ADMozaicCollectionViewLayout) - ADMozaicCollectionViewLayout is yet another UICollectionViewLayout subclass that implements "brick" or "mozaic" layout.
+* [ALBusSeatView](https://github.com/applogistdev/ALBusSeatView) - Bus Seat View Selection.
 * [AlignedCollectionViewFlowLayout](https://github.com/mischa-hildebrand/AlignedCollectionViewFlowLayout) - A collection view layout that gives you control over the horizontal and vertical alignment of the cells.
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
 * [AppleNews-CollectionView](https://github.com/mhlangagc/AppleNews-CollectionView) - An example on how to use nested Collection Views through implementing the Apple News App Collection View Layout.
@@ -686,6 +693,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - A SwiftUI collection view with support for custom layouts, preloading, and more. `SwiftUI`
 * [AZCollectionView](https://github.com/AfrozZaheer/AZCollectionViewController)
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce.
+* [CalendarHeatmap](https://github.com/Zacharysp/CalendarHeatmap) - CalendarHeatmap is a calendar based heatmap which presenting a time series of data points in colors, inspired by Github contribution chart, and written in Swift.
 * [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout) - An easy-to-use Collection View Layout for card-like animation.
 * [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - A custom View with two level chained collection views and fancy transition animation.
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another.
@@ -699,6 +707,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [cvvm](https://github.com/theswiftdev/cvvm) - Ultimate UICollectionView guide with iOS examples written in Swift.
 * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts.
 * [DragDropCollection](https://github.com/runrunrun/DragDropCollection) - Custom UICollectionView allowing cells to be dragged and dropped.
+* [Elliotable](https://github.com/della-padula/Elliotable) - Elliotable is simple library to generate Timetable of University.
 * [expandable-collection-view-kit](https://github.com/jVirus/expandable-collection-view-kit) - Expandable, hierarchical, flexible, declarative UICollectionView with diffable data sources & SwiftUI-like tree items builder.
 * [FadingEdgesCollectionView](https://github.com/alexandre-g/FadingEdgesCollectionView) - A UICollectionView that fades it's edges to hint about more content.
 * [flexiblerowheightgridlayout](https://github.com/rwbutler/flexiblerowheightgridlayout) - A UICollectionView grid layout designed to support Dynamic Type by allowing the height of each row to size to fit content.
@@ -974,6 +983,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CustomKeyboardTextField](https://github.com/giginet/CustomKeyboardTextField) - Provides easy way to make type safety TextField with custom keyboards.
 * [KBKit](https://github.com/edekhayser/KBKit) - Classes to extend UIKit navigation using key commands.
 * [KeyboardAvoidance](https://github.com/radu-costea/KeyboardAvoidance) - Keyboard avoiding kit. The minimal setup you need to make sure that your app can handle easily the appearence / dismissal of the keyboard.
+* [KeyboardGuide](https://github.com/niw/KeyboardGuide) - A modern, real iOS keyboard system notifications handler framework that Just Works.
 * [KeyboardKit](https://github.com/danielsaidi/KeyboardKit) - KeyboardKit is a Swift library for creating iOS keyboard extension apps.
 * [Keyboardy](https://github.com/podkovyrin/Keyboardy) - UIViewController extension for convenient keyboard management.
 * [KUIKeyboard](https://github.com/Kofktu/KUIKeyboard) - Keyboard Handler in iOS.
@@ -1189,6 +1199,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [InAppNotify](https://github.com/lucabecchetti/InAppNotify) - Swift library to manage in app notification in swift language, like WhatsApp, Telegram, Frind, etc.
 * [InitialsImageView](https://github.com/bachonk/InitialsImageView) - A simple UIImageView extension for using initials as a profile image, written in swift.
 * [ListPlaceholder](https://github.com/malkouz/ListPlaceholder) - ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views.
+* [mChat](https://github.com/realpaliy/mChat) - iOS - Real-time messaging app.
 * [MessageBalloon](https://github.com/caiobzen/MessageBalloon) - A message balloon animation made with CoreAnimation.
 * [MessageProgressView](https://github.com/Tueno/MessageProgressView) - Simple loading animation for Swift.
 * [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement written in Swift for the iPhone X.
@@ -1798,7 +1809,6 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [APTargets](https://github.com/collinhundley/APTargets) - Adding UIControl targets, the right way.
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [AssistantKit](https://github.com/anatoliyv/AssistantKit) - Easy way to detect device environment.
-* [AsyncOperations](https://github.com/jaredsinclair/AsyncOperations) - A toolbox of NSOperation subclasses for a variety of asynchronous programming needs.
 * [bluejay](https://github.com/steamclock/bluejay) - A simple Swift framework for building reliable Bluetooth LE apps.
 * [BonMot](https://github.com/Raizlabs/BonMot) - Beautiful, easy attributed strings for iOS.
 * [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
@@ -1863,6 +1873,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Send-It-for-Slack](https://github.com/MoralAlberto/Send-It-for-Slack) - Add Slack functionality with this Safari Extension.
 * [Serpent](https://github.com/nodes-ios/Serpent) - A protocol to serialize Swift structs and classes for encoding and decoding.
 * [SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols/) - A safe way to access Apple's SF System Symbols using static typing.
+* [Shell](https://github.com/AlwaysRightInstitute/Shell) - Module exposing Unix command line tools as Swift 5 @dynamicCallable functions.
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 * [Solid](https://github.com/igormatyushkin014/Solid) - New way to work with arrays in Swift.
@@ -1905,6 +1916,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Video
 
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - A library that displays spherical or cylindrical panoramas with touch or motion based controls.
+* [FrameGrabber](https://github.com/arthurhammer/FrameGrabber) - iOS app to extract full-resolution video frames as images.
 * [HTY360Player](https://github.com/hanton/HTY360Player) - A 360° video player for iOS.
 * [MBVideoPlayer](https://github.com/mwaqasbhati/MBVideoPlayer) - A video player on top of AVQueuePlayer with custom header, playlist items, play, pause, seek to slider, time, resize to fullscreen, forward, backward horizontal, vertical capabilities.
 * [MMPlayerView](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like youtube and facebook.
