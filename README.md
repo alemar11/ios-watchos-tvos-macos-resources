@@ -324,6 +324,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Coderpursue](https://github.com/wenghengcong/Coderpursue) - Github client for iOS in Swift.
 * [compass](https://github.com/zntfdr/Compass/tree/master/compass)
 * [ConvertCurrency](https://github.com/gkye/ConvertCurrency) - An iOS app for converting currencies written in Swift3.
+* [CoronaVirusTracker](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI) - Corona Virus Tracker & Advices iOS App with SwiftUI.
 * [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) - Build a Swift App as a designer.
 * [Doro](https://github.com/codeOfRobin/doro) - Pomodoro app.
 * [Dunk](https://github.com/naoyashiga/Dunk) - Dunk is Dribbble client.
@@ -350,6 +351,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ios-spritekit-tic-tac-toe](https://github.com/jVirus/ios-spritekit-tic-tac-toe) - Class Tic Tac Toe reincarnation with AI and state machines. The app is ready-made, using Sprite and Gameplay Kits.
 * [ladybug](https://github.com/ethanhuang13/ladybug) - Handle rdar:// links gracefully.
 * [Llitgi](https://github.com/xmollv/Llitgi) - A simple & lightweight Pocket client for iOS.
+* [lockdown-ios](https://github.com/confirmedcode/lockdown-ios) - Lockdown is an Open Source and free firewall for your iOS device.
 * [kickstarter](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 * [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) - JBWatchActivityIndicator - An easy way to generate activity indicator images for Apple Watch. ⌚️
@@ -380,6 +382,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Science Journal by Google](https://github.com/google/science-journal-ios)
 * [Sentiments](https://github.com/kyleweiner/Sentiments) - Sentiments is an iOS app written in Swift that analyzes text for positive or negative sentiment.
 * [SF-Viewer](https://github.com/aaronpearce/SF-Viewer) - SF Viewer is the best way to view, compare and export SF Symbols on your iOS device.
+* [simplenote-ios](https://github.com/Automattic/simplenote-ios) - Simplenote for iOS.
 * [sismicapp-ios](https://github.com/jbeleno/sismicapp-ios) - Sismicapp app for iOS, developed in swift using MVVM with RXSwift.
 * [siskin-im](https://github.com/tigase/siskin-im) - Public Project of Tigase Messenger for iOS devices based on Tigase Swift XMPP library.
 * [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift) - SoundCloud client written on Swift.
@@ -423,6 +426,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CoinPriceBar](https://github.com/T-Pham/CoinPriceBar) - Cryptocurrency prices on MacBook Touch Bar. `macOS`
 * [convertappicon](https://github.com/kreait/convertappicon) - Converts a pdf into multiple app icons for iOS and watchOS. `macOS`
 * [CopyPasta](https://github.com/alltheflow/CopyPasta) - Pasteboard feed Mac app. `macOS`
+* [Crescendo](https://github.com/SuprHackerSteve/Crescendo) - Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework. `macOS`
 * [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. `macOS`
 * [DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon. `macOS`
 * [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift. `macOS`
@@ -525,11 +529,13 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ARKit-SCNPath](https://github.com/maxxfrazer/ARKit-SCNPath)
 * [ARPaint](https://github.com/oabdelkarim/ARPaint) - Draw with bare fingers in the air using ARKit.
 * [ARSolar](https://github.com/emadhegab/ARSolar) - Solar System with ARKit on Swift.
+* [ARSolarPlaySwift](https://github.com/miliPolo/ARSolarPlaySwift) - Solar System on Swift & ARKit.
 * [ARuler](https://github.com/duzexu/ARuler) - Mesure distance using apple ARKit.
 * [ARViewer](https://github.com/farice/ARShooter/tree/master/ARViewer)
 * [augmented-card](https://github.com/vigetlabs/augmented-card)
 * [Findme](https://github.com/mmoaay/Findme) - An ARKit App that can help your friends to find you.
 * [Morse-Vision](https://github.com/acotilla91/Morse-Vision) - More Vision is a simple app that utilizes ARKit to interpret blinks as morse code which are then transcribed to text.
+* [RealityKit-CardFli](https://github.com/maxxfrazer/RealityKit-CardFlip) - An example app using Apple's new RealityKit framework.
 
 ## Badge
 *Notifications icons*
@@ -1047,6 +1053,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [navigationLoader](https://github.com/nickypatson/navigationLoader) - Simple Navigation Loader.
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 * [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) - A customizable SpriteKit particles animation on the border of a view.
+* [Pie-Progress-View](https://github.com/152percent/Pie-Progress-View) - A progress view – represented by a pie chart – to demonstrate how to make a Core Animation backed view/layer with support for both iOS and macOS. `macOS`
 * [ProgressButton](https://github.com/AlKhokhlov/ProgressButton) - Custom ProgressButton.
 * [ProgressKit](https://github.com/kaunteya/ProgressKit) - Progress Views for OSX. `macOS`
 * [ProgressMaskView](https://github.com/eytyet/ProgressMaskView) - Progress view which masks the entire screen.
@@ -1086,14 +1093,15 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 ## Machine Learning
 
-- [fantastic-machine-learning](https://github.com/onmyway133/fantastic-machine-learning) - A curated list of machine learning resources, preferably CoreML.
 - [Awesome Mobile Machine Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 * [Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
 * [Blog-Getting-Started-with-Vision](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision) - Blog: Getting Started with Vision on iOS 11.
 * [CoreML-samples](https://github.com/ytakzk/CoreML-samples) - Sample code for Core ML using ResNet50 provided by Apple and a custom model generated by coremltools.
-* [HelloVision](https://github.com/NilStack/HelloVision)
+* [coreml-training](https://github.com/hollance/coreml-training) - Source code for my blog post series "On-device training with Core ML".
+- [fantastic-machine-learning](https://github.com/onmyway133/fantastic-machine-learning) - A curated list of machine learning resources, preferably CoreML.
 * [FaceCropper](https://github.com/KimDarren/FaceCropper) - Crop faces, inside of your image, with iOS 11 Vision api.
 * [fritz-createml-examples](https://github.com/fritzlabs/fritz-createml-examples) - A collection of examples using Create ML to train Core ML models.
+* [HelloVision](https://github.com/NilStack/HelloVision)
 * [Lumina](https://github.com/dokun1/Lumina) - A camera designed in Swift that can use any CoreML model for object recognition, as well as streaming video, images, and qr/bar codes.
 * [MLCameraDemo](https://github.com/stringcode86/MLCameraDemo) - Demonstrates using Vision with Core ML to preprocess AVCaptureVideoDataOutput and perform image classification.
 * [pose](https://github.com/rdv0011/pose) - Estimates a human pose on an image.
@@ -1374,6 +1382,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Refresher](https://github.com/jcavar/refresher) - PullToReach is a simple drag-and-drop solution for adding pull-to-reach functionality to your app.
 * [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - Implementation of [Zee Young's Dribbble animation](https://dribbble.com/shots/2067564-Replace)
 * [TB_PeriscopePTR](https://github.com/ariok/TB_PeriscopePTR) - tutorial [here](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/)
+* [WAPullToShare](https://github.com/wendyabrantes/WAPullToShare) - Mobile Pull to share inspired from Google Chrome refresh / new tab actions.
 
 ## Rating
 
