@@ -170,6 +170,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CPAlertViewController](https://github.com/katafo/CPAlertViewController) - A way to create a custom alert view with animation.
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) - It is a highly configurable iOS library which allows easy styling with built in styles as well as extra header and footer views so that you can make extremely unique alerts and action sheets.
 * [CRNotifications](https://github.com/dkcas11/CRNotifications) - Custom in-app notifications.
+* [CustomAlertView](https://github.com/DrankoLQ/CustomAlertView) - Enhanced AlertView that extends UIViewController.
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)
 * [DCAlertController](https://github.com/noppefoxwolf/DCAlertController)
 * [DOAlertController](https://github.com/okmr-d/DOAlertController)
@@ -282,6 +283,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Morph](https://github.com/gbammc/Morph) - A wrapper for CoreAnimation (Swift).
 * [Motion Machine](https://github.com/poetmountain/MotionMachine) - A powerful, elegant, and modular animation library for Swift.
 * [MountainView](https://github.com/KyoheiG3/MountainView) - The animation curve looks like Mountain View.
+* [MovingNumbersView](https://github.com/aunnnn/MovingNumbersView) - Moving numbers effect in SwiftUI. `SwiftUI`
 * [MTPrivateTrainerAnimation](https://github.com/MartinRGB/MTPrivateTrainerAnimation)
 * [MTRipple](https://github.com/manekdilip/MTRipple) - Repository for Ripple Effect.
 * [NaughtyImageView](https://github.com/kevinzhow/NaughtyImageView) - UIImageView Can Animate Sprite Image.
@@ -325,7 +327,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [compass](https://github.com/zntfdr/Compass/tree/master/compass)
 * [ConvertCurrency](https://github.com/gkye/ConvertCurrency) - An iOS app for converting currencies written in Swift3.
 * [CoronaTracker](https://github.com/MhdHejazi/CoronaTracker) - Coronavirus tracker app for iOS & macOS with maps & charts.
-* [CoronaVirusTracker](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI) - Corona Virus Tracker & Advices iOS App with SwiftUI.
+* [CoronaVirusTracker](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI) - Corona Virus Tracker & Advices iOS App with SwiftUI. `SwiftUI`
 * [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) - Build a Swift App as a designer.
 * [Doro](https://github.com/codeOfRobin/doro) - Pomodoro app.
 * [Dunk](https://github.com/naoyashiga/Dunk) - Dunk is Dribbble client.
@@ -744,6 +746,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SquareFlowLayout](https://github.com/ChernyshenkoTaras/SquareFlowLayout) - SquareFlowLayout is another UICollectionViewLayout subclass that implements Instagram style layout.
 * [StackedCollectionView](https://github.com/oakstudios/StackedCollectionView) - Swift library to drag, drop, and stack items within a UICollectionView.
 * [StickyCollectionView](https://github.com/matbeich/StickyCollectionView) - UICollectionView layout for presenting of the overlapping cells.
+* [StickyLayout](https://github.com/jeffreysfllo24/StickyLayout) - Sticky Layout for UICollectionViews!
 * [SwiftyCollectionView](https://github.com/vinit5320/SwiftyCollectionView) - Tutorial(https://swiftyos.wordpress.com/2015/08/01/animated-wave-transition-collectionview-ckwavecollectionviewtransition/)
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - Spreadsheet CollectionViewLayout in Swift. Fully customizable.
 * [swipeable-view-stack](https://github.com/phillfarrugia/swipeable-view-stack) - A Swipeable Stack of Views similar to a popular dating app but for swiping through anything.
@@ -1168,6 +1171,8 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MaterialTapTargetPrompt](https://github.com/Abedalkareem/MaterialTapTargetPrompt-iOS) - A iOS version of Material Tap Target Prompt.
 * [MediumMenu](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app.
 * [Menu](https://github.com/TwoLivesLeft/Menu) - The iOS Menu.
+* [Menu](https://github.com/iSapozhnik/Menu) - The most customizable menu for macOS apps. `macOS`
+* [MenuController](https://github.com/anmolrajpal/MenuController) - An easy-to-use Action Menu Modal Controller inspired by iOS 13 Apple's native app implementation.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - MenuItemKit provides image and block(closure) support for UIMenuItem.
 * [MTSideMenubar](https://github.com/manekdilip/MTSideMenubar) - Side menu bar creating easily left and right side.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A fully customizable and flexible paging menu controller built from other view controllers placed inside a scroll view
@@ -1586,6 +1591,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)
 * [CustomTabBarShape](https://github.com/Monntay/CustomTabBarShape) - Draw a Custom iOS TabBar shape [tutorial](https://medium.com/@philipp307/draw-a-custom-ios-tabbar-shape-27d298a7f4fa)
 * [flashy-tabbar](https://github.com/Cuberto/flashy-tabbar) - One another nice animated tabbar.
+* [FloatingTabBar](https://github.com/10011-Studio/FloatingTabBar) - Aesthetic floating tab bar. `SwiftUI`
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar.
 * [HHTabBarView](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tabbar view.
 * [JBTabBarAnimation](https://github.com/jithinpala/JBTabBarAnimation) - A custom TabBarController animation.
@@ -1735,6 +1741,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown) - Converts Markdown files and strings into NSAttributedString.
 * [SwiftRichString](https://github.com/malcommac/SwiftRichString) - Elegant & Painless Attributed Strings Management Library in Swift.
 * [TextAttributes](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
+* [TextfieldEffects](https://github.com/sumansid/TextfieldEffects) - A comprehensive extension file for all types of textfields styling written in swift for Xcode.
 * [TvOSTextViewer](https://github.com/dcordero/TvOSTextViewer) - Light and scrollable view controller for tvOS to present blocks of text. 📺
 * [TweetTextView](https://github.com/KarlZeo/TweetTextView) - This is a custom NSTextView to heighlight username hashtag and link. `macOS`
 * [Typographizer](https://github.com/frankrausch/Typographizer) - Fix dumb quotation marks and apostrophes in Swift.
@@ -1975,6 +1982,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PlayIndicator](http://github.com/docterd/PlayIndicator) - Animated PlayIndicator written in SwiftUI. Inspired by Apple's Music Player. `SwiftUI`
 * [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.
 * [PVView](https://github.com/toannt/PVView) - A small library that helps you to make an amazing parallax view.
+* [RoundCode](https://github.com/aslanyanhaik/RoundCode) - RoundCode is a Facebook messenger like custom QR code with lots of customization.
 * [Shimmer](https://github.com/facebook/Shimmer)
 * [Shuffle](https://github.com/mac-gallagher/Shuffle) - A multi-directional card swiping library inspired by Tinder.
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) - Shake a view with a single line of code with a non-intrusive extension for UIView, with good support for accessability, written in Swift.
