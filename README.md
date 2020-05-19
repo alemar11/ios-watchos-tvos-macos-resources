@@ -213,6 +213,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Popover-label](https://github.com/eonist/Popover-label) - Popover label for iOS.
 * [PopUp](https://github.com/mhlangagc/PopUp) - A simple way to implement a Pop up from the bottom informing the user of any changes within the app or some action they need to do. It Pops up in the KeyWindow and hence over all views, tableViews or collectionViews.
 * [PopupDialog](https://github.com/Orderella/PopupDialog) - A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertControllers alert style.
+* [PopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI. `SwiftUI`
 * [RNNotificationView](https://github.com/souzainf3/RNNotificationView) - Emulates the native Notification Banner UI for any alert.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [ScrollableDisclaimerAlert](https://github.com/kubacizek/ScrollableDisclaimerAlert) - Simple lightweight DisclaimerAlertView.
@@ -306,6 +307,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Stellar](https://github.com/AugustRush/Stellar) - A fantastic Physical animation library for swift.
 * [SwiftAnimations](https://github.com/AbsolutRenal/SwiftAnimations) - Try CALayer Animations in Swift.
 * [UIViewXXYBoom](https://github.com/xxycode/UIViewXXYBoom)
+* [UIWaveView](https://github.com/onebuffer/UIWaveView) - UIWaveView for app which show battery charging progress or something else.
 * [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator is a library for building complex iOS UIView animations in an easy way. It provides one line animations for any view included the ones which contain other views like UITableView and UICollectionView with its cells or UIStackView with its arrangedSubviews.
 * [WVCheckMark](https://github.com/wvabrinskas/WVCheckMark) - Animated checkmark made with CoreAnimation.
 * [WWDC-2017-Session-230-Advance-Animations-with-UIKit](https://github.com/cgoldsby/WWDC-2017-Session-230-Advance-Animations-with-UIKit)
@@ -351,6 +353,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Image-to-Ascii-Art](https://github.com/liamrosenfeld/Image-to-Ascii-Art) - An iOS app that can turn any image into ascii art.
 * [ImageGallery](https://github.com/ashishbl86/ImageGallery) - This is an iPad only app, where you can drag in images from other apps and save them into image galleries. This app uses UIKit's UIDocument to store the image galleries as documents.
 * [insights-for-instagram](https://github.com/adimango/insights-for-instagram) - A simple iOS Instagram's media insights App written in Swift 4.
+* [Instagram_Stories](https://github.com/drawRect/Instagram_Stories) - Inspired by Instagram Stories functionality. This source is similar to Instagram Stories which is having both image and video support.
 * [ios-mail](https://github.com/ProtonMail/ios-mail)
 * [ios-spritekit-tic-tac-toe](https://github.com/jVirus/ios-spritekit-tic-tac-toe) - Class Tic Tac Toe reincarnation with AI and state machines. The app is ready-made, using Sprite and Gameplay Kits.
 * [ladybug](https://github.com/ethanhuang13/ladybug) - Handle rdar:// links gracefully.
@@ -403,6 +406,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Tweetometer](https://github.com/BalestraPatrick/Tweetometer) - An app to see who is tweeting in your timeline.
 * [typestyle](https://github.com/ebelinski/typestyle)
 * [Unwrap](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone.
+* [UrbanVillageProjectScreens](https://github.com/10011-Studio/UrbanVillageProjectScreens) - Pretty iOS mobile screens + AVPlayer video view. `SwiftUI`
 * [v2ex](https://github.com/darkerk/v2ex) - The unofficial V2EX app for iOS.
 * [VersaPlayer](https://github.com/josejuanqm/VersaPlayer) - Versatile Video Player implementation for iOS, macOS, and tvOS.
 * [VisualProgrammingLanguage](https://github.com/NathanFlurry/VisualProgrammingLanguage) - Visual programming language written in Swift that assembles to executable Swift code.
@@ -641,6 +645,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MMCardView](https://github.com/MillmanY/MMCardView) - Custom CollectionView like Wallet App.
 * [SCCardView](https://github.com/myoungsc/SCCardView) - Select Card Change View Content.
 * [ScrollingCardView](https://github.com/mozilla-mobile/ScrollingCardView) - A card view widget for iOS that will grow with its content, enabling scrolling when the content is larger than the view.
+* [SwiftUI-CardStackView)](https://github.com/dadalar/SwiftUI-CardStackView) - A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS. `SwiftUI`
 * [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
 
 ## Charts
@@ -1559,6 +1564,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MultiStepSlider](https://github.com/hsusmita/MultiStepSlider) - A custom UIControl which functions like UISlider where you can set multiple intervals with different step values for each interval.
 * [SnappingStepper](https://github.com/yannickl/SnappingStepper) - An elegant alternative to the UIStepper written in Swift.
 * [Stepperier](https://github.com/NSDavidObject/Stepperier) - Interactive snapping stepper.
+* [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications. `SwiftUI`
 * [StepSlider](https://github.com/spromicky/StepSlider)
 
 ## SwiftUI
