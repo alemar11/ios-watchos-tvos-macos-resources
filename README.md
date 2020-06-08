@@ -1611,10 +1611,12 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Parchment](http://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu.
 * [PolioPager](https://github.com/YuigaWada/PolioPager) - A flexible tabBar library with search tab like SNKRS. Written in pure swift.
 * [PTCardTabBar](https://github.com/hussc/PTCardTabBar) - Card-Style TabBarController for iOS.
+* [SabBar](https://github.com/macteo/SabBar) - Drop-in UITabBarController subclass that shows a sidebar with tabs based on trait collections.
 * [ScrollPager](https://github.com/aryaxt/ScrollPager)
 * [Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control written in Swift.
 * [SMSwipeableTabView](https://github.com/smahajan28/SMSwipeableTabView) - Swipeable Views with Tabs (Like Android SwipeView With Tabs Layout).
 * [SOTabBar](https://github.com/Ahmadalsofi/SOTabBar) - Light way to add Fancy bottom bar.
+* [SRTabBarController](https://github.com/steve228uk/SRTabBarController) - A UITabBarController clone for OS X. `macOS`
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
 * [SwiftPrefs](https://github.com/emiscience/SwiftPrefs) - A Yosemite-only demo app showing a preferences window using Swift, storyboards and NSTabViewController. `macOS`
 * [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
