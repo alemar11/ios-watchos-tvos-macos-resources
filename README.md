@@ -1762,6 +1762,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 * [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) - Animated UITextField and UITextView replacement for iOS.
 * [AutocompleteField](https://github.com/filipstefansson/AutocompleteField) - Add word completion to your UITextFields.
+* [CHIOTPField](https://github.com/ChiliLabs/CHIOTPField) - CHIOTPField is a set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
 * [DateTextField](https://github.com/BeauNouvelle/DateTextField) - A Swift UITextField subclass designed to make entering dates easier, faster and more flexible than the standard UIDatePicker.
 * [DossyTextLabel](https://github.com/joeynelson42/DossyTextLabel) - A subclass of UILabel reminiscent of Strong Bad's faithful Tandy 400.
 * [DWAnimatedLabel](https://github.com/Dywane/DWAnimatedLabel) - An UILabel subclass that lets you animate text with different types.
