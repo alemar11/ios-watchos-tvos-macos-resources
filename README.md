@@ -756,6 +756,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - Spreadsheet CollectionViewLayout in Swift. Fully customizable.
 * [swipeable-view-stack](https://github.com/phillfarrugia/swipeable-view-stack) - A Swipeable Stack of Views similar to a popular dating app but for swiping through anything.
 * [TabbedCollectionView](https://github.com/sprint84/TabbedCollectionView) - Multi-page collection view with tab categories.
+* [ugrid](https://github.com/AramSemerjyan/ugrid)
 * [UICollectionViewSlideLeft](https://github.com/antbelldev/UICollectionViewSlideLeft) - A UITableView Swipe to Delete implementation in UICollectionView.
 * [UPCarouselFlowLayout](https://github.com/ink-spot/UPCarouselFlowLayout) - A fancy carousel flow layout for UICollectionView on iOS.
 * [ZLBalancedFlowLayout](https://github.com/zhxnlai/ZLBalancedFlowLayout) - A UICollectionViewFlowLayout subclass that scales items to take up space, optimized for large item set.
@@ -771,6 +772,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 * [BCColor](https://github.com/boycechang/BCColor) - A lightweight but powerful color kit (Swift).
 * [clrex](https://github.com/ilyapuchka/clrex) - Simple script to generate UIColor factory methods from clr files.
+* [Color-Picker-for-iOS](https://github.com/hayashi311/Color-Picker-for-iOS)
 * [Colorblinds](https://github.com/jordidekock/Colorblinds) - Colorblinds is an easy to use library so simulate color blindness in your app.
 * [Colors](https://github.com/paulot/Colors) - Terminal Colors for Swift.
 * [DPTheme](https://github.com/dphans/DPTheme)
@@ -816,6 +818,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
 * [DPTimePicker](https://github.com/dariopellegrini/DPTimePicker) 
 * [EPCalendarPicker](https://github.com/ipraba/EPCalendarPicker) - Colourful calendar for iOS written in Swift.
+* [HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 * [ISTimeline](https://github.com/instant-solutions/ISTimeline) - Simple timeline view written in Swift 2.2.
 * [JBCalendarDatePicker](https://github.com/joshbirnholz/JBCalendarDatePicker) - A replacement for UIDatePicker made for Catalyst.
 * [JBDatePicker](https://github.com/Tuslareb/JBDatePicker) - A customizable calendar field in which the user can select a date.
@@ -964,6 +967,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [OnboardingKit](https://github.com/Athlee/OnboardingKit) - A simple and interactive framework for making iOS onboarding experience easy and fun.
 * [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design slider.
 * [Presentation](https://github.com/hyperoslo/Presentation) - Presentation helps you to make tutorials, release notes and animated pages.
+* [PRGTipView](https://github.com/ispiropoulos/PRGTipView) - PRGTipView is a drop-in solution for adding onboarding tips to your apps.
 * [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by Twitter splash.
 * [RMParallax](https://github.com/michaelbabiy/RMParallax) - The way to impress users on the first app launch.
 * [SoundCloudTransition](https://github.com/xxxAIRINxxx/SoundCloudTransition) - Custom interactive transition like SoundCloud iOS App.
@@ -1130,6 +1134,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Map
 *Maps and Location Managers*
 
+* [AnimatePolyline](https://github.com/goldmoment/AnimatePolyline)
 * [ARCarMovement](https://github.com/antonyraphel/ARCarMovement) - This is navigation example on google map. Here Marker move as vehicles moves with turns as uber does in their app. Using old and new coordinates animating bearing value the markers are moving. 
 * [asmaplauncher](https://www.cocoacontrols.com/controls/asmaplauncher) - ASMapLauncher is a library for iOS written in Swift that helps navigation with various mapping applications.
 * [curvyRoute](https://github.com/metrolab/curvyRoute) - Drawing curvy routes with MapKit.
@@ -1275,6 +1280,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Pager
 *viewpager*
 
+* [FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library implemented primarily with UICollectionView.
 * [HQPagerViewController](https://github.com/quangpc/HQPagerViewController) - This control combines the great menu view with a UIPageviewController that takes care of showing the right page when clicking on the menu view and updating the selection when the UIPageviewController scrolls.
 * [PBPagerViewController](https://github.com/paoloboschini/PBPagerViewController)
 * [ViewPager](https://github.com/SeptiyanAndika/ViewPager---Swift) - Simple View Pager library for Swift.
@@ -1375,6 +1381,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [KDLoadingView](https://github.com/KaiqueDamato/KDLoadingView) - A beautiful loading indicator. Written in Swift.
 * [KYCircularProgress](https://github.com/kentya6/KYCircularProgress)
 * [MHProgressButton](https://github.com/emadhegab/MHProgressButton) - See the loading progress on your UIButton.
+* [MultiProgressView](https://github.com/mac-gallagher/MultiProgressView) - MultiProgressView is an animatable view that depicts multiple progresses over time. Modeled after UIProgressView.
 * [OGCircularBar](https://github.com/OskarGroth/OGCircularBar) - Circular progress bar for macOS. `macOS`
 * [SRCountdownTimer](https://github.com/rsrbk/SRCountdownTimer) - This is the simple circle countdown with a configurable timer for iOS.
 * [tripleBar-swift](https://github.com/Ku6ep/tripleBar-swift) - Swift arc triple progress bar.
@@ -1593,6 +1600,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Animated-Tab-Bar](https://github.com/Ramotion/animated-tab-bar)
 * [AnimatedTabBar](https://github.com/AlbGarciam/AnimatedTabBar) - AnimatedTabBar is a Swift module library for adding animation to iOS tabBar items and icons.
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller for iOS written in Swift 3.0.
+* [bottombar-swiftui](https://github.com/smartvipere75/bottombar-swiftui) - BottomBar component for SwiftUI. `SwiftUI`
 * [CircleBar](http://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)
 * [CustomTabBarShape](https://github.com/Monntay/CustomTabBarShape) - Draw a Custom iOS TabBar shape [tutorial](https://medium.com/@philipp307/draw-a-custom-ios-tabbar-shape-27d298a7f4fa)
@@ -1617,6 +1625,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SMSwipeableTabView](https://github.com/smahajan28/SMSwipeableTabView) - Swipeable Views with Tabs (Like Android SwipeView With Tabs Layout).
 * [SOTabBar](https://github.com/Ahmadalsofi/SOTabBar) - Light way to add Fancy bottom bar.
 * [SRTabBarController](https://github.com/steve228uk/SRTabBarController) - A UITabBarController clone for OS X. `macOS`
+* [STTabbar](https://github.com/11Shraddha/STTabbar) - A subclass on UITabbar that provides allows you to customize a shape of UITabbar with raised center button. You can change appearance of tabbar according to your needs.
 * [SwiftPages](https://github.com/GabrielAlva/SwiftPages)
 * [SwiftPrefs](https://github.com/emiscience/SwiftPrefs) - A Yosemite-only demo app showing a preferences window using Swift, storyboards and NSTabViewController. `macOS`
 * [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
