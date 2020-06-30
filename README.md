@@ -1757,6 +1757,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - Swift extensions that make it a breeze to work with attributed strings.
 * [SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown) - Converts Markdown files and strings into NSAttributedString.
 * [SwiftRichString](https://github.com/malcommac/SwiftRichString) - Elegant & Painless Attributed Strings Management Library in Swift.
+* [TCAnimatedText](https://github.com/jboullianne/TCAnimatedText) - TCAnimatedText is a SwiftUI package that adds animations to ordinary Text views. `SwiftUI`
 * [TextAttributes](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
 * [TextfieldEffects](https://github.com/sumansid/TextfieldEffects) - A comprehensive extension file for all types of textfields styling written in swift for Xcode.
 * [TvOSTextViewer](https://github.com/dcordero/TvOSTextViewer) - Light and scrollable view controller for tvOS to present blocks of text. 📺
