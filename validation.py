@@ -24,8 +24,8 @@ for line in lines:
                 r = requests.get(source_url)
                 r.raise_for_status()
                 print ("✅", source_name)
-            except:
-                print ("❌", source_name)
+            except e:
+                print ("❌", source_name, e)
 
         elif length == 1:
             source_name = match[0]
