@@ -155,7 +155,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AlertViewController](https://github.com/stringcode86/AlertViewController) - UIAlertController subclass to show image above the alert title.
 * [AMTooltip](https://github.com/amirdew/AMTooltip) - Simple and easy library to show tooltip in iOS.
 * [App-Rating-Alert](https://github.com/pablojotaguardiola/App-Rating-Alert) - Show an alert to rate your APP.
-* [ASToast)](https://github.com/abdullahselek/ASToast) - A Swift extension for using Android style Toast notifications.
+* [ASToast](https://github.com/abdullahselek/ASToast) - A Swift extension for using Android style Toast notifications.
 * [AZDialogViewController](https://github.com/Minitour/AZDialogViewController) - A highly customizable alert dialog controller that mimics Snapchat's alert dialog.
 * [AZNotification-Swift](https://github.com/azamsharp/AZNotification-Swift)
 * [AwaitToast](https://github.com/k-lpmg/AwaitToast) - Basic toast as well as async waiting toast. Inspired by facebook posting toast.
@@ -643,7 +643,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [MMCardView](https://github.com/MillmanY/MMCardView) - Custom CollectionView like Wallet App.
 * [SCCardView](https://github.com/myoungsc/SCCardView) - Select Card Change View Content.
 * [ScrollingCardView](https://github.com/mozilla-mobile/ScrollingCardView) - A card view widget for iOS that will grow with its content, enabling scrolling when the content is larger than the view.
-* [SwiftUI-CardStackView)](https://github.com/dadalar/SwiftUI-CardStackView) - A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS. `SwiftUI`
+* [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView) - A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS. `SwiftUI`
 * [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
 
 ## Charts
@@ -872,7 +872,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 
 ## Gesture
 
-* [AASignatureView)](https://github.com/EngrAhsanAli/AASignatureView) - AASignatureView is a UIView to capture digital signature by drawing it on screen easily in iOS, written in Swift.
+* [AASignatureView](https://github.com/EngrAhsanAli/AASignatureView) - AASignatureView is a UIView to capture digital signature by drawing it on screen easily in iOS, written in Swift.
 * [CTSlidingUpPanel](https://github.com/hoomazoid/CTSlidingUpPanel) - Transforms any view to sliding panel.
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool [Swift / iOS].
 * [Drawsana](https://github.com/Asana/Drawsana) - An open source library that lets your users draw on things - mark up images with text, shapes, etc.
@@ -1139,7 +1139,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [GpxLocationManager](https://github.com/vermont42/GpxLocationManager) - GpxLocationManager is a replacement for CLLocationManager that allows the developer to use GPS data from GPX files or CLLocation arrays for testing.
 * [HHMarker](http://github.com/HilalAH/HHMarker) - using a .dae model as a marker in google maps
 * [JDSwiftHeatMap](https://github.com/jamesdouble/JDSwiftHeatMap) - JDSwiftMap is an IOS Native MapKit Library. You can easily make a highly customized HeatMap.
-* [MBMapPulseAnimation)](https://github.com/ManickB/MBMapPulseAnimation)
+* [MBMapPulseAnimation](https://github.com/ManickB/MBMapPulseAnimation)
 * [NearBy](https://github.com/VishalNandoriya/NearBy) - iOS app to find nearby places using MapKit.
 * [PRGLocationSearchBar](https://github.com/ispiropoulos/PRGLocationSearchBar) - Control used to show a search bar which can fetch your location as well as geocode a search string.
 * [SnapLocation](https://github.com/ziligy/SnapLocation) - Swift micro-app that snaps your current location and writes it to pasteboard, it also optionally saves a map image in photos.
@@ -1150,7 +1150,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 
 * [AirBar](https://github.com/uptechteam/AirBar) - UIScrollView driven expandable menu.
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title.
-* [circle-menu)](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant menu with a circular layout.
+* [circle-menu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant menu with a circular layout.
 * [ContextMenu](https://github.com/GitHawkApp/ContextMenu) - An iOS context menu UI inspired by Things 3.
 * [DPEdgeMenu-Swift](https://github.com/HongliYu/DPEdgeMenu-Swift) - Simple menu appear from four directions of screen edge.
 * [DropDown](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS.
@@ -1306,7 +1306,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [PresentationControllerBlog](https://github.com/kylebshr/PresentationControllerBlog)
 * [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI.
 * [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
-* [shortcuts-drawer-view)](https://github.com/phillfarrugia/shortcuts-drawer-view) - An experimental re-creation of Siri Shortcut's Drawer View component.
+* [shortcuts-drawer-view](https://github.com/phillfarrugia/shortcuts-drawer-view) - An experimental re-creation of Siri Shortcut's Drawer View component.
 * [SOPullUpView](https://github.com/Ahmadalsofi/SOPullUpView) - SOPullUpView library for iOS, with pull up gesture.
 * [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
 * [TopDrawer](http://github.com/JUSTINMKAUFMAN/TopDrawer) - A top drawer that can be pulled up/down over the screen.
@@ -1507,7 +1507,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [CircularSlider](https://github.com/taglia3/CircularSlider) - A powerful Circular Slider. It's written in Swift, it's 100% IBDesignable and all parameters are IBInspectable.
 * [GradientSlider](https://github.com/jonhull/GradientSlider)
 * [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
-* [iOS-Tactile-Slider)](https://github.com/daprice/iOS-Tactile-Slider) - UIControl slider that can be dragged from any point within its bounds, similar to those in Control Center and Home.app.
+* [iOS-Tactile-Slide](https://github.com/daprice/iOS-Tactile-Slider) - UIControl slider that can be dragged from any point within its bounds, similar to those in Control Center and Home.app.
 * [JCGGColorSlider](https://github.com/jacquesCedric/JCGGColorSlider) - Colorful NSSlider subclass. `macOS`
 * [MBDoubleSliderExample](https://github.com/c-Viorel/MBDoubleSliderExample) - CustomDoubleSlider for macOs written in swift 3.0.
 * [MTSlideToOpen-SwiftUI](https://github.com/lemanhtien/MTSlideToOpen-SwiftUI) - A simple SlideToUnlock iOS UI component written in SwiftUI. `SwiftUI`
