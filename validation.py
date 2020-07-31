@@ -19,17 +19,16 @@ for line in lines:
         if length == 2:
             source_name = match[0]
             source_url = match[1]
-            # try catch, no retries
             try:
                 r = requests.get(source_url)
                 r.raise_for_status()
-                print ("✅", source_name)
+                print ("✅ {}".format(source_name))
             except e:
-                print ("❌", source_name, e)
+                print ("❌ {} - {}".format(source_name, e))
 
         elif length == 1:
             source_name = match[0]
-            print ("❌", source_name)
+            print ("❌ {} - Malformed markdown link.".format(source_name))
         else:
-            print ("❌", line)
+            print ("❌ {}".format(line))
 print("Done.")            
