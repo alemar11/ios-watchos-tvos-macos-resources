@@ -365,6 +365,8 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [kickstarter App](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 * [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 * [Minamo](https://github.com/yukiasai/Minamo) - Simple coach mark library written in Swift.
+* [MiniMusicWidget](https://github.com/Zandew/MiniMusicWidget) - 
+A Spotify music player and temporary playlist builder. Uses Spotify Web API to search for songs and AppleScript to send commands to the Spotify App. `macOS`
 * [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - MovieSwiftUI is an application that uses the MovieDB API and is built with SwiftUI. It demos some SwiftUI (& Combine) concepts. `SwiftUI`
 * [NewsApp](https://github.com/PowerMobileWeb/NewsApp)
 * [NKWatchActivityIndicator](https://github.com/NilStack/NKWatchActivityIndicator) - An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2. ⌚️
@@ -490,6 +492,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DSFacebookImagePicker](https://github.com/sanche21/DSFacebookImagePicker)
 * [DKImagePickerController](https://github.com/zhangao0086/DKImagePickerController) - Image Picker Controller for iOS.
 * [EFColorPicker](https://github.com/EFPrefix/EFColorPicker) - EFColorPicker is a lightweight color picker in Swift.
+* [EmojiPickerUI](https://github.com/insidegui/EmojiPickerUI) - A framework implementing a macOS-style emoji picker for iPadOS.
 * [FAImageCropper](https://github.com/fahidattique55/FAImageCropper) - Image Cropper like Instagram.
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature with a few line of code in Swift.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
@@ -667,6 +670,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ILG](https://github.com/joeynelson42/ILG)
 * [ios-charts](https://github.com/danielgindi/ios-charts) - Beautiful charts for iOS/tvOS/OSX.
 * [LineChart](https://github.com/nhatminh12369/LineChart)
+* [OMScrollableChart](https://github.com/jaouahbi/OMScrollableChart) - An adaptive scrollable chart for iOS to visualise simple discrete datasets.
 * [PieCharts](https://github.com/i-schuetz/PieCharts) - Easy to use and highly customizable pie charts library for iOS.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)
 * [RadarChartView](https://github.com/furuyan/RadarChartView) - RadarChart for iOS.
@@ -791,7 +795,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [UIImageColors](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
 
 ## Control
-*UIControls*
+*UIControls, SwiftUI components*
 
 * [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter.
 * [AGVolumeControlView](https://github.com/agilie/AGVolumeControlView) - Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic.
@@ -800,6 +804,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [CrownControl](https://github.com/huri000/CrownControl) - CrownControl is a tiny accessory that makes scrolling through scrollable content possible without lifting your thumb.
 * [padcontrol](https://github.com/gabrieloc/padcontrol) - A UIControl subclass for two-dimension directional input.
 * [RulerControl](https://github.com/philmitchell/RulerControl) - RulerControl is a draggable, resizable UIControl that provides real world length measurement.
+* [SlidingRuler](https://github.com/Pyroh/SlidingRuler) - SlidingRuler is a Swift package containing a SwiftUI control that acts like an linear infinite slider or a finite. `SwiftUI`
 * [SpinWheelControl](https://github.com/joshdhenry/SpinWheelControl) - An inertial spinning wheel UI control that allows selection of an item. Cocoapod written in Swift.
 * [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - Replace the system volume popup with a more subtle indicator.
 * [VolumeControlView](https://github.com/agilie/VolumeControlView) - Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic much easier.
@@ -817,6 +822,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DateScrollPicker](https://github.com/alberdev/DateScrollPicker) - Fully customizable date scroll view with picker feature for iOS written in Swift 5.
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
 * [DPTimePicker](https://github.com/dariopellegrini/DPTimePicker) 
+* [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - ElegantCalendar is an efficient and customizable full screen calendar written in SwiftUI.
 * [EPCalendarPicker](https://github.com/ipraba/EPCalendarPicker) - Colourful calendar for iOS written in Swift.
 * [HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 * [ISTimeline](https://github.com/instant-solutions/ISTimeline) - Simple timeline view written in Swift 2.2.
@@ -993,6 +999,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Keyboard
 
 * [CustomKeyboardTextField](https://github.com/giginet/CustomKeyboardTextField) - Provides easy way to make type safety TextField with custom keyboards.
+* [HexadecimalKeyboard](https://github.com/PepperoniJoe/HexadecimalKeyboard) - A native iOS app creating a custom hexadecimal keyboard.
 * [KBKit](https://github.com/edekhayser/KBKit) - Classes to extend UIKit navigation using key commands.
 * [KeyboardAvoidance](https://github.com/radu-costea/KeyboardAvoidance) - Keyboard avoiding kit. The minimal setup you need to make sure that your app can handle easily the appearence / dismissal of the keyboard.
 * [KeyboardGuide](https://github.com/niw/KeyboardGuide) - A modern, real iOS keyboard system notifications handler framework that Just Works.
@@ -1056,6 +1063,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [FillableLoaders](https://github.com/polqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom CGPaths written in Swift.
 * [FliudLoadingIndicator](https://github.com/vinit5320/FliudLoadingIndicator)
 * [Fluky](https://github.com/pedrommcarrasco/Fluky) - Loading based on random icons.
+* [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - A customizable animated gradient loading bar.
 * [HexLoader](https://github.com/Kesava-Jawaharlal/HexLoader) - This is a open source library which shows a hexagon shaped loading indictor, developed CAShapeLayer and CABasicAnimation.
 * [InstagramActivityIndicator](https://github.com/jmmanos/InstagramActivityIndicator) - Activity Indicator similar to Instagram's.
 * [ITActivityIndicator](https://github.com/iluuu1994/ITActivityIndicator) - A very simple alternative to UIActivityIndicatorView.
@@ -1692,6 +1700,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - Expanding table view cells using `UIStackView in iOS 9.
 * [EVSlidingTableViewCell](https://github.com/epv44/EVSlidingTableViewCell) - Custom UITableViewCell that can be swiped either way to reveal a "drawer" with between 1 and 4 customizable action buttons. These action buttons fade and grow into view as the drawer is swiped. This cell works on all orientations and all devices.
 * [folding-cell](https://github.com/Ramotion/folding-cell)
+* [GodAnimation](https://github.com/daoinek/GodAnimation) - Simple animation for your views and cells.
 * [MCMHeaderAnimated](https://github.com/mathcarignani/MCMHeaderAnimated) - Animation between list and detail views.
 * [PickerController](https://github.com/xiongxiong/PickerController) - Easy to use UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 * [RHPreviewCell](https://github.com/robertherdzik/RHPreviewCell) - Use long press on cell to trigger action I envied so much Spotify iOS app this great playlist preview cell, I decided to create my own ones. Now you can give your users ability to quick check "what content is hidden under your UITableViewCell". Great think is that this Library not requires 3D Touch support from user device.
@@ -1942,6 +1951,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Video
 
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - A library that displays spherical or cylindrical panoramas with touch or motion based controls.
+* [FloatingPlayer](https://github.com/engmahsa/FloatingPlayer) - A Swift floating player like YouTube player, using AVPlayer.
 * [FrameGrabber](https://github.com/arthurhammer/FrameGrabber) - iOS app to extract full-resolution video frames as images.
 * [HTY360Player](https://github.com/hanton/HTY360Player) - A 360° video player for iOS.
 * [MBVideoPlayer](https://github.com/mwaqasbhati/MBVideoPlayer) - A video player on top of AVQueuePlayer with custom header, playlist items, play, pause, seek to slider, time, resize to fullscreen, forward, backward horizontal, vertical capabilities.
