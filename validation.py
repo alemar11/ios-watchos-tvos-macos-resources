@@ -23,7 +23,7 @@ for line in lines:
                 r = requests.get(source_url)
                 r.raise_for_status()
                 print ("✅ {}".format(source_name))
-            except e:
+            except Exception as e:
                 print ("❌ {} - {}".format(source_name, e))
 
         elif length == 1:
