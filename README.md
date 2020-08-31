@@ -490,6 +490,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [EFColorPicker](https://github.com/EFPrefix/EFColorPicker) - EFColorPicker is a lightweight color picker in Swift.
 * [EmojiPickerUI](https://github.com/insidegui/EmojiPickerUI) - A framework implementing a macOS-style emoji picker for iPadOS.
 * [FAImageCropper](https://github.com/fahidattique55/FAImageCropper) - Image Cropper like Instagram.
+* [FMPhotoPicker](https://github.com/congnd/FMPhotoPicker) - FMPhotoPicker is a modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature with a few line of code in Swift.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
 * [ImageViewer.swift](https://github.com/michaelhenry/ImageViewer.swift) - An easy to use Image Viewer that is inspired by Facebook.
@@ -1802,7 +1803,9 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 ## Timer
 
 * [10Clock](https://github.com/joedaniels29/10Clock) - This Control is a beautiful time-of-day picker heavily inspired by the iOS 10 "Bedtime" timer.
+* [Countdown](https://github.com/leonardobilia/Countdown) - The Countdown timer app allows you to start, pause, reset and set up optional alarm sounds as you wish. `SwiftUI`
 * [SnapTimer](https://github.com/andresinaka/SnapTimer) - Implementation of Snapchat's stories timer.
+* [SwiftClockUI](https://github.com/renaudjenny/SwiftClockUI) - Clock UI for SwiftUI. `SwiftUI`
 * [TimeZonePicker](https://github.com/gligorkot/TimeZonePicker) - A TimeZonePicker UIViewController similar to the iOS Settings app. Search and select from a range of cities and countries to find your most suitable time zone.
 
 ## ToolBar
@@ -1996,7 +1999,9 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [SlidingNumberView](https://github.com/bupstan/SlidingNumberView) - A custom view for animating though initial number and final number with sliding animation.
 * [Smile-Lock](https://github.com/liu044100/Smile-Lock) - A library for make a beautiful Passcode Lock View.
 * [SSHoneyCombView](https://github.com/SamehSalama/SSHoneyCombView) - A honey comb View that looks like a collection view with hexagon shaped items.
+* [Stripes](https://github.com/eneko/Stripes) - Beautiful background pattern views for SwiftUI. `SwiftUI`
 * [SwiftTickerView](https://github.com/EMart86/SwiftTickerView) - A news ticker view written entirely in swift.
+* [swiftui-image-viewer](https://github.com/Jake-Short/swiftui-image-viewer) - An image viewer built using SwiftUI. Featuring drag to dismiss, pinch to zoom, remote and local images, and more. `SwiftUI`
 * [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full 
 * [Translucid](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background. Written in swift.
 * [Triangulation](https://github.com/younatics/Triangulation) - Triangulation effect in iOS.
