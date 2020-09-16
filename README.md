@@ -710,6 +710,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [CollectionViewPagingLayout](https://github.com/amirdew/CollectionViewPagingLayout) - Simple layout for make paging with UICollectionView.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - Reimagining UICollectionView.
+* [Compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit) - A set of advanced compositional layouts for UICollectionView with examples.
 * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts.
 * [DragDropCollection](https://github.com/runrunrun/DragDropCollection) - Custom UICollectionView allowing cells to be dragged and dropped.
 * [Elliotable](https://github.com/della-padula/Elliotable) - Elliotable is simple library to generate Timetable of University.
