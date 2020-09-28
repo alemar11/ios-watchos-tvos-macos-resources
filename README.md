@@ -721,6 +721,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [gliding-collection](https://github.com/Ramotion/gliding-collection) - Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller.
 * [GooglePlayTransition](https://github.com/xxxAIRINxxx/GooglePlayTransition) - Custom transition like Google Play Store Android App. written in Swift.
 * [Hanabi](https://github.com/kshin/Hanabi) - UICollectionViewLayout subclass with a focus on UICollectionViewCell content.
+* [HorizontalStickyHeaderLayout](https://github.com/toshi0383/HorizontalStickyHeaderLayout) - Horizontal UICollectionViewLayout with Sticky HeaderView.
 * [IBPCollectionViewCompositionalLayout](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout) - Backport of UICollectionViewCompositionalLayout to earlier iOS 12.
 * [FlowLayout](https://github.com/avdyushin/FlowLayout) - UICollectionViewFlowLayout with alignment modes.
 * [FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library implemented primarily with UICollectionView. It is extremely helpful for making Banner, Product Show, Welcome/Guide Pages, Screen/ViewController Sliders.
@@ -801,6 +802,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [SlidingRuler](https://github.com/Pyroh/SlidingRuler) - SlidingRuler is a Swift package containing a SwiftUI control that acts like an linear infinite slider or a finite. `SwiftUI`
 * [SpinWheelControl](https://github.com/joshdhenry/SpinWheelControl) - An inertial spinning wheel UI control that allows selection of an item. Cocoapod written in Swift.
 * [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - Replace the system volume popup with a more subtle indicator.
+* [Wheel-Controller](https://github.com/saurabhsindhu/Wheel-Controller) - Wheel-Controller with a hole.
 * [VolumeControlView](https://github.com/agilie/VolumeControlView) - Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic much easier.
 
 ## Date
