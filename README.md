@@ -313,6 +313,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## App
 *Apps and tutorials*
 
+* [AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS) - The most advanced Safari content blocker and privacy keeper for iOS.
 * [AppStoreLikeExampleSwift3](https://github.com/IosPower/AppStoreLikeExampleSwift3) - Using CollectionView, UITableView, ScrollView, Such As AppStore.
 * [AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne) - AudioKit Synth One: Open-Source iOS Synthesizer App.
 * [bank-wallet-ios](https://github.com/horizontalsystems/bank-wallet-ios) - A secure and fully decentralized crypto currency wallet app for iOS users. This wallet uses SPV protocol.
