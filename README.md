@@ -112,6 +112,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [Utils](#utils)
 - [Video](#video)
 - [View](#view)
+- [View (SwiftUI)](#view-swiftui)
 - [ViewController](#viewcontroller)
 - [ViewController Transition](#viewcontroller-transition)
 - [WatchFace](#watchface)
@@ -1989,8 +1990,6 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [NightView](https://github.com/Boris-Em/NightView) - Dazzling Nights on iOS.
 * [OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - A source of circular pictures, currently supports horizontal overlapping or separate pictures with great layout flexibility.
 * [OTResizableView](https://github.com/PKPK-Carnage/OTResizableView) - OTResizableView is a UIView library that can be resized with fingers.
-* [PartitionKit](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content. `SwiftUI`
-* [PlayIndicator](http://github.com/docterd/PlayIndicator) - Animated PlayIndicator written in SwiftUI. Inspired by Apple's Music Player. `SwiftUI`
 * [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.
 * [PVView](https://github.com/toannt/PVView) - A small library that helps you to make an amazing parallax view.
 * [RoundCode](https://github.com/aslanyanhaik/RoundCode) - RoundCode is a Facebook messenger like custom QR code with lots of customization.
@@ -2003,9 +2002,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [SlidingNumberView](https://github.com/bupstan/SlidingNumberView) - A custom view for animating though initial number and final number with sliding animation.
 * [Smile-Lock](https://github.com/liu044100/Smile-Lock) - A library for make a beautiful Passcode Lock View.
 * [SSHoneyCombView](https://github.com/SamehSalama/SSHoneyCombView) - A honey comb View that looks like a collection view with hexagon shaped items.
-* [Stripes](https://github.com/eneko/Stripes) - Beautiful background pattern views for SwiftUI. `SwiftUI`
 * [SwiftTickerView](https://github.com/EMart86/SwiftTickerView) - A news ticker view written entirely in swift.
-* [swiftui-image-viewer](https://github.com/Jake-Short/swiftui-image-viewer) - An image viewer built using SwiftUI. Featuring drag to dismiss, pinch to zoom, remote and local images, and more. `SwiftUI`
 * [TB_CustomUIElement](https://github.com/ariok/TB_CustomUIElement) - Implementing custom UI elements with IBDesignable. Enjoy the full 
 * [Translucid](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background. Written in swift.
 * [Triangulation](https://github.com/younatics/Triangulation) - Triangulation effect in iOS.
@@ -2025,6 +2022,14 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [WOWRibbonView](https://github.com/zhouhao27/WOWRibbonView) - Ribbon view for iOS in Swift 3.
 * [Workaholic](https://github.com/hemangshah/Workaholic) - A Github's like work contribution timeline.
 * [YGPulseView](https://github.com/YGeorge/YGPulseView) - Pulsing animation for UIView.
+
+## View SwiftUI
+
+* [DropPin](https://github.com/dchakarov/DropPin)
+* [PartitionKit](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content. `SwiftUI`
+* [PlayIndicator](http://github.com/docterd/PlayIndicator) - Animated PlayIndicator written in SwiftUI. Inspired by Apple's Music Player. `SwiftUI`
+* [Stripes](https://github.com/eneko/Stripes) - Beautiful background pattern views for SwiftUI. `SwiftUI`
+* [swiftui-image-viewer](https://github.com/Jake-Short/swiftui-image-viewer) - An image viewer built using SwiftUI. Featuring drag to dismiss, pinch to zoom, remote and local images, and more. `SwiftUI`
 
 ## ViewController
 
