@@ -2028,7 +2028,9 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [DropPin](https://github.com/dchakarov/DropPin)
 * [PartitionKit](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content. `SwiftUI`
 * [PlayIndicator](http://github.com/docterd/PlayIndicator) - Animated PlayIndicator written in SwiftUI. Inspired by Apple's Music Player. `SwiftUI`
+* [shiny](https://github.com/maustinstar/shiny) - Add motion-based texture to your SwiftUI views. `SwiftUI`
 * [Stripes](https://github.com/eneko/Stripes) - Beautiful background pattern views for SwiftUI. `SwiftUI`
+* [swiftui-drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize. `SwiftUI`
 * [swiftui-image-viewer](https://github.com/Jake-Short/swiftui-image-viewer) - An image viewer built using SwiftUI. Featuring drag to dismiss, pinch to zoom, remote and local images, and more. `SwiftUI`
 
 ## ViewController
