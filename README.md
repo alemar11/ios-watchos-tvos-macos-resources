@@ -435,6 +435,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [CoinPriceBar](https://github.com/T-Pham/CoinPriceBar) - Cryptocurrency prices on MacBook Touch Bar. `macOS`
 * [convertappicon](https://github.com/kreait/convertappicon) - Converts a pdf into multiple app icons for iOS and watchOS. `macOS`
 * [CopyPasta](https://github.com/alltheflow/CopyPasta) - Pasteboard feed Mac app. `macOS`
+* [CotEditor](https://github.com/coteditor/CotEditor) - CotEditor is a lightweight plain-text editor for macOS. `macOS`
 * [Crescendo](https://github.com/SuprHackerSteve/Crescendo) - Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework. `macOS`
 * [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. `macOS`
 * [DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon. `macOS`
