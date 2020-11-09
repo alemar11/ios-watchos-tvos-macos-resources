@@ -1702,6 +1702,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 ## Tag
 *tags and tokens*
 
+* [ARSelectableView](https://github.com/MakwanaRohit/ARSelectableView) - Provide selection type radio, checkbox and tag.
 * [automatic-height-tagcells](https://github.com/weijentu/automatic-height-tagcells) - This is a sample project to implement features with dynamic height of UITableViewCell based on autolayout, tags aligned automatically and clickable tags.
 * [DPColorfulTags](https://github.com/HongliYu/DPColorfulTags-Swift) - tags with different colors.
 * [GravityTagCloudView](https://github.com/billypchan/GravityTagCloudView) - A tag cloud view with gravity.
