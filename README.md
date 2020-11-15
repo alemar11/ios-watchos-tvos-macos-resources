@@ -187,6 +187,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Hermes](https://github.com/Imgur/Hermes)
 * [HJToast](https://github.com/himanshujoshi47/HJToast) - Toast messages for iOS.
 * [HYAlertController](https://github.com/castial/HYAlertController) - A Simple And Minimalist iOS AlertController.
+* [ImagePickerTrayController](https://github.com/lbrndnr/ImagePickerTrayController) - ImagePickerTrayController is a component that replicates the custom photo action sheet in iMessage.
 * [iOSNotificationBanner](https://github.com/loconsolutions/iOSNotificationBanner)
 * [iPopUp](https://github.com/BlueWonders/iPopUp) - iPopUp uses custom view, not UIPopover or AlertView. UIView contains a tableview. The project is simple, clean and easy to implement.
 * [JHTAlertController](https://github.com/jjessel/JHTAlertController) - A custom iOS alert that replaces the stock UIAlertController. Easily style the alert to match your app. Written in Swift for iOS.
@@ -245,6 +246,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## Animation
 
 * [15 Days of Animations in Swift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - A project to learn animations.
+* [AppleONE](https://github.com/darioGzlez/AppleONE) - SwiftUI recreation of Apple One enrolling view, adding a extra animation for the services icons. `SwiftUI`
 * [AAViewAnimator](https://github.com/EngrAhsanAli/AAViewAnimator) - AAViewAnimator is a set of animations designed for UIView, UIButton, UIImageView with options in iOS, written in Swift.
 * [Advance](https://github.com/storehouse/Advance) - A powerful animation framework for iOS.
 * [Anima](https://github.com/satoshin21/Anima#)
@@ -317,6 +319,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 ## App
 *Apps and tutorials*
 
+* [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI) - The best Animal Crossing New Horizons companion app! `SwiftUI`
 * [AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS) - The most advanced Safari content blocker and privacy keeper for iOS.
 * [AKAudioOverlap](https://github.com/piyushghoghari08/AKAudioOverlap) - AKAudioOverlap is audio recording, convert audio to wavefoem, overlap two audio and export/ save into local device.
 * [AppStoreLikeExampleSwift3](https://github.com/IosPower/AppStoreLikeExampleSwift3) - Using CollectionView, UITableView, ScrollView, Such As AppStore.
@@ -1213,6 +1216,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [BubblePictures](https://github.com/kbelter/BubblePictures) - Framework for iOS to show Bubble like pictures.
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
 * [chatheads](https://github.com/rajatgupta26/fk-ios-chatheads) - Library to use chat heads within your iOS app with complete physics and animations which drive multi user chat behaviour to support collapsed/stacked or expanded states.
+* [FalconMessenger](https://github.com/RMizin/FalconMessenger)
 * [FBChatClone](https://github.com/VamshiIITBHU14/FBChatClone) - This project is a clone of FB Messenger. 
 * [FirebaseChat](https://github.com/sohamb1390/FirebaseChat) - A simple anonymous group chat application using Firebase.
 * [ForceBlur](https://github.com/Yalantis/ForceBlur) - ForceBlur Animation for iOS Messaging Apps.
@@ -1239,6 +1243,8 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 ## Metal
 
 * [fireworks](https://github.com/kjpgit/fireworks) - Fireworks Graphics Demo (OSX/Metal/Swift). `macOS`
+* [MaLiang](https://github.com/Harley-xk/MaLiang) - MaLiang is a painting framework based on Metal.
+* [Metal2DScrollable](https://github.com/codelynx/Metal2DScrollable)
 * [Metalbrot](https://github.com/jtbandes/Metalbrot.playground) - An interactive playground showing how to use Metal compute kernels.
 * [MetalFilters](https://github.com/alexiscn/MetalFilters) - Instagram filters implemented in Metal.
 * [MetalScope](https://github.com/ejeinc/MetalScope) - Metal-backed 360° panorama view for iOS.
@@ -1858,6 +1864,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [CubicEquationSolver](https://github.com/dnpp73/CubicEquationSolver) - Cubic Equation Solver written in Swift for iOS, macOS.
 * [DAFileMonitor](https://github.com/dagostini/DAFileMonitor) - A simple wrapper around dispatch sources.
 * [DCDirectoryWatcher](https://github.com/dcvz/DCDirectoryWatcher) - A lightweight class for monitoring directory changes on iOS.
+* [Decomposed](https://github.com/b3ll/Decomposed) - Decomposed makes CATransform3D, matrix_double4x4, and matrix_float4x4 much easier to work with.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Diamond](https://github.com/johnno1962/Diamond) - Swift scripting made easy.
 * [DifferenceKit](https://github.com/ra1028/DifferenceKit) - A fast and flexible O(n) difference algorithm framework for Swift collection.
@@ -2004,6 +2011,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [NightView](https://github.com/Boris-Em/NightView) - Dazzling Nights on iOS.
 * [OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - A source of circular pictures, currently supports horizontal overlapping or separate pictures with great layout flexibility.
 * [OTResizableView](https://github.com/PKPK-Carnage/OTResizableView) - OTResizableView is a UIView library that can be resized with fingers.
+* [PIPWKit](https://github.com/nexor-it/PIPWKit) - Picture in Picture Window for iOS.
 * [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.
 * [PVView](https://github.com/toannt/PVView) - A small library that helps you to make an amazing parallax view.
 * [RoundCode](https://github.com/aslanyanhaik/RoundCode) - RoundCode is a Facebook messenger like custom QR code with lots of customization.
@@ -2107,6 +2115,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [RetroTransition](https://github.com/wcgray/RetroTransition) - Fun implementations of UIViewControllerAnimatedTransitioning for 90s inspired transitions between view controllers.
 * [SamuraiTransition](https://github.com/hachinobu/SamuraiTransition) - a ViewController transition framework in Swift.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)
+* [SpotifyPlayer](https://github.com/sgl0v/SpotifyPlayer) - This is the demo project of the article written in my blog. It shows how to create interactive animations using UIViewPropertyAnimator.
 * [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Modal controller as in mail or Apple music application.
 * [StatefulViewController](https://github.com/aschuch/StatefulViewController) - Placeholder views based on content, loading, error or empty states.
 * [SwiftPagingNav](https://github.com/aubrey/SwiftPagingNav) - A Twitter-like navigation bar and page viewer written in Swift.
