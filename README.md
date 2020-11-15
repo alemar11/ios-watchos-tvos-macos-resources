@@ -407,7 +407,9 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [SwiftHN](https://github.com/Dimillian/SwiftHN) - A Hacker News reader in Swift.
 * [Swiflytics](https://github.com/aciidb0mb3r/Swiflytics) - Live Google Analytics.
 * [terminal](https://github.com/louisdh/terminal) - A sandboxed command line interface for iOS.
+* [Tiktok-Clone](https://github.com/dks333/Tiktok-Clone) - iOS Tiktok Clone built with Swift.
 * [TodayMind](https://github.com/cyanzhong/TodayMind) - Make Reminder Great Again.
+* [TriangleDraw](https://github.com/triangledraw/TriangleDraw-iOS) - TriangleDraw is brilliant for sketching logos. You can quickly create designs that can be used for branding on letterheads or on your website.
 * [Tropos](https://github.com/thoughtbot/Tropos) - Weather and Forecasts for Humans.
 * [TSWeChat](https://github.com/hilen/TSWeChat) - A WeChat alternative. Written in Swift.
 * [TVVLCPlayer](https://github.com/kodlian/TVVLCPlayer) - TVVLCPlayer lets you integrate easily a powerfull video player with playback control views to your tvOS apps. 📺
@@ -911,6 +913,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Signature-Capture](https://github.com/vigneshuvi/iOS-Signature-Capture) - iOS-Signature-Capture is helps to capture the user signature with name and signed date in iOS and supports both Objective-c and Swift languages.
 * [SRScratchView](https://github.com/shamshiranees/SRScratchView) - A mask imageView class which can be used a scratchView.
 * [Standard-Template-Protocols](https://github.com/cconeil/Standard-Template-Protocols) - Protocols for your every day iOS needs.
+* [SwiftUIDrag](SwiftUIDrag) - A simple, customizable, and intuitive wrapper-view enabling dragging, floating, and/or collapsing for its content. Written entirely in SwiftUI, SwiftUIDrag is inspired by iOS 14's Picture-in-Picture feature (PIP). `SwiftUI`
 * [Tactile](https://github.com/delba/Tactile) - The Swift way to add UIGestureRecognizer and to react to UIControlEvents.
 * [TouchesWindow](https://github.com/dmoroz0v/TouchesWindow) - Show touch and force-touch indicators for your iOS app. Have swift and obj-c versions.
 * [VMSignatureView](https://github.com/VaibhavMisra/VMSignatureView) - A custom view to capture signature from user.
@@ -1233,6 +1236,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces on iOS.
 * [MMTextureChat](https://github.com/mukyasa/MMTextureChat) AsyncDisplayKit(Texture) Smooth Scroll Chat Simulation.
 * [NMessenger](https://github.com/eBay/NMessenger) - A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift.
+* [nio](https://github.com/niochat/nio) - Nio is an upcoming Matrix client for iOS.
 * [Quick-Chat](https://github.com/aslanyanhaik/Quick-Chat) - Real time chat app written in Swift 3 using Firebase.
 * [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension) - UITableView extension that enabled to insert cell from bottom of tableView.
 * [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.iOS) - Rocket.Chat Native iOS Application.
@@ -1247,6 +1251,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Metal2DScrollable](https://github.com/codelynx/Metal2DScrollable)
 * [Metalbrot](https://github.com/jtbandes/Metalbrot.playground) - An interactive playground showing how to use Metal compute kernels.
 * [MetalFilters](https://github.com/alexiscn/MetalFilters) - Instagram filters implemented in Metal.
+* [MetalPinch](https://github.com/TylerWhiteDesign/MetalPinch) - A demo on how to use UIGestureRecognizers to pan and zoom in Metal.
 * [MetalScope](https://github.com/ejeinc/MetalScope) - Metal-backed 360° panorama view for iOS.
 
 ## NavigationBar
@@ -1688,6 +1693,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of UITableView can be rearranged by drag and drop.
 * [TableView-PullToRefresh](https://github.com/vinit5320/TableView---PullToRefresh)
 * [TanibleView](https://github.com/dokgi88/TanibleView)Veeeeeeeeeeeeeeeery easy to use and simple animate TableView
+* [UITableViewCellAnimation](https://github.com/V8tr/UITableViewCellAnimation-Article-Final) - The project demonstrates how to animate UITableViewCells when they first appear on a screen.
 * [UITableViewPushAnimation](https://github.com/pal2tapas/UITableViewPushAnimation) - Push a UIViewController with a attractable animation from UITableView.
 * [WCSTimeline](https://github.com/WrightsCS/WCSTimeline) - Simple timeline with data model.
 * [WLEmptyState](https://github.com/wizeline/WLEmptyState) - WLEmptyState is an iOS based component that lets you customize the view when the dataset of UITableView is empty.
@@ -1885,6 +1891,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [KGNAutoLayout](https://github.com/kgn/KGNAutoLayout) - Making AutoLayout Easy.
 * [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - A micro-framework for observing file changes, both local and remote. Helpful in building developer tools.
 * [Laconic](https://github.com/igormatyushkin014/Laconic) - Short and clear expressions in Swift.
+* [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds. `macOS`
 * [LicensePlist](https://github.com/mono0926/LicensePlist) - iOS license plists generator. Carthage, CocoaPods and the libraries specified by YAML file are supported.
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Swift 2.0 friendly localization and i18n with in-app language switching.
 * [Luminescence](https://github.com/Zewo/Luminescence) - HTTP parser for Swift 2 (Linux ready).
