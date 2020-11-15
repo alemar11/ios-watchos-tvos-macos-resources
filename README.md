@@ -160,6 +160,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [AZDialogViewController](https://github.com/Minitour/AZDialogViewController) - A highly customizable alert dialog controller that mimics Snapchat's alert dialog.
 * [AZNotification-Swift](https://github.com/azamsharp/AZNotification-Swift)
 * [AwaitToast](https://github.com/k-lpmg/AwaitToast) - Basic toast as well as async waiting toast. Inspired by facebook posting toast.
+* [Bauletto](http://github.com/gianpispi/Bauletto) - Display iOS 13 style banner with ease.
 * [BisKit](https://github.com/ho0t/BisKit) - BisKit is an iOS library to generate beautiful popups as the one featured when Apple Pencil is attached to the new iPad Pro.
 * [BMInputBox](https://github.com/blackmirror-media/BMInputBox)
 * [BRYXBanner](https://github.com/bryx-inc/BRYXBanner)
@@ -198,6 +199,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - MIBlurPopup let you create amazing popups with a blurred background.
 * [MIAlertController](https://github.com/MarioIannotta/MIAlertController) - A simple fully customizable alert controller.
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
+* [NeatTipView](http://github.com/rootstrap/NeatTipView) - NeatTipView allows you to display message tooltips that can be used as call to actions or informative tips.
 * [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
 * [NotificationView](https://github.com/pikachu987/NotificationView) - iOS Basic Notification screens.
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS.
@@ -299,6 +301,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SHTransition](https://github.com/iamshezad/SHTransition) - SHTransition is a Library for the transition between the views in a viewcontroller.
 * [SimpleFlipView](https://github.com/javalnanda/SimpleFlipView) - ViewSwitcher container that helps to switch between two views with transition animation.
 * [SnowFalling](https://github.com/pixyzehn/SnowFalling) - Snow Falling in Swift.
+* [SPPerspective](http://github.com/ivanvorobei/SPPerspective) - Animatable widgets from iOS 14.
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
 * [spruce-ios](https://github.com/willowtreeapps/spruce-ios) - Swift library for choreographing animations on the screen.
 * [springdamping](https://github.com/mortenjust/springdamping) - Realtime experimentation with duration, spring and damping for UIView animations.
@@ -315,6 +318,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 *Apps and tutorials*
 
 * [AdguardForiOS](https://github.com/AdguardTeam/AdguardForiOS) - The most advanced Safari content blocker and privacy keeper for iOS.
+* [AKAudioOverlap](https://github.com/piyushghoghari08/AKAudioOverlap) - AKAudioOverlap is audio recording, convert audio to wavefoem, overlap two audio and export/ save into local device.
 * [AppStoreLikeExampleSwift3](https://github.com/IosPower/AppStoreLikeExampleSwift3) - Using CollectionView, UITableView, ScrollView, Such As AppStore.
 * [AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne) - AudioKit Synth One: Open-Source iOS Synthesizer App.
 * [bank-wallet-ios](https://github.com/horizontalsystems/bank-wallet-ios) - A secure and fully decentralized crypto currency wallet app for iOS users. This wallet uses SPV protocol.
@@ -501,6 +505,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [iOS-swift-MSCrop](https://github.com/chetanpanchal94/iOS-swift-MSCrop) - A view which can be moved and scaled, that allows user to select the cropping area in an image.
 * [IVColorPicker](https://github.com/irilka/IVColorPicker)
 * [PrismaSimpleImagePicker](https://github.com/Roylee-ML/PrismaSimpleImagePicker) - This is a copy of the Prisma APP. Reproduce Prisma custom camera, image picker and picture editor.
+* [QCropper](https://github.com/qchenqizhi/QCropper) - This project aims to provide an image cropping experience like iOS Photos.app.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [Mantis](https://github.com/guoyingtao/Mantis) - A photo cropping tool which mimics Photo.app.
 * [NextLevel](https://github.com/NextLevel/NextLevel) - Rad Media Capture in Swift.
@@ -812,6 +817,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 
 * [ADDatePicker](https://github.com/abhiperry/ADDatePicker) - A fully customizable iOS Horizontal PickerView library, written in pure swift.
 * [ASCalendar](https://github.com/scamps88/ASCalendar) - A calendar control for iOS written in swift with mvvm pattern.
+* [CalendarKit](https://github.com/richardtop/CalendarKit) - CalendarKit is a fully customizable calendar library written in Swift.
 * [CalendarPopUp](https://github.com/orazz/CalendarPopUp)
 * [CalendarView](https://github.com/mmick66/CalendarView) - This is a calendar component for iOS written in Swift.
 * [CrispyCalendar](https://github.com/CleverPumpkin/CrispyCalendar)
@@ -1022,6 +1028,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [MAGlowingLabel](https://github.com/Marwan8/MAGlowingLabel) - A UILabel with an animated glowing effect written in Swift.
 * [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text will not fit inside the specified frame.
+* [MarqueeText](http://github.com/joekndy/MarqueeText) - A SwiftUI Marquee or "scrolling text" effect found in Apple native apps. `SwiftUI`
 * [Nantes](https://github.com/instacart/Nantes) - TTTAttributedLabel replacement.
 * [NumericAnimatedLabel](https://github.com/javalnanda/NumericAnimatedLabel) - Animate numeric value while setting new value to label.
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.
@@ -1300,6 +1307,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Aiolos](https://github.com/IdeasOnCanvas/Aiolos) - A floating panel for your iOS Apps.
 * [AYPullBoard](https://github.com/bananaRanger/AYPullBoard) - Сustomized pull board based on your view.
 * [Arrows](https://github.com/antoniocasero/Arrows) - Arrows is an animated custom view to give feedback about your UI sliding panels.
+* [BottomSheet](http://github.com/finn-no/BottomSheet) - BottomSheet is an implementation of custom modal presentation style for thumb-friendly interactive views anchored to the bottom of the screen.
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition.
 * [drawer-view](https://github.com/jVirus/drawer-view) - Drawer View is a custom UI component replication of Apple's Apple Music player and Shortcuts components view.
 * [DrawerKit](https://github.com/Babylonpartners/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
@@ -1523,6 +1531,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [PRGRoundSlider](https://github.com/ispiropoulos/PRGRoundSlider) - A fully customizable circular slider.
 * [RangeSlider](https://github.com/matthewreagan/RangeSlider) - Simple, clean, and customizable range-based slider control for macOS. `macOS`
 * [SHSliderSwitch](https://github.com/iamshezad/SHSliderSwitch) - SHSliderSwitch is a simple lightweight library to implement an animated slider switch.
+* [SlidableImage](http://github.com/quver/SlidableImage) - Easy to use library for before & after images. One-line initialization and very customizable API.
 * [SlideTo](https://github.com/ChristianMoler/SlideTo) - Simple slide controller is fully customizable via interface builder.
 * [SlideToUnlock](https://github.com/alemar11/SlideToUnlock) - Sample code for the FrenchKit 2019 session of the same name.
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
@@ -1560,6 +1569,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 ## Stepper
 
 * [AHStepperControl](https://github.com/ashh640/AHStepperControl) - A simple stepper control for iOS.
+* [DSFStepperView](http://github.com/dagronf/DSFStepperView) - A custom stepper text field for macOS. `macOS`
 * [G8SliderStep](https://github.com/gali8/G8SliderStep) - Custom Range UISlider for iOS, in Swift - Draggable, Tappable, Inspectable.
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 * [JKSteppedProgressBar](https://github.com/Johnykutty/JKSteppedProgressBar) - Stepped ProgressBar for iOS.
@@ -1731,6 +1741,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [HandyText](https://github.com/mmrmmlrr/HandyText) - HandyText is a helper library that allows to create and manage text styles in a clear declarative manner.
 * [input-mask-ios](https://github.com/RedMadRobot/input-mask-ios) - User input masking library repo.
 * [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - add text(multiple line support) to imageView, edit, rotate or resize them as you want, then render the text on image.
+* [JSONPreview](http://github.com/rakuyoMo/JSONPreview) - A view that can be highlighted after formatting JSON.
 * [HighlightTextView](https://github.com/yusayusa/HighlightTextView)
 * [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - Markdown View for iOS.
 * [Marklight](https://github.com/macteo/Marklight) - Markdown syntax highlighter for iOS.
@@ -1811,6 +1822,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 
 * [10Clock](https://github.com/joedaniels29/10Clock) - This Control is a beautiful time-of-day picker heavily inspired by the iOS 10 "Bedtime" timer.
 * [Countdown](https://github.com/leonardobilia/Countdown) - The Countdown timer app allows you to start, pause, reset and set up optional alarm sounds as you wish. `SwiftUI`
+* [MagicTimer](http://github.com/sadeghgoo/MagicTimer) - MagicTimer is a UIView based timer that displays a countdown or count-up timer.
 * [SnapTimer](https://github.com/andresinaka/SnapTimer) - Implementation of Snapchat's stories timer.
 * [SwiftClockUI](https://github.com/renaudjenny/SwiftClockUI) - Clock UI for SwiftUI. `SwiftUI`
 * [TimeZonePicker](https://github.com/gligorkot/TimeZonePicker) - A TimeZonePicker UIViewController similar to the iOS Settings app. Search and select from a range of cities and countries to find your most suitable time zone.
