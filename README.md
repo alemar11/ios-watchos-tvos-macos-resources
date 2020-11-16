@@ -835,6 +835,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [DPTimePicker](https://github.com/dariopellegrini/DPTimePicker) 
 * [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - ElegantCalendar is an efficient and customizable full screen calendar written in SwiftUI.
 * [EPCalendarPicker](https://github.com/ipraba/EPCalendarPicker) - Colourful calendar for iOS written in Swift.
+* [holidaycalendar](https://github.com/ryanmcgrath/holidaycalendar) - This is a demo project of a Holiday (often known as an Advent calendar).
 * [HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 * [ISTimeline](https://github.com/instant-solutions/ISTimeline) - Simple timeline view written in Swift 2.2.
 * [JBCalendarDatePicker](https://github.com/joshbirnholz/JBCalendarDatePicker) - A replacement for UIDatePicker made for Catalyst.
