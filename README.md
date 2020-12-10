@@ -310,6 +310,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SRFacebookAnimation](https://github.com/shamshiranees/SRFacebookAnimation) - Facebook live streaming emoji animation which can be fully customised.
 * [Stellar](https://github.com/AugustRush/Stellar) - A fantastic Physical animation library for swift.
 * [SwiftAnimations](https://github.com/AbsolutRenal/SwiftAnimations) - Try CALayer Animations in Swift.
+* [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) `SwiftUI`
 * [UIViewXXYBoom](https://github.com/xxycode/UIViewXXYBoom)
 * [UIWaveView](https://github.com/onebuffer/UIWaveView) - UIWaveView for app which show battery charging progress or something else.
 * [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator is a library for building complex iOS UIView animations in an easy way. It provides one line animations for any view included the ones which contain other views like UITableView and UICollectionView with its cells or UIStackView with its arrangedSubviews.
@@ -583,6 +584,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [ButtonSelectionAnimation](https://github.com/tungfam/ButtonSelectionAnimation) - UIButton subclass which performs animation on selection.
 * [ButtonProgressBar-iO](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible (well documented) UIButton subclass with animated loading progress, and completion animation.
 * [ButtonStyleKit](https://github.com/keygx/ButtonStyleKit) - ButtonStyleKit is helper library for UIButton custom styles.
+* [CMLoadingButton](https://github.com/Changemin/CMLoadingButton) `SwiftUI`
 * [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Send Bu#tton for iOS.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 * [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
@@ -1165,6 +1167,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [MBMapPulseAnimation](https://github.com/ManickB/MBMapPulseAnimation)
 * [NearBy](https://github.com/VishalNandoriya/NearBy) - iOS app to find nearby places using MapKit.
 * [PRGLocationSearchBar](https://github.com/ispiropoulos/PRGLocationSearchBar) - Control used to show a search bar which can fetch your location as well as geocode a search string.
+* [ScrollViewMinimap](https://github.com/nicoelayda/ScrollViewMinimap) - ScrollViewMinimap is a control for adding minimap functionality to UIScrollView.
 * [SnapLocation](https://github.com/ziligy/SnapLocation) - Swift micro-app that snaps your current location and writes it to pasteboard, it also optionally saves a map image in photos.
 * [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - UIViewController-Extension which is used to request the User-Location, at the very first time, in a simple and elegent way written in Swift.
 * [SwiftLoggly](https://github.com/vigneshuvi/SwiftLoggly) - Simple way to logging with rich feature framework in Swift.
@@ -1336,10 +1339,13 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI.
 * [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
 * [shortcuts-drawer-view](https://github.com/phillfarrugia/shortcuts-drawer-view) - An experimental re-creation of Siri Shortcut's Drawer View component.
+* [SlideOverCard](https://github.com/joogps/SlideOverCard) - A SwiftUI card design, similar to the one used by Apple in HomeKit, AirPods and Apple Card setup, NFC scanning, Wi-Fi password sharing and more. It is specially great for setup interactions. `SwiftUI`
 * [SOPullUpView](https://github.com/Ahmadalsofi/SOPullUpView) - SOPullUpView library for iOS, with pull up gesture.
 * [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
 * [TopDrawer](http://github.com/JUSTINMKAUFMAN/TopDrawer) - A top drawer that can be pulled up/down over the screen.
 * [UBottomSheet](https://github.com/OfTheWolf/UBottomSheet) - Bottom sheet that mimics the behaviours and UI of iPhone Maps app.
+* [VerticalSlidingPresentationController](https://github.com/liyu-wang/VerticalSlidingPresentationController) - 
+VerticalSlidingPresentationController is a custom view controller presentation library which is designed to animate the presented view controller from bottom of the screen.
 
 ## PickerView
 
@@ -1354,6 +1360,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Permission](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API.
 * [PAPermissions](https://github.com/pascalbros/PAPermissions) - A unified API to ask for permissions on iOS.
+* [PermissionWizard](https://github.com/debug45/PermissionWizard) - It is an ultimate tool for system permissions management.
 * [RequestPermission](https://github.com/IvanVorobei/RequestPermission) - simple permission request with beautiful UI.
 * [Send-App-Usage-Permissio](https://github.com/snake302/Send-App-Usage-Permission) - App Usage Permission Alert to comply with the new App Store Guidelines.
 
@@ -1868,6 +1875,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Cabbage](https://github.com/VideoFlint/Cabbage) - A video composition framework build on top of AVFoundation. It's simple to use and easy to extend.
 * [Caramel](https://github.com/CaramelForSwift/Caramel) - A portable I/O framework for Swift.
 * [Cast Free Arithmetic in Swift](https://github.com/Nadohs/Cast-Free-Arithmetic-in-Swift)
+* [CheckDevice](http://github.com/ugurethemaydin/CheckDevice) - CheckDevice is detected the current  device model and screen sizes.
 * [Chronos-Swift](https://github.com/comyarzaheri/Chronos-Swift) - GCD Utilities.
 * [CTFeedbackSwift](https://github.com/rizumita/CTFeedbackSwift) - Feedback mail composer for iOS re-written in Swift of CTFeedback.
 * [CubicEquationSolver](https://github.com/dnpp73/CubicEquationSolver) - Cubic Equation Solver written in Swift for iOS, macOS.
@@ -1948,6 +1956,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [SwiftString](https://github.com/amayne/SwiftString) - SwiftString is a lightweight string extension for Swift.
 * [SwiftyConfiguration](https://github.com/ykyouhei/SwiftyConfiguration) - Modern Swift API for Plist.
 * [SwiftySwift](https://github.com/adeca/SwiftySwift) - Collection of useful extensions for Swift types and Cocoa objects.
+* [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS.
 * [Swiftz](https://github.com/typelift/swiftz) - Functional programming in Swift.
 * [TPPDF](https://github.com/Techprimate/TPPDF) - TPPDF is a simple-to-use PDF builder for iOS.
 * [Transporter](https://github.com/DenHeadless/Transporter) - Transporter is a modern finite-state machine implemented in pure Swift.
