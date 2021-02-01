@@ -443,6 +443,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Clipy](https://github.com/Clipy/Clipy) Clipboard extension app for Mac OSX. `macOS`
 * [cloudy](https://github.com/calebd/cloudy) - Simple Overcast app for OS X. `macOS`
 * [CoinPriceBar](https://github.com/T-Pham/CoinPriceBar) - Cryptocurrency prices on MacBook Touch Bar. `macOS`
+* [ControlRoom](https://github.com/twostraws/ControlRoom) - Control Room is a macOS app that lets you control the simulators for iOS, tvOS, and watchOS – their UI appearance, status bar configuration, and more. It wraps Apple’s own simctl command-line tool, so you’ll need Xcode installed. `macOS` `SwiftUI`
 * [convertappicon](https://github.com/kreait/convertappicon) - Converts a pdf into multiple app icons for iOS and watchOS. `macOS`
 * [CopyPasta](https://github.com/alltheflow/CopyPasta) - Pasteboard feed Mac app. `macOS`
 * [CotEditor](https://github.com/coteditor/CotEditor) - CotEditor is a lightweight plain-text editor for macOS. `macOS`
@@ -458,6 +459,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs on your Mac. `macOS`
 * [Gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github. `macOS`
 * [hidden](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. `macOS`
+* [hush](https://github.com/oblador/hush) - Block nags to accept cookies and privacy invasive tracking in Safari. `macOS`
 * [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). `macOS`
 * [localizations](https://github.com/athiercelin/localizations) - OS X app that manages localizations of Xcode projects. `macOS`
 * [MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS!
@@ -478,6 +480,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Up-Down](https://github.com/gjiazhe/Up-Down) - A menu bar widget for OS X that monitors upload and download speeds. `macOS`
 * [WWDC](https://github.com/insidegui/WWDC) - WWDC app for OS X. `macOS`
 * [xcode-dev-cleaner](https://github.com/vashpan/xcode-dev-cleaner) - If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you! `macOS`
+* [XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode. `macOS` `SwiftUI`
 * [xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
 
 ## Architecture
