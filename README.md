@@ -607,6 +607,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [KSFacebookButton](https://github.com/LeeKahSeng/KSFacebookButton) - Customizable button which look exactly the same as FBSDKLoginButton.
 * [LGButton](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)
+* [LoadingButton](https://github.com/Changemin/LoadingButton) - Simple Loading Animation Button for SwiftUI. `SwiftUI`
 * [loading-buttons-ios](https://github.com/twho/loading-buttons-ios) - A collection of loading buttons and their stylings written in Swift.
 * [LoadingButton](https://github.com/SeptiyanAndika/LoadingButton) - UIButton subclass with an activity indicator and loading text.
 * [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
@@ -645,6 +646,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner.
 * [CameraManager](https://github.com/imaginary-cloud/CameraManager) - Simple Swift class to provide all the configurations you need to create custom camera view in your app.
 * [GNCam](https://github.com/gonzalonunez/GNCam) - A Swift 3 library for interacting with the camera on iOS using AVFoundation.
+* [kanvas](https://github.com/tumblr/kanvas-ios) - Kanvas is an open-source iOS library for adding effects, drawings, text, stickers, and making GIFs from existing media or the camera.
 * [SwiftyCam](https://github.com/Awalz/SwiftyCam) - A Snapchat Inspired iOS Camera Framework written in Swift.
 * [SwiftMustaches](https://github.com/elpassion/SwiftMustaches)
 * [TGLAugmentedRealityView](https://github.com/gleue/TGLAugmentedRealityView) - Augmented Reality made easy -- place overlays on a camera preview and adjust their position depending on device attitude.
@@ -1328,6 +1330,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [AYPullBoard](https://github.com/bananaRanger/AYPullBoard) - Сustomized pull board based on your view.
 * [Arrows](https://github.com/antoniocasero/Arrows) - Arrows is an animated custom view to give feedback about your UI sliding panels.
 * [BottomSheet](http://github.com/finn-no/BottomSheet) - BottomSheet is an implementation of custom modal presentation style for thumb-friendly interactive views anchored to the bottom of the screen.
+* [ContainerController](https://github.com/mrustaa/ContainerController)
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition.
 * [drawer-view](https://github.com/jVirus/drawer-view) - Drawer View is a custom UI component replication of Apple's Apple Music player and Shortcuts components view.
 * [DrawerKit](https://github.com/Babylonpartners/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
@@ -1793,6 +1796,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [TextfieldEffects](https://github.com/sumansid/TextfieldEffects) - A comprehensive extension file for all types of textfields styling written in swift for Xcode.
 * [TvOSTextViewer](https://github.com/dcordero/TvOSTextViewer) - Light and scrollable view controller for tvOS to present blocks of text. 📺
 * [TweetTextView](https://github.com/KarlZeo/TweetTextView) - This is a custom NSTextView to heighlight username hashtag and link. `macOS`
+* [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full featured rich text editor for iOS applications.
 * [Typographizer](https://github.com/frankrausch/Typographizer) - Fix dumb quotation marks and apostrophes in Swift.
 * [VisibleText](https://github.com/LeBzul/VisibleText) - Automatically determine the text color according to the background.
 * [YanagiText](https://github.com/YuigaWada/YanagiText) - A lightweight TextView where can be attached any UIView.
