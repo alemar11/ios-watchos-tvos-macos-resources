@@ -476,6 +476,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [redditweaks](https://github.com/bermudalocket/redditweaks) - A Safari App Extension that makes Reddit suck just a little bit less on Safari 13+. `macOS` `SwiftUI`
 * [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar app to view and interact with reminders. `macOS`
 * [Screenotate](https://github.com/osnr/Screenotate) - Automatically annotate your screenshots. `macOS`
+* [Spaceman](https://github.com/Jaysce/Spaceman) - Spaceman is an application for macOS that allows you to view your Spaces / Virtual Desktops in the menu bar.
 * [Sweetcorn](https://github.com/FlexMonkey/sweetcorn) - Node based CIKernel creation. `macOS`
 * [Trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise. ⌚️ `macOS`
 * [Tailor](https://github.com/kimar/Tailor) - An OS X status bar app to quickly check for new releases at Swift.org. `macOS`
