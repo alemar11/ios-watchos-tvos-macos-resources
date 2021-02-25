@@ -378,6 +378,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 A Spotify music player and temporary playlist builder. Uses Spotify Web API to search for songs and AppleScript to send commands to the Spotify App. `macOS`
 * [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - MovieSwiftUI is an application that uses the MovieDB API and is built with SwiftUI. It demos some SwiftUI (& Combine) concepts. `SwiftUI`
 * [NewsApp](https://github.com/PowerMobileWeb/NewsApp)
+* [NineAnimator](https://github.com/SuperMarcus/NineAnimator) - A simple yet elegant way of waching anime on your favorite anime websites.
 * [NKWatchActivityIndicator](https://github.com/NilStack/NKWatchActivityIndicator) - An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2. ⌚️
 * [Notepad](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 * [ODEON](https://github.com/Sherlouk/ODEON) - Beam for Reddit.
