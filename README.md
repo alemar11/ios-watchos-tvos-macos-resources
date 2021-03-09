@@ -1505,8 +1505,6 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 ## ScrollView
 *Scrollviews and PageControllers*
 
-#### 🔸*Swift*
-
 * [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view.
 * [CMLazyScrollViewController](https://github.com/Mycose/CMLazyScrollViewController) - Lazy ScrollView with support for infinite scroll (using a paging system with UIViewControllers and not UIViews).
 * [CrossNavigation](https://github.com/artemstepanenko/CrossNavigation) - Any side navigation.
