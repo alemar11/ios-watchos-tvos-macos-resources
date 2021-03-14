@@ -1633,6 +1633,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 ## SwiftUI
 
 - [DraggableGridView](https://github.com/fullc0de/DraggableGridView) - A grid style collection view written in SwiftUI that supports to change a position of any item on it by dragging.
+- [swiftui.builds](https://github.com/FranckNdame/swiftui.builds) - Building cool stuff in SwiftUI.
 - [SwiftUI-by-Examples](https://github.com/artemnovichkov/SwiftUI-by-Examples) - Examples of new SwiftUI framework.
 - [SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect allows you to get the underlying UIKit or AppKit element of a SwiftUI view.
 - [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
