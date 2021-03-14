@@ -465,6 +465,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [hush](https://github.com/oblador/hush) - Block nags to accept cookies and privacy invasive tracking in Safari. `macOS`
 * [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). `macOS`
 * [localizations](https://github.com/athiercelin/localizations) - OS X app that manages localizations of Xcode projects. `macOS`
+* [MacSymbolicator](https://github.com/inket/MacSymbolicator) - A simple Mac app for symbolicating macOS/iOS crash reports. `macOS`
 * [MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS!
 * [Markoff](https://github.com/thoughtbot/Markoff) - A light-weight Markdown (CommonMark) previewer for OSX. `macOS`
 * [markr](https://github.com/lukakerr/markr) - Minimalistic markdown editor for MacOS with live preview. `macOS`
