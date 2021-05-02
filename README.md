@@ -330,6 +330,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [bank-wallet-ios](https://github.com/horizontalsystems/bank-wallet-ios) - A secure and fully decentralized crypto currency wallet app for iOS users. This wallet uses SPV protocol.
 * [Beam for Reddit](https://github.com/PowerMobileTeam/NewsApp) - An open source Reddit client for iOS.
 * [bitbar](https://github.com/matryer/bitbar) - BitBar lets you put the output from any script/program in your Mac OS X Menu Bar.
+* [BodyProgress](https://github.com/karthironald/BodyProgress) - Simple workout and progress tracking app for fitness freaks with Widget support. `SwiftUI`
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Player for your DRM-free audiobooks.
 * [breadwallet](https://github.com/breadwallet/breadwallet-ios) - The iOS version of the Bread bitcoin wallet.
 * [Celestial](https://github.com/eonist/Celestial) - A delightful weather app.
@@ -549,6 +550,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Audio-Recorder](https://github.com/venkatkukunuru/Audio-Recorder) - Recording voice in swift.
 * [AudioEqualizer](https://github.com/kiran5232/AudioEqualizer) - AudioEqualizer in swift.
 * [AudioKit](https://github.com/audiokit/AudioKit) - Open-source audio synthesis, processing, & analysis platform.
+* [FDWaveformView](https://github.com/fulldecent/FDWaveformView) - FDWaveformView is an easy way to display an audio waveform in your app. It is a nice visualization to show a playing audio file or to select a position in a file.
 * [Jukebox](https://github.com/teodorpatras/Jukebox) - Player for streaming local and remote audio files. Written in Swift.
 * [InstaBars](https://github.com/vaibhavxyz/InstaBars) - InstaBars is a simple animation for iOS applications inspired by equaliser in instagram application.
 * [MLAudioPlayer](https://github.com/micheltlutz/MLAudioPlayer) - AudioPlayer for Swift projects.
@@ -995,6 +997,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - BWWalkthrough is a class to build custom walkthroughs for your iOS App.
 * [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions. `SwiftUI`
 * [Gecco](https://github.com/yukiasai/Gecco) - Simply highlight items for your tutorial walkthrough, written in Swift.
+* [GLWalkthrough](https://github.com/gokulgovind/GLWalkthrough)
 * [HAPlayerView](https://github.com/litoarias/HAPlayerView) - Easy-to-use class for inserting videos as a wallpaper without a single line of code, all managed by Interface Builder.
 * [ImageBlur](https://github.com/yogesh07-ios/ImageBlur) - Blur out the image portion were user drag his/her finger.
 * [Instructions](https://github.com/ephread/Instructions)
@@ -1463,6 +1466,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl)
 * [Refresher](https://github.com/jcavar/refresher) - PullToReach is a simple drag-and-drop solution for adding pull-to-reach functionality to your app.
 * [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - Implementation of [Zee Young's Dribbble animation](https://dribbble.com/shots/2067564-Replace)
+* [SSCustomPullToRefresh](https://github.com/SimformSolutionsPvtLtd/SSCustomPullToRefresh) - SSCustomPullToRefresh is an open-source library that uses UIKit to add an animation to the pull to refresh view in a UITableView and UICollectionView.
 * [TB_PeriscopePTR](https://github.com/ariok/TB_PeriscopePTR) - tutorial [here](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/)
 * [WAPullToShare](https://github.com/wendyabrantes/WAPullToShare) - Mobile Pull to share inspired from Google Chrome refresh / new tab actions.
 
@@ -1925,6 +1929,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [DifferenceKit](https://github.com/ra1028/DifferenceKit) - A fast and flexible O(n) difference algorithm framework for Swift collection.
 * [Differific](https://github.com/zenangst/Differific) - Differific - a fast and convenient diffing framework.
 * [Dollar](https://github.com/ankurp/Dollar) - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript.
+* [Easing](https://github.com/manuelCarlos/Easing) - A library that implements easing functions in Swift.
 * [EmojiIntelligence](https://github.com/Luubra/EmojiIntelligence) - Neural Network built in Apple Playground using Swift.
 * [EnigmaKit](https://github.com/mikaoj/EnigmaKit) - Enigma encryption in Swift.
 * [FeedKit](https://github.com/nmdias/FeedKit) - An RSS, Atom and JSON Feed parser written in Swift.
@@ -1942,6 +1947,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [Laconic](https://github.com/igormatyushkin014/Laconic) - Short and clear expressions in Swift.
 * [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds. `macOS`
 * [LicensePlist](https://github.com/mono0926/LicensePlist) - iOS license plists generator. Carthage, CocoaPods and the libraries specified by YAML file are supported.
+* [LNInterpolation](https://github.com/LeoNatan/LNInterpolation) - An interpolation framework for Cocoa and Cocoa Touch.
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Swift 2.0 friendly localization and i18n with in-app language switching.
 * [Luminescence](https://github.com/Zewo/Luminescence) - HTTP parser for Swift 2 (Linux ready).
 * [Luminous](https://github.com/andrealufino/Luminous) - Luminous gives you all the system information you need (Network, Locale, Carrier...)
