@@ -441,6 +441,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [AppWage](https://github.com/hankinsoft/AppWage) - iTunes connect reporting tool.
 * [aural-player](https://github.com/maculateConception/aural-player) - Aural Player is an audio player application for the macOS platform, that was inspired by the classic Winamp player for Windows.
 * [Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS.
+* [BandwidthLimiter](https://github.com/kishikawakatsumi/BandwidthLimiter) - The Mac application can quickly put a bandwidth limit on the network from the menu bar. `macOS`
 * [BatteryNotifier](https://github.com/Kalvin126/BatteryNotifier) - OS X tool that warns you if your iOS devices needs a charge. `macOS`
 * [brisk](https://github.com/br1sk/brisk) - A macOS app for submitting radars. `macOS`
 * [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - A text editor that only allows the top 1000 most common words in English. `macOS`
