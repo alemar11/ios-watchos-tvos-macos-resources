@@ -1797,6 +1797,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [AOR](https://github.com/xxxAIRINxxx/AOR) - Wrapper of NSAttributedString and Text Kit. written in Swift.
 * [AttributedTextView](https://github.com/evermeer/AttributedTextView) - Easiest way to create an attributed UITextView with support for multiple links.
 * [BezierString](https://github.com/lvnyk/BezierString) - Rendering NSAttributedStrings along arbitrary UIBezierPaths.
+* [CodeEditor](https://github.com/ZeeZide/CodeEditor) - A SwiftUI TextEditor View with syntax highlighting using Highlight.js. `SwiftUI`
 * [Down](https://github.com/iwasrobbed/Down) - Blazing fast Markdown rendering in Swift, built upon cmark.
 * [DPTagTextView](https://github.com/Datt1994/DPTagTextView) - Add & detect tag/mention using Textview.
 * [EmojiTextView](https://github.com/fastred/EmojiTextView) - Tap to swap out words with emojis. Inspired by Messages.app on iOS 10.
