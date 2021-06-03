@@ -178,6 +178,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [DOAlertController](https://github.com/okmr-d/DOAlertController)
 * [Dodo](https://github.com/exchangegroup/Dodo)
 * [DPNotify](https://github.com/dphans/DPNotify) - DPNotify used to send short notifications on screen simple & quickly for iOS developing using Swift.
+* [Drops](https://github.com/omaralbeik/Drops) - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil.
 * [DTLocalNotification](https://github.com/tungvoduc/DTLocalNotification) - Custom control that makes displaying in-app notifications easier, cleaner and more efficient.
 * [DTIToastCenter-Swift](https://github.com/dtissera/DTIToastCenter-Swift)
 * [EasyTipView](https://github.com/teodorpatras/EasyTipView)
@@ -203,6 +204,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [NavigationNotice](https://github.com/KyoheiG3/NavigationNotice)
 * [NeatTipView](http://github.com/rootstrap/NeatTipView) - NeatTipView allows you to display message tooltips that can be used as call to actions or informative tips.
 * [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
+* [NotificationToast](https://github.com/PhilippeWeidmann/NotificationToast) - A view that tries to replicate iOS default toast message view.
 * [NotificationView](https://github.com/pikachu987/NotificationView) - iOS Basic Notification screens.
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS.
 * [Notification-AlertView](https://github.com/alexey-kubas-appus/Notification-AlertView)
@@ -226,9 +228,10 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Snackbar-iOS](https://github.com/JastAir/Snackbar-iOS) - Simple snackbar for ios from android platform.
 * [SpaceView](https://github.com/Xopoko/SpaceView)
 * [Squawk](https://github.com/GitHawkApp/Squawk) - Quick & interactive iOS alerts in Swift.
+* [SPIndicator](https://github.com/ivanvorobei/SPIndicator) - Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts.
+* [StatusAlert](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts. It is well suited for notifying user without interrupting user flow in iOS-like way.
 * [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a banner presenter library for iOS. It can be used to easily display pop-ups and notification-like views within your iOS apps.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
-* [StatusAlert](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts. It is well suited for notifying user without interrupting user flow in iOS-like way.
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)
 * [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a banner presenter library for iOS.
 * [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
@@ -1531,6 +1534,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [PSFadingScrollView](https://github.com/Vugla/PSFadingScrollView) - 
 * [RMSquarePageControl](https://github.com/rupammitra/RMSquarePageControl) - A custom page control having square indicators works both vertically and horizontally.
 * [SegementSlide](https://github.com/Jiar/SegementSlide) - Multi-tier UIScrollView nested scrolling solution.
+* [ScrollingContentViewController](https://github.com/drewolbrich/ScrollingContentViewController) - ScrollingContentViewController makes it easy to create a view controller with a single scrolling content view, or to convert an existing static view controller into one that scrolls. Most importantly, it takes care of several tricky undocumented edge cases involving the keyboard, navigation controllers, and device rotations.
 * [ZKCarousel](https://github.com/ZacharyKhan/ZKCarousel) - A simple carousel implementation written in Swift.
 
 ## Security
@@ -1801,6 +1805,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [Down](https://github.com/iwasrobbed/Down) - Blazing fast Markdown rendering in Swift, built upon cmark.
 * [DPTagTextView](https://github.com/Datt1994/DPTagTextView) - Add & detect tag/mention using Textview.
 * [EmojiTextView](https://github.com/fastred/EmojiTextView) - Tap to swap out words with emojis. Inspired by Messages.app on iOS 10.
+* [GrowingTextView](https://github.com/KennethTsang/GrowingTextView)
 * [HandyText](https://github.com/mmrmmlrr/HandyText) - HandyText is a helper library that allows to create and manage text styles in a clear declarative manner.
 * [input-mask-ios](https://github.com/RedMadRobot/input-mask-ios) - User input masking library repo.
 * [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - add text(multiple line support) to imageView, edit, rotate or resize them as you want, then render the text on image.
@@ -1861,6 +1866,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [MPGTextField](https://github.com/gaurvw/MPGTextField) - An autocomplete textfield for iOS which provides suggestions as you type.
 * [NSJTextField](https://github.com/NSJoker/NSJTextField) - A custom textfield with the placeholder displayed on top when text entered.
 * [ParkedTextField](https://github.com/gmertk/ParkedTextField) - A text field with a constant text/placeholder.
+* [PasswordTextField](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforces good password policies, written in Swift.
 * [PinCodeTextField](https://github.com/tkach/PinCodeTextField) - Simple pin code text input with underlined space for characters.
 * [PRGValidationField](https://github.com/ispiropoulos/PRGValidationField) - A Better way to make registration forms.
 * [RAGTextField](https://github.com/raginmari/RAGTextField) - Subclass of UITextField that adds an animated placeholder and an optional hint label below the text.
@@ -1870,6 +1876,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift. As used in the Skyscanner TravelPro iOS app.
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - Form framework for iOS written in Swift.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - A small and lightweight library written in Swift that allows you to easily create forms.
+* [SwiftUIFormValidator](https://github.com/ShabanKamell/SwiftUIFormValidator)
 * [TextFieldCounter](https://github.com/serralvo/TextFieldCounter) - UITextField character counter with lovable UX.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift.
 * [textfields](https://github.com/alxyzhv/textfields)
