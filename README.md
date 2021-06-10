@@ -1616,7 +1616,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 ## Sprite
 
 * [AJParticlesLoadingView](https://github.com/arpitjain03/AJParticlesLoadingView) - A completely customizable loading particles animation on a view using SpriteKit.
-* [Magnetic](https://github.com/efremidze/Magnetic) - SpriteKit Floating Bubble Picker (inspired by Apple Music).
+* [Magnetic](https://github.com/efremidze/Magnetic) - Magnetic is a customizable bubble picker like the Apple Music genre selection.
 * [Orbit7](https://github.com/Mav3r1ck/Orbit7) - Open Source iOS Game created in SpriteKit with Swift.
 * [SKTiled](https://github.com/mfessenden/SKTiled) - Swift framework for working with Tiled assets in SpriteKit.
 * [SKTiledMap](https://github.com/wbcyclist/SKTiledMap) - A TMX TileMap framework for SpriteKit.
