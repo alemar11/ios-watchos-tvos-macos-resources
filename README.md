@@ -1289,6 +1289,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [MetalFilters](https://github.com/alexiscn/MetalFilters) - Instagram filters implemented in Metal.
 * [MetalPinch](https://github.com/TylerWhiteDesign/MetalPinch) - A demo on how to use UIGestureRecognizers to pan and zoom in Metal.
 * [MetalScope](https://github.com/ejeinc/MetalScope) - Metal-backed 360° panorama view for iOS.
+* [ShaderMania](https://github.com/markusmoenig/ShaderMania) - Create, edit, share and learn about Metal shaders on macOS and iOS.
 
 ## NavigationBar
 
