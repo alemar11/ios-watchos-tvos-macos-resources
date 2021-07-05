@@ -85,6 +85,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [Rating](#rating)
 - [Routing](#routing)
 - [Resource](#resource)
+- [SceneKit](#sceneKit)
 - [Script](#script)
 - [Screensaver](#screensaver)
 - [ScrollView](#scrollview)
@@ -117,6 +118,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [ViewController Transition](#viewcontroller-transition)
 - [WatchFace](#watchface)
 - [WebView](#webview)
+- [Widgets](#widgets)
 - [Window](#window)
 - [Xcode Extension](#xcode-extension)
 
@@ -370,6 +372,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Instagram_Stories](https://github.com/drawRect/Instagram_Stories) - Inspired by Instagram Stories functionality. This source is similar to Instagram Stories which is having both image and video support.
 * [ios-mail](https://github.com/ProtonMail/ios-mail)
 * [ios-spritekit-tic-tac-toe](https://github.com/jVirus/ios-spritekit-tic-tac-toe) - Class Tic Tac Toe reincarnation with AI and state machines. The app is ready-made, using Sprite and Gameplay Kits.
+* [ish](https://github.com/ish-app/ish) - A project to get a Linux shell running on iOS, using usermode x86 emulation and syscall translation.
 * [ladybug](https://github.com/ethanhuang13/ladybug) - Handle rdar:// links gracefully.
 * [Llitgi](https://github.com/xmollv/Llitgi) - A simple & lightweight Pocket client for iOS.
 * [lockdown-ios](https://github.com/confirmedcode/lockdown-ios) - Lockdown is an Open Source and free firewall for your iOS device.
@@ -601,6 +604,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 ## Button
 *buttons*
 
+* [AHDownloadButton](https://github.com/amerhukic/AHDownloadButton) - AHDownloadButton is a customizable download button similar to the download button in the latest version of Apple's App Store app (since iOS 11).
 * [AMChoice](https://github.com/Abedalkareem/AMChoice) - Radio Button and check box for iOS.
 * [ANLongTapButton](https://github.com/antrix1989/ANLongTapButton) - Long tap button with animated progress bar.
 * [ButtonSelectionAnimation](https://github.com/tungfam/ButtonSelectionAnimation) - UIButton subclass which performs animation on selection.
@@ -640,6 +644,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [NPFlipButton](https://github.com/neopixl/NPFlipButton)
 * [OnOffButton](https://github.com/rakaramos/OnOffButton) - Custom On/Off Animated UIButton, written in Swift.
 * [PlayPauseAnimation](https://github.com/kNeerajPro/PlayPauseAnimation)
+* [PulseAnimation](https://github.com/paritoshraval100/PulseAnimation) - Pulse Button Animation with SwiftUI. `SwiftUI`
 * [QuickRippleButton](https://github.com/ansonyao/QuickRippleButton) - Custom UIButton which has ripple animation effect when clicked.
 * [RadioGroup](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
 * [Reactions](https://github.com/yannickl/Reactions) - Fully customizable Facebook reactions control.
@@ -708,6 +713,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [ILG](https://github.com/joeynelson42/ILG)
 * [ios-charts](https://github.com/danielgindi/ios-charts) - Beautiful charts for iOS/tvOS/OSX.
 * [LineChart](https://github.com/nhatminh12369/LineChart)
+* [mobile-analytics-chart-swift](https://github.com/yoomoney-tech/mobile-analytics-chart-swift)
 * [OMScrollableChart](https://github.com/jaouahbi/OMScrollableChart) - An adaptive scrollable chart for iOS to visualise simple discrete datasets.
 * [PieCharts](https://github.com/i-schuetz/PieCharts) - Easy to use and highly customizable pie charts library for iOS.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)
@@ -1252,6 +1258,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 
 ## Messaging
 
+* [ApplozicSwift](https://github.com/AppLozic/ApplozicSwift) - UI kit for Applozic SDK, written completely in Swift.
 * [BubblePictures](https://github.com/kbelter/BubblePictures) - Framework for iOS to show Bubble like pictures.
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
 * [chatheads](https://github.com/rajatgupta26/fk-ios-chatheads) - Library to use chat heads within your iOS app with complete physics and animations which drive multi user chat behaviour to support collapsed/stacked or expanded states.
@@ -1330,6 +1337,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram).
 * [SCPageControl](Swift PageControl)
+* [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - A rubber animation pagecontrol.
 
 ## Pager
 *viewpager*
@@ -1348,7 +1356,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [TinyCreditCard](https://github.com/bestwnh/TinyCreditCard) - A clear and animated credit card input workflow implement.
 
 ## Panel
-*panels and drawers*
+*panels, drawers and bottom sheets*
 
 * [ActionPicker](https://github.com/Krivoblotsky/ActionPicker) - My humble effort to mimic iOS setup sheets.
 * [ADOverlayContainer](https://github.com/applidium/ADOverlayContainer) - iOS UI library to implement overlay based interfaces.
@@ -1357,6 +1365,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Arrows](https://github.com/antoniocasero/Arrows) - Arrows is an animated custom view to give feedback about your UI sliding panels.
 * [BottomSheet](http://github.com/finn-no/BottomSheet) - BottomSheet is an implementation of custom modal presentation style for thumb-friendly interactive views anchored to the bottom of the screen.
 * [BottomSheet](https://github.com/LucasMucGH/BottomSheet) - A sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI. `SwiftUI`
+* [BottomSheetController](https://github.com/naru-jpn/BottomSheetController) - UIKit component containing supplementary content that are anchored to the bottom of the screen.
 * [ContainerController](https://github.com/mrustaa/ContainerController)
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition.
 * [drawer-view](https://github.com/jVirus/drawer-view) - Drawer View is a custom UI component replication of Apple's Apple Music player and Shortcuts components view.
@@ -1507,6 +1516,10 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [Router](https://github.com/1amageek/Router) - Router is a library that assists with SwiftUI view transitions. `SwiftUI`
 * [Routing](https://github.com/jwalapr/Routing) - A Swift router implementation.
 * [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing for Swift.
+
+## SceneKit
+
+* [BioViewer](https://github.com/Androp0v/BioViewer) - Protein (.pdb, .cif and .fasta) viewer for iPhone, iPad and Mac, using SwiftUI + SceneKit. `SwiftUI`
 
 ## Script
 
@@ -2214,6 +2227,10 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 
 * [TLMetaResolver](https://github.com/tryolabs/TLMetaResolver) - TLMetaResolver is an extension to UIWebView writen in Swift that adds the ability to parse the meta tags in the loaded web page and extract information about a native app that can be deep linked from that page.
 * [URLEmbeddedView](https://github.com/szk-atmosphere/URLEmbeddedView) - URLEmbeddedView automatically caches the object that is confirmed the Open Graph Protocol.
+
+## Widgets
+
+* [swiftui-widgets-fitness](https://github.com/marioeguiluz/swiftui-widgets-fitness) - `SwiftUI`
 
 ## Window
 
