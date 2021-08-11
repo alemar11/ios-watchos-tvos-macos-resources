@@ -1344,6 +1344,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 
 * [FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library implemented primarily with UICollectionView.
 * [HQPagerViewController](https://github.com/quangpc/HQPagerViewController) - This control combines the great menu view with a UIPageviewController that takes care of showing the right page when clicking on the menu view and updating the selection when the UIPageviewController scrolls.
+* [PagerTabStripView](https://github.com/xmartlabs/PagerTabStripView) - An easy to use view pager library for iOS in Swift. `SwiftUI`
 * [PBPagerViewController](https://github.com/paoloboschini/PBPagerViewController)
 * [ViewPager](https://github.com/SeptiyanAndika/ViewPager---Swift) - Simple View Pager library for Swift.
 
@@ -1352,7 +1353,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [card.io](https://github.com/card-io/card.io-iOS-SDK) - card.io provides fast, easy credit card scanning in mobile apps.
 * [caishen](https://github.com/prolificinteractive/caishen) - A Payment Card UI & Validator for iOS.
 * [CreditCardForm](https://github.com/orazz/CreditCardForm-iOS) - CreditCardForm-iOS is an iOS demo app that allows developers to create the UI which replicates an actual Credit Card.
-* [ThinCreditCard](https://github.com/tsarikovskiy/ThinCreditCard) -  Simple way to add a credit card.
+* [ThinCreditCard](https://github.com/tsarikovskiy/ThinCreditCard) - Simple way to add a credit card.
 * [TinyCreditCard](https://github.com/bestwnh/TinyCreditCard) - A clear and animated credit card input workflow implement.
 
 ## Panel
