@@ -463,6 +463,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [dejalu](https://github.com/dinhviethoa/dejalu) - Fast and Simple Email Client. `macOS`
 * [DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon. `macOS`
 * [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift. `macOS`
+* [DSFQuickActionBar](https://github.com/dagronf/DSFQuickActionBar) - A spotlight-inspired quick action bar for macOS. `macOS`
 * [Eul](https://github.com/gao-sun/eul) - macOS status bar. `macOS`
 * [Evergreen](https://github.com/brentsimmons/Evergreen) - It’s a feed reader for MacOS. `macOS`
 * [EventfulMac](https://github.com/JacobCho/EventfulMac) - OSX application that searches for events within an area using the Eventful API. `macOS`
@@ -1025,6 +1026,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [SoundCloudTransition](https://github.com/xxxAIRINxxx/SoundCloudTransition) - Custom interactive transition like SoundCloud iOS App.
 * [SplashWindow](https://github.com/BabyShung/SplashWindow) - An UIWindow-based TouchID authentication control.
 * [Spotlight](https://github.com/lekshmiraveendranath/Spotlight) - Introductory walkthrough framework for iOS Apps.
+* [SuggestionsKit](https://github.com/huemae/SuggestionsKit) - SuggestionsKit is a framework for iOS that was created in order to provide developers with the opportunity to educate users on various features of applications.
 * [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps, powered by Swift.
 * [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) - A swifty iOS framework that allows developers to create beautiful onboarding experiences.
 * [tween-controller](https://github.com/daltonclaybrook/tween-controller) - A toolkit for creating interactive menus and tutorials in Swift.
@@ -1070,6 +1072,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [GlowingLabel](https://github.com/RajChanchal/GlowingLabel) - A label with an outer glow.
 * [GranibleLabel](https://github.com/dokgi88/GranibleLabel) - Veeeeeeeeeeeeeeeery easy to use and simple gradation animate Label.
 * [IHTypeWriterLabel](https://github.com/Ibrahimhass/IHTypeWriterLabel) - A simple, UILabel subclass which poulates itself as if being typed.
+* [IncrementableLabel](https://github.com/tbaranes/IncrementableLabel) - IncrementableLabel is the easiest way to have incrementable numbers in an UILabel!.
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - UILabel subclass that saves you from refreshing it when using 'time ago' format.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [MAGlowingLabel](https://github.com/Marwan8/MAGlowingLabel) - A UILabel with an animated glowing effect written in Swift.
@@ -1304,6 +1307,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 * [Bartinter](https://github.com/MaximKotliar/Bartinter) - Changes your status bar depending on content behind it.
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects above navigation bar's background.
+* [CardNavigation](https://github.com/james01/CardNavigation) - The easiest way to turn a navigation controller into an interactive stack of cards.
 * [DropdownTitleView](https://github.com/GitHawkApp/DropdownTitleView) - A UINavigationItem.titleView compatible UIControl with a title, subtitle, and dropdown.
 * [ImageInNavigationBarDemo](https://github.com/tungfam/ImageInNavigationBarDemo) - Demo project that shows a resizable image in right top corner of Navigation Bar with Large Title (iOS11).
 * [KJNavigationViewAnimation](https://github.com/KiranJasvanee/KJNavigationViewAnimation)
@@ -1794,6 +1798,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 
 * [ARSelectableView](https://github.com/MakwanaRohit/ARSelectableView) - Provide selection type radio, checkbox and tag.
 * [automatic-height-tagcells](https://github.com/weijentu/automatic-height-tagcells) - This is a sample project to implement features with dynamic height of UITableViewCell based on autolayout, tags aligned automatically and clickable tags.
+* [DBSphereTagCloudSwift](https://github.com/apparition47/DBSphereTagCloudSwift) - A 3D spherical tag cloud view for iOS using UIKit and Accelerate.
 * [DPColorfulTags](https://github.com/HongliYu/DPColorfulTags-Swift) - tags with different colors.
 * [GravityTagCloudView](https://github.com/billypchan/GravityTagCloudView) - A tag cloud view with gravity.
 * [Hashtags](https://github.com/scaraux/Hashtags) - A Swift library to display and manipulate Hashtags as a list.
