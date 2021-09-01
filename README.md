@@ -125,7 +125,6 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 
 * [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift 2.
 * [FloatingActionSheetController](https://github.com/ra1028/FloatingActionSheetController) - Cool design ActionSheetController library written in Swift2.
-* [HAActionSheet](https://github.com/hasanlsn/HAActionSheet) - Dynamic action sheet.
 * [KUIActionSheet](https://github.com/Kofktu/KUIActionSheet) - Custom UIActionSheet.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
 * [PCRapidSelectionView](https://github.com/mmackh/PCRapidSelectionView) - Interactive, beautiful & fast UIActionSheet replacement, supports continuous hold & select.
@@ -957,7 +956,6 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [SwiftUIDrag](SwiftUIDrag) - A simple, customizable, and intuitive wrapper-view enabling dragging, floating, and/or collapsing for its content. Written entirely in SwiftUI, SwiftUIDrag is inspired by iOS 14's Picture-in-Picture feature (PIP). `SwiftUI`
 * [Tactile](https://github.com/delba/Tactile) - The Swift way to add UIGestureRecognizer and to react to UIControlEvents.
 * [TouchesWindow](https://github.com/dmoroz0v/TouchesWindow) - Show touch and force-touch indicators for your iOS app. Have swift and obj-c versions.
-* [VMSignatureView](https://github.com/VaibhavMisra/VMSignatureView) - A custom view to capture signature from user.
 
 ## Image
 *Images, images processing and Galleries*
