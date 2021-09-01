@@ -41,7 +41,6 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [Badge](#badge)
 - [Beacon](#beacon)
 - [Button](#button)
-- [Camera](#camera)
 - [Cards](#cards)
 - [Charts](#charts)
 - [Checkbox](#checkbox)
@@ -241,7 +240,9 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
 * [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert)
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - A Swift extension that adds toast notifications to the UIView object class.
+* [Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift) - A Swift Toast view - iOS 14 style - built with UIKit.
 * [ToastUI](https://github.com/quanshousio/ToastUI) - A simple way to show toast in SwiftUI. `SwiftUI`
+* [TrophyKit](https://github.com/xnth97/TrophyKit) - An animated trophy banner that looks like Xbox achievement.
 * [TTGSnackbar](https://github.com/zekunyan/TTGSnackbar) - TTGSnackbar shows simple message and action button on the bottom or top of the screen with multi kinds of animation.
 * [UNAlertView](https://github.com/ytakzk/UNAlertView)
 * [VKPopupView](https://github.com/vladislav-k/VKPopupView) - Lightweight and easy to use blurred popup view written in Swift. You will find it very similar to your iOS folders at Springboard (Home screen).
@@ -262,6 +263,8 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ATScrollingNumbers](https://github.com/anooptomar1/ATScrollingNumbers) - Scrolling number control with circular progress.
 * [BLEPrgressView](https://github.com/ymmtshny/BLEPrgressView) - I am making an animation view for Bluetooth connection.
 * [Bubble](https://github.com/goldmoment/Bubble)
+* [ConfettiKit](https://github.com/gokulnair2001/ConfettiKit) - ConfettiKit is a custom framework used to add Confetti on your iOS/iPadOS projects. The kit provides variety of customisations inorder to design a confetti which matches your project's UI.
+* [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - `SwiftUI`
 * [ConfettiView](https://github.com/NSHipster/ConfettiView) - A view that emits confetti.
 * [ConfettiView](https://github.com/OrRon/ConfettiView) - Confetti View lets you create a magnificent confetti view in your app.
 * [CPConfettiView](https://github.com/phuongvnc/CPConfettiView) - CPConfettiView is fun animation when user input keyword.
@@ -303,6 +306,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [PowerUpYourAnimations](https://github.com/icanzilb/PowerUpYourAnimations) - Sample code from talks on advanced animations.
 * [Pulsator](https://github.com/shu223/Pulsator) - Pulse animation for iOS.
 * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)
+* [Reading-Animation](https://github.com/Mindinventory/Reading-Animation) - Cool Reading Animation in iOS written in Swift.
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect)
 * [RimhTypingLetters](https://github.com/rimh/RimhTypingLetters) - A simple typing animation for UITextView and UILabel in Swift.
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView)
@@ -509,16 +513,19 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Swift-VIPER-Module](https://github.com/Juanpe/Swift-VIPER-Module) - Xcode template for VIPER Architecture written in Swift 3.
 
 ## Asset Picker
-*Image, Video, Color, Audio Editors or Pickers*
+*Camera, Image, Video, Color, Audio Editors or Pickers*
 
+* [AACameraView](https://github.com/EngrAhsanAli/AACameraView) - AACameraView is a lightweight, easy-to-use and customizable camera view framework written in Swift.
 * [AssetsPickerViewController](https://github.com/DragonCherry/AssetsPickerViewController) - Powerfully Customizable - Multiple Photo & Video Picker Controller.
 * [ATGMediaBrowser](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, with ability to create new transitions with ease.
 * [AGImageControls](https://github.com/agilie/AGImageControls) - cool tools for image edition.
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)
 * [AssetsPickerViewController](https://github.com/DragonCherry/AssetsPickerViewController) - Multiple Photo & Video Picker Controller by Swift.
+* [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner.
 * [BRNImagePickerSheet](https://github.com/jacklevin74/BRNImagePickerSheet/tree/master)
 * [BSImagePicker](https://github.com/mikaoj/BSImagePicker) - A multiple image picker for iOS.
 * [BSZoomGridScrollView](https://github.com/boraseoksoon/BSZoomGridScrollView) - BSZoomGridScrollView is a powerful, pure swift iOS UI framework that provides the awesome grid scrollview containing your image array that are able to zoom, tracking your touch area.
+* [CameraManager](https://github.com/imaginary-cloud/CameraManager) - Simple Swift class to provide all the configurations you need to create custom camera view in your app.
 * [Collage](https://github.com/sohamb1390/Collage) - A simple photo collage app with predefined collage frames.
 * [ConvenientImagePicker](https://github.com/CLOXnu/ConvenientImagePicker) - the new iOS image picker. Beautiful, delicate, and customizable.
 * [CSPhotoGallery](https://github.com/youkchansim/CSPhotoGallery) - This is very simple and light photo gallery.
@@ -535,20 +542,25 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [INSPhotoGallery](https://github.com/inspace-io/INSPhotoGallery) - INSPhotoGallery is a modern looking photo gallery written in Swift for iOS.
 * [iOS-swift-MSCrop](https://github.com/chetanpanchal94/iOS-swift-MSCrop) - A view which can be moved and scaled, that allows user to select the cropping area in an image.
 * [IVColorPicker](https://github.com/irilka/IVColorPicker)
+* [kanvas](https://github.com/tumblr/kanvas-ios) - Kanvas is an open-source iOS library for adding effects, drawings, text, stickers, and making GIFs from existing media or the camera.
 * [PixelSDK](https://github.com/GottaYotta/PixelSDK) - Pixel SDK is a photo and video editing framework written in Swift.
 * [PrismaSimpleImagePicker](https://github.com/Roylee-ML/PrismaSimpleImagePicker) - This is a copy of the Prisma APP. Reproduce Prisma custom camera, image picker and picture editor.
 * [QCropper](https://github.com/qchenqizhi/QCropper) - This project aims to provide an image cropping experience like iOS Photos.app.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [Mantis](https://github.com/guoyingtao/Mantis) - A photo cropping tool which mimics Photo.app.
-* [NextLevel](https://github.com/NextLevel/NextLevel) - Rad Media Capture in Swift.
+* [NextLevel](https://github.com/NextLevel/NextLevel) - NextLevel is a Swift camera system designed for easy integration, customized media capture, and image streaming in iOS. Integration can optionally leverage AVFoundation or ARKit.
 * [NKVPhonePicker](https://github.com/NikKovIos/NKVPhonePicker) - An UITextField subclass to simplify country code's picking.
 * [PhotoCropEditor](https://github.com/sprint84/PhotoCropEditor) - Framework written in Swift for Cropping Images easily.
 * [photo-editor](https://github.com/M-Hamed/photo-editor) - Photo editor with a lot of cool features.
 * [PKCCrop](https://github.com/pikachu987/PKCCrop)
 * [preview-transition](https://github.com/Ramotion/preview-transition) - PreviewTransition is a simple preview gallery controller.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift.
+* [SwiftyCam](https://github.com/Awalz/SwiftyCam) - A Snapchat Inspired iOS Camera Framework written in Swift.
+* [SwiftMustaches](https://github.com/elpassion/SwiftMustaches)
 * [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - SwiftVideoBackground is an easy to use Swift framework that provides the ability to play a video on any UIView.
+* [TGLAugmentedRealityView](https://github.com/gleue/TGLAugmentedRealityView) - Augmented Reality made easy -- place overlays on a camera preview and adjust their position depending on device attitude.
 * [TLPhotoPicker](https://github.com/tilltue/TLPhotoPicker) - Multiple phassets picker for iOS lib. like a facebook.
+* [TLStoryCamera](https://github.com/timelessg/TLStoryCamera)
 * [Videoshader](https://github.com/snakajima/videoshader) - Script-based real-time video processing technology for OpenGL/iOS
 * [YPImagePicker](https://github.com/Yummypets/YPImagePicker) - Instagram-like image picker & filters for iOS.
 
@@ -664,19 +676,6 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [WCLShineButton](https://github.com/631106979/WCLShineButton) - This is a UI lib for iOS. Effects like shining.
 * [WSVideoRecordButton](https://github.com/WebsoftProfession/WSVideoRecordButton) - This is a animatable video record button, easy to integrate Simply set the custom class to your button and use. 
 
-## Camera
-*AVFoundation and CIFaceFeature implementations*
-
-* [AACameraView](https://github.com/EngrAhsanAli/AACameraView) - AACameraView is a lightweight, easy-to-use and customizable camera view framework written in Swift..
-* [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner.
-* [CameraManager](https://github.com/imaginary-cloud/CameraManager) - Simple Swift class to provide all the configurations you need to create custom camera view in your app.
-* [GNCam](https://github.com/gonzalonunez/GNCam) - A Swift 3 library for interacting with the camera on iOS using AVFoundation.
-* [kanvas](https://github.com/tumblr/kanvas-ios) - Kanvas is an open-source iOS library for adding effects, drawings, text, stickers, and making GIFs from existing media or the camera.
-* [SwiftyCam](https://github.com/Awalz/SwiftyCam) - A Snapchat Inspired iOS Camera Framework written in Swift.
-* [SwiftMustaches](https://github.com/elpassion/SwiftMustaches)
-* [TGLAugmentedRealityView](https://github.com/gleue/TGLAugmentedRealityView) - Augmented Reality made easy -- place overlays on a camera preview and adjust their position depending on device attitude.
-* [TLStoryCamera](https://github.com/timelessg/TLStoryCamera)
-
 ## Cards
 
 * [Cards](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 appstore cards in swift 4.
@@ -701,6 +700,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [AnimatedGraph](https://github.com/AlKhokhlov/AnimatedGraph) - Animated Graph which you can include in your application to show information in more attractive way.
 * [APLineChart](https://github.com/tylyo/APLineChart)
 * [Attabench](https://github.com/lorentey/Attabench) - Microbenchmarking app for Swift with nice log-log plots.
+* [BarChart](https://github.com/romanbaitaliuk/BarChart) - Lightweight and easy to use SwiftUI chart library for all Apple platforms. `SwiftUI`
 * [BarChart](https://github.com/nhatminh12369/BarChart) - This code demonstrate a way to build your own bar chart without using any third-party library. I don't recommend you to import BasicBarChart.swift and BeautifulBarChart.swift directly into your project. However, you should modify it according to your needs.
 * [ChartLegends](https://github.com/i-schuetz/ChartLegends) - Convenient and flexible legends for all kind of charts.
 * [ChartView](http://github.com/AppPear/ChartView) - ChartView made in SwiftUI. `SwiftUI`
@@ -719,6 +719,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [PieCharts](https://github.com/i-schuetz/PieCharts) - Easy to use and highly customizable pie charts library for iOS.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)
 * [RadarChartView](https://github.com/furuyan/RadarChartView) - RadarChart for iOS.
+* [RHLinePlot](https://github.com/aunnnn/RHLinePlot) - Line plot like in Robinhood app, in SwiftUI. `SwiftUI`
 * [ROStorageBar](https://github.com/prine/ROStorageBar)
 * [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
 * [SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.
@@ -1265,6 +1266,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [BubblePictures](https://github.com/kbelter/BubblePictures) - Framework for iOS to show Bubble like pictures.
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
 * [chatheads](https://github.com/rajatgupta26/fk-ios-chatheads) - Library to use chat heads within your iOS app with complete physics and animations which drive multi user chat behaviour to support collapsed/stacked or expanded states.
+* [ChatUI](https://github.com/iamshezad/ChatUI) - A simple chat app UI in SwiftUI. `SwiftUI`
 * [FalconMessenger](https://github.com/RMizin/FalconMessenger)
 * [FBChatClone](https://github.com/VamshiIITBHU14/FBChatClone) - This project is a clone of FB Messenger. 
 * [FirebaseChat](https://github.com/sohamb1390/FirebaseChat) - A simple anonymous group chat application using Firebase.
@@ -1699,6 +1701,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [HHTabBarView](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tabbar view.
 * [JBTabBarAnimation](https://github.com/jithinpala/JBTabBarAnimation) - A custom TabBarController animation.
 * [KPSmartTabBar](https://github.com/KrishnaPatell/KPSmartTabBar) - A fully customisable and flexible tab bar controller.
+* [lightCardTabBar](https://github.com/hussc/lightCardTabBar) - An expiremental project exploring different types of custom-tabbar styles, screenshots as below.
 * [LXPageViewWithButtonsViewController](https://github.com/lxian/LXPageViewWithButtonsViewController) - Combines UIPageViewController and highly customisable page selection tabs.
 * [MHImageTabBar](https://github.com/mho000/MHImageTabBar)
 * [MightyTabBar](https://github.com/timshim/MightyTabBar) - MightyTabBar is a customizable tab bar that doubles as a menu drawer. Instead of being limited to 5 tab bar items, MightyTabBar allows your app to have many more tab bar items, all positioned within the thumb zone and easily accessible via swipe up.
@@ -1874,6 +1877,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [EGFloatingTextField](https://github.com/enisgayretli/EGFloatingTextField) - Implementation of Google's "Floating labels" of Material design.
 * [ElValidator](https://github.com/dk53/ElValidator) - A simple plugin to help you validate textfield entries.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields)
+* [FloatingPromptTextField](https://github.com/EmilioPelaez/FloatingPromptTextField) - `SwiftUI`
 * [FluidValidator](https://github.com/frograin/FluidValidator) - General purpose validation system for objects, nested objects, enumerables written in Swift.
 * [Form](https://github.com/iZettle/Form) - Form is an iOS Swift library for building and styling UIs.
 * [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating UITableView based form.
@@ -1983,6 +1987,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics Swift library with SVG support.
 * [Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection API.
 * [Money](https://github.com/danthorpe/Money) - Swift value types for working with money & currency.
+* [NetShears](https://github.com/divar-ir/NetShears) - NetShears is a Network interceptor framework written in Swift.
 * [NSData-GZIP](https://github.com/1024jp/NSData-GZIP) - NSData+GZIP.swift is an extension of NSData written in Swift 2.0. It enables compress/decompress gzip using zlib.
 * [Overdrive](https://github.com/arikis/Overdrive) - Fast async task based API in Swift with focus on type safety, concurrency and multi threading.
 * [Palette](https://github.com/galandezzz/Palette) - Color palette generation from image written in Swift.
@@ -2247,3 +2252,4 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [Comment-Spell-Checker](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto-correcting code comments.
 * [Import](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code.
 * [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers.
+* [SwiftLint-XcodePlugin](https://github.com/p-x9/SwiftLint-XcodePlugin) - SwiftLint Xcode Plugin
