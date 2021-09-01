@@ -1612,7 +1612,6 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [SHSliderSwitch](https://github.com/iamshezad/SHSliderSwitch) - SHSliderSwitch is a simple lightweight library to implement an animated slider switch.
 * [SlidableImage](http://github.com/quver/SlidableImage) - Easy to use library for before & after images. One-line initialization and very customizable API.
 * [SlideTo](https://github.com/ChristianMoler/SlideTo) - Simple slide controller is fully customizable via interface builder.
-* [SlideToUnlock](https://github.com/alemar11/SlideToUnlock) - Sample code for the FrenchKit 2019 session of the same name.
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift.
 * [SpringySlider](https://github.com/josephlord/SpringySlider) - Custom UISlider with thumb animation.
 * [SSSlider](https://github.com/ngodacdu/SSSlider) - A customisable Slider which will show a tooltip when dragging the slider.
