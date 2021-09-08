@@ -1553,7 +1553,9 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [PSFadingScrollView](https://github.com/Vugla/PSFadingScrollView) - 
 * [RMSquarePageControl](https://github.com/rupammitra/RMSquarePageControl) - A custom page control having square indicators works both vertically and horizontally.
 * [SegementSlide](https://github.com/Jiar/SegementSlide) - Multi-tier UIScrollView nested scrolling solution.
-* [ScrollingContentViewController](https://github.com/drewolbrich/ScrollingContentViewController) - ScrollingContentViewController makes it easy to create a view controller with a single scrolling content view, or to convert an existing static view controller into one that scrolls. Most importantly, it takes care of several tricky undocumented edge cases involving the keyboard, navigation controllers, and device rotations.
+* [ScrollingContentViewController](https://github.com/drewolbrich/ScrollingContentViewController) - ScrollingContentViewController makes it easy to create a view controller with a single scrolling content view, or to 
+convert an existing static view controller into one that scrolls. Most importantly, it takes care of several tricky undocumented edge cases involving the keyboard, navigation controllers, and device rotations.
+* [scrollview-reactive-header](https://github.com/swiftui-library/scrollview-reactive-header) - A replacement ScrollView that provides a header with subtle scroll animations. `SwiftUI`
 * [ZKCarousel](https://github.com/ZacharyKhan/ZKCarousel) - A simple carousel implementation written in Swift.
 
 ## Security
