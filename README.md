@@ -521,6 +521,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)
 * [AssetsPickerViewController](https://github.com/DragonCherry/AssetsPickerViewController) - Multiple Photo & Video Picker Controller by Swift.
 * [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner.
+* [Brightroom](https://github.com/muukii/Brightroom) - An image editor and engine using CoreImage.
 * [BRNImagePickerSheet](https://github.com/jacklevin74/BRNImagePickerSheet/tree/master)
 * [BSImagePicker](https://github.com/mikaoj/BSImagePicker) - A multiple image picker for iOS.
 * [BSZoomGridScrollView](https://github.com/boraseoksoon/BSZoomGridScrollView) - BSZoomGridScrollView is a powerful, pure swift iOS UI framework that provides the awesome grid scrollview containing your image array that are able to zoom, tracking your touch area.
@@ -943,7 +944,6 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [RPModalGestureTransition](https://github.com/naoyashiga/RPModalGestureTransition)
 * [PanSlip](http://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView.
 * [PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
-* [Pixel](https://github.com/muukii/Pixel) - An image editor and engine using CoreImage.
 * [ProcreateUndoGesture](https://github.com/SavageSource/ProcreateUndoGesture) - This is an example of Procreate's Undo and Redo gestures.
 * [sensor-visualizer-kit](https://github.com/joeblau/sensor-visualizer-kit) - Visualize iOS sensors for live presentations, iOS AppStore demos, Apple Store prototypes, design reviews.
 * [Sensitive](https://github.com/igormatyushkin014/Sensitive) - Fresh look at work with gestures in Swift.
@@ -1278,6 +1278,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [MessageProgressView](https://github.com/Tueno/MessageProgressView) - Simple loading animation for Swift.
 * [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement written in Swift for the iPhone X.
 * [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
+* [Messenger](https://github.com/vitaliy-paliy/Messenger) - Real-time messaging app written in Swift for iOS devices.
 * [MessengerBubbles](http://github.com/RpX974/MessengerBubbles) - Create ImageView for User or Group like Messenger app.
 * [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces on iOS.
 * [MMTextureChat](https://github.com/mukyasa/MMTextureChat) AsyncDisplayKit(Texture) Smooth Scroll Chat Simulation.
