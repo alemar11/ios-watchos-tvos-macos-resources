@@ -190,6 +190,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [HJToast](https://github.com/himanshujoshi47/HJToast) - Toast messages for iOS.
 * [HYAlertController](https://github.com/castial/HYAlertController) - A Simple And Minimalist iOS AlertController.
 * [ImagePickerTrayController](https://github.com/lbrndnr/ImagePickerTrayController) - ImagePickerTrayController is a component that replicates the custom photo action sheet in iMessage.
+* [Indicate](https://github.com/pkluz/Indicate) - Interactive notification pop-over (aka "Toast) modeled after the iOS AirPods and Apple Pencil indicator.
 * [iOSNotificationBanner](https://github.com/loconsolutions/iOSNotificationBanner)
 * [iPopUp](https://github.com/BlueWonders/iPopUp) - iPopUp uses custom view, not UIPopover or AlertView. UIView contains a tableview. The project is simple, clean and easy to implement.
 * [JHTAlertController](https://github.com/jjessel/JHTAlertController) - A custom iOS alert that replaces the stock UIAlertController. Easily style the alert to match your app. Written in Swift for iOS.
