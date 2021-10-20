@@ -1289,6 +1289,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension) - UITableView extension that enabled to insert cell from bottom of tableView.
 * [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.iOS) - Rocket.Chat Native iOS Application.
 * [swift-chat](https://github.com/firebase/ios-swift-chat-example) - FireChat implemented in Swift!.
+* [SwiftyChat](https://github.com/EnesKaraosman/SwiftyChat) - Simple Chat Interface to quick start with built-in message cells. `SwiftUI`
 * [Toolbar](https://github.com/1amageek/Toolbar) - Awesome autolayout Toolbar.
 * [Twitter_Post](https://github.com/csontosgabor/Twitter_Post) - Custom Twitter Post View Controller.
 
