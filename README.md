@@ -761,6 +761,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [CollectionLayouts](https://github.com/Oni-zerone/CollectionLayouts) - This is a UICollectionViewLayout that reproduce the Instagram Stories experience, just use StoriesCollectionViewLayout in your UICollectionView and subclass your cells from StoriesCollectionViewCell!.
 * [CollectionViewPagingLayout](https://github.com/amirdew/CollectionViewPagingLayout) - Simple layout for make paging with UICollectionView.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
+* [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) - CollectionViewSlantedLayout is a subclass of the UICollectionViewLayout allowing the display of slanted cells in a UICollectionView.
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - Reimagining UICollectionView.
 * [Compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit) - A set of advanced compositional layouts for UICollectionView with examples.
 * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts.
@@ -1029,6 +1030,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [SuggestionsKit](https://github.com/huemae/SuggestionsKit) - SuggestionsKit is a framework for iOS that was created in order to provide developers with the opportunity to educate users on various features of applications.
 * [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps, powered by Swift.
 * [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) - A swifty iOS framework that allows developers to create beautiful onboarding experiences.
+* [SwiftUI-OnBoarding-Screen-Animation](https://github.com/dnstylish/SwiftUI-OnBoarding-Screen-Animation)
 * [tween-controller](https://github.com/daltonclaybrook/tween-controller) - A toolkit for creating interactive menus and tutorials in Swift.
 * [TwitterBirdAnimation](https://github.com/rounak/TwitterBirdAnimation/) - Twitter bird animation
 * [TZConfettiIntro](https://github.com/tahseen0amin/TZConfettiIntro)
@@ -1887,6 +1889,7 @@ convert an existing static view controller into one that scrolls. Most important
 * [formvalidator-swift](https://github.com/ustwo/formvalidator-swift) - A framework to validate inputs of text fields and text views in a convenient way.
 * [KAPinField](https://github.com/kirualex/KAPinField) - Lightweight Pin Code Field library for iOS, written in Swift.
 * [ImageTextField](https://github.com/Sahilberi/ImageTextField) - A Designable Textfield For adding textfield leftview and rightview images in storyboard for swift 3.0.
+* [iPhoneNumberField](https://github.com/MojtabaHs/iPhoneNumberField) - Format phone numbers as they're typed—entirely in SwiftUI. `SwiftUI`
 * [LTBouncyPlaceholder](https://github.com/lexrus/LTBouncyPlaceholder)
 * [MMText](http://github.com/MillmanY/MMText) - Text Edit with error and title string.
 * [MPGTextField](https://github.com/gaurvw/MPGTextField) - An autocomplete textfield for iOS which provides suggestions as you type.
