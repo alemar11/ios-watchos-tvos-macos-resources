@@ -389,6 +389,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [MiniMusicWidget](https://github.com/Zandew/MiniMusicWidget) - 
 A Spotify music player and temporary playlist builder. Uses Spotify Web API to search for songs and AppleScript to send commands to the Spotify App. `macOS`
 * [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - MovieSwiftUI is an application that uses the MovieDB API and is built with SwiftUI. It demos some SwiftUI (& Combine) concepts. `SwiftUI`
+* [MultiScreenApp](https://github.com/vedantapps/MultiScreenApp) - An app that uses Multipeer Connectivity to play a video across 6 different iOS screens with an additional phone acting as a Main/Control phone.
 * [NewsApp](https://github.com/PowerMobileWeb/NewsApp)
 * [NineAnimator](https://github.com/SuperMarcus/NineAnimator) - A simple yet elegant way of waching anime on your favorite anime websites.
 * [NKWatchActivityIndicator](https://github.com/NilStack/NKWatchActivityIndicator) - An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2. ⌚️
