@@ -275,6 +275,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Ease](https://github.com/roberthein/Ease) - Animate everything with Ease.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A UIKit custom transition that simulates an elastic drag.
+* [Equinox](https://github.com/rlxone/Equinox) - Equinox is an application that allows you to create macOS native wallpapers.
 * [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - A collection of iOS animation repos.
 * [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - Natural Blocks Based Core Animation Framework.
 * [FlipTheBlinds](https://github.com/joelconnects/FlipTheBlinds) - FlipTheBlinds is an animation transition that creates a venetian blinds domino effect.
@@ -1673,6 +1674,7 @@ convert an existing static view controller into one that scrolls. Most important
 - [SwiftUI-by-Examples](https://github.com/artemnovichkov/SwiftUI-by-Examples) - Examples of new SwiftUI framework.
 - [SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect allows you to get the underlying UIKit or AppKit element of a SwiftUI view.
 - [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
+- [TelegramRedesign](https://github.com/rphlfc/TelegramRedesign)
 
 ## Switch Control
 
