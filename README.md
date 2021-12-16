@@ -715,7 +715,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [HeartRate](https://github.com/liamscofield/HeartRate) - Chart for Decibel.
 * [HSStockChart](https://github.com/zyphs21/HSStockChart) - Stock Chart include CandleStickChart,TimeLineChart.
 * [ILG](https://github.com/joeynelson42/ILG)
-* [ios-charts](https://github.com/danielgindi/ios-charts) - Beautiful charts for iOS/tvOS/OSX.
+* [ios-charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX.
 * [LineChart](https://github.com/nhatminh12369/LineChart)
 * [mobile-analytics-chart-swift](https://github.com/yoomoney-tech/mobile-analytics-chart-swift)
 * [OMScrollableChart](https://github.com/jaouahbi/OMScrollableChart) - An adaptive scrollable chart for iOS to visualise simple discrete datasets.
