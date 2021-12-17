@@ -1298,12 +1298,12 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Twitter_Post](https://github.com/csontosgabor/Twitter_Post) - Custom Twitter Post View Controller.
 
 ## Metal
-
 * [fireworks](https://github.com/kjpgit/fireworks) - Fireworks Graphics Demo (OSX/Metal/Swift). `macOS`
 * [MaLiang](https://github.com/Harley-xk/MaLiang) - MaLiang is a painting framework based on Metal.
 * [Metal2DScrollable](https://github.com/codelynx/Metal2DScrollable)
 * [Metalbrot](https://github.com/jtbandes/Metalbrot.playground) - An interactive playground showing how to use Metal compute kernels.
 * [MetalFilters](https://github.com/alexiscn/MetalFilters) - Instagram filters implemented in Metal.
+* [Metal City](https://github.com/AndyQ/MetalCity) - MetalCity is night city scape full procedurally generated, for both iOS and macOS.
 * [MetalPinch](https://github.com/TylerWhiteDesign/MetalPinch) - A demo on how to use UIGestureRecognizers to pan and zoom in Metal.
 * [MetalScope](https://github.com/ejeinc/MetalScope) - Metal-backed 360° panorama view for iOS.
 * [ShaderMania](https://github.com/markusmoenig/ShaderMania) - Create, edit, share and learn about Metal shaders on macOS and iOS.
