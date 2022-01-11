@@ -13,6 +13,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - All of the resources for Learning About Swift.
 - [Cocoanetics Swift-Examples](https://github.com/Cocoanetics/Swift-Examples)
 - [Collaborative List of Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [Example iOS Apps](https://github.com/hideiwai/test2) - A curated list of Open Source example iOS apps developed in Swift. 
 - [iOS architecture](https://github.com/onmyway133/fantastic-ios-architecture) -  Better ways to structure apps.
 - [iOS Cookies: A hand curated collection of iOS libraries written in Swift](http://www.ioscookies.com)
 - [List of awesome snippets, plugins, and extras for Xcode](https://github.com/jeffreyjackson/awesome-xcode) 
@@ -495,6 +496,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Pulse](https://github.com/kean/Pulse) - Pulse is a powerful logging system. `macOS` `SwiftUI`
 * [redditweaks](https://github.com/bermudalocket/redditweaks) - A Safari App Extension that makes Reddit suck just a little bit less on Safari 13+. `macOS` `SwiftUI`
 * [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar app to view and interact with reminders. `macOS`
+* [Roar](https://github.com/tylerhall/roar) - Let's reskin Notification Center.
 * [Screenotate](https://github.com/osnr/Screenotate) - Automatically annotate your screenshots. `macOS`
 * [Spaceman](https://github.com/Jaysce/Spaceman) - Spaceman is an application for macOS that allows you to view your Spaces / Virtual Desktops in the menu bar.
 * [StackOv](https://github.com/surfstudio/StackOv) -  StackOverflow reader. `macOS` `SwiftUI`
@@ -529,6 +531,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [BSImagePicker](https://github.com/mikaoj/BSImagePicker) - A multiple image picker for iOS.
 * [BSZoomGridScrollView](https://github.com/boraseoksoon/BSZoomGridScrollView) - BSZoomGridScrollView is a powerful, pure swift iOS UI framework that provides the awesome grid scrollview containing your image array that are able to zoom, tracking your touch area.
 * [CameraManager](https://github.com/imaginary-cloud/CameraManager) - Simple Swift class to provide all the configurations you need to create custom camera view in your app.
+* [CameraEngine](https://github.com/Winlentia/CameraEngine) - CameraEngine is an iOS camera engine library that allows easy integration of special capture features and camera customization in your iOS app.
 * [Collage](https://github.com/sohamb1390/Collage) - A simple photo collage app with predefined collage frames.
 * [ConvenientImagePicker](https://github.com/CLOXnu/ConvenientImagePicker) - the new iOS image picker. Beautiful, delicate, and customizable.
 * [CSPhotoGallery](https://github.com/youkchansim/CSPhotoGallery) - This is very simple and light photo gallery.
@@ -1378,6 +1381,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [BottomSheet](http://github.com/finn-no/BottomSheet) - BottomSheet is an implementation of custom modal presentation style for thumb-friendly interactive views anchored to the bottom of the screen.
 * [BottomSheet](https://github.com/LucasMucGH/BottomSheet) - A sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI. `SwiftUI`
 * [BottomSheetController](https://github.com/naru-jpn/BottomSheetController) - UIKit component containing supplementary content that are anchored to the bottom of the screen.
+* [BottomSheetDemo](https://github.com/MFiOSDemos/BottomSheetDemo) 
 * [ContainerController](https://github.com/mrustaa/ContainerController)
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition.
 * [drawer-view](https://github.com/jVirus/drawer-view) - Drawer View is a custom UI component replication of Apple's Apple Music player and Shortcuts components view.
