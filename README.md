@@ -764,6 +764,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool custom transition between two or more UICollectionViewControllers.
 * [circular-carousel](http://github.com/Ramotion/circular-carousel) - List a collection of items in a horizontally scrolling view.
 * [CollectionViewCustom](https://github.com/damienromito/CollectionViewCustom) - Custom CollectionViewLayout with a custom paging size by overriding scrollViewWillEndDragging.
+* [CollectionViewSegmentedControl](https://github.com/JamesSedlacek/CollectionViewSegmentedControl)
 * [CollectionLayouts](https://github.com/Oni-zerone/CollectionLayouts) - This is a UICollectionViewLayout that reproduce the Instagram Stories experience, just use StoriesCollectionViewLayout in your UICollectionView and subclass your cells from StoriesCollectionViewCell!.
 * [CollectionViewPagingLayout](https://github.com/amirdew/CollectionViewPagingLayout) - Simple layout for make paging with UICollectionView.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
@@ -1760,6 +1761,7 @@ convert an existing static view controller into one that scrolls. Most important
 * [FileCards](https://github.com/etrep/FileCards_Swift) - A complete and modern OS X 10.10 Swift rewrite of Apple's FileCards example. `macOS`
 * [files-ios](https://github.com/steventroughtonsmith/files-ios) - File Browser for iOS.
 * [GLTableCollectionView](https://github.com/giulio92/GLTableCollectionView) - Netflix and App Store like UITableView with UICollectionView, written in pure Swift 3.0.
+* [GrouponHeader](https://github.com/JamesSedlacek/GrouponHeader) -  iOS TableView Header Animation. 
 * [HoverConversion](https://github.com/marty-suzuki/HoverConversion) - HoverConversion realized vertical paging with UITableView. UIViewController will be paged when reaching top or bottom of UITableView contentOffset.
 * [iOS-MultiSelectionTable](https://github.com/nunogoncalves/iOS-MultiSelectionTable) - Beautiful way of having a multi-selection table on iOS written in Swift.
 * [ios-swift-collapsible-table-section](https://github.com/jeantimex/ios-swift-collapsible-table-section) - A simple iOS swift project demonstrates how to implement collapsible table section.
