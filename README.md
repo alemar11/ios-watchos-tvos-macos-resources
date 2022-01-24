@@ -214,7 +214,6 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Notification-AlertView](https://github.com/alexey-kubas-appus/Notification-AlertView)
 * [Panelkit](https://github.com/louisdh/panelkit) - A UI framework that enables panels on iOS.
 * [PathDynamicModal](https://github.com/ra1028/PathDynamicModal)
-* [PermissionScope](https://github.com/nickoneill/PermissionScope)
 * [PMAlertController](https://github.com/Codeido/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
 * [PokeModal](https://github.com/lborgav/PokeModal) - Simple Modal View inspired Pokémon GO written in Swift.
 * [PokerCard](https://github.com/iWeslie/PokerCard) - A new generation of Alert View with fluid design.
@@ -1444,6 +1443,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [PermissionWizard](https://github.com/debug45/PermissionWizard) - It is an ultimate tool for system permissions management.
 * [RequestPermission](https://github.com/IvanVorobei/RequestPermission) - simple permission request with beautiful UI.
 * [Send-App-Usage-Permissio](https://github.com/snake302/Send-App-Usage-Permission) - App Usage Permission Alert to comply with the new App Store Guidelines.
+* [SPPermissions](https://github.com/ivanvorobei/SPPermissions)
 
 ## Persistance
 *CoreData, SQLite, NSUserDefaults, Caching*
