@@ -818,6 +818,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [swipeable-view-stack](https://github.com/phillfarrugia/swipeable-view-stack) - A Swipeable Stack of Views similar to a popular dating app but for swiping through anything.
 * [TabbedCollectionView](https://github.com/sprint84/TabbedCollectionView) - Multi-page collection view with tab categories.
 * [ugrid](https://github.com/AramSemerjyan/ugrid)
+* [UICollectionViewAnimatedTransition](https://github.com/spromicky/UICollectionViewAnimatedTransition) - Implementation for some kind of "folder to content" animation for UICollectionView.
 * [UICollectionViewSlideLeft](https://github.com/antbelldev/UICollectionViewSlideLeft) - A UITableView Swipe to Delete implementation in UICollectionView.
 * [UPCarouselFlowLayout](https://github.com/ink-spot/UPCarouselFlowLayout) - A fancy carousel flow layout for UICollectionView on iOS.
 * [ZLBalancedFlowLayout](https://github.com/zhxnlai/ZLBalancedFlowLayout) - A UICollectionViewFlowLayout subclass that scales items to take up space, optimized for large item set.
@@ -826,6 +827,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 
 ## CollectionViewCell
 
+* [CellAnimation](https://github.com/martinslapinskis/CellAnimation)
 * [CheckmarkCollectionViewCell](https://github.com/yonat/CheckmarkCollectionViewCell) - UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app "Select" mode.
 * [SwipeCollectionViewCell](https://github.com/anishparajuli555/SwipeCollectionViewCell) - This project illustrates how to implement swipe to delete functionality in UICollectionViewCell.
 
@@ -1802,6 +1804,7 @@ convert an existing static view controller into one that scrolls. Most important
 * [PickerController](https://github.com/xiongxiong/PickerController) - Easy to use UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 * [RHPreviewCell](https://github.com/robertherdzik/RHPreviewCell) - Use long press on cell to trigger action I envied so much Spotify iOS app this great playlist preview cell, I decided to create my own ones. Now you can give your users ability to quick check "what content is hidden under your UITableViewCell". Great think is that this Library not requires 3D Touch support from user device.
 * [SBGestureTableView](https://github.com/Stickbuilt/SBGestureTableView) - Swift UITableView subclass that supports swiping rows ala Mailbox and long press to move rows.
+* [Swift-CellAnimation](https://github.com/Mononster/Swift-CellAnimation) - Inspired by Facebook UITableview cell animation, which is the "see more" button on the cell that could dynamically change the cell height with animation.
 * [SwipeAndSnapCell](https://github.com/iandundas/SwipeAndSnapCell) - Cell which immitates iOS10's Mail.app cell swiping behavior.
 * [SwipeCellKit](https://github.com/jerkoch/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app, implemented in Swift.
 * [SwipyCell](https://github.com/moritzsternemann/SwipyCell) - Easy to use UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
