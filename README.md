@@ -777,6 +777,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) - CollectionViewSlantedLayout is a subclass of the UICollectionViewLayout allowing the display of slanted cells in a UICollectionView.
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - Reimagining UICollectionView.
 * [Compositional-layouts-kit](https://github.com/jVirus/compositional-layouts-kit) - A set of advanced compositional layouts for UICollectionView with examples.
+* [CPCollectionViewKit](https://github.com/ParsifalC/CPCollectionViewKit) - CollectionViewTransitionLayout.
 * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts.
 * [DragDropCollection](https://github.com/runrunrun/DragDropCollection) - Custom UICollectionView allowing cells to be dragged and dropped.
 * [Elliotable](https://github.com/della-padula/Elliotable) - Elliotable is simple library to generate Timetable of University.
@@ -913,6 +914,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 # Design
 
 * [Design_to_code](https://github.com/dheerajghub/Design_to_code) - This is a series of design that i randomly took from various instagram, facebook pages and try to convert thoes designs into code hope it helps you.
+* [InstagramRedesignConcept](https://github.com/rphlfc/InstagramRedesignConcept)
 
 # Dock
 
