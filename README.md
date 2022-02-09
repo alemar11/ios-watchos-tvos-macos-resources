@@ -383,7 +383,6 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [ladybug](https://github.com/ethanhuang13/ladybug) - Handle rdar:// links gracefully.
 * [Llitgi](https://github.com/xmollv/Llitgi) - A simple & lightweight Pocket client for iOS.
 * [lockdown-ios](https://github.com/confirmedcode/lockdown-ios) - Lockdown is an Open Source and free firewall for your iOS device.
-* [kickstarter](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 * [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) - JBWatchActivityIndicator - An easy way to generate activity indicator images for Apple Watch. ⌚️
 * [kickstarter App](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
