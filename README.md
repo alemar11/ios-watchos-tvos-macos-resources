@@ -1668,6 +1668,7 @@ convert an existing static view controller into one that scrolls. Most important
 ## Sprite
 
 * [AJParticlesLoadingView](https://github.com/arpitjain03/AJParticlesLoadingView) - A completely customizable loading particles animation on a view using SpriteKit.
+* [AngryBirdClone](https://github.com/hamitseyrek/AngryBirdClone) 
 * [Magnetic](https://github.com/efremidze/Magnetic) - Magnetic is a customizable bubble picker like the Apple Music genre selection.
 * [Orbit7](https://github.com/Mav3r1ck/Orbit7) - Open Source iOS Game created in SpriteKit with Swift.
 * [SKTiled](https://github.com/mfessenden/SKTiled) - Swift framework for working with Tiled assets in SpriteKit.
