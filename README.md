@@ -2231,6 +2231,7 @@ convert an existing static view controller into one that scrolls. Most important
 * [EasyTransitions](https://github.com/marcosgriselli/EasyTransitions) - A simple way to create custom interactive UIViewController transitions.
 * [Elastic](https://github.com/lkzhao/Elastic) - Fancy elastic transition powered by Metal, UIKit Dynamics, & Hero.
 * [ExpandingViewTransition](https://github.com/tomkowz/ExpandingViewTransition-Demo) - Example of how to create custom view controllers transition.
+* [FluidInterfaceKit](https://github.com/muukii/FluidInterfaceKit) - FluidInterfaceKit provides the advanced infrastructure for your iPhone apps.
 * [Hero](https://github.com/lkzhao/Hero) - Supercharged transition engine for iOS.
 * [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images written in Swift.
 * [inbox-replica](https://github.com/RabbitMC/inbox-replica) - Recreated the expanding cells effect from `Inbox` by Google in Swift.
