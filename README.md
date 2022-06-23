@@ -348,7 +348,8 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [Celestial](https://github.com/eonist/Celestial) - A delightful weather app.
 * [Charter](https://github.com/matthewpalmer/Charter) - A Swift mailing list client for iPhone and iPad.
 * [Cherry](https://github.com/kenshin03/Cherry) - Mini Pomodoro Timer app designed for the  Watch. Written in Swift. ⌚️
-* [Clendar](https://github.com/vinhnx/Clendar) -  Calendar app. `SwiftUI`
+* [Clendar](https://github.com/vinhnx/Clendar) - Calendar app. `SwiftUI`
+* [Code Edit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit is a code editor built by the community, for the community, written entirely and unapologetically for macOS.
 * [Coderpursue](https://github.com/wenghengcong/Coderpursue) - Github client for iOS in Swift.
 * [compass](https://github.com/zntfdr/Compass/tree/master/compass)
 * [ConvertCurrency](https://github.com/gkye/ConvertCurrency) - An iOS app for converting currencies written in Swift3.
