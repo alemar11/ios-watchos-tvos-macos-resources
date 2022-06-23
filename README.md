@@ -497,6 +497,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [pareto-mac](https://github.com/ParetoSecurity/pareto-mac) - Security checklist app for your Mac.
 * [Pasty](https://github.com/Rawnly/Pasty) - Live clipboard viewer.
 * [PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - Archive all incoming documents digitally to access and search them in an easier way. Transfer the sorted documents to your smartphone or make a backup within seconds. `macOS`
+* [pet-therapy](https://github.com/curzel-it/pet-therapy) - It's just a cute little animal that lives in your computer.  `macOS` `SwiftUI`
 * [producthunt-osx](https://github.com/producthunt/producthunt-osx) - The best new products, every day on Mac. `macOS`
 * [Pulse](https://github.com/kean/Pulse) - Pulse is a powerful logging system. `macOS` `SwiftUI`
 * [redditweaks](https://github.com/bermudalocket/redditweaks) - A Safari App Extension that makes Reddit suck just a little bit less on Safari 13+. `macOS` `SwiftUI`
