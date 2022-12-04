@@ -37,6 +37,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [App macOS](#app-macos)
 - [Architecture](#architecture) 
 - [Asset Picker](#asset-picker)
+- [Async](#async)
 - [Audio](#audio)
 - [Augmented Reality](#augmented-reality)
 - [Badge](#badge)
@@ -241,6 +242,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 * [SwiftyPickerPopover](https://github.com/hsylife/SwiftyPickerPopover) - Popover with Picker by Swift 3/2.3 for iPhone/iPad, iOS9+.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
 * [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert)
+* [Toast](https://github.com/Hengyu/Toast) - A Swift Toast view - iOS 14 style - built with UIKit.
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - A Swift extension that adds toast notifications to the UIView object class.
 * [Toast-Swift](https://github.com/BastiaanJansen/Toast-Swift) - A Swift Toast view - iOS 14 style - built with UIKit.
 * [ToastUI](https://github.com/quanshousio/ToastUI) - A simple way to show toast in SwiftUI. `SwiftUI`
@@ -551,6 +553,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature with a few line of code in Swift.
 * [ImageCropper](https://github.com/nkopilovskii/ImageCropper) - Module for implementing the process of cropping images.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works.
+* [ImagePickerCropView_App](https://github.com/Murad9288/ImagePickerCropView_App)
 * [ImageViewer.swift](https://github.com/michaelhenry/ImageViewer.swift) - An easy to use Image Viewer that is inspired by Facebook.
 * [INSPhotoGallery](https://github.com/inspace-io/INSPhotoGallery) - INSPhotoGallery is a modern looking photo gallery written in Swift for iOS.
 * [iOS-swift-MSCrop](https://github.com/chetanpanchal94/iOS-swift-MSCrop) - A view which can be moved and scaled, that allows user to select the cropping area in an image.
@@ -576,6 +579,14 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [TLStoryCamera](https://github.com/timelessg/TLStoryCamera)
 * [Videoshader](https://github.com/snakajima/videoshader) - Script-based real-time video processing technology for OpenGL/iOS
 * [YPImagePicker](https://github.com/Yummypets/YPImagePicker) - Instagram-like image picker & filters for iOS.
+
+## Async
+
+* [AsyncConcurrentQueue](https://github.com/mredig/AsyncConcurrentQueue) - A FIFO queuing system leveraging Swift's async/await structured concurrency. Also includes FutureTask which allows you to arbitrairily delay/start a task.
+* [ConcurrencyPlus](https://github.com/ChimeHQ/ConcurrencyPlus) - Utilities for working with Swift Concurrency.
+* [MainThreadPropertyAccessor](https://github.com/theisegeberg/MainThreadPropertyAccessor) - Syntactic sugar for setting properties on an ObservableObject on the main thread from within a Task.
+* [swift-async-queue](https://github.com/dfed/swift-async-queue) - A queue that enables sending FIFO-ordered tasks from synchronous to asynchronous contexts.
+* [TaskMeeting](https://gist.github.com/NikolaiRuhe/c98005245d7b6e25328752cf0680675c) -  A type that synchronizes progress of two tasks.
 
 ## Audio
 
@@ -1153,8 +1164,9 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Loader](https://github.com/samhann/Loader.swift) - This library allows you to easily add an FB style animated loading placeholder to your tableviews or collection views.
 * [MAActivityIndicator](https://github.com/micazeve/MAActivityIndicator)
 * [MaterialLoadingIndicator](https://github.com/Tueno/MaterialLoadingIndicator) - Material like loading indicator sample for iOS.
+* [MediumProgressView](https://github.com/pixyzehn/MediumProgressView) - `SwiftUI`
 * [MFLFillableTextLoader](https://github.com/MattFoley/MFLFillableTextLoader) - Loading slash progress indicator based on filling stroked text.
-* [MediumProgressView](https://github.com/pixyzehn/MediumProgressView)
+* [MilestoneProgressView](https://github.com/pratikg29/MilestoneProgressView) - 
 * [MKMagneticProgress](https://github.com/malkouz/MKMagneticProgress) - A circular progress bar for iOS written in Swift.
 * [MOOverWatchLoadingView](https://github.com/minsOne/MOOverWatchLoadingView) - Animation like OverWatch Loading written in Swift.
 * [navigationLoader](https://github.com/nickypatson/navigationLoader) - Simple Navigation Loader.
@@ -1186,6 +1198,7 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [Duration](https://github.com/SwiftStudies/Duration) - A simple Swift package for measuring and reporting the time taken for operations.
 * [Evergreen](https://github.com/viWiD/Evergreen) - Most natural Swift logging.
 * [JustLog](https://github.com/justeat/JustLog) - JustLog brings logging on iOS to the next level. It supports console, file and remote Logstash logging via TCP socket with no effort. Support for logz.io available.
+* [Landmarks-with-Logging](https://github.com/greimers/Landmarks-with-Logging)
 * [Lighty](https://github.com/abdullahselek/Lighty) - Easy to use and lightweight logger in Swift.
 * [logkit](https://github.com/logkit/logkit) - An efficient logging library for OS X, iOS, watchOS, and tvOS – written in Swift. Log to console, file, HTTP service, or your own endpoint. Simple to get started, but smartly customizable.
 * [printer](https://github.com/hemangshah/printer) - Want to print logs in a fancy way? Here's the Swift 3.x supported logger for you.
@@ -2246,6 +2259,7 @@ convert an existing static view controller into one that scrolls. Most important
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition)
 * [Kaeru](https://github.com/bannzai/Kaeru) - Kaeru can switch ViewController in NavigationController like iOS task manager UI (after iOS 9).
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
+* [PerfectContributionsView](https://github.com/jjunhaa0211/PerfectContributionsView)
 * [Presentr](https://github.com/IcaliaLabs/Presentr) - Wrapper for custom ViewController presentations in iOS 8+.
 * [preview-transition](https://github.com/Ramotion/preview-transition) - PreviewTransition is a simple preview gallery controller.
 * [PullToDismiss](https://github.com/sgr-ksmt/PullToDismiss) - Dismiss ViewController by pulling scroll view or navigation bar in Swift.
