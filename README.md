@@ -43,6 +43,7 @@ Updated list of Swift frameworks and libraries for iOS, WatchOS, tvOS and macOS.
 - [Badge](#badge)
 - [Beacon](#beacon)
 - [Button](#button)
+- [Button (SwiftUI)](#button-swiftui)
 - [Cards](#cards)
 - [Charts](#charts)
 - [Checkbox](#checkbox)
@@ -647,7 +648,6 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [ButtonSelectionAnimation](https://github.com/tungfam/ButtonSelectionAnimation) - UIButton subclass which performs animation on selection.
 * [ButtonProgressBar-iO](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible (well documented) UIButton subclass with animated loading progress, and completion animation.
 * [ButtonStyleKit](https://github.com/keygx/ButtonStyleKit) - ButtonStyleKit is helper library for UIButton custom styles.
-* [CMLoadingButton](https://github.com/Changemin/CMLoadingButton) `SwiftUI`
 * [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Send Bu#tton for iOS.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 * [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton)
@@ -667,7 +667,6 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [KSFacebookButton](https://github.com/LeeKahSeng/KSFacebookButton) - Customizable button which look exactly the same as FBSDKLoginButton.
 * [LGButton](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)
-* [LoadingButton](https://github.com/Changemin/LoadingButton) - Simple Loading Animation Button for SwiftUI. `SwiftUI`
 * [loading-buttons-ios](https://github.com/twho/loading-buttons-ios) - A collection of loading buttons and their stylings written in Swift.
 * [LoadingButton](https://github.com/SeptiyanAndika/LoadingButton) - UIButton subclass with an activity indicator and loading text.
 * [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
@@ -675,13 +674,12 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - Ring progress view similar to Activity app on Apple Watch.
 * [MMLoadingButton](https://github.com/MillmanY/MMLoadingButton) - Custom Loading Button With Animation.
 * [Newly](https://github.com/dhirajjadhao/Newly) - Newly is a drop in solution to add Twitter/Facebook/Linkedin style, new updates/tweets/posts available button. It can be used to notify user about new content availability and can other actions can be triggers using its delegate method.
-* [neumorphic-style](https://github.com/hallee/neumorphic-style) - Simple SwiftUI ‘neumorphic’ button style. `SwiftUI`
 * [NFFlatButton](https://github.com/norfred/NFFlatButton) - Custom flat button 'à la Letterpress' written in Swift.
 * [NKButton](https://github.com/kennic/NKButton) - A fully customizable UIButton.
 * [NPFlipButton](https://github.com/neopixl/NPFlipButton)
 * [OnOffButton](https://github.com/rakaramos/OnOffButton) - Custom On/Off Animated UIButton, written in Swift.
 * [PlayPauseAnimation](https://github.com/kNeerajPro/PlayPauseAnimation)
-* [PulseAnimation](https://github.com/paritoshraval100/PulseAnimation) - Pulse Button Animation with SwiftUI. `SwiftUI`
+
 * [QuickRippleButton](https://github.com/ansonyao/QuickRippleButton) - Custom UIButton which has ripple animation effect when clicked.
 * [RadioGroup](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
 * [Reactions](https://github.com/yannickl/Reactions) - Fully customizable Facebook reactions control.
@@ -699,6 +697,14 @@ A Spotify music player and temporary playlist builder. Uses Spotify Web API to s
 * [vkexpandablebutton](https://github.com/vladislav-k/VKExpandableButton) - Easy to use expandable button in Swift.
 * [WCLShineButton](https://github.com/631106979/WCLShineButton) - This is a UI lib for iOS. Effects like shining.
 * [WSVideoRecordButton](https://github.com/WebsoftProfession/WSVideoRecordButton) - This is a animatable video record button, easy to integrate Simply set the custom class to your button and use. 
+
+## Button SwiftUI
+
+* [Animatable](https://github.com/c-villain/Animatable) - Yet another animation modifiers for buttons on pure SwiftUI. `SwiftUI`
+* [CMLoadingButton](https://github.com/Changemin/CMLoadingButton) - Simple Loading Animation Button for SwiftUI. `SwiftUI`
+* [LoadingButton](https://github.com/Changemin/LoadingButton) - Simple Loading Animation Button for SwiftUI. `SwiftUI`
+* [neumorphic-style](https://github.com/hallee/neumorphic-style) - Simple SwiftUI ‘neumorphic’ button style. `SwiftUI`
+* [PulseAnimation](https://github.com/paritoshraval100/PulseAnimation) - Pulse Button Animation with SwiftUI. `SwiftUI`
 
 ## Cards
 
@@ -1593,6 +1599,7 @@ VerticalSlidingPresentationController is a custom view controller presentation l
 * [FlexibleHeader](https://github.com/k-lpmg/FlexibleHeader) - A container view that responds to scrolling of UIScrollView.
 * [Image-Carousel](https://github.com/robertrr61/Image-Carousel) - Add an array of images to a view and scroll them.
 * [Infinite-Grid-Swift](https://github.com/freshcode/Infinite-Grid-Swift) - Implementing an infinite grid using UIScrollview on iOS.
+* [InfiniteScrollListSwiftUI](https://github.com/itsMeSib/InfiniteScrollListSwiftUI) - This is an Infinite Scroll List implemented in SwiftUI with a feature to add items to favorites. `SwiftUI`
 * [LoopedContentsView](https://github.com/naru-jpn/LoopedContentsView) - View to display looped contents.
 * [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) - Simple parallax header for UIScrollView.
 * [ParallaxCarousel](https://github.com/taglia3/ParallaxCarousel) - A lightweight 3D Linear Carousel with parallax effect.
@@ -2124,6 +2131,7 @@ convert an existing static view controller into one that scrolls. Most important
 
 * [AbstractView](https://github.com/nuudles/AbstractView) - A simple UIView subclass that you can use as a background view.
 * [AHKBendableView](https://github.com/fastred/AHKBendableView) - UIView subclass that bends its edges when its position change is animated
+* [Animated-Voice-Blob](https://github.com/constzz/Animated-Voice-Blob) - Animated Voice Blob made like in Telegram mobile app.
 * [Avatar](https://github.com/wvabrinskas/Avatar) - Generate random user Avatars for apps.
 * [AvatarImageView](https://github.com/ayushn21/AvatarImageView) - AvatarImageView is a UIImageView subclass designed to show a user's profile picture, falling back to their initials when a picture is unavailable.
 * [AvatarView](https://github.com/chrene/AvatarView/)
@@ -2201,6 +2209,7 @@ convert an existing static view controller into one that scrolls. Most important
 * [DropPin](https://github.com/dchakarov/DropPin)
 * [PartitionKit](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content. `SwiftUI`
 * [PlayIndicator](http://github.com/docterd/PlayIndicator) - Animated PlayIndicator written in SwiftUI. Inspired by Apple's Music Player. `SwiftUI`
+* [MacControlCenterUI](https://github.com/orchetect/MacControlCenterUI) - A suite of SwiftUI views that mimic the look and feel of controls used in macOS Control Center (introduced in Big Sur). `macOS` `SwiftUI`
 * [shiny](https://github.com/maustinstar/shiny) - Add motion-based texture to your SwiftUI views. `SwiftUI`
 * [Stripes](https://github.com/eneko/Stripes) - Beautiful background pattern views for SwiftUI. `SwiftUI`
 * [swiftui-drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize. `SwiftUI`
