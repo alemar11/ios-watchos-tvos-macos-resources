@@ -4,3 +4,4 @@
 ._*
 Thumbs.db
 .cache
+__pycache__/
